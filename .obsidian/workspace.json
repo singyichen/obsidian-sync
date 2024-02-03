@@ -23,18 +23,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e33d43cb7fe2d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Framework/backend/Comparison.md",
                 "mode": "source",
                 "source": false
@@ -42,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,14 +175,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e33d43cb7fe2d8a",
+  "active": "930ad89514efe67d",
   "lastOpenFiles": [
+    "README.md",
+    "[.md",
+    "Framework/backend/Comparison.md",
     "Excalidraw/node web framework.md",
     "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md",
-    "Framework/backend/Comparison.md",
     "Framework/frontend",
     "Framework/backend",
-    "README.md",
     "test/hello world.md",
     "Excalidraw/Drawing 2024-02-03 22.12.43.excalidraw.md",
     "Pasted Image 20240203214345_635.png",
