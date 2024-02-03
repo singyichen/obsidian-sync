@@ -6,17 +6,15 @@
       {
         "id": "e470d433a7bdeb27",
         "type": "tabs",
-        "dimension": 66.61354581673307,
+        "dimension": 84.06374501992032,
         "children": [
           {
             "id": "823226c2d42ed817",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "test/Comparison.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
               }
             }
           },
@@ -49,7 +47,7 @@
       {
         "id": "29406b7ec77fd151",
         "type": "tabs",
-        "dimension": 33.386454183266935,
+        "dimension": 15.936254980079681,
         "children": [
           {
             "id": "35f34fd3197b26c4",
@@ -113,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 277.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/Comparison.md",
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/Comparison.md",
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/Comparison.md"
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
               }
             }
           },
@@ -208,10 +206,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35f34fd3197b26c4",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
-    "test/hello world.md",
     "test/Comparison.md",
+    "test/hello world.md",
     "README.md",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
     "Pasted Image 20240203214345_635.png",
