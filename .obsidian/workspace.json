@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "Excalidraw/node web framework.md"
               }
             }
           },
@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "Excalidraw/node web framework.md"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+                "file": "Excalidraw/node web framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+                "file": "Excalidraw/node web framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "Excalidraw/node web framework.md"
               }
             }
           },
@@ -185,11 +185,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e33d43cb7fe2d8a",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
     "Framework/backend/Comparison.md",
     "Framework/frontend",
-    "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+    "Excalidraw/node web framework.md",
     "Framework/backend",
     "README.md",
     "test/hello world.md",
