@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "8e33d43cb7fe2d8a",
   "lastOpenFiles": [
     "Framework/backend/Comparison.md",
     "Framework/frontend",

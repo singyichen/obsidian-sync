@@ -20,6 +20,8 @@ fastify ^PPOracEz
 
 http  library ^c79w4ImD
 
+More Freedom ^wZWhVBBe
+
 %%
 # Drawing
 ```json
@@ -347,8 +349,8 @@ http  library ^c79w4ImD
 		},
 		{
 			"type": "arrow",
-			"version": 88,
-			"versionNonce": 867526956,
+			"version": 96,
+			"versionNonce": 1633561620,
 			"isDeleted": false,
 			"id": "-tM8XANpKFHo62mbGwZHo",
 			"fillStyle": "solid",
@@ -357,8 +359,8 @@ http  library ^c79w4ImD
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 118.52751196172244,
-			"y": -293.4740829346092,
+			"x": 115.36961722488036,
+			"y": -294.5267145135566,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 1.0526315789473983,
@@ -368,7 +370,7 @@ http  library ^c79w4ImD
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706970571343,
+			"updated": 1706970695980,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -388,41 +390,41 @@ http  library ^c79w4ImD
 			]
 		},
 		{
-			"id": "IvFdBHlB",
 			"type": "text",
-			"x": 143.79066985645926,
-			"y": -226.10566188197765,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 61,
+			"versionNonce": 1166617516,
+			"isDeleted": false,
+			"id": "wZWhVBBe",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 134.31698564593302,
+			"y": -236.63197767145135,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 133.01988220214844,
+			"height": 25,
+			"seed": 528424468,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 412185388,
-			"version": 2,
-			"versionNonce": 82957076,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706970579883,
+			"boundElements": [],
+			"updated": 1706970692751,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "More Freedom",
+			"rawText": "More Freedom",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
 			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"originalText": "More Freedom",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -441,7 +443,7 @@ http  library ^c79w4ImD
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 313.8409090909091,
-		"scrollY": 410.57934609250395,
+		"scrollY": 515.8425039872408,
 		"zoom": {
 			"value": 1.9000000000000001
 		},
