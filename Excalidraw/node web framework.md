@@ -22,7 +22,7 @@ http  library ^c79w4ImD
 
 More Freedom ^wZWhVBBe
 
-More ^Dfck0SHc
+More Convince ^Dfck0SHc
 
 %%
 # Drawing
@@ -435,8 +435,8 @@ More ^Dfck0SHc
 		{
 			"id": "3aWc4egMiYHp-Gq0M83HX",
 			"type": "arrow",
-			"x": -190.9461722488039,
-			"y": -141.89513556618817,
+			"x": -193.05143540669863,
+			"y": -140.84250398724083,
 			"width": 0.5263157894736423,
 			"height": 155.78947368421052,
 			"angle": 0,
@@ -451,11 +451,11 @@ More ^Dfck0SHc
 			"frameId": null,
 			"roundness": null,
 			"seed": 1228460588,
-			"version": 73,
-			"versionNonce": 216653996,
+			"version": 76,
+			"versionNonce": 691211564,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706970744321,
+			"updated": 1706970785108,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -477,9 +477,9 @@ More ^Dfck0SHc
 		{
 			"id": "Dfck0SHc",
 			"type": "text",
-			"x": -275.15669856459334,
-			"y": -246.10566188197765,
-			"width": 45.93995666503906,
+			"x": -346.7356459330144,
+			"y": -234.52671451355656,
+			"width": 134.39988708496094,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#c2255c",
@@ -493,22 +493,22 @@ More ^Dfck0SHc
 			"frameId": null,
 			"roundness": null,
 			"seed": 1954000276,
-			"version": 5,
-			"versionNonce": 980185004,
+			"version": 68,
+			"versionNonce": 1115463212,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706970748455,
+			"updated": 1706970775830,
 			"link": null,
 			"locked": false,
-			"text": "More",
-			"rawText": "More",
+			"text": "More Convince",
+			"rawText": "More Convince",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "More",
+			"originalText": "More Convince",
 			"lineHeight": 1.25
 		}
 	],
@@ -527,8 +527,8 @@ More ^Dfck0SHc
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 313.8409090909091,
-		"scrollY": 515.8425039872408,
+		"scrollX": 386.9988038277522,
+		"scrollY": 441.10566188197816,
 		"zoom": {
 			"value": 1.9000000000000001
 		},
