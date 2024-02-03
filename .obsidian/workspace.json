@@ -6,15 +6,17 @@
       {
         "id": "e470d433a7bdeb27",
         "type": "tabs",
-        "dimension": 65.07818317200298,
+        "dimension": 67.08487084870849,
         "children": [
           {
             "id": "823226c2d42ed817",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "test/Comparison.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -24,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test/Comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,13 +44,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "29406b7ec77fd151",
         "type": "tabs",
-        "dimension": 34.92181682799702,
+        "dimension": 32.91512915129151,
         "children": [
           {
             "id": "35f34fd3197b26c4",
@@ -112,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 315.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "test/Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test/Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "test/Comparison.md"
               }
             }
           },
@@ -193,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,13 +208,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "823226c2d42ed817",
   "lastOpenFiles": [
-    "images",
+    "test/hello world.md",
     "test/Comparison.md",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
-    "test/hello world.md",
     "README.md",
+    "images",
     "Excalidraw",
     "test"
   ]
