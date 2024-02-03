@@ -6,7 +6,7 @@
       {
         "id": "e470d433a7bdeb27",
         "type": "tabs",
-        "dimension": 67.08487084870849,
+        "dimension": 81.71471927162366,
         "children": [
           {
             "id": "823226c2d42ed817",
@@ -17,6 +17,16 @@
                 "file": "test/Comparison.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "295e98e803342d82",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
               }
             }
           },
@@ -44,12 +54,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "29406b7ec77fd151",
         "type": "tabs",
-        "dimension": 32.91512915129151,
+        "dimension": 18.28528072837633,
         "children": [
           {
             "id": "35f34fd3197b26c4",
@@ -129,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/Comparison.md",
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/Comparison.md",
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/Comparison.md"
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
               }
             }
           },
@@ -208,11 +219,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "823226c2d42ed817",
+  "active": "295e98e803342d82",
   "lastOpenFiles": [
-    "test/hello world.md",
-    "test/Comparison.md",
+    "Excalidraw/Drawing 2024-02-03 21.25.09.excalidraw.md",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+    "test/Comparison.md",
+    "test/hello world.md",
     "README.md",
     "images",
     "Excalidraw",
