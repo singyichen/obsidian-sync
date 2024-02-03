@@ -2,7 +2,7 @@
   "choice": "Github",
   "github_parms": {
     "required": {
-      "owner": "images",
+      "owner": "singyichen",
       "repo": "images",
       "branch": "main",
       "token": "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",
