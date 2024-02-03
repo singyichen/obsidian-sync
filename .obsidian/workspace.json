@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test/Comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "test/Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test/Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "test/Comparison.md"
               }
             }
           },
@@ -210,12 +210,12 @@
   },
   "active": "823226c2d42ed817",
   "lastOpenFiles": [
-    "test/Comparison.md",
     "test/hello world.md",
+    "test/Comparison.md",
+    "README.md",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
     "Pasted Image 20240203214345_635.png",
     "().md",
-    "README.md",
     "Pasted Image 20240203212531_646.png",
     "Excalidraw/Drawing 2024-02-03 21.25.09.excalidraw.md",
     "images",
