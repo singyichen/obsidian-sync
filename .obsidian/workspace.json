@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/Comparison.md",
+                "file": "Framework/backend/Comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 339.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/Comparison.md",
+                "file": "Framework/backend/Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/Comparison.md",
+                "file": "Framework/backend/Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/Comparison.md"
+                "file": "Framework/backend/Comparison.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -189,11 +189,12 @@
   },
   "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Framework/frontend",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
     "Framework/backend",
     "README.md",
     "test/hello world.md",
-    "Framework/Comparison.md",
+    "Framework/backend/Comparison.md",
     "Excalidraw/Drawing 2024-02-03 22.12.43.excalidraw.md",
     "Pasted Image 20240203214345_635.png",
     "().md",
