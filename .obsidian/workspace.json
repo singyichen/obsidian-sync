@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +187,10 @@
   },
   "active": "8e33d43cb7fe2d8a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md",
+    "Excalidraw/node web framework.md",
     "Framework/backend/Comparison.md",
     "Framework/frontend",
-    "Excalidraw/node web framework.md",
     "Framework/backend",
     "README.md",
     "test/hello world.md",
