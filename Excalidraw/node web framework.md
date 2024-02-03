@@ -18,9 +18,7 @@ koa ^5jt73Lvu
 
 fastify ^PPOracEz
 
-nestjs ^c79w4ImD
-
-eggs ^3gG7Pn2x
+http  library ^c79w4ImD
 
 %%
 # Drawing
@@ -285,8 +283,8 @@ eggs ^3gG7Pn2x
 		},
 		{
 			"type": "rectangle",
-			"version": 182,
-			"versionNonce": 1756963756,
+			"version": 227,
+			"versionNonce": 1689529108,
 			"isDeleted": false,
 			"id": "aM6ENLDv8zJavCRLK9b5D",
 			"fillStyle": "solid",
@@ -295,27 +293,25 @@ eggs ^3gG7Pn2x
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -160.15669856459334,
-			"y": -181.89513556618823,
+			"x": -166.99880382775123,
+			"y": -195.57934609250404,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 252.1052631578947,
 			"height": 52.63157894736844,
 			"seed": 908349332,
-			"groupIds": [
-				"e68CUi8xqHs4xmECO7qZg"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706970451266,
+			"updated": 1706970469670,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 732941868,
+			"version": 191,
+			"versionNonce": 1068226196,
 			"isDeleted": false,
 			"id": "c79w4ImD",
 			"fillStyle": "solid",
@@ -324,69 +320,28 @@ eggs ^3gG7Pn2x
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -128.05143540669866,
-			"y": -170.31618819776708,
-			"strokeColor": "#2f9e44",
+			"x": -100.15669856459337,
+			"y": -182.94776714513551,
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 59.85993957519531,
+			"width": 122.05989074707031,
 			"height": 25,
 			"seed": 1973239060,
-			"groupIds": [
-				"e68CUi8xqHs4xmECO7qZg"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706970451267,
+			"updated": 1706970517758,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "nestjs",
-			"rawText": "nestjs",
+			"text": "http  library",
+			"rawText": "http  library",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "nestjs",
-			"lineHeight": 1.25,
-			"baseline": 18
-		},
-		{
-			"type": "text",
-			"version": 59,
-			"versionNonce": 1600989356,
-			"isDeleted": false,
-			"id": "3gG7Pn2x",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -2.2619617224881665,
-			"y": -170.3161881977672,
-			"strokeColor": "#099268",
-			"backgroundColor": "transparent",
-			"width": 41.83995056152344,
-			"height": 25,
-			"seed": 43809428,
-			"groupIds": [
-				"e68CUi8xqHs4xmECO7qZg"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706970451267,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "eggs",
-			"rawText": "eggs",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "eggs",
+			"originalText": "http  library",
 			"lineHeight": 1.25,
 			"baseline": 18
 		}
@@ -394,7 +349,7 @@ eggs ^3gG7Pn2x
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#846358",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
