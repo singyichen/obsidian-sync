@@ -6,6 +6,7 @@
       {
         "id": "e470d433a7bdeb27",
         "type": "tabs",
+        "dimension": 51.53429602888087,
         "children": [
           {
             "id": "823226c2d42ed817",
@@ -21,11 +22,9 @@
             "id": "930ad89514efe67d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "test/Comparison.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
               }
             }
           },
@@ -47,6 +46,7 @@
       {
         "id": "29406b7ec77fd151",
         "type": "tabs",
+        "dimension": 48.46570397111913,
         "children": [
           {
             "id": "35f34fd3197b26c4",
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,13 +178,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ce6b961fd9e0ba24",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,14 +202,15 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "930ad89514efe67d",
+  "active": "35f34fd3197b26c4",
   "lastOpenFiles": [
-    "test/hello world.md",
-    "test/Comparison.md",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+    "test/Comparison.md",
+    "test/hello world.md",
     "README.md",
     "Excalidraw",
     "test"
