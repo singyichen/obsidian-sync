@@ -6,7 +6,7 @@
       {
         "id": "e470d433a7bdeb27",
         "type": "tabs",
-        "dimension": 84.06374501992032,
+        "dimension": 40.31852472757754,
         "children": [
           {
             "id": "823226c2d42ed817",
@@ -49,7 +49,7 @@
       {
         "id": "29406b7ec77fd151",
         "type": "tabs",
-        "dimension": 15.936254980079681,
+        "dimension": 59.68147527242247,
         "children": [
           {
             "id": "35f34fd3197b26c4",
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 335.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/hello world.md",
+                "file": "test/Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/hello world.md",
+                "file": "test/Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/hello world.md"
+                "file": "test/Comparison.md"
               }
             }
           },
@@ -208,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "823226c2d42ed817",
+  "active": "35f34fd3197b26c4",
   "lastOpenFiles": [
-    "test/Comparison.md",
     "test/hello world.md",
+    "test/Comparison.md",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
     "README.md",
     "Pasted Image 20240203214345_635.png",
