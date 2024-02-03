@@ -21,11 +21,9 @@
             "id": "930ad89514efe67d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Framework/backend/Comparison.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/node web framework.md"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/backend/Comparison.md",
+                "file": "Excalidraw/node web framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/backend/Comparison.md",
+                "file": "Excalidraw/node web framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/backend/Comparison.md"
+                "file": "Excalidraw/node web framework.md"
               }
             }
           },
@@ -157,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,8 +175,9 @@
   },
   "active": "930ad89514efe67d",
   "lastOpenFiles": [
-    "Excalidraw/node web framework.md",
+    "Excalidraw/Drawing 2024-02-03 23.47.44.excalidraw.md",
     "Framework/backend/Comparison.md",
+    "Excalidraw/node web framework.md",
     "README.md",
     "[.md",
     "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md",
