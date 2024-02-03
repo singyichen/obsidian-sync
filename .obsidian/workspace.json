@@ -6,7 +6,7 @@
       {
         "id": "e470d433a7bdeb27",
         "type": "tabs",
-        "dimension": 51.53429602888087,
+        "dimension": 67.59927797833934,
         "children": [
           {
             "id": "823226c2d42ed817",
@@ -22,9 +22,11 @@
             "id": "930ad89514efe67d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "test/Comparison.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -46,7 +48,7 @@
       {
         "id": "29406b7ec77fd151",
         "type": "tabs",
-        "dimension": 48.46570397111913,
+        "dimension": 32.40072202166065,
         "children": [
           {
             "id": "35f34fd3197b26c4",
@@ -89,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,12 +108,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 327.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -192,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,11 +207,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35f34fd3197b26c4",
+  "active": "930ad89514efe67d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
-    "test/Comparison.md",
     "test/hello world.md",
+    "test/Comparison.md",
     "README.md",
     "Excalidraw",
     "test"
