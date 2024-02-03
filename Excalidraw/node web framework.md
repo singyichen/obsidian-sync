@@ -346,12 +346,54 @@ http  library ^c79w4ImD
 			"locked": false
 		},
 		{
-			"id": "-tM8XANpKFHo62mbGwZHo",
 			"type": "arrow",
+			"version": 88,
+			"versionNonce": 867526956,
+			"isDeleted": false,
+			"id": "-tM8XANpKFHo62mbGwZHo",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": 118.52751196172244,
 			"y": -293.4740829346092,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
 			"width": 1.0526315789473983,
 			"height": 148.4210526315789,
+			"seed": 1916997140,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706970571343,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.0526315789473983,
+					148.4210526315789
+				]
+			]
+		},
+		{
+			"id": "IvFdBHlB",
+			"type": "text",
+			"x": 143.79066985645926,
+			"y": -226.10566188197765,
+			"width": 10,
+			"height": 25,
 			"angle": 0,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
@@ -363,29 +405,24 @@ http  library ^c79w4ImD
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1916997140,
-			"version": 88,
-			"versionNonce": 867526956,
-			"isDeleted": false,
+			"seed": 412185388,
+			"version": 2,
+			"versionNonce": 82957076,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706970571343,
+			"updated": 1706970579883,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.0526315789473983,
-					148.4210526315789
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
