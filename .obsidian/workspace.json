@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 334.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -133,7 +132,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -180,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04b98431790f284e",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-02-03 22.12.43.excalidraw.md",
     "test/Comparison.md",
