@@ -11,9 +11,11 @@
             "id": "823226c2d42ed817",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "test/Comparison.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+                "file": "test/Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+                "file": "test/Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "test/Comparison.md"
               }
             }
           },
@@ -188,9 +190,9 @@
   },
   "active": "823226c2d42ed817",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
     "test/hello world.md",
     "test/Comparison.md",
-    "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
     "README.md",
     "Pasted Image 20240203214345_635.png",
     "().md",
