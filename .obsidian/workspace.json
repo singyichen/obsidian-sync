@@ -6,7 +6,7 @@
       {
         "id": "e470d433a7bdeb27",
         "type": "tabs",
-        "dimension": 81.71471927162366,
+        "dimension": 68.43702579666162,
         "children": [
           {
             "id": "823226c2d42ed817",
@@ -24,9 +24,11 @@
             "id": "295e98e803342d82",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "test/Comparison.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -60,7 +62,7 @@
       {
         "id": "29406b7ec77fd151",
         "type": "tabs",
-        "dimension": 18.28528072837633,
+        "dimension": 31.56297420333839,
         "children": [
           {
             "id": "35f34fd3197b26c4",
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+                "file": "test/Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+                "file": "test/Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md"
+                "file": "test/Comparison.md"
               }
             }
           },
@@ -221,8 +223,8 @@
   },
   "active": "295e98e803342d82",
   "lastOpenFiles": [
-    "Pasted Image 20240203212531_646.png",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
+    "Pasted Image 20240203212531_646.png",
     "Excalidraw/Drawing 2024-02-03 21.25.09.excalidraw.md",
     "test/Comparison.md",
     "test/hello world.md",

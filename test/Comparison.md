@@ -12,3 +12,4 @@
 
 測試
 
+![obsidian logo.png](https://raw.githubusercontent.com/singyichen/images/main/images/obsidian%20logo.png)
