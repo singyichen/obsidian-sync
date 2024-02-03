@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 237.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -175,12 +175,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "930ad89514efe67d",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Excalidraw/node web framework.md",
+    "Framework/backend/Comparison.md",
     "README.md",
     "[.md",
-    "Framework/backend/Comparison.md",
-    "Excalidraw/node web framework.md",
     "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md",
     "Framework/frontend",
     "Framework/backend",
