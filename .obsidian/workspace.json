@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Comparison.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/Comparison.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/Comparison.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/Comparison.md"
+                "file": "README.md"
               }
             }
           },
@@ -207,11 +207,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "930ad89514efe67d",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "images",
+    "test/Comparison.md",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
     "test/hello world.md",
-    "test/Comparison.md",
     "README.md",
     "Excalidraw",
     "test"
