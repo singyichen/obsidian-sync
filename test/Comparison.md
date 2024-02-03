@@ -11,5 +11,4 @@
 # 比較表
 
 測試
-![obsidian logo.png](https://raw.githubusercontent.com/singyichen/images/main/images/obsidian%20logo.png)
-![gh](https://raw.githubusercontent.com/singyichen/images/main/images/1706967684000clro2g.png)
+
