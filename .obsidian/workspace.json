@@ -6,7 +6,7 @@
       {
         "id": "e470d433a7bdeb27",
         "type": "tabs",
-        "dimension": 79.64022894521669,
+        "dimension": 66.61354581673307,
         "children": [
           {
             "id": "823226c2d42ed817",
@@ -49,7 +49,7 @@
       {
         "id": "29406b7ec77fd151",
         "type": "tabs",
-        "dimension": 20.35977105478332,
+        "dimension": 33.386454183266935,
         "children": [
           {
             "id": "35f34fd3197b26c4",
@@ -208,7 +208,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "823226c2d42ed817",
+  "active": "35f34fd3197b26c4",
   "lastOpenFiles": [
     "test/hello world.md",
     "test/Comparison.md",
