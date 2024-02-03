@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/hello world.md",
+                "file": "test/Comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 321.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/hello world.md",
+                "file": "test/Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/hello world.md",
+                "file": "test/Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/hello world.md"
+                "file": "test/Comparison.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "823226c2d42ed817",
   "lastOpenFiles": [
-    "test/Comparison.md",
     "test/hello world.md",
+    "test/Comparison.md",
     "Excalidraw/Drawing 2024-02-03 21.01.39.excalidraw.md",
     "Pasted Image 20240203214345_635.png",
     "().md",
