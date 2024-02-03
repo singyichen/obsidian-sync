@@ -9,7 +9,7 @@
       "message": "from emo-uploader·Github"
     },
     "path": "images/",
-    "random": false,
+    "random": true,
     "cdn": "raw"
   },
   "imgur_parms": {
