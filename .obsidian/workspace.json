@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skill-tree.md"
+                "file": "software.md"
               }
             }
           },
@@ -261,6 +261,7 @@
   },
   "active": "12f6bdabc07e9e9c",
   "lastOpenFiles": [
+    "skill-tree.md",
     "Templates/learning-template.md",
     "02.Areas/Framework/backend/comparison.md",
     "00.Inbox/PARA.md",
@@ -275,7 +276,6 @@
     "00.Inbox/PARP.md",
     "software.md",
     "Excalidraw/node-web-framework.md",
-    "skill-tree.md",
     "PARP.md",
     "Templates",
     "Images/edraw-max-logo.svg",
