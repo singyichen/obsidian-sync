@@ -8,6 +8,10 @@
 
 ## 簡介 intro
 
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/software-engineering-in-nutshell.png)
+
+
+
 ![web-developer-skills.png](https://raw.githubusercontent.com/singyichen/images/main/images/web-developer-skills.png)
 
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/web-developer-intro.png)
