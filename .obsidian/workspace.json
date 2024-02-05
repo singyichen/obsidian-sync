@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/git.png"
+                "file": "Images/Pasted Image 20240201163831_891.svg"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/git.png",
+                "file": "Images/Pasted Image 20240201163831_891.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/git.png",
+                "file": "Images/Pasted Image 20240201163831_891.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/git.png"
+                "file": "Images/Pasted Image 20240201163831_891.svg"
               }
             }
           },
@@ -208,19 +208,19 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "8efea57d44a3a5b6",
   "lastOpenFiles": [
+    "Images/Pasted Image 20240201163628_014.png",
+    "Images/Pasted Image 20240201163831_891.svg",
+    "Images/adobe-illustrator-logo.png",
+    "Images/figjam-logo.png",
+    "Images/figma-logo.png",
+    "Images/gitea-logo.png",
     "Images/sonarqube-logo.png",
     "Images/postman-logo.png",
     "Images/playwright-logo.svg",
     "Images/docker-logo.png",
     "Images/jest-logo.png",
-    "Images/nginx-logo.png",
-    "Images/bootstrap-logo.png",
-    "Images/html-logo.png",
-    "Images/socket-io-logo.png",
-    "Images/react-logo.png",
-    "Images/postgresql-logo.png",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/PARP.md",
     "Excalidraw/node-web-framework.md",
