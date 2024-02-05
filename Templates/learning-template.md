@@ -1,6 +1,7 @@
 ---
 created: 2024-02-05T14:13
 updated: 2024-02-05T19:05
+title: "{{title}}"
 description: 
 author: mandy
 aliases: 
@@ -14,7 +15,6 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
-title: "{{title}}"
 ---
 # 🚀 {{title}}
 

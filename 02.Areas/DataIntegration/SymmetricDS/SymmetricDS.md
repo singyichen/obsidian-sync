@@ -1,16 +1,24 @@
 ---
+created: 2024-02-05T14:13
+updated: 2024-02-05T19:06
 title: SymmetricDS
 description: 
-date: 2023-06-20T07:48:11.811Z
+author: mandy
+aliases: 
+category: 
 tags:
   - symmetricds
-editor: markdown
-dateCreated: 2023-06-09T06:06:59.057Z
-created: 2024-02-05T19:03
-updated: 2024-02-05T19:03
+AutoNoteMover: disable
+disabled rules:
+  - all
+template-output: 030-Inbox
+template-input: title,body
+template-replacement: "[[learning-template]]"
+template-should-replace: sometimes
+template-should-create: open-pane
 ---
+# 🚀 SymmetricDS
 
-# SymmetricDS
 - [ ] [symmetricds](https://www.symmetricds.org/)
 - [ ] [解決方案評估](https://sites.google.com/site/richchihlee/portal/eai/sym/eval)
 - [ ] [Clustering SymmetricDS](https://www.jumpmind.com/blog/blog/how-to/clustering-symmetricds/)

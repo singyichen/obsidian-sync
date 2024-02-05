@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/learning-template.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md"
               }
             }
           },
@@ -212,10 +212,10 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "Templates/book-template.md",
-    "Templates/dev-tech-template.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "Templates/learning-template.md",
+    "Templates/book-template.md",
+    "Templates/dev-tech-template.md",
     "02.Areas/DataIntegration/SymmetricDS/TaskScheduler.md",
     "03.Resources/KM/PARA.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSUsage.md",
