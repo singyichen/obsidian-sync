@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:07
+updated: 2024-02-05T21:08
 title: SymmetricDSInstall
 description: 
 author: mandy
@@ -101,8 +101,7 @@ published: false
 ```
 
 # 管理工具
-- 參閱文件 ![SymmetricDS Tool]()
-[![SymmetricDS Tool]()
+- 參閱文件 [[SymmetricDSTool]]
 # 啟用服務步驟
 ## 部屬啟用服務所需設定檔
 - 將 `corp-000.properties`、`store-001.properties`、`store-002.properties` 複製到資料夾 `engines` 中
