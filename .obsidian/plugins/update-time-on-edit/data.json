@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Templates/learning-template.md": "70e48958e08a34857f87a7af489d5010fb68578a92b0e9721a4dd94e14793e34",
+    "Templates/learning-template.md": "1fffac943ca46dfc33040b9f233dc7fb252b7ea52a1c53396dee861c25ded013",
     "02.Areas/Framework/backend/comparison.md": "fe6d0a78eee6f3510115fcbe0078f2fd048b5bb93303fc2542bb34ecb0b578b2",
     "03.Resources/UIUX/UIUX.md": "2941512a5e138de8a7062fed2b6706dc2791978000a338af431b1d985c62a009",
     "03.Resources/UIUX/UX.md": "03e0ae9270f57b151c420b70dee4c9d15af5ae9fc24be76fd0cf973fc9915e0a",
@@ -16,9 +16,9 @@
     "software.md": "a9f050d834913160b516d0667c57e9f6b6c4c33985b8ad27a84a44144a91c37f",
     "Templates/blog-post-template.md": "31142331d1e7b8091ad244071cf33d800b0779982a2ad6338d2d137890cfe284",
     "Templates/meeting-template.md": "b40706d89755b5d47e66b018e63b190a7dde88afe20a1ec2837b82ea9686a97d",
-    "Templates/book-template.md": "ea06ee5245914d1bd0663c96cbf863222146f05abc11b7109a29ef6b85b72d48",
+    "Templates/book-template.md": "9ab8eabb14397e63335d1fbf75ca7e56988b0532a0baa821412fa47822f7a099",
     "03.Resources/KM/PARA.md": "fb3d8e5063112142bfaa0c2af6998372a5bf542ac3a5924e8482750d3f1d80a6",
-    "Templates/dev-tech-template.md": "d51cc251909d1ea200e7a3d2e02df6b8a234f8a60b39de4cafa310487977b803",
+    "Templates/dev-tech-template.md": "ff6a5ad44b53822ba8f70289a33acb41f9a117dd9334357c78f04d06d8b1181b",
     "04.Archives/lottery-system/dev-tech.md": "4ee0c3f18867ed700db17a067c0b80440778368a7fe185aaed0c713f686f5acc",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md": "abbcdb53ba6c2f1e44c48a65241614d5c3fb77e7f8da57a4d83987b76ada27c3"
   }
