@@ -11,9 +11,11 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
+                "file": "04.Archives/lottery-system/tech.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md",
+                "file": "04.Archives/lottery-system/tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md",
+                "file": "04.Archives/lottery-system/tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
+                "file": "04.Archives/lottery-system/tech.md"
               }
             }
           },
@@ -210,6 +212,9 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "Excalidraw/lottery-system-tech.md",
+    "04.Archives/lottery-system/tech.md",
+    "04.Archives/lottery-system",
     "Excalidraw/node-web-framework.md",
     "02.Areas/Framework/backend/comparison.md",
     "03.Resources/UIUX/UX.md",
@@ -222,7 +227,6 @@
     "Templates/book-template.md",
     "Templates/meeting-template.md",
     "Templates/blog-post-template.md",
-    "Excalidraw/lottery-system-tech.md",
     "skill-tree.md",
     "software.md",
     "README.md",
@@ -250,7 +254,6 @@
     "03.Resources",
     "02.Areas",
     "01.Projects",
-    "03.Resources/UIUX",
     "2024-02-03.md",
     "Excalidraw/Drawing 2024-02-03 23.47.44.excalidraw.md",
     "[.md",
