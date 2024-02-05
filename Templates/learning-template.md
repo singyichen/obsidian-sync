@@ -20,4 +20,3 @@ modified: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
 - [ ] []()
 - [ ] []()
 
-<% tp.web.daily_quote() %>
