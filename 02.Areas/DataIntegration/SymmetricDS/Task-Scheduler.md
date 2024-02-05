@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:24
+updated: 2024-02-05T21:25
 title: TaskScheduler
 description: 
 author: mandy
@@ -71,7 +71,7 @@ Get-Date
 ## 開啟工作排程器並建立一個基本工作
 - Windows 系統管理工具 ➔ 工作排程器 ➔ 工作排程器程式庫 ➔ 建立基本工作
 
-![工作排程器 建立基本工作.png](http://192.168.25.60:8000/files/file_storage/2f30230a.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/工作排程器-建立基本工作.png)
 
 ## 建立基本工作
 - 名稱：`Leader_init_data_task`
