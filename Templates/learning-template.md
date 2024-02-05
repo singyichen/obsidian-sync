@@ -15,8 +15,7 @@ created: "{{date}} {{time:ss}}"
 modified: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
 ---
 ![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
-# <% tp.file.title %>
-> <% tp.web.daily_quote() %>
+# {{title}}
 
 - [ ] []()
 - [ ] []()
