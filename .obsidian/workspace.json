@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Inbox/PARP.md",
+                "file": "Templates/learning-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Inbox/PARP.md",
+                "file": "Templates/learning-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Inbox/PARP.md",
+                "file": "Templates/learning-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Inbox/PARP.md"
+                "file": "Templates/learning-template.md"
               }
             }
           },
@@ -249,10 +249,10 @@
   },
   "active": "f0fb120752ddbd20",
   "lastOpenFiles": [
+    "Templates/book-template.md",
     "Templates/learning-template.md",
     "00.Inbox/PARP.md",
     "Templates/meeting-template.md",
-    "Templates/book-template.md",
     "README.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
