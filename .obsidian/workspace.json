@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "UIUX/UX.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "UIUX/UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "UIUX/UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "UIUX/UX.md"
               }
             }
           },
@@ -192,7 +192,7 @@
   "active": "1c8c3fa0a4e92e35",
   "lastOpenFiles": [
     "software.md",
-    "未命名.md",
+    "UIUX/UX.md",
     "UIUX",
     "skill-tree.md.md",
     "Excalidraw/node-web-framework.md",
