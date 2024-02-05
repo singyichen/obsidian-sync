@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/book-note.md",
+                "file": "Templates/learning-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/book-note.md",
+                "file": "Templates/learning-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/book-note.md",
+                "file": "Templates/learning-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/book-note.md"
+                "file": "Templates/learning-note.md"
               }
             }
           },
@@ -259,12 +259,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "f0fb120752ddbd20",
   "lastOpenFiles": [
-    "README.md",
     "Templates/book-note.md",
     "Templates/learning-note.md",
     "Templates/meeting-note.md",
+    "README.md",
     "PARP.md",
     "skill-tree.md",
     "Excalidraw/node-web-framework.md",

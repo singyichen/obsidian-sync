@@ -11,6 +11,7 @@ template-replacement: "[[learning-note]]"
 template-should-replace: sometimes
 template-should-create: open-pane
 created: "{{date}}{{time}}"
+author: mandy
 ---
 # {{title}}
 
