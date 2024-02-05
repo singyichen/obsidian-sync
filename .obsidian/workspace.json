@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "00.Inbox/PARP.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "00.Inbox/PARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "00.Inbox/PARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/learning-template.md"
+                "file": "00.Inbox/PARP.md"
               }
             }
           },
@@ -249,9 +249,9 @@
   },
   "active": "f0fb120752ddbd20",
   "lastOpenFiles": [
+    "Templates/learning-template.md",
     "00.Inbox/PARP.md",
     "README.md",
-    "Templates/learning-template.md",
     "Templates/book-template.md",
     "Templates/meeting-template.md",
     "Excalidraw/node-web-framework.md",
