@@ -12,7 +12,7 @@ template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
 created: "`$= dv.current().file.ctime`"
-updated: 2024-02-05T15:54
+updated: 2024-02-05T15:55
 ---
 ![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
 # {{title}}
