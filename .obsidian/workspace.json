@@ -13,24 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
-              }
-            }
-          },
-          {
-            "id": "f089b0895c16e607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           },
@@ -221,11 +208,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f089b0895c16e607",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
+    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "Excalidraw/node-web-framework.md",
+    "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
+    "Excalidraw/symmetricds-usage-user-case.md",
     "未命名.md",
     "未命名.canvas",
     "Excalidraw/PARA.md",
@@ -234,14 +223,12 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
-    "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",
     "軟體開發/學習心得",
     "軟體開發",
     "Templates/learning-template.md",
-    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "04.Archives/lottery-system/dev-tech.md",

@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:36
+updated: 2024-02-05T21:38
 title: SymmetricDSUsage
 description: 
 author: mandy
@@ -284,8 +284,7 @@ copy /a *.sql migration.sql
 ```
 
 ## 使用工作排程器執行資料庫資料同步作業
-參閱文件 [Task Scheduler](/軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler)
-
+參閱文件 [[Task-Scheduler]]
 # 資料驗證
 ## 使用 `dbcompare`，可搭配工作排程器執行
 - 將屬性檔案(`client-001.properties`、`server-000.properties`)複製一份到資料夾 `bin` 中
