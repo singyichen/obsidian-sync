@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Inbox/PARP.md",
+                "file": "Templates/learning-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Inbox/PARP.md",
+                "file": "Templates/learning-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Inbox/PARP.md",
+                "file": "Templates/learning-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Inbox/PARP.md"
+                "file": "Templates/learning-template.md"
               }
             }
           },
@@ -247,13 +247,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f0fb120752ddbd20",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
-    "Templates/learning-template.md",
+    "Templates/meeting-template.md",
     "00.Inbox/PARP.md",
+    "Templates/learning-template.md",
     "README.md",
     "Templates/book-template.md",
-    "Templates/meeting-template.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/PARP.md",
