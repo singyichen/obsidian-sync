@@ -10,7 +10,7 @@ template-input: title,body
 template-replacement: "[[note]]"
 template-should-replace: sometimes
 template-should-create: open-pane
-created: "{{建檔日期:currentDate:yyyy-MM-dd HHmmss}}"
+created: "{{date}}{{time}}"
 ---
 # {{title}}
 
