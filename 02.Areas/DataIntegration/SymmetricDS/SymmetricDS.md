@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:17
+updated: 2024-02-05T19:19
 title: SymmetricDS
 description: 
 author: mandy
@@ -41,7 +41,9 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-working-principle.png)
 
 
-![symmetricds 運作架構.png](http://192.168.25.60:8000/files/file_storage/3d429805.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-working-structure.png)
+
 
 ## 節點間的資料同步方式
 ### Push (P)
