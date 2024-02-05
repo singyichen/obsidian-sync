@@ -32,6 +32,8 @@ Archive ^ls8tTskL
 
 A ^5mFrBv6h
 
+- 減肥計畫 ^erIezOIQ
+
 %%
 # Drawing
 ```json
@@ -770,8 +772,8 @@ A ^5mFrBv6h
 		},
 		{
 			"type": "rectangle",
-			"version": 123,
-			"versionNonce": 1805502188,
+			"version": 154,
+			"versionNonce": 1222537940,
 			"isDeleted": false,
 			"id": "ufV36434Je_5xOZ88E0SJ",
 			"fillStyle": "solid",
@@ -780,22 +782,64 @@ A ^5mFrBv6h
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -427.58899987192467,
-			"y": -452.4656626049967,
+			"x": -431.7018552671169,
+			"y": -459.663159546583,
 			"strokeColor": "#4dabf7",
 			"backgroundColor": "#a5d8ff",
-			"width": 219.00954979398446,
-			"height": 45.24140934711417,
+			"width": 225.17883288677277,
+			"height": 54,
 			"seed": 654113004,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"boundElements": [],
-			"updated": 1707125175000,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "erIezOIQ"
+				}
+			],
+			"updated": 1707125203207,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "erIezOIQ",
+			"type": "text",
+			"x": -412.20618882373054,
+			"y": -454.26315954658304,
+			"width": 186.1875,
+			"height": 43.199999999999996,
+			"angle": 0,
+			"strokeColor": "#4dabf7",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 274362220,
+			"version": 23,
+			"versionNonce": 1269889108,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707125203207,
+			"link": null,
+			"locked": false,
+			"text": "- 減肥計畫",
+			"rawText": "- 減肥計畫",
+			"fontSize": 36,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 35,
+			"containerId": "ufV36434Je_5xOZ88E0SJ",
+			"originalText": "- 減肥計畫",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
