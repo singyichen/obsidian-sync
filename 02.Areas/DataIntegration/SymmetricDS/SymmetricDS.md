@@ -49,7 +49,8 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 ### Push (P)
 - 讓來源節點群組( Source Node Group )提出 HTTP PUT 要求且把資料推送到目標節點群組( Target Node Group )。
 
-![symmetricds 推送作業.png](http://192.168.25.60:8000/files/file_storage/155a21aa.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-push-job.png)
 
 ### Wait for pull (W)
 - 目標節點群組會主動透過 HTTP GET 來跟來源節點群組拉資料，在這之前來源節點群組會一直等待 HTTP GET 的要求。
