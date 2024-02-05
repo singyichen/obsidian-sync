@@ -1319,10 +1319,10 @@ b0f621a94baba1dbf95c827a0bae7043d5d585e5: [[figjam-logo.png]]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2022.7936707712047,
-		"scrollY": 2360.0883122203863,
+		"scrollX": 2088.4603374378717,
+		"scrollY": 2680.588312220387,
 		"zoom": {
-			"value": 0.30000000000000004
+			"value": 0.25
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
