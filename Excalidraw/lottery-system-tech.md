@@ -36,10 +36,10 @@ b8a5c41e56b77706656d61080f6a0217a3ba356d: [[docker-logo.png]]
 a75a626818e47c06ac365a97c2cbe2ccf31250d8: [[figma-logo.png]]
 b0f621a94baba1dbf95c827a0bae7043d5d585e5: [[figjam-logo.png]]
 70aac5eb63628abf1169cf5e784c494b629e1e6f: [[adobe-illustrator-logo.png]]
-36583734bc5eda416f68b149ef2e08228786a08c: [[Pasted Image 20240201163831_891.svg]]
+36583734bc5eda416f68b149ef2e08228786a08c: [[edraw-max-logo.svg]]
 15ffb1feae1172498473f37c31ccd3a1bede3c8b: [[adobe-photoshop-logo.png]]
 8ad08872afb82b0665f37ed5ce62b2bc04c855e7: [[saas-logo.png]]
-4431f78b1742115d112e87b93af510e8ce32d222: [[Pasted Image 20240201165156_336.png]]
+4431f78b1742115d112e87b93af510e8ce32d222: [[dbdiagram-io-logo.png]]
 
 %%
 # Drawing

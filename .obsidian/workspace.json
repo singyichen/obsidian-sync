@@ -11,9 +11,9 @@
             "id": "8efea57d44a3a5b6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Images/Pasted Image 20240201165156_336.png"
+                "file": "Excalidraw/lottery-system-tech.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted Image 20240201165156_336.png",
+                "file": "Excalidraw/lottery-system-tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted Image 20240201165156_336.png",
+                "file": "Excalidraw/lottery-system-tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted Image 20240201165156_336.png"
+                "file": "Excalidraw/lottery-system-tech.md"
               }
             }
           },
@@ -210,9 +210,9 @@
   },
   "active": "8efea57d44a3a5b6",
   "lastOpenFiles": [
-    "Images/Pasted Image 20240201163831_891.svg",
+    "Images/edraw-max-logo.svg",
+    "Images/dbdiagram-io-logo.png",
     "Images/adobe-photoshop-logo.png",
-    "Images/Pasted Image 20240201165156_336.png",
     "Images/saas-logo.png",
     "Images/Pasted Image 20240201163628_014.png",
     "Images/adobe-illustrator-logo.png",
