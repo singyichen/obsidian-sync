@@ -11,8 +11,10 @@
             "id": "2013382a41d2cfcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PARA.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/PARA.md"
+              }
             }
           },
           {
@@ -205,12 +211,12 @@
   },
   "active": "2013382a41d2cfcf",
   "lastOpenFiles": [
+    "00.Inbox/PARA.md",
     "skill-tree.md",
     "software.md",
     "Templates/learning-template.md",
     "README.md",
     "02.Areas/Framework/backend/comparison.md",
-    "00.Inbox/PARA.md",
     "Excalidraw/PARA.md",
     "Templates/test.md",
     "03.Resources/UIUX/UIUX.md",
