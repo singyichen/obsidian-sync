@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:38
+updated: 2024-02-05T16:40
 author: mandy
 aliases: 
 category: 
@@ -29,6 +29,7 @@ template-should-create: open-pane
 |   Area    | 與職責相關 | 長期關注 |     Ｘ     |        X         |
 | Resources |    興趣    |   偶爾   |     X      |        X         |
 | Archives  |    留存    |    Ｘ    |     X      |        X         |
+
 
 
 
