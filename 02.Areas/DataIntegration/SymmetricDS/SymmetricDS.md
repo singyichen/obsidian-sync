@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T20:51
+updated: 2024-02-05T20:53
 title: SymmetricDS
 description: 
 author: mandy
@@ -189,7 +189,9 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 
 ## 雙負載平衡器 Dual Load Balancer
 
-![symmetricds cluster diagram with dual load balancers.png](http://192.168.25.60:8000/files/file_storage/2969f40c.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-cluster-diagram-with-dual-load-balancers.png)
+
 
 在集群設置中，也可以使用兩個負載平衡器或兩個負載平衡器終點。以下是一個簡單的雙向複製設置的範例，包含每側的負載平衡器。這將為兩個高流量關鍵節點提供高可用性和擴展性。同樣，所有其他原則都適用於設置集群啟用等。此時，兩個節點 1 引擎的 sync.url 將匹配並且是左側負載平衡器的 URL。通過將右側端點的負載平衡器提供為節點 2 引擎檔案的 sync.url，也會發生類似的設置。
 
