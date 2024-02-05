@@ -22,3 +22,4 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 # ✍️ My Top 3 Quotes
 
 # 📒 Summary + Notes
+```

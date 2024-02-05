@@ -1,3 +1,25 @@
+---
+aliases: 
+category: 
+tags: 
+AutoNoteMover: disable
+disabled rules:
+  - all
+template-output: 030-Inbox
+template-input: title,body
+template-replacement: "[[learning-note]]"
+template-should-replace: sometimes
+template-should-create: open-pane
+created: 2024-02-0514:37
+author: mandy
+---
+# skill-tree
+
+- [ ] []()
+- [ ] []()
+
+
+
 # Skill Tree
 
 - [ ] [roadmap](https://roadmap.sh/)
