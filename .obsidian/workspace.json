@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md"
               }
             }
           },
@@ -211,13 +211,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0cda098af97cc537",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "04.Archives/lottery-system/dev-tech.md",
     "Excalidraw/lottery-system-tech.md",

@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:16
+updated: 2024-02-05T21:17
 title: SymmetricDSInstall
 description: 
 author: mandy
@@ -304,9 +304,7 @@ select * from sale_return_line_item;
 ```
 
 # 節點屬性檔案 Node Properties File 
-- 參閱文件 [SymmetricDS Node Properties File](/軟體開發/學習心得/11542/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile)
-[[SymmetricDSNodePropertiesFile]]
+- 參閱文件 [[SymmetricDSNodePropertiesFile]]
 # 組態 Configuration
-- 參閱文件 [SymmetricDS Configuration](/軟體開發/學習心得/11542/DataIntegration/SymmetricDS/SymmetricDSConfiguration)
-
+- 參閱文件 [[SymmetricDS-Configuration]]
 
