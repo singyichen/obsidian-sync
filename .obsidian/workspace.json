@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md"
               }
             }
           },
@@ -212,6 +212,8 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
     "04.Archives/lottery-system/dev-tech.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
@@ -222,8 +224,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
     "03.Resources/KM/PARA.md",
     "02.Areas/Framework/backend/comparison.md",
     "Templates/book-template.md",
