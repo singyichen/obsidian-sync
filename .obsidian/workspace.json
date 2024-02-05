@@ -11,9 +11,12 @@
             "id": "823226c2d42ed817",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "Framework/backend/comparison.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "Framework/backend/comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "Framework/backend/comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "Framework/backend/comparison.md"
               }
             }
           },
@@ -204,12 +207,12 @@
   },
   "active": "823226c2d42ed817",
   "lastOpenFiles": [
+    "Excalidraw/node-web-framework.md",
     "Framework/backend/comparison.md",
     "2024-02-05.md",
     "skill-tree.md",
     "software.md",
     "UIUX/UX.md",
-    "Excalidraw/node-web-framework.md",
     "UIUX/UIUX.md",
     "README.md",
     "UIUX",
