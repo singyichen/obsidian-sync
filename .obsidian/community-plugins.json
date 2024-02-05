@@ -26,5 +26,7 @@
   "markdown-table-editor",
   "obsidian-checklist-plugin",
   "obsidian-day-planner",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "obsidian-plugin-update-tracker",
+  "update-time-on-edit"
 ]

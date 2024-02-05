@@ -1,0 +1,13 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Templates/learning-template.md": "5febf52b6dfab56cc92bef3b94d1c7922b9f1e222590b1f4781192c0ec03ad72"
+  }
+}
