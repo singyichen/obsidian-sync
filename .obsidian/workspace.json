@@ -11,8 +11,12 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md"
+              }
             }
           },
           {
@@ -202,8 +210,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
@@ -217,7 +226,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "04.Archives/lottery-system/dev-tech.md",
