@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:10
+updated: 2024-02-05T21:04
 title: SymmetricDSConfiguration
 description: 
 author: mandy
@@ -143,7 +143,7 @@ insert into sym_node_group_link (source_node_group_id, target_node_group_id, dat
 - `target_node_group_id` **目標節點群組編號**：目標節點群組編號 
 - `router_type` **路由類型**：
 	- `default` **預設**：將所有捕獲的資料發送到屬於路由器中定義的目標節點組的所有節點的路由器
-  - `column` **欄位**：將捕獲的資料行中的舊列值或新列值與常數值或目標節點的外部 ID 或節點 ID 的值進行比對的路由器，需設定條件在 `router_expression` 中
+	-  `column` **欄位**：將捕獲的資料行中的舊列值或新列值與常數值或目標節點的外部 ID 或節點 ID 的值進行比對的路由器，需設定條件在 `router_expression` 中
 - `router_expression` 設定條件：設定條件
 - `sync_on_update` 設定是否同步更新資料：`1` 表示啟用，`0` 表示停用
 - `sync_on_insert` 設定是否同步新增資料：`1` 表示啟用，`0` 表示停用
