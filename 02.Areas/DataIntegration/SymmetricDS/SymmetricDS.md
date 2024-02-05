@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T20:47
+updated: 2024-02-05T20:48
 title: SymmetricDS
 description: 
 author: mandy
@@ -72,7 +72,8 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 - 對於各個服務器，不管是 Server 還是 Client，都需要組態 SymmetricDS 服務，主要用來進行監聽與執行動作。並且是以 Node 來代表服務器進行設置。
 - Trigger 是為了實現系統的即時性，系統持續在監聽資料庫，當發生變化時，會同時向關連的 Node 發起 Sync Request，關連的 Node 接收 Request 後做出對應的動作。
 
-![symmetricds Configuration Data Model.png](http://192.168.25.60:8000/files/file_storage/1b1e3ae9.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-configuration-data-model.png)
 
 ## 運行時資料模型 Runtime Data Model
 當每個 Node 監聽到本機的 Data change event，會把變動的數據通過 Trigger 與關連 Node 進行通訊。
