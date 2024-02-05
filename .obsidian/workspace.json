@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e4cab5442eb35c5c",
+        "id": "4174a94f884db279",
         "type": "tabs",
         "children": [
           {
-            "id": "0cda098af97cc537",
+            "id": "017b827a3fa4b60b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md"
               }
             }
           },
@@ -208,11 +210,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0cda098af97cc537",
+  "active": "017b827a3fa4b60b",
   "lastOpenFiles": [
-    "Excalidraw/symmetricds-usage-user-case.png",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Excalidraw/symmetricds-usage-user-case.md",
+    "images/symmetricds-usage-user-case.png",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "Templates/book-template.md",
@@ -256,7 +258,6 @@
     "Images/adobe-illustrator-logo.png",
     "Images/figjam-logo.png",
     "Images/figma-logo.png",
-    "Images/gitea-logo.png",
     "Excalidraw/未命名.canvas"
   ]
 }
