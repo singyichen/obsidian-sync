@@ -6,3 +6,4 @@
 - [ ] [IT-Tools](https://it.jason.tools/)
 - [ ] [Essential skills for a web developer](https://learningdaily.dev/essential-skills-for-a-web-developer-5dbc052cea89)
 
+![web developer skills.png](https://raw.githubusercontent.com/singyichen/images/main/images/web developer skills.png)
