@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/SymmetricDS Usage.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/SymmetricDS Usage.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/SymmetricDS Usage.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/SymmetricDS Usage.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           },
@@ -219,10 +219,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f089b0895c16e607",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
     "Excalidraw/node-web-framework.md",
-    "Excalidraw/SymmetricDS Usage.md",
+    "Excalidraw/symmetricds-usage-user-case.md",
     "未命名.md",
     "未命名.canvas",
     "Excalidraw/PARA.md",
