@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T20:53
+updated: 2024-02-05T20:54
 title: SymmetricDS
 description: 
 author: mandy
@@ -197,7 +197,9 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 
 ## 零售店兩層部署範例
 
-![symmetricds Two-Tier Retail Store Deployment Example.png](http://192.168.25.60:8000/files/file_storage/187f523e.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-Two-Tier-Retail-Store-Deployment-Example.png)
+
 
 展示的零售示例代表了一個樹形層次結構，其中一個中央辦公室節點通過連線與一個或多個子節點（ POS 工作站）相連。資訊從中央辦公室節點流向個別的註冊機，反之亦然，但從不在註冊機之間流動。
 
