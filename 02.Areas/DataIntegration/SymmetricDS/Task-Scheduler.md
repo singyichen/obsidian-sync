@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:26
+updated: 2024-02-05T21:27
 title: TaskScheduler
 description: 
 author: mandy
@@ -89,12 +89,12 @@ Get-Date
 ## 觸發程序設定執行時間
 - 設定開始執行時間：`此處設定為休假日的時段`
 
-![工作排程器 工作觸發程序 設定執行時間.png](http://192.168.25.60:8000/files/file_storage/1085a1fd.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/工作排程器-工作觸發程序-設定執行時間.png)
 
 ## 動作
 - 您希望工作執行什麼動作：`啟動程式`
 
-![工作排程器 動作.png](http://192.168.25.60:8000/files/file_storage/3796ca4e.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/工作排程器-動作.png)
 
 ## 啟動程式
 - 程式或指令碼：`"C:\Program Files\PowerShell\7\pwsh.exe"`
