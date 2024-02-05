@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Pasted Image 20240201163831_891.svg"
+                "file": "Images/Pasted Image 20240201165156_336.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted Image 20240201163831_891.svg",
+                "file": "Images/Pasted Image 20240201165156_336.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted Image 20240201163831_891.svg",
+                "file": "Images/Pasted Image 20240201165156_336.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted Image 20240201163831_891.svg"
+                "file": "Images/Pasted Image 20240201165156_336.png"
               }
             }
           },
@@ -210,17 +210,17 @@
   },
   "active": "8efea57d44a3a5b6",
   "lastOpenFiles": [
-    "Images/Pasted Image 20240201163628_014.png",
     "Images/Pasted Image 20240201163831_891.svg",
+    "Images/adobe-photoshop-logo.png",
+    "Images/Pasted Image 20240201165156_336.png",
+    "Images/saas-logo.png",
+    "Images/Pasted Image 20240201163628_014.png",
     "Images/adobe-illustrator-logo.png",
     "Images/figjam-logo.png",
     "Images/figma-logo.png",
     "Images/gitea-logo.png",
     "Images/sonarqube-logo.png",
     "Images/postman-logo.png",
-    "Images/playwright-logo.svg",
-    "Images/docker-logo.png",
-    "Images/jest-logo.png",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/PARP.md",
     "Excalidraw/node-web-framework.md",
