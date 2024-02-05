@@ -47,9 +47,11 @@
             "id": "0b401b5a613a54d7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "UIUX/UIUX.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,11 +102,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 296.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "UIUX/UIUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "UIUX/UIUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "UIUX/UIUX.md"
               }
             }
           },
@@ -199,8 +202,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b401b5a613a54d7",
+  "active": "d5586509af353f80",
   "lastOpenFiles": [
+    "Excalidraw/node-web-framework.md",
     "software.md",
     "README.md",
     "skill-tree.md",
@@ -208,7 +212,6 @@
     "UIUX/UX.md",
     "UIUX/UIUX.md",
     "UIUX",
-    "Excalidraw/node-web-framework.md",
     "().md",
     "2024-02-03.md",
     "Excalidraw/Drawing 2024-02-03 23.47.44.excalidraw.md",
