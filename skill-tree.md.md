@@ -10,6 +10,3 @@
 
 ![web-developer-skills.png](https://raw.githubusercontent.com/singyichen/images/main/images/web-developer-skills.png)
 
-
-
-
