@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software.md",
+                "file": "skill-tree.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "skill-tree.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "skill-tree.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "skill-tree.md.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "8793f138af4b3548",
   "lastOpenFiles": [
-    "skill-tree.md.md",
     "software.md",
+    "skill-tree.md.md",
     "Excalidraw/node-web-framework.md",
     "Framework/backend/comparison.md",
     "().md",
