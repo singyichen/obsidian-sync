@@ -20,7 +20,7 @@
 | 錯誤處理 | 簡單，但可以自定義錯誤處理函式 | 靈活，支援自定義錯誤處理函式和錯誤狀態碼 | 靈活，支援自定義錯誤處理函式和錯誤狀態碼 | 靈活，支援自定義錯誤處理函式和錯誤狀態碼 |
 | 模板引擎 | 支援多種模板引擎，例如 EJS、Pug 等 | 支援多種模板引擎，例如 EJS、Pug 等 | 支援多種模板引擎，例如 EJS、Pug 等 | 支援多種模板引擎，例如 EJS、Pug 等 |
 | 資料庫 | 支援多種資料庫，例如 MySQL、PostgreSQL 等 | 支援多種資料庫，例如 MySQL、PostgreSQL 等 | 支援多種資料庫，例如 MySQL、PostgreSQL 等 | 支援多種資料庫，例如 MySQL、PostgreSQL 等 |
-| 驗證 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、JWT 等 |
+| 驗證 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、[@fastify/jwt](https://github.com/fastify/fastify-jwt) 等 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、JWT 等 |
 | 效能 | 較低 | 優異 | 優異 | 優異 |
 | 可擴充性 | 較差 | 優異 | 優異 | 優異 |
 | 學習曲線 | 平緩 | 陡峭 | 陡峭 | 陡峭 |
