@@ -101,7 +101,7 @@ published: false
 ```
 
 # 管理工具
-- 參閱文件 [[SymmetricDSTool]]
+- 參閱文件 [[SymmetricDS-Tool]]
 # 啟用服務步驟
 ## 部屬啟用服務所需設定檔
 - 將 `corp-000.properties`、`store-001.properties`、`store-002.properties` 複製到資料夾 `engines` 中
@@ -304,7 +304,7 @@ select * from sale_return_line_item;
 ```
 
 # 節點屬性檔案 Node Properties File 
-- 參閱文件 [[SymmetricDSNodePropertiesFile]]
+- 參閱文件 [[SymmetricDS-Node-Properties-File]]
 # 組態 Configuration
 - 參閱文件 [[SymmetricDS-Configuration]]
 
