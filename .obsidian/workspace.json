@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARP.md",
+                "file": "Templates/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARP.md",
+                "file": "Templates/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARP.md",
+                "file": "Templates/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARP.md"
+                "file": "Templates/note.md"
               }
             }
           },
@@ -237,8 +237,8 @@
   },
   "active": "3625dae46fb93704",
   "lastOpenFiles": [
-    "Templates/note.md",
     "PARP.md",
+    "Templates/note.md",
     "skill-tree.md",
     "README.md",
     "Excalidraw/node-web-framework.md",
