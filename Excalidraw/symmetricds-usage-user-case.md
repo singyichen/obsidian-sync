@@ -260,8 +260,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "rectangle",
-			"version": 196,
-			"versionNonce": 1751662293,
+			"version": 198,
+			"versionNonce": 698267797,
 			"isDeleted": false,
 			"id": "c_7ZzTURLtX8dz9kRKKBz",
 			"fillStyle": "solid",
@@ -294,9 +294,17 @@ JDBC ^2iDFkeN8
 				{
 					"id": "-HeUsL2y52MDSQxoLzvOI",
 					"type": "arrow"
+				},
+				{
+					"id": "p_4N-Z2rJbU73aF4L2Cor",
+					"type": "arrow"
+				},
+				{
+					"id": "aYk4iz4b53dYThsxpmmT2",
+					"type": "arrow"
 				}
 			],
-			"updated": 1707141191526,
+			"updated": 1707141578580,
 			"link": null,
 			"locked": false
 		},
@@ -341,8 +349,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "arrow",
-			"version": 252,
-			"versionNonce": 946234139,
+			"version": 261,
+			"versionNonce": 1692310171,
 			"isDeleted": false,
 			"id": "fGC-8zy50ohRsovWv3pUH",
 			"fillStyle": "solid",
@@ -364,7 +372,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141308440,
+			"updated": 1707141543926,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -393,8 +401,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "arrow",
-			"version": 198,
-			"versionNonce": 1259771995,
+			"version": 202,
+			"versionNonce": 965144539,
 			"isDeleted": false,
 			"id": "-HeUsL2y52MDSQxoLzvOI",
 			"fillStyle": "solid",
@@ -416,7 +424,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141308440,
+			"updated": 1707141543926,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -625,8 +633,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "rectangle",
-			"version": 255,
-			"versionNonce": 1383979259,
+			"version": 257,
+			"versionNonce": 487156181,
 			"isDeleted": false,
 			"id": "zjLs9F-UDpBTm4HWgVO1T",
 			"fillStyle": "solid",
@@ -657,9 +665,17 @@ JDBC ^2iDFkeN8
 				{
 					"id": "6g5s8EiZyc2Ck5s0Y0qkS",
 					"type": "arrow"
+				},
+				{
+					"id": "p_4N-Z2rJbU73aF4L2Cor",
+					"type": "arrow"
+				},
+				{
+					"id": "aYk4iz4b53dYThsxpmmT2",
+					"type": "arrow"
 				}
 			],
-			"updated": 1707141241989,
+			"updated": 1707141578580,
 			"link": null,
 			"locked": false
 		},
@@ -702,8 +718,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "arrow",
-			"version": 425,
-			"versionNonce": 1663086747,
+			"version": 429,
+			"versionNonce": 167120795,
 			"isDeleted": false,
 			"id": "6haaSSgtgbq0g29mMwe7H",
 			"fillStyle": "solid",
@@ -723,7 +739,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141520618,
+			"updated": 1707141543927,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -752,8 +768,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "arrow",
-			"version": 371,
-			"versionNonce": 314279387,
+			"version": 375,
+			"versionNonce": 1560618203,
 			"isDeleted": false,
 			"id": "6g5s8EiZyc2Ck5s0Y0qkS",
 			"fillStyle": "solid",
@@ -773,7 +789,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141520618,
+			"updated": 1707141543927,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -838,46 +854,110 @@ JDBC ^2iDFkeN8
 			"baseline": 26
 		},
 		{
-			"text": "PostgreSQL\r\n(Server)\r\n192.168.XX.XX\r\ndocker\r\nDB：A_SY004",
-			"fontSize": 28,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 160,
-			"id": "isFmgCsT",
-			"type": "text",
-			"x": 512.1085543959434,
-			"y": 211.85864320945086,
-			"width": 213.28125,
-			"height": 168,
+			"id": "p_4N-Z2rJbU73aF4L2Cor",
+			"type": "arrow",
+			"x": 945.4293779846153,
+			"y": -150.87598287156408,
+			"width": 0,
+			"height": 264.6982406537135,
 			"angle": 0,
-			"strokeColor": "#7950f2",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#9775fa",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"roundness": null,
-			"seed": 19582,
-			"version": 2,
-			"versionNonce": 896064667,
-			"updated": 1707141500406,
-			"isDeleted": true,
 			"groupIds": [],
-			"boundElements": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 409063803,
+			"version": 110,
+			"versionNonce": 516880251,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707141560644,
 			"link": null,
 			"locked": false,
-			"containerId": null,
-			"originalText": "PostgreSQL\r\n(Server)\r\n192.168.XX.XX\r\ndocker\r\nDB：A_SY004",
-			"rawText": "PostgreSQL\r\n(Server)\r\n192.168.XX.XX\r\ndocker\r\nDB：A_SY004",
-			"lineHeight": 1.2
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					264.6982406537135
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "c_7ZzTURLtX8dz9kRKKBz",
+				"focus": 0.14851485148514734,
+				"gap": 11.64366251276158
+			},
+			"endBinding": {
+				"elementId": "zjLs9F-UDpBTm4HWgVO1T",
+				"focus": -0.15841584158415517,
+				"gap": 12.744730105549138
+			},
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
+		},
+		{
+			"id": "aYk4iz4b53dYThsxpmmT2",
+			"type": "arrow",
+			"x": 970.9188381957135,
+			"y": 113.82225778214945,
+			"width": 0,
+			"height": 262.7375129451675,
+			"angle": 0,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#9775fa",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 848842779,
+			"version": 68,
+			"versionNonce": 2017945397,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707141578580,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-262.7375129451675
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "zjLs9F-UDpBTm4HWgVO1T",
+				"focus": 0.09900990099010128,
+				"gap": 12.744730105549138
+			},
+			"endBinding": {
+				"elementId": "c_7ZzTURLtX8dz9kRKKBz",
+				"focus": -0.10891089108910912,
+				"gap": 13.604390221307597
+			},
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#7950f2",
+		"currentItemStrokeColor": "#343a40",
 		"currentItemBackgroundColor": "#9775fa",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,

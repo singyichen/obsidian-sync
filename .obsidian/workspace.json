@@ -210,8 +210,10 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "images/postgresql-logo.png",
+    "Templates/book-template.md",
     "Excalidraw/symmetricds-usage-user-case.md",
+    "04.Archives/lottery-system/dev-tech.md",
+    "images/postgresql-logo.png",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "Excalidraw/node-web-framework.md",
@@ -232,10 +234,8 @@
     "Templates/learning-template.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "04.Archives/lottery-system/dev-tech.md",
     "03.Resources/KM/PARA.md",
     "02.Areas/Framework/backend/comparison.md",
-    "Templates/book-template.md",
     "Templates/blog-post-template.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
@@ -256,7 +256,6 @@
     "Images/figjam-logo.png",
     "Images/figma-logo.png",
     "Images/gitea-logo.png",
-    "Images/sonarqube-logo.png",
     "Excalidraw/未命名.canvas"
   ]
 }
