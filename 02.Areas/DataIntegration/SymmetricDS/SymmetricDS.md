@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T20:56
+updated: 2024-02-05T20:58
 title: SymmetricDS
 description: 
 author: mandy
@@ -216,7 +216,9 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 
 ## 零售店三層部署範例 - 區域伺服器
 
-![symmetricds Three-Tier, Regional Server, Retail Store Deployment Example.png](http://192.168.25.60:8000/files/file_storage/db1e3c93.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-Three-Tier-Regional-Server-Retail-Store-Deployment-Example.png)
+
 
 最後一個範例再次擴展了我們最初的零售店兩層架構，按世界上的“地區”來組織商店。這種三層架構將引入新的區域伺服器（和相應的區域資料庫），其將整合區域伺服器負責的商店的特定資訊。因此，這種情況下的層級是中央辦公室伺服器、區域伺服器和個別商店註冊機。
 
