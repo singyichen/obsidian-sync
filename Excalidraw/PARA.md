@@ -20,11 +20,11 @@ Area ^ZgSEqi77
 
 A ^nMiz5zJz
 
-Area ^bMQfTCxM
+Resource ^bMQfTCxM
 
 領域 ^rXL92zxb
 
-A ^1nhz2ulI
+R ^1nhz2ulI
 
 %%
 # Drawing
@@ -400,8 +400,8 @@ A ^1nhz2ulI
 		},
 		{
 			"type": "rectangle",
-			"version": 378,
-			"versionNonce": 982853228,
+			"version": 381,
+			"versionNonce": 1130390636,
 			"isDeleted": false,
 			"id": "MKnNs4Zx4PdhDKZcRC1V_",
 			"fillStyle": "solid",
@@ -412,25 +412,23 @@ A ^1nhz2ulI
 			"angle": 0,
 			"x": 72.30495392747991,
 			"y": -560.0281662612679,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#69db7c",
+			"strokeColor": "#f08c00",
+			"backgroundColor": "#ffa94d",
 			"width": 231,
 			"height": 90,
 			"seed": 453809748,
-			"groupIds": [
-				"tlRZJfME2zUqT9iCOz_f7"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707124705424,
+			"updated": 1707124731337,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 416,
-			"versionNonce": 1350400236,
+			"version": 429,
+			"versionNonce": 2138108652,
 			"isDeleted": false,
 			"id": "bMQfTCxM",
 			"fillStyle": "solid",
@@ -443,33 +441,31 @@ A ^1nhz2ulI
 			"y": -552.0281662612679,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
-			"width": 65.625,
+			"width": 131.25,
 			"height": 33.6,
 			"seed": 189705172,
-			"groupIds": [
-				"tlRZJfME2zUqT9iCOz_f7"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707124705424,
+			"updated": 1707124764841,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 3,
-			"text": "Area",
-			"rawText": "Area",
+			"text": "Resource",
+			"rawText": "Resource",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Area",
+			"originalText": "Resource",
 			"lineHeight": 1.2,
 			"baseline": 26
 		},
 		{
 			"type": "text",
-			"version": 381,
-			"versionNonce": 1521974124,
+			"version": 382,
+			"versionNonce": 1409936596,
 			"isDeleted": false,
 			"id": "rXL92zxb",
 			"fillStyle": "solid",
@@ -485,13 +481,11 @@ A ^1nhz2ulI
 			"width": 56,
 			"height": 32.199999999999996,
 			"seed": 632426836,
-			"groupIds": [
-				"tlRZJfME2zUqT9iCOz_f7"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707124705424,
+			"updated": 1707124713582,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -507,8 +501,8 @@ A ^1nhz2ulI
 		},
 		{
 			"type": "ellipse",
-			"version": 470,
-			"versionNonce": 1133325804,
+			"version": 473,
+			"versionNonce": 2012818412,
 			"isDeleted": false,
 			"id": "2L1So88xN-aO23fxkq_m0",
 			"fillStyle": "solid",
@@ -519,14 +513,12 @@ A ^1nhz2ulI
 			"angle": 0,
 			"x": 219.30495392747991,
 			"y": -552.4181662612677,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#40c057",
+			"strokeColor": "#f08c00",
+			"backgroundColor": "#fab005",
 			"width": 74.62886597938143,
 			"height": 72.38999999999999,
 			"seed": 965527252,
-			"groupIds": [
-				"tlRZJfME2zUqT9iCOz_f7"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
@@ -537,14 +529,14 @@ A ^1nhz2ulI
 					"id": "1nhz2ulI"
 				}
 			],
-			"updated": 1707124705424,
+			"updated": 1707124739880,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 429,
-			"versionNonce": 470323308,
+			"version": 432,
+			"versionNonce": 1238945620,
 			"isDeleted": false,
 			"id": "1nhz2ulI",
 			"fillStyle": "solid",
@@ -560,23 +552,21 @@ A ^1nhz2ulI
 			"width": 17.4375,
 			"height": 35.72307692307692,
 			"seed": 997510228,
-			"groupIds": [
-				"tlRZJfME2zUqT9iCOz_f7"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707124705424,
+			"updated": 1707124757800,
 			"link": null,
 			"locked": false,
 			"fontSize": 29.769230769230763,
 			"fontFamily": 3,
-			"text": "A",
-			"rawText": "A",
+			"text": "R",
+			"rawText": "R",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "2L1So88xN-aO23fxkq_m0",
-			"originalText": "A",
+			"originalText": "R",
 			"lineHeight": 1.2,
 			"baseline": 28
 		}
@@ -584,8 +574,8 @@ A ^1nhz2ulI
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#2f9e44",
-		"currentItemBackgroundColor": "#40c057",
+		"currentItemStrokeColor": "#f08c00",
+		"currentItemBackgroundColor": "#fab005",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
