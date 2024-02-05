@@ -8,17 +8,17 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Templates/learning-template.md": "d99c026c8ee7c50be427aca803058c2bc265f229bfcb77684fb5827ab9c27e36",
-    "02.Areas/Framework/backend/comparison.md": "e931e5c7e697cdc21a19af48b5a5ebbe31e8d6fd860f9be16c54e5afbcdb6f94",
-    "03.Resources/UIUX/UIUX.md": "3a8babfb504f1b1de0295f9cca468eb95434b16bcdfce54e59adf28426fa2715",
-    "03.Resources/UIUX/UX.md": "7a3825244ffb5e69590d358e61994815b1fad871b0145fd0c7fc6ebee1574b2d",
+    "Templates/learning-template.md": "b6f94d6a811d4db9deac42ffd15dbb577ccee0e9caa9ff9b5c341651568ada70",
+    "02.Areas/Framework/backend/comparison.md": "bb5f002a211487882c0844fe88a8a26ed3e04da399047199b4e480a8328a7cf6",
+    "03.Resources/UIUX/UIUX.md": "c26697eb74799a55b77495de0fd6dfc520869aa587d3e6276bc1b8999e3cdb25",
+    "03.Resources/UIUX/UX.md": "ea93892b9214b9e74a3aa46248cb546cf05f6b11f0d7a0bd460f5f558940c436",
     "skill-tree.md": "5f940ab0b28ec615ed4530cdc5cb4cd27146e2c8e4e386003389259c3ce78639",
     "software.md": "a9f050d834913160b516d0667c57e9f6b6c4c33985b8ad27a84a44144a91c37f",
     "Templates/blog-post-template.md": "39c2b1ec13c16c6173946f503fcbbd6a9920055da88553f651df7486719d26a7",
     "Templates/meeting-template.md": "b40706d89755b5d47e66b018e63b190a7dde88afe20a1ec2837b82ea9686a97d",
-    "Templates/book-template.md": "2fb6e39bfcd763096f9be589382280f14ab4c038e3840ccd3c5fd594e87c4150",
-    "03.Resources/KM/PARA.md": "4a7a95a6df93abc00ee9ec0d10c6b7746ae0aa5a7c5df1362154273b4fdb0f2d",
-    "Templates/dev-tech-template.md": "e9b17d5360776fe238dcaf1d2256e80f421b6cd9ff8e42c8d3b74d6ceedf84d9",
-    "04.Archives/lottery-system/dev-tech.md": "df3343b0b2ff4954caae94795bfee2569974419254a1b28a0aec9f46ce99454a"
+    "Templates/book-template.md": "a691f0d388e8e56f0f07d3dcb84937153491fc577a7bdbe3b7cc010ec47218f7",
+    "03.Resources/KM/PARA.md": "935092f8cc2a1601f23f2ead0b241066c032e2f12056ac660ef9ab88078df023",
+    "Templates/dev-tech-template.md": "9010873dcc8e5affe1a06109fb3e5c2e051f1682c4f8f27a4d9dc276981487c9",
+    "04.Archives/lottery-system/dev-tech.md": "beb18247ad86258ca81b91f30995b3644bf6dce6f7537bf1922b8d8f7b7059a1"
   }
 }
