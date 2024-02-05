@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/KM/PARA.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md"
               }
             }
           },
@@ -210,11 +210,20 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "03.Resources/KM/PARA.md",
+    "02.Areas/DataIntegration/SymmetricDS/TaskScheduler.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSUsage.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+    "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
     "Excalidraw/PARA.md",
-    "03.Resources/KM/PARA.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
     "02.Areas/Framework/backend/comparison.md",
@@ -233,8 +242,6 @@
     "software.md",
     "README.md",
     "Templates/test.md",
-    "00.Inbox/PARP.md",
-    "PARP.md",
     "Templates",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
@@ -246,18 +253,11 @@
     "Images/figma-logo.png",
     "Images/gitea-logo.png",
     "Images/sonarqube-logo.png",
-    "2024-02-05.md",
-    "2024-02-04.md",
     "Images",
     "Excalidraw/未命名.canvas",
     "03.Resources/PM",
     "00.Inbox",
     "04.Archives",
-    "03.Resources",
-    "02.Areas",
-    "01.Projects",
-    "2024-02-03.md",
-    "Excalidraw/Drawing 2024-02-03 23.47.44.excalidraw.md",
-    "[.md"
+    "03.Resources"
   ]
 }
