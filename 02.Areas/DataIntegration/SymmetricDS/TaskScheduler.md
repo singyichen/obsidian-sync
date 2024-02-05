@@ -8,6 +8,7 @@ aliases:
 category: 
 tags:
   - task
+  - schedule
 AutoNoteMover: disable
 disabled rules:
   - all
@@ -16,15 +17,10 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
-published: false
+published: true
 ---
-# 🚀 TaskScheduler
+# 🚀 Task Scheduler
 
-- [ ] []()
-- [ ] []()
-
-
-# Task Scheduler
 - [ ] [使用工作排程器執行批次檔](https://snoopy30485.github.io/2019/01/23/%E4%BD%BF%E7%94%A8%E5%B7%A5%E4%BD%9C%E6%8E%92%E7%A8%8B%E5%99%A8%E5%9F%B7%E8%A1%8C%E6%89%B9%E6%AC%A1%E6%AA%94/)
 - [ ] [Windows 工作排程](https://medium.com/coding-learning-sharing/windows-%E5%B7%A5%E4%BD%9C%E6%8E%92%E7%A8%8B-56989747a1ce)
 - [ ] [PowerShell 練習 - 用 PowerShell 設定 Windows 排程跑 PowerShell](https://blog.darkthread.net/blog/psfaq-setup-schtask/)

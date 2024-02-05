@@ -1,14 +1,29 @@
 ---
-title: SymmetricDS Docker Install
+created: 2024-02-05T14:13
+updated: 2024-02-05T19:12
+title: SymmetricDSDockerInstall
 description: 
-published: true
-date: 2023-10-03T00:49:06.706Z
-tags: docker, symmetricds
-editor: markdown
-dateCreated: 2023-10-03T00:45:02.521Z
-created: 2024-02-05T19:03
-updated: 2024-02-05T19:10
+author: mandy
+aliases: 
+category: 
+tags:
+  - docker
+  - symmetricds
+AutoNoteMover: disable
+disabled rules:
+  - all
+template-output: 030-Inbox
+template-input: title,body
+template-replacement: "[[learning-template]]"
+template-should-replace: sometimes
+template-should-create: open-pane
+published: false
 ---
+# 🚀 SymmetricDS Docker Install
+
+- [ ] []()
+- [ ] []()
+
 
 # SymmetricDS Docker Install
 - [ ] [jumpmind/symmetricds](https://hub.docker.com/r/jumpmind/symmetricds)
