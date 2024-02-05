@@ -11,11 +11,9 @@
             "id": "823226c2d42ed817",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Framework/backend/comparison.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/node-web-framework.md"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/backend/comparison.md",
+                "file": "Excalidraw/node-web-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/backend/comparison.md",
+                "file": "Excalidraw/node-web-framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/backend/comparison.md"
+                "file": "Excalidraw/node-web-framework.md"
               }
             }
           },
@@ -206,8 +204,8 @@
   },
   "active": "823226c2d42ed817",
   "lastOpenFiles": [
-    "2024-02-05.md",
     "Framework/backend/comparison.md",
+    "2024-02-05.md",
     "skill-tree.md",
     "software.md",
     "UIUX/UX.md",
