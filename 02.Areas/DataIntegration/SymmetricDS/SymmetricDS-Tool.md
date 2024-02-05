@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:13
+updated: 2024-02-05T21:20
 title: SymmetricDSTool
 description: 
 author: mandy
@@ -184,7 +184,7 @@ published: false
 - `--use-sym-config <arg>`：`true|false`。如果為 `true`，將諮詢 `symtrigger`、`symtransform` 等來構建要比較的資料模型。默認值為 `true`
 ### 結果
 
-![symmetricds dbcompare example results.png](http://192.168.25.60:8000/files/file_storage/df6a2cba.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-dbcompare-example-results.png)
 
 ```
 +---------------------------------------+---------------------------------------+------------+------------+------------+------------+------------+------------+------------+
