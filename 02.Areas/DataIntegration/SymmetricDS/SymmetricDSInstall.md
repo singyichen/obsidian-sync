@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:09
+updated: 2024-02-05T21:14
 title: SymmetricDSInstall
 description: 
 author: mandy
@@ -109,6 +109,9 @@ published: false
 
 ## 使用管理員身分開啟 PowerShell  執行
 - 開始列表 ➔ `PowerShell 7(x64)` ➔ 右鍵選取 `Run as Administrator`
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/PowerShell-Run-as-Administrator.png)
+
 
 ![PowerShell Run as Administrator.png](http://192.168.25.60:8000/files/file_storage/5808dc4c.png)
 
