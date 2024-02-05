@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T22:23
+updated: 2024-02-05T22:25
 title: SymmetricDSUsage
 description: 
 author: mandy
@@ -39,7 +39,6 @@ published: false
 https://miro.com/app/board/uXjVPF_1HJ4=/?moveToWidget=3458764557142315227&cot=10
 
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-usage-user-case.png)
-
 
 ![[symmetricds-usage-user-case|1000]]
 ## SymmetricDS 安裝路徑
