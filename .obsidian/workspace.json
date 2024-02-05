@@ -11,13 +11,8 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,10 +204,12 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "Templates/learning-template.md",
+    "未命名.canvas",
+    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
-    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
@@ -231,7 +224,6 @@
     "Templates/blog-post-template.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
-    "Templates/learning-template.md",
     "Templates/dev-tech-template.md",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
@@ -242,7 +234,6 @@
     "skill-tree.md",
     "software.md",
     "README.md",
-    "Templates/test.md",
     "Templates",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",

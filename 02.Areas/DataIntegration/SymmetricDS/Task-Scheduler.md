@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:28
+updated: 2024-02-05T21:29
 title: TaskScheduler
 description: 
 author: mandy
@@ -116,5 +116,4 @@ Get-Date
 - 工作設定完成會出現在列表中
 - 勾選 `以最高權限執行`：表示會 `Run as Administrator` 執行
 
-![工作排程器 任務內容 以最高權限執行.png](http://192.168.25.60:8000/files/file_storage/5cce9b8e.png)
-
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/工作排程器-任務內容-以最高權限執行.png)
