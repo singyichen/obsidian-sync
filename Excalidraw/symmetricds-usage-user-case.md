@@ -34,7 +34,7 @@ DB：A_SY004 ^35L63cQx
 
 client
 port：31415
-server-000 (node 0) ^jo4eBReV
+client-001 (node 1) ^jo4eBReV
 
 JDBC ^2iDFkeN8
 
@@ -666,8 +666,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 1095843643,
+			"version": 152,
+			"versionNonce": 1976789051,
 			"isDeleted": false,
 			"id": "jo4eBReV",
 			"fillStyle": "solid",
@@ -687,24 +687,24 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141278367,
+			"updated": 1707141306807,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "client\nport：31415\nserver-000 (node 0)",
-			"rawText": "client\nport：31415\nserver-000 (node 0)",
+			"text": "client\nport：31415\nclient-001 (node 1)",
+			"rawText": "client\nport：31415\nclient-001 (node 1)",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "zjLs9F-UDpBTm4HWgVO1T",
-			"originalText": "client\nport：31415\nserver-000 (node 0)",
+			"originalText": "client\nport：31415\nclient-001 (node 1)",
 			"lineHeight": 1.2,
 			"baseline": 53
 		},
 		{
 			"type": "arrow",
-			"version": 407,
-			"versionNonce": 1536402715,
+			"version": 413,
+			"versionNonce": 476156853,
 			"isDeleted": false,
 			"id": "6haaSSgtgbq0g29mMwe7H",
 			"fillStyle": "solid",
@@ -724,7 +724,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141280613,
+			"updated": 1707141307500,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -753,8 +753,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "arrow",
-			"version": 353,
-			"versionNonce": 1364941403,
+			"version": 359,
+			"versionNonce": 1855842933,
 			"isDeleted": false,
 			"id": "6g5s8EiZyc2Ck5s0Y0qkS",
 			"fillStyle": "solid",
@@ -774,7 +774,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141280613,
+			"updated": 1707141307501,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -837,6 +837,43 @@ JDBC ^2iDFkeN8
 			"originalText": "JDBC",
 			"lineHeight": 1.2,
 			"baseline": 26
+		},
+		{
+			"type": "text",
+			"version": 2,
+			"versionNonce": 1599629269,
+			"isDeleted": true,
+			"id": "bIJjMBak",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 752.3161765222408,
+			"y": 146.75318539535564,
+			"strokeColor": "#7950f2",
+			"backgroundColor": "transparent",
+			"width": 311.71875,
+			"height": 100.80000000000001,
+			"seed": 44718,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707141291533,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 3,
+			"text": "client\r\nport：31415\r\nserver-000 (node 0)",
+			"rawText": "client\r\nport：31415\r\nserver-000 (node 0)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "client\r\nport：31415\r\nserver-000 (node 0)",
+			"lineHeight": 1.2,
+			"baseline": 93
 		}
 	],
 	"appState": {
