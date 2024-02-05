@@ -14,7 +14,7 @@ Node Group - Server ^SJyc0X4L
 
 PostgreSQL
 (Server)
-192.168.25.59
+192.168.XX.XX
 docker
 DB：A_SY004 ^up9rBNZX
 
@@ -34,8 +34,8 @@ JDBC ^TnY5MSSM
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 894,
-			"versionNonce": 441180763,
+			"version": 896,
+			"versionNonce": 1617987451,
 			"isDeleted": false,
 			"id": "U0w4kQ__-WF_GEmlxt6wk",
 			"fillStyle": "solid",
@@ -55,7 +55,7 @@ JDBC ^TnY5MSSM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141010957,
+			"updated": 1707141098723,
 			"link": null,
 			"locked": false
 		},
@@ -98,8 +98,8 @@ JDBC ^TnY5MSSM
 		},
 		{
 			"type": "rectangle",
-			"version": 626,
-			"versionNonce": 762606715,
+			"version": 628,
+			"versionNonce": 1966371349,
 			"isDeleted": false,
 			"id": "Qrb7ouAnO90MEigBWL75I",
 			"fillStyle": "solid",
@@ -119,14 +119,14 @@ JDBC ^TnY5MSSM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141010075,
+			"updated": 1707141067712,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 390266741,
+			"version": 91,
+			"versionNonce": 1877670875,
 			"isDeleted": false,
 			"id": "SJyc0X4L",
 			"fillStyle": "solid",
@@ -146,7 +146,7 @@ JDBC ^TnY5MSSM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707140511650,
+			"updated": 1707141060076,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -202,8 +202,8 @@ JDBC ^TnY5MSSM
 		},
 		{
 			"type": "text",
-			"version": 87,
-			"versionNonce": 1386875221,
+			"version": 93,
+			"versionNonce": 641779003,
 			"isDeleted": false,
 			"id": "up9rBNZX",
 			"fillStyle": "solid",
@@ -223,24 +223,24 @@ JDBC ^TnY5MSSM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707140985427,
+			"updated": 1707141087616,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "PostgreSQL\n(Server)\n192.168.25.59\ndocker\nDB：A_SY004",
-			"rawText": "PostgreSQL\n(Server)\n192.168.25.59\ndocker\nDB：A_SY004",
+			"text": "PostgreSQL\n(Server)\n192.168.XX.XX\ndocker\nDB：A_SY004",
+			"rawText": "PostgreSQL\n(Server)\n192.168.XX.XX\ndocker\nDB：A_SY004",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "Wp65it_acD-gzG3U4NO-m",
-			"originalText": "PostgreSQL\n(Server)\n192.168.25.59\ndocker\nDB：A_SY004",
+			"originalText": "PostgreSQL\n(Server)\n192.168.XX.XX\ndocker\nDB：A_SY004",
 			"lineHeight": 1.2,
 			"baseline": 92
 		},
 		{
 			"type": "rectangle",
-			"version": 168,
-			"versionNonce": 557588283,
+			"version": 171,
+			"versionNonce": 1236534491,
 			"isDeleted": false,
 			"id": "c_7ZzTURLtX8dz9kRKKBz",
 			"fillStyle": "solid",
@@ -250,11 +250,11 @@ JDBC ^TnY5MSSM
 			"opacity": 100,
 			"angle": 0,
 			"x": 853.2751756829518,
-			"y": -264.5981899672336,
+			"y": -258.7160068415956,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#228be6",
 			"width": 198.0334985631489,
-			"height": 106,
+			"height": 100.11781687436195,
 			"seed": 384113781,
 			"groupIds": [],
 			"frameId": null,
@@ -273,14 +273,14 @@ JDBC ^TnY5MSSM
 					"type": "arrow"
 				}
 			],
-			"updated": 1707140992454,
+			"updated": 1707141105369,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 37,
-			"versionNonce": 1723974965,
+			"version": 40,
+			"versionNonce": 724474875,
 			"isDeleted": false,
 			"id": "FHKwyDsM",
 			"fillStyle": "solid",
@@ -290,7 +290,7 @@ JDBC ^TnY5MSSM
 			"opacity": 100,
 			"angle": 0,
 			"x": 863.2294249645263,
-			"y": -240.39818996723363,
+			"y": -237.45709840441458,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a5d8ff",
 			"width": 178.125,
@@ -300,7 +300,7 @@ JDBC ^TnY5MSSM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707140999403,
+			"updated": 1707141105369,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -316,8 +316,8 @@ JDBC ^TnY5MSSM
 		},
 		{
 			"type": "arrow",
-			"version": 156,
-			"versionNonce": 1504605525,
+			"version": 168,
+			"versionNonce": 1597426203,
 			"isDeleted": false,
 			"id": "fGC-8zy50ohRsovWv3pUH",
 			"fillStyle": "solid",
@@ -327,17 +327,17 @@ JDBC ^TnY5MSSM
 			"opacity": 100,
 			"angle": 0,
 			"x": 553.2838362754098,
-			"y": -215.96629028618406,
+			"y": -215.559790751723,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#a5d8ff",
-			"width": 292.14842857335793,
-			"height": 1.1857733882193884,
+			"width": 292.14842857335805,
+			"height": 0.9188963903357319,
 			"seed": 586101883,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141000750,
+			"updated": 1707141105369,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -359,15 +359,15 @@ JDBC ^TnY5MSSM
 					0
 				],
 				[
-					292.14842857335793,
-					-1.1857733882193884
+					292.14842857335805,
+					0.9188963903357319
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 102,
-			"versionNonce": 974578709,
+			"version": 114,
+			"versionNonce": 137969499,
 			"isDeleted": false,
 			"id": "-HeUsL2y52MDSQxoLzvOI",
 			"fillStyle": "solid",
@@ -377,17 +377,17 @@ JDBC ^TnY5MSSM
 			"opacity": 100,
 			"angle": 0,
 			"x": 839.5500817231298,
-			"y": -201.4583241489293,
+			"y": -199.6024997651685,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#a5d8ff",
 			"width": 292.14842857335793,
-			"height": 0.7338878478010997,
+			"height": 2.192864877730017,
 			"seed": 72834101,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141000751,
+			"updated": 1707141105369,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -410,7 +410,7 @@ JDBC ^TnY5MSSM
 				],
 				[
 					-292.14842857335793,
-					-0.7338878478010997
+					-2.192864877730017
 				]
 			]
 		},
@@ -455,8 +455,8 @@ JDBC ^TnY5MSSM
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#ffffff",
-		"currentItemBackgroundColor": "#228be6",
+		"currentItemStrokeColor": "#1971c2",
+		"currentItemBackgroundColor": "#e9ecef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
