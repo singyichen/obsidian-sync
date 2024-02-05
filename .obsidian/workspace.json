@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Inbox/PARA.md",
+                "file": "03.Resources/KM/PARA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Inbox/PARA.md",
+                "file": "03.Resources/KM/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Inbox/PARA.md",
+                "file": "03.Resources/KM/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Inbox/PARA.md"
+                "file": "03.Resources/KM/PARA.md"
               }
             }
           },
@@ -210,13 +210,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2013382a41d2cfcf",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "03.Resources/KM",
     "Excalidraw/PARA.md",
     "02.Areas/Framework/backend/comparison.md",
     "Templates/learning-template.md",
     "Templates/book-template.md",
-    "00.Inbox/PARA.md",
+    "03.Resources/KM/PARA.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
     "Templates/meeting-template.md",
@@ -257,7 +258,6 @@
     "[.md",
     "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md",
     "Framework/frontend",
-    "test/hello world.md",
-    "Excalidraw/Drawing 2024-02-03 22.12.43.excalidraw.md"
+    "test/hello world.md"
   ]
 }

@@ -1,10 +1,11 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:32
+updated: 2024-02-05T16:34
 author: mandy
 aliases: 
 category: 
-tags: 
+tags:
+  - km
 AutoNoteMover: disable
 disabled rules:
   - all
