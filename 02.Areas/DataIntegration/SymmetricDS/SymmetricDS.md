@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:14
+updated: 2024-02-05T19:17
 title: SymmetricDS
 description: 
 author: mandy
@@ -37,7 +37,9 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 - 每個 SymmetricDS Node 都會指定 `群組名稱(Group)` 及 `對外ID(External ID)` ， `Group+External ID＝Node` 辨識唯一值。
 - SymmetricDS Server 在首次使用時會在 Database 中建立供資料同步相關 Table (共 41 個 SYM 開頭的 Table )，而 Client 在首次連線時，會同步建立 Server 所有 SYM Table 與 Data 。
 
-![symmetricds 運作原理.png](http://192.168.25.60:8000/files/file_storage/1aa13b3f.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-working-principle.png)
+
 
 ![symmetricds 運作架構.png](http://192.168.25.60:8000/files/file_storage/3d429805.png)
 
