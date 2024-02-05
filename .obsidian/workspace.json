@@ -156,9 +156,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3079327f5f7e2cc7",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6b096fc61058f66",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -173,10 +189,13 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "823226c2d42ed817",
+  "active": "f6b096fc61058f66",
   "lastOpenFiles": [
     "skill-tree.md",
     "software.md",

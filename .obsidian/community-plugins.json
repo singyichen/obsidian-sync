@@ -13,5 +13,7 @@
   "obsidian-style-settings",
   "templater-obsidian",
   "obsidian42-text-transporter",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "breadcrumbs",
+  "quickadd"
 ]
