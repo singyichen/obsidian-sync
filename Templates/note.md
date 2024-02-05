@@ -1,4 +1,3 @@
-```
 ---
 aliases: 
 category: 
@@ -13,5 +12,4 @@ template-should-create: "open-pane"
 created: "{{建檔日期:currentDate:yyyy-MM-dd HHmmss}}"
 ---
 # {{title:text: :筆記檔名}}
-``````
 
