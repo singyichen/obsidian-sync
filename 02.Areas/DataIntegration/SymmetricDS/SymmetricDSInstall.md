@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:15
+updated: 2024-02-05T21:16
 title: SymmetricDSInstall
 description: 
 author: mandy
@@ -196,7 +196,6 @@ Server Running: true
 
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-use-case-dbsql.png)
 
-![symmetricds use case dbsql.png](http://192.168.25.60:8000/files/file_storage/8d5f05d9.png)
 
 - 連接資料庫 corp-000
 ```shell
@@ -306,7 +305,7 @@ select * from sale_return_line_item;
 
 # 節點屬性檔案 Node Properties File 
 - 參閱文件 [SymmetricDS Node Properties File](/軟體開發/學習心得/11542/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile)
-
+[[SymmetricDSNodePropertiesFile]]
 # 組態 Configuration
 - 參閱文件 [SymmetricDS Configuration](/軟體開發/學習心得/11542/DataIntegration/SymmetricDS/SymmetricDSConfiguration)
 
