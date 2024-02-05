@@ -28,5 +28,6 @@
   "obsidian-day-planner",
   "obsidian-paste-image-rename",
   "obsidian-plugin-update-tracker",
-  "update-time-on-edit"
+  "update-time-on-edit",
+  "obsidian-linter"
 ]
