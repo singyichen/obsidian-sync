@@ -11,9 +11,11 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md"
               }
             }
           },
@@ -210,8 +212,8 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Excalidraw/symmetricds-usage-user-case.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Templates/book-template.md",
     "04.Archives/lottery-system/dev-tech.md",
     "images/postgresql-logo.png",
