@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "00.Inbox/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "00.Inbox/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "00.Inbox/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/learning-template.md"
+                "file": "00.Inbox/未命名.md"
               }
             }
           },
@@ -261,8 +261,9 @@
   },
   "active": "12f6bdabc07e9e9c",
   "lastOpenFiles": [
-    "00.Inbox/PARA.md",
     "Templates/learning-template.md",
+    "00.Inbox/未命名.md",
+    "00.Inbox/PARA.md",
     "Templates/book-template.md",
     "Templates/meeting-template.md",
     "Excalidraw/PARA.md",
