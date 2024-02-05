@@ -11,9 +11,11 @@
             "id": "8efea57d44a3a5b6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "skill-tree.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "skill-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "skill-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "skill-tree.md"
               }
             }
           },
@@ -210,8 +212,8 @@
   },
   "active": "8efea57d44a3a5b6",
   "lastOpenFiles": [
-    "Excalidraw/node-web-framework.md",
     "Excalidraw/PARP.md",
+    "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
