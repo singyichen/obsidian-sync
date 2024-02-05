@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Pasted Image 20240201162143_972.png"
+                "file": "Images/git.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted Image 20240201162143_972.png",
+                "file": "Images/git.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted Image 20240201162143_972.png",
+                "file": "Images/git.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted Image 20240201162143_972.png"
+                "file": "Images/git.png"
               }
             }
           },
@@ -208,8 +208,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8efea57d44a3a5b6",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Images/sonarqube-logo.png",
+    "Images/postman-logo.png",
     "Images/playwright-logo.svg",
     "Images/docker-logo.png",
     "Images/jest-logo.png",
@@ -219,8 +221,6 @@
     "Images/socket-io-logo.png",
     "Images/react-logo.png",
     "Images/postgresql-logo.png",
-    "Images/fastify-logo.png",
-    "Images/node-logo.png",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/PARP.md",
     "Excalidraw/node-web-framework.md",
