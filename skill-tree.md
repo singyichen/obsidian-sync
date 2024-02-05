@@ -15,12 +15,6 @@ template-should-replace: sometimes
 template-should-create: open-pane
 ---
 ![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
-# skill-tree
-
-- [ ] []()
-- [ ] []()
-
-
 # Skill Tree
 
 - [ ] [roadmap](https://roadmap.sh/)
