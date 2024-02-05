@@ -10,5 +10,7 @@
   "obsidian-table-generator",
   "custom-font-loader",
   "obsidian-hover-editor",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "templater-obsidian",
+  "obsidian42-text-transporter"
 ]
