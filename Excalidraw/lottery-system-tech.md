@@ -20,9 +20,9 @@ UIUX ^UDGr5C07
 # Embedded files
 6693ee6a4c440f7ada5252c116057f63a95b8083: [[prisma-logo.png]]
 52747635af356f1843f95e224b3abbe9d3a681fd: [[fastify-logo.png]]
-843eb417fc6ec24bbd8986e06bfe38b353142ce6: [[Pasted Image 20240201151312_224.png]]
-3fac0d087077c3987dc34e5bee65d2a40bf2031c: [[Pasted Image 20240201152955_993.png]]
-cae5dc0ee581ae5cd2078109970fed2a1357dec1: [[Pasted Image 20240201154330_617.png]]
+843eb417fc6ec24bbd8986e06bfe38b353142ce6: [[node-logo.png]]
+3fac0d087077c3987dc34e5bee65d2a40bf2031c: [[postgresql-logo.png]]
+cae5dc0ee581ae5cd2078109970fed2a1357dec1: [[react-logo.png]]
 644186fec4bca0f1325e2831049f2523af7b498a: [[Pasted Image 20240201160723_730.png]]
 24490f90ebc47c4d931c1b6493ed312d8fbc320c: [[Pasted Image 20240201160920_973.png]]
 2bd3e57c1ba7b83c51f490605dcbaee74b6a1ece: [[Pasted Image 20240201161113_900.png]]

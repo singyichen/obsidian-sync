@@ -11,9 +11,9 @@
             "id": "8efea57d44a3a5b6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
+                "file": "Images/react-logo.png"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 383.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md",
+                "file": "Images/react-logo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md",
+                "file": "Images/react-logo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
+                "file": "Images/react-logo.png"
               }
             }
           },
@@ -208,9 +208,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8efea57d44a3a5b6",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Images/postgresql-logo.png",
     "Images/fastify-logo.png",
+    "Images/node-logo.png",
     "Excalidraw/lottery-system-tech.md",
     "Images/prisma-logo.png",
     "Excalidraw/PARP.md",
@@ -221,8 +223,6 @@
     "Images/Pasted Image 20240201163239_034.png",
     "Images/Pasted Image 20240201163113_686.png",
     "Images/Pasted Image 20240201162939_264.png",
-    "Images/Pasted Image 20240201162618_079.png",
-    "Images/Pasted Image 20240201162215_985.png",
     "Excalidraw/node-web-framework.md",
     "2024-02-05.md",
     "2024-02-04.md",
