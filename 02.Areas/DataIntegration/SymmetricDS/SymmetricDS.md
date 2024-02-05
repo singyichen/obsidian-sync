@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T20:50
+updated: 2024-02-05T20:51
 title: SymmetricDS
 description: 
 author: mandy
@@ -177,7 +177,8 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 
 ## 無負載平衡器（僅限多宿主） No Load Balancer (multi-homed only)
 
-![symmetricds cluster diagram without a load balancer.png](http://192.168.25.60:8000/files/file_storage/cadebc7e.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-cluster-diagram-without-a-load-balancer.png)
+
 
 如果要複製的所有資料庫都在同一個網路上（而不是通過廣域網路），那麼所有節點/引擎都可以在單個 SymmetricDS 安裝下運行（多宿主）。如果是這種情況，可以在沒有負載平衡器的情況下集群更多的 SymmetricDS 安裝。這既提供了高可用性，如果一個伺服器失敗，也提供了一些工作負載的分發。
 
