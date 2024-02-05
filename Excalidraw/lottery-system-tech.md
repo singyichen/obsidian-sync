@@ -18,8 +18,8 @@ UIUX ^UDGr5C07
 
 
 # Embedded files
-6693ee6a4c440f7ada5252c116057f63a95b8083: [[Pasted Image 20240201150316_982.png]]
-52747635af356f1843f95e224b3abbe9d3a681fd: [[Pasted Image 20240201150911_115.png]]
+6693ee6a4c440f7ada5252c116057f63a95b8083: [[prisma-logo.png]]
+52747635af356f1843f95e224b3abbe9d3a681fd: [[fastify-logo.png]]
 843eb417fc6ec24bbd8986e06bfe38b353142ce6: [[Pasted Image 20240201151312_224.png]]
 3fac0d087077c3987dc34e5bee65d2a40bf2031c: [[Pasted Image 20240201152955_993.png]]
 cae5dc0ee581ae5cd2078109970fed2a1357dec1: [[Pasted Image 20240201154330_617.png]]
@@ -1302,6 +1302,43 @@ b0f621a94baba1dbf95c827a0bae7043d5d585e5: [[Pasted Image 20240201163113_686.png]
 			"originalText": "UIUX",
 			"lineHeight": 1.2,
 			"baseline": 35
+		},
+		{
+			"id": "dVVzK48l",
+			"type": "text",
+			"x": -892.1500695807287,
+			"y": -1586.874026506101,
+			"width": 21.09375,
+			"height": 43.199999999999996,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#ffc9c9",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 80,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 225517268,
+			"version": 2,
+			"versionNonce": 965999340,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1707112599229,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 36,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 35,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -1319,10 +1356,10 @@ b0f621a94baba1dbf95c827a0bae7043d5d585e5: [[Pasted Image 20240201163113_686.png]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1543.4850047225627,
-		"scrollY": 2610.499087344775,
+		"scrollX": 1791.6031945807285,
+		"scrollY": 2131.1597407918152,
 		"zoom": {
-			"value": 0.4
+			"value": 0.35000000000000003
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
