@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/note.md",
+                "file": "Templates/learning-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/note.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0fb120752ddbd20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/book-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/note.md",
+                "file": "Templates/book-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/note.md",
+                "file": "Templates/book-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/note.md"
+                "file": "Templates/book-note.md"
               }
             }
           },
@@ -249,11 +261,12 @@
   },
   "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/book-note.md",
+    "Templates/learning-note.md",
     "Templates/meeting-note.md",
-    "Templates/note.md",
     "PARP.md",
     "skill-tree.md",
-    "README.md",
     "Excalidraw/node-web-framework.md",
     "Templates",
     "Excalidraw/PARP.md",
