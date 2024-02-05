@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:22
+updated: 2024-02-05T21:23
 title: SymmetricDSUsage
 description: 
 author: mandy
@@ -302,7 +302,7 @@ copy /a *.sql migration.sql
 +---------------------------------------+---------------------------------------+------------+------------+------------+------------+------------+------------+------------+
 ```
 
-
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-dbcompare-example-results.png)
 
 ##  使用 SQL
 - 查詢 client 端資料：所有 table 資料筆數
