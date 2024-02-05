@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+Project ^NysrURSK
+
 %%
 # Drawing
 ```json
@@ -46,12 +48,12 @@ tags: [excalidraw]
 			"locked": false
 		},
 		{
-			"id": "6NasU8pq",
+			"id": "NysrURSK",
 			"type": "text",
-			"x": -371,
-			"y": -270.75,
-			"width": 10,
-			"height": 25,
+			"x": -438.5,
+			"y": -290.25,
+			"width": 114.84375,
+			"height": 33.6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -63,24 +65,24 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1547976940,
-			"version": 2,
-			"versionNonce": 1753003092,
-			"isDeleted": true,
+			"seed": 1345498964,
+			"version": 100,
+			"versionNonce": 1931253588,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1707123907823,
+			"updated": 1707124028115,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 18,
-			"containerId": "ZaLHKo6vNER8h0LBHGBr_",
-			"originalText": "",
-			"lineHeight": 1.25
+			"text": "Project",
+			"rawText": "Project",
+			"fontSize": 28,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 26,
+			"containerId": null,
+			"originalText": "Project",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -93,8 +95,8 @@ tags: [excalidraw]
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontFamily": 3,
+		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
