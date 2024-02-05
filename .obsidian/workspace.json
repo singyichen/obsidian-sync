@@ -172,9 +172,17 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "7cd4c58213d896ab",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -192,16 +200,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "f6b096fc61058f66",
+  "active": "823226c2d42ed817",
   "lastOpenFiles": [
+    "2024-02-05.md",
+    "Framework/backend/comparison.md",
     "skill-tree.md",
     "software.md",
     "UIUX/UX.md",
     "Excalidraw/node-web-framework.md",
-    "Framework/backend/comparison.md",
     "UIUX/UIUX.md",
     "README.md",
     "UIUX",
