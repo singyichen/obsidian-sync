@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/backend/Comparison.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/backend/Comparison.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/backend/Comparison.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/backend/Comparison.md"
+                "file": "README.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "823226c2d42ed817",
   "lastOpenFiles": [
+    "Framework/backend/Comparison.md",
     "Excalidraw/node web framework.md",
     "2024-02-03.md",
     "Excalidraw/Drawing 2024-02-03 23.47.44.excalidraw.md",
-    "Framework/backend/Comparison.md",
     "README.md",
     "[.md",
     "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md",
