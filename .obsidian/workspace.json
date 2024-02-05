@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/learning-template.md"
+                "file": "03.Resources/UIUX/UIUX.md"
               }
             }
           },
@@ -261,8 +261,12 @@
   },
   "active": "12f6bdabc07e9e9c",
   "lastOpenFiles": [
-    "00.Inbox/PARA.md",
+    "03.Resources/UIUX/UX.md",
+    "03.Resources/UIUX/UIUX.md",
+    "02.Areas/Framework/backend/comparison.md",
+    "Excalidraw/lottery-system-tech.md",
     "Templates/learning-template.md",
+    "00.Inbox/PARA.md",
     "README.md",
     "Templates/book-template.md",
     "Templates/meeting-template.md",
@@ -271,7 +275,6 @@
     "Templates/test.md",
     "software.md",
     "Excalidraw/node-web-framework.md",
-    "Excalidraw/lottery-system-tech.md",
     "skill-tree.md",
     "PARP.md",
     "Templates",
@@ -295,9 +298,6 @@
     "03.Resources",
     "02.Areas",
     "01.Projects",
-    "02.Areas/Framework/backend/comparison.md",
-    "03.Resources/UIUX/UX.md",
-    "03.Resources/UIUX/UIUX.md",
     "03.Resources/UIUX",
     "().md",
     "2024-02-03.md",

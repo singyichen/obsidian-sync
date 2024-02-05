@@ -9,6 +9,8 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "Templates/learning-template.md": "f04169b09136a1769d14f15df2714e9e3f7f9fd304fb2e0eb400bfe31966f9b3",
-    "00.Inbox/PARA.md": "4645b812d0a8ef77baf1385069df8599f5ebf23f0c9a82b73f480dccf703777d"
+    "00.Inbox/PARA.md": "4645b812d0a8ef77baf1385069df8599f5ebf23f0c9a82b73f480dccf703777d",
+    "02.Areas/Framework/backend/comparison.md": "2ce0c6f2b50b350f590eb5d6a16c47b11c5d9bf191631c6df75d23bc46e4edc5",
+    "03.Resources/UIUX/UIUX.md": "890324e589dd1d74bb877cbeeedeffcec853bce85284a8b50f465a7cd7402eee"
   }
 }
