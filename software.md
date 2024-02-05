@@ -44,3 +44,8 @@ eslint --init
 ### New Relic CodeStream
 ### Postman
 ### CodiumAI (Test writing)
+
+
+# Lightshot
+
+> [Lightshot download info](https://app.prntscr.com/zh-cn/index.html)
