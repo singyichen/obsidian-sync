@@ -59,8 +59,12 @@
             "id": "12f6bdabc07e9e9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00.Inbox/PARA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -110,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00.Inbox/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00.Inbox/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00.Inbox/PARA.md"
+              }
             }
           },
           {
@@ -254,18 +261,18 @@
   },
   "active": "12f6bdabc07e9e9c",
   "lastOpenFiles": [
+    "Excalidraw/PARA.md",
+    "00.Inbox/PARA.md",
+    "Templates/test.md",
     "03.Resources/UIUX/UIUX.md",
     "03.Resources/UIUX/UX.md",
     "02.Areas/Framework/backend/comparison.md",
-    "00.Inbox/PARA.md",
     "Templates/learning-template.md",
     "Templates/book-template.md",
     "Excalidraw/lottery-system-tech.md",
     "README.md",
     "Templates/meeting-template.md",
-    "Excalidraw/PARA.md",
     "00.Inbox/PARP.md",
-    "Templates/test.md",
     "software.md",
     "Excalidraw/node-web-framework.md",
     "skill-tree.md",
