@@ -1,22 +1,41 @@
 ---
 created: 2024-02-05T14:29
-updated: 2024-02-05T16:20
+updated: 2024-02-05T16:56
 ---
 
 # {{title}}
 
-Date: {{date:MMM d, YYYY}}
-Attendees:
+## UI/UX
 
----
+- 💰 
+- 💰 
+- 💰 
 
-# Goals / agenda
-1. 
+## 前端
 
-# Discussion notes
-- 
+- 🆓 
+- 🆓
+- 🆓 
+- 🆓 
+- 🆓 
+- 🆓 
+- 🆓 
 
-# Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks &amp; Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+## 後端
+
+- 🆓 
+- 🆓 
+- 🆓
+- 🆓 
+- 🆓 
+- 🆓 
+- 🆓 
+
+## DevOps
+
+- 🆓 
+
+## DB & DB Tools
+
+- 🆓 
+- 🆓 
