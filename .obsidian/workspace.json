@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,13 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "823226c2d42ed817",
   "lastOpenFiles": [
-    "().md",
-    "skill-tree.md.md",
-    "README.md",
-    "Framework/backend/comparison.md",
     "Excalidraw/node-web-framework.md",
+    "Framework/backend/comparison.md",
+    "skill-tree.md.md",
+    "().md",
+    "README.md",
     "2024-02-03.md",
     "Excalidraw/Drawing 2024-02-03 23.47.44.excalidraw.md",
     "[.md",
