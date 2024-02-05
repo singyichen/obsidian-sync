@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
+                "file": "Templates/book-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
+                "file": "Templates/book-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
+                "file": "Templates/book-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/UIUX/UX.md"
+                "file": "Templates/book-template.md"
               }
             }
           },
@@ -213,21 +213,21 @@
   },
   "active": "2013382a41d2cfcf",
   "lastOpenFiles": [
+    "Templates/learning-template.md",
+    "00.Inbox/PARA.md",
+    "02.Areas/Framework/backend/comparison.md",
+    "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
     "Excalidraw/PARA.md",
-    "Templates/learning-template.md",
     "Templates/book-template.md",
     "Templates/meeting-template.md",
     "Templates/blog-post-template.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
-    "00.Inbox/PARA.md",
     "skill-tree.md",
     "software.md",
     "README.md",
-    "02.Areas/Framework/backend/comparison.md",
     "Templates/test.md",
-    "03.Resources/UIUX/UX.md",
     "00.Inbox/PARP.md",
     "PARP.md",
     "Templates",

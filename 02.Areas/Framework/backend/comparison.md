@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:11
+updated: 2024-02-05T16:25
 author: mandy
 aliases: 
 category: backend
@@ -15,9 +15,8 @@ template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
 ---
-![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
 
-# Node Framework Comparison
+# 🚀 Node Framework Comparison
 
 - [ ] [Express、Fastify、Hapi、Koa：Hello world 效能比較](https://medium.com/deno-the-complete-reference/express-vs-fastify-vs-hapi-vs-koa-hello-world-performance-comparison-dd8cd6866bdd "https://medium.com/deno-the-complete-reference/express-vs-fastify-vs-hapi-vs-koa-hello-world-performance-comparison-dd8cd6866bdd")
 - [ ] [Node.js：2024 年最快的 Web 框架](https://medium.com/deno-the-complete-reference/node-js-the-fastest-web-framework-in-2024-fa11e513fa75 "https://medium.com/deno-the-complete-reference/node-js-the-fastest-web-framework-in-2024-fa11e513fa75")
