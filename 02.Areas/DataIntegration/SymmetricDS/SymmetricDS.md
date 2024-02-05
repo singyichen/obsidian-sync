@@ -77,7 +77,7 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 ## 運行時資料模型 Runtime Data Model
 當每個 Node 監聽到本機的 Data change event，會把變動的數據通過 Trigger 與關連 Node 進行通訊。
 
-![symmetricds Runtime Data Model.png](http://192.168.25.60:8000/files/file_storage/679ef0e4.png)
+
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-runtime-data-model.png)
 
 
