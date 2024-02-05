@@ -6,6 +6,8 @@ date: 2023-10-03T00:49:06.706Z
 tags: docker, symmetricds
 editor: markdown
 dateCreated: 2023-10-03T00:45:02.521Z
+created: 2024-02-05T19:03
+updated: 2024-02-05T19:10
 ---
 
 # SymmetricDS Docker Install

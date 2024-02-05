@@ -21,6 +21,12 @@
     "Templates/dev-tech-template.md": "ff6a5ad44b53822ba8f70289a33acb41f9a117dd9334357c78f04d06d8b1181b",
     "04.Archives/lottery-system/dev-tech.md": "4ee0c3f18867ed700db17a067c0b80440778368a7fe185aaed0c713f686f5acc",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md": "29834a5fb87fbe2b55fe6b0627a58f28cf40bf848b04df61f0431a3974fb1ad8",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md": "fe9534a76cef06f8626d4484eca748a778b4f5af696fcf1c5c841bb726fee859"
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md": "e14ae099c9d4aac00027f6aace3249ae833e5940ec12e8d94494307bf3731aa1",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md": "22a0534020ee819cc2fe468bd558bf43aa31892dbf27968fc95c8de06c150514",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md": "28c8d27fbf1118b8b27925caabd95b52dcafee5adfc38fa88a952e4c7d074c9f",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md": "e4e1546196572ec1925a24ee831e87edb4489fdf296ce36990d157b868fc1227",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md": "4a0d372e8fb1dc62b04922de06474f0335afddb15df4e214ec88bf783816c638",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSUsage.md": "683332bd783d3c14c0f7e38aeaa43531a49c88a17343170c6091a343c50aafdf",
+    "02.Areas/DataIntegration/SymmetricDS/TaskScheduler.md": "3c8edcaacc578e4a649a335d51978755df4fb485804af7175cbb32a0f749558c"
   }
 }

@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:09
+updated: 2024-02-05T19:10
 title: SymmetricDSConfiguration
 description: 
 author: mandy
@@ -16,8 +16,9 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
-published: true
+published: false
 ---
+
 # SymmetricDS Configuration
 
 # 組態

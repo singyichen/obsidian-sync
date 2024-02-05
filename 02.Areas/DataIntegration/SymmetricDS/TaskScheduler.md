@@ -1,12 +1,28 @@
 ---
-title: Task Scheduler
-description: 工作排程器
-published: true
-date: 2023-07-11T09:01:56.463Z
-tags: task scheduler
-editor: markdown
-dateCreated: 2023-07-11T02:55:42.617Z
+created: 2024-02-05T14:13
+updated: 2024-02-05T19:11
+title: TaskScheduler
+description: 
+author: mandy
+aliases: 
+category: 
+tags:
+  - task
+AutoNoteMover: disable
+disabled rules:
+  - all
+template-output: 030-Inbox
+template-input: title,body
+template-replacement: "[[learning-template]]"
+template-should-replace: sometimes
+template-should-create: open-pane
+published: false
 ---
+# 🚀 TaskScheduler
+
+- [ ] []()
+- [ ] []()
+
 
 # Task Scheduler
 - [ ] [使用工作排程器執行批次檔](https://snoopy30485.github.io/2019/01/23/%E4%BD%BF%E7%94%A8%E5%B7%A5%E4%BD%9C%E6%8E%92%E7%A8%8B%E5%99%A8%E5%9F%B7%E8%A1%8C%E6%89%B9%E6%AC%A1%E6%AA%94/)
