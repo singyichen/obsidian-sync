@@ -42,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f0fb120752ddbd20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/learning-template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12f6bdabc07e9e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "software.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "README.md"
               }
             }
           },
@@ -235,11 +212,12 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 580.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,12 +237,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "12f6bdabc07e9e9c",
+  "active": "1b9c9618f8e5b1c9",
   "lastOpenFiles": [
-    "skill-tree.md",
     "Templates/learning-template.md",
     "02.Areas/Framework/backend/comparison.md",
     "00.Inbox/PARA.md",
+    "software.md",
+    "skill-tree.md",
     "Excalidraw/PARA.md",
     "Templates/test.md",
     "03.Resources/UIUX/UIUX.md",
@@ -274,7 +253,6 @@
     "README.md",
     "Templates/meeting-template.md",
     "00.Inbox/PARP.md",
-    "software.md",
     "Excalidraw/node-web-framework.md",
     "PARP.md",
     "Templates",
