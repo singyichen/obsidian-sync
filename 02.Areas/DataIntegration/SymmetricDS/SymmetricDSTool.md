@@ -1,16 +1,25 @@
 ---
-title: SymmetricDS Tool
+created: 2024-02-05T14:13
+updated: 2024-02-05T19:13
+title: SymmetricDSTool
 description: 
-published: true
-date: 2023-07-04T01:18:25.243Z
-tags: symmetricds
-editor: markdown
-dateCreated: 2023-06-17T01:05:48.061Z
-created: 2024-02-05T19:03
-updated: 2024-02-05T19:10
+author: mandy
+aliases: 
+category: 
+tags:
+  - symmetricds
+AutoNoteMover: disable
+disabled rules:
+  - all
+template-output: 030-Inbox
+template-input: title,body
+template-replacement: "[[learning-template]]"
+template-should-replace: sometimes
+template-should-create: open-pane
+published: false
 ---
+# 🚀 SymmetricDS Tool
 
-# SymmetricDS Tool
 - [ ] [Data Migration](https://www.symmetricds.org/docs/how-to/data-migration)
 - [ ] [Appendix H: Utilities](https://www.symmetricds.org/doc/3.14/html/user-guide.html#_utilities)
 

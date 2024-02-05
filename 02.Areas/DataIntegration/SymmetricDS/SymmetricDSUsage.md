@@ -1,16 +1,25 @@
 ---
-title: SymmetricDS Usage
+created: 2024-02-05T14:13
+updated: 2024-02-05T19:14
+title: SymmetricDSUsage
 description: 
-published: true
-date: 2023-07-20T03:01:38.030Z
-tags: symmetricds
-editor: markdown
-dateCreated: 2023-06-14T05:33:55.689Z
-created: 2024-02-05T19:03
-updated: 2024-02-05T19:10
+author: mandy
+aliases: 
+category: 
+tags:
+  - symmetricds
+AutoNoteMover: disable
+disabled rules:
+  - all
+template-output: 030-Inbox
+template-input: title,body
+template-replacement: "[[learning-template]]"
+template-should-replace: sometimes
+template-should-create: open-pane
+published: false
 ---
+# 🚀 SymmetricDS Usage
 
-# SymmetricDS Usage
 - [ ] [SymmetricDS 3.14 Tutorials](https://www.symmetricds.org/doc/3.14/html/tutorials.html#_install)
 - [ ] [基於SymmetricDS的多主一從資料庫同步方案](https://www.cnblogs.com/killclock048/p/9817482.html)
 - [ ] [[記事] MS SQL Server and MySQL replication - SymmetricDS](http://napmas.blogspot.com/2011/08/ms-sql-server-and-mysql-replication.html)
