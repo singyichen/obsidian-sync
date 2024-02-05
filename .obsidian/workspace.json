@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Pasted Image 20240201161113_900.png"
+                "file": "Images/Pasted Image 20240201162143_972.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted Image 20240201161113_900.png",
+                "file": "Images/Pasted Image 20240201162143_972.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted Image 20240201161113_900.png",
+                "file": "Images/Pasted Image 20240201162143_972.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted Image 20240201161113_900.png"
+                "file": "Images/Pasted Image 20240201162143_972.png"
               }
             }
           },
@@ -208,8 +208,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "8efea57d44a3a5b6",
   "lastOpenFiles": [
+    "Images/playwright-logo.svg",
+    "Images/docker-logo.png",
+    "Images/jest-logo.png",
+    "Images/nginx-logo.png",
+    "Images/bootstrap-logo.png",
     "Images/html-logo.png",
     "Images/socket-io-logo.png",
     "Images/react-logo.png",
@@ -217,12 +222,7 @@
     "Images/fastify-logo.png",
     "Images/node-logo.png",
     "Excalidraw/lottery-system-tech.md",
-    "Images/prisma-logo.png",
     "Excalidraw/PARP.md",
-    "Images/Pasted Image 20240201164731_138.png",
-    "Images/Pasted Image 20240201164332_954.png",
-    "Images/Pasted Image 20240201163831_891.svg",
-    "Images/Pasted Image 20240201163628_014.png",
     "Excalidraw/node-web-framework.md",
     "2024-02-05.md",
     "2024-02-04.md",
