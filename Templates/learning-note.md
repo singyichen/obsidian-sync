@@ -14,6 +14,7 @@ template-should-create: open-pane
 created: "{{date}}:{{time:HH:mm:ss}}"
 updated: "{{date}}:{{time:HH:mm:ss}}"
 ---
+
 # {{title}}
 
 - [ ] []()
