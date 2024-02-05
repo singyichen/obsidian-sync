@@ -1,10 +1,13 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:24
+updated: 2024-02-05T19:07
+title: UX
+description: 
 author: mandy
 aliases: 
 category: 
-tags: 
+tags:
+  - UIUX
 AutoNoteMover: disable
 disabled rules:
   - all
@@ -13,6 +16,7 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
+published: true
 ---
 # 🚀 UX
 |           **名詞**           |                    **解釋**                    | **備註**                                                                                                                                                                                                        |

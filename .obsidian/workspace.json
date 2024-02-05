@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/UIUX/UIUX.md",
+                "file": "03.Resources/UIUX/UX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/UIUX/UIUX.md",
+                "file": "03.Resources/UIUX/UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/UIUX/UIUX.md",
+                "file": "03.Resources/UIUX/UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/UIUX/UIUX.md"
+                "file": "03.Resources/UIUX/UX.md"
               }
             }
           },
@@ -212,6 +212,8 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "03.Resources/UIUX/UIUX.md",
+    "03.Resources/UIUX/UX.md",
     "Excalidraw/PARA.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "Templates/learning-template.md",
@@ -234,8 +236,6 @@
     "Templates/meeting-template.md",
     "Templates/blog-post-template.md",
     "04.Archives/lottery-system",
-    "03.Resources/UIUX/UX.md",
-    "03.Resources/UIUX/UIUX.md",
     "().md",
     "03.Resources/KM",
     "skill-tree.md",
