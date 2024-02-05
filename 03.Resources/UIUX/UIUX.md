@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:07
+updated: 2024-02-05T16:24
 author: mandy
 aliases: 
 category: 
@@ -15,8 +15,7 @@ template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
 ---
-![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
-# UIUX
+# 🚀 UIUX
 
 - [ ] [五招迅速拆解UX Design白板題](https://medium.com/as-a-product-designer/%E4%BA%94%E6%8B%9B%E8%BF%85%E9%80%9F%E6%8B%86%E8%A7%A3%E7%99%BD%E6%9D%BF%E9%A1%8C-e89aa10f79a7)
 - [ ] [使用者介面設計筆記](http://jinjin.mepopedia.com/~jinjin/ui/index.html)
