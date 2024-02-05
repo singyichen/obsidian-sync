@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:25
+updated: 2024-02-05T21:26
 title: TaskScheduler
 description: 
 author: mandy
@@ -77,13 +77,14 @@ Get-Date
 - 名稱：`Leader_init_data_task`
 - 描述：`從 mssql 的 DB Leader 匯入資料到 postgres`
 
-![工作排程器 建立基本工作 輸入名稱及描述.png](http://192.168.25.60:8000/files/file_storage/0f570e98.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/工作排程器-建立基本工作-輸入名稱及描述.png)
+
 
 ## 觸發程序
 - 您想要工作在什麼時候開始執行：`僅一次`
 - 資料庫資料初始化僅需要做一次即可
 
-![工作排程器 工作觸發程序.png](http://192.168.25.60:8000/files/file_storage/99acfa37.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/工作排程器-工作觸發程序.png)
 
 ## 觸發程序設定執行時間
 - 設定開始執行時間：`此處設定為休假日的時段`
