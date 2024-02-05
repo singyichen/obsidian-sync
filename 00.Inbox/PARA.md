@@ -11,11 +11,11 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
-created: "{{date}} {{time}}"
+created: 2024-02-05 15:52:13
 updated: 2024-02-05T15:52
 ---
 ![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
-# {{title}}
+# PARA
 
 - [ ] []()
 - [ ] []()
