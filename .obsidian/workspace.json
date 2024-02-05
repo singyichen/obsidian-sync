@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md"
+                "file": "03.Resources/UIUX/UIUX.md"
               }
             }
           },
@@ -261,13 +261,13 @@
   },
   "active": "12f6bdabc07e9e9c",
   "lastOpenFiles": [
+    "03.Resources/UIUX/UX.md",
+    "03.Resources/UIUX/UIUX.md",
+    "02.Areas/Framework/backend/comparison.md",
     "00.Inbox/PARA.md",
     "Templates/learning-template.md",
     "Templates/book-template.md",
     "Excalidraw/lottery-system-tech.md",
-    "02.Areas/Framework/backend/comparison.md",
-    "03.Resources/UIUX/UX.md",
-    "03.Resources/UIUX/UIUX.md",
     "README.md",
     "Templates/meeting-template.md",
     "Excalidraw/PARA.md",
