@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "Excalidraw/lottery system tech.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "Excalidraw/lottery system tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "Excalidraw/lottery system tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "Excalidraw/lottery system tech.md"
               }
             }
           },
@@ -214,10 +214,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "0eb9ddd1ce79ec34",
   "lastOpenFiles": [
     "Excalidraw/node-web-framework.md",
     "Excalidraw/PARP.md",
+    "Excalidraw/lottery system tech.md",
     "Excalidraw/未命名.canvas",
     "software.md",
     "03.Resources/PM",
