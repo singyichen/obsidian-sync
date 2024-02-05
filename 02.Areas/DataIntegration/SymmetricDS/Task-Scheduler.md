@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:11
+updated: 2024-02-05T21:24
 title: TaskScheduler
 description: 
 author: mandy
@@ -49,7 +49,8 @@ Get-Date
 
 ## 將所有由 client 匯出的 sql 檔案放置到資料夾 bin 中
 
-![symmetricds init data need ps1 and sql files.png](http://192.168.25.60:8000/files/file_storage/49dd34c3.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-init-data-need-ps1-and-sql-files.png)
+
 
 # 工作排程器 Task Scheduler
 ## 基本觀念
