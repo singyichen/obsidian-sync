@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Inbox/PARA.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Inbox/PARA.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Inbox/PARA.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Inbox/PARA.md"
+                "file": "02.Areas/Framework/backend/comparison.md"
               }
             }
           },
@@ -259,10 +260,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "12f6bdabc07e9e9c",
+  "active": "04b98431790f284e",
   "lastOpenFiles": [
-    "Excalidraw/PARA.md",
     "00.Inbox/PARA.md",
+    "Excalidraw/PARA.md",
     "Templates/test.md",
     "03.Resources/UIUX/UIUX.md",
     "03.Resources/UIUX/UX.md",
