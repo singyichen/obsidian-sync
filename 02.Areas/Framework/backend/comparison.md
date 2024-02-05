@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:08
+updated: 2024-02-06T07:34
 title: comparison
 description: 
 author: mandy
