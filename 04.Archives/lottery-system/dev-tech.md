@@ -1,11 +1,11 @@
 ---
 created: 2024-02-05T14:29
-updated: 2024-02-05T16:58
+updated: 2024-02-05T16:59
 ---
 
 # dev-tech
 
-![[]]
+![[lottery-system-tech|1500]]
 ## UI/UX
 
 - 💰 Figma
