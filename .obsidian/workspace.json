@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb4e3f9d2dd1e1ef",
+        "id": "e6bdddb0a3445c8b",
         "type": "tabs",
         "children": [
           {
-            "id": "03b112347079af35",
+            "id": "2013382a41d2cfcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skill-tree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 296.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skill-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skill-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "skill-tree.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,10 +203,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "03b112347079af35",
+  "active": "2013382a41d2cfcf",
   "lastOpenFiles": [
-    "software.md",
     "skill-tree.md",
+    "software.md",
     "Templates/learning-template.md",
     "README.md",
     "02.Areas/Framework/backend/comparison.md",
