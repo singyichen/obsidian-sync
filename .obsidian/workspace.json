@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b401b5a613a54d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UIUX/UIUX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UIUX/UX.md",
+                "file": "UIUX/UIUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UIUX/UX.md",
+                "file": "UIUX/UIUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UIUX/UX.md"
+                "file": "UIUX/UIUX.md"
               }
             }
           },
@@ -189,10 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c8c3fa0a4e92e35",
+  "active": "0b401b5a613a54d7",
   "lastOpenFiles": [
-    "software.md",
     "UIUX/UX.md",
+    "UIUX/UIUX.md",
+    "software.md",
     "UIUX",
     "skill-tree.md.md",
     "Excalidraw/node-web-framework.md",
