@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/react-logo.png"
+                "file": "Images/Pasted Image 20240201161113_900.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/react-logo.png",
+                "file": "Images/Pasted Image 20240201161113_900.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/react-logo.png",
+                "file": "Images/Pasted Image 20240201161113_900.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/react-logo.png"
+                "file": "Images/Pasted Image 20240201161113_900.png"
               }
             }
           },
@@ -210,6 +210,9 @@
   },
   "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Images/html-logo.png",
+    "Images/socket-io-logo.png",
+    "Images/react-logo.png",
     "Images/postgresql-logo.png",
     "Images/fastify-logo.png",
     "Images/node-logo.png",
@@ -220,9 +223,6 @@
     "Images/Pasted Image 20240201164332_954.png",
     "Images/Pasted Image 20240201163831_891.svg",
     "Images/Pasted Image 20240201163628_014.png",
-    "Images/Pasted Image 20240201163239_034.png",
-    "Images/Pasted Image 20240201163113_686.png",
-    "Images/Pasted Image 20240201162939_264.png",
     "Excalidraw/node-web-framework.md",
     "2024-02-05.md",
     "2024-02-04.md",
@@ -236,18 +236,18 @@
     "02.Areas",
     "01.Projects",
     "skill-tree.md",
-    "Framework/backend/comparison.md",
-    "UIUX/UX.md",
-    "UIUX/UIUX.md",
+    "02.Areas/Framework/backend/comparison.md",
+    "03.Resources/UIUX/UX.md",
+    "03.Resources/UIUX/UIUX.md",
     "README.md",
-    "UIUX",
+    "03.Resources/UIUX",
     "().md",
     "2024-02-03.md",
     "Excalidraw/Drawing 2024-02-03 23.47.44.excalidraw.md",
     "[.md",
     "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md",
     "Framework/frontend",
-    "Framework/backend",
+    "02.Areas/Framework/backend",
     "test/hello world.md",
     "Excalidraw/Drawing 2024-02-03 22.12.43.excalidraw.md",
     "Excalidraw/Drawing 2024-02-03 21.25.09.excalidraw.md"
