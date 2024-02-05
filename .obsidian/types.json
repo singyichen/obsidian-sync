@@ -21,6 +21,6 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
     "excalidraw-iframe-theme": "text",
-    "created": "datetime"
+    "created": "text"
   }
 }

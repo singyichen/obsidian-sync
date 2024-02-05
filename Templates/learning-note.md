@@ -1,4 +1,5 @@
 ---
+author: mandy
 aliases: 
 category: 
 tags: 
@@ -11,7 +12,7 @@ template-replacement: "[[learning-note]]"
 template-should-replace: sometimes
 template-should-create: open-pane
 created: "{{date}}:{{time:HH:mm:ss}}"
-author: mandy
+updated: "{{date}}:{{time:HH:mm:ss}}"
 ---
 # {{title}}
 
