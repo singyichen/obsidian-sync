@@ -186,13 +186,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "25e5aa3c9aaba892",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 461.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +216,11 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-spaced-repetition:復習卡片": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0f69369519262a04",
+  "active": "25e5aa3c9aaba892",
   "lastOpenFiles": [
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
