@@ -23,6 +23,7 @@ eslint --init
 ### TODO Highlight
 ### Todo Tree
 ### Git Graph 
+
 > [usage info](https://ithelp.ithome.com.tw/articles/10267759)
 
 ### CodeSnap
@@ -43,6 +44,7 @@ eslint --init
 - 自動化生成程式碼。它支援超過 40 種語言，且仍在不斷擴充中。
 ### code runner
 ### AWS Toolkit
+
 > [usage info](https://aws.amazon.com/tw/codewhisperer/)
 ### New Relic CodeStream
 ### Postman
