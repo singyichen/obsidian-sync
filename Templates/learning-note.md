@@ -10,7 +10,7 @@ template-input: title,body
 template-replacement: "[[learning-note]]"
 template-should-replace: sometimes
 template-should-create: open-pane
-created: "{{date}}:{{time}}"
+created: "{{date}}:{{time:HHmmss}}"
 author: mandy
 ---
 # {{title}}
