@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:23
+updated: 2024-02-05T21:36
 title: SymmetricDSUsage
 description: 
 author: mandy
@@ -38,6 +38,7 @@ published: false
 
 https://miro.com/app/board/uXjVPF_1HJ4=/?moveToWidget=3458764557142315227&cot=10
 
+![[symmetricds-usage-user-case|1000]]
 ## SymmetricDS 安裝路徑
 - 本機路徑：`D:\mandy\Project\symmetricds\mssql2postgres`
 - 將壓縮檔放置到本機路徑 ➔ 解壓縮至此 ➔ 將 `symmetric-server-3.14.7` 中所有檔案移到 `mssql2postgres` 資料夾中 ➔ 刪除 `symmetric-server-3.14.7` 及解壓縮
