@@ -1,19 +1,6 @@
 ---
-created: 2024-02-05T14:13
-updated: 2024-02-05T16:24
-author: mandy
-aliases: 
-category: 
-tags:
-  - UIUX
-AutoNoteMover: disable
-disabled rules:
-  - all
-template-output: 030-Inbox
-template-input: title,body
-template-replacement: "[[learning-template]]"
-template-should-replace: sometimes
-template-should-create: open-pane
+created: 2024-02-05T18:27
+updated: 2024-02-05T19:07
 ---
 # 🚀 UIUX
 

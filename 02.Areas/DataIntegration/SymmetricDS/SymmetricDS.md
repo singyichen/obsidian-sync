@@ -16,6 +16,7 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
+published: true
 ---
 # 🚀 SymmetricDS
 

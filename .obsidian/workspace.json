@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
+                "file": "03.Resources/UIUX/UIUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md"
+                "file": "03.Resources/UIUX/UIUX.md"
               }
             }
           },
@@ -212,10 +212,12 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "Excalidraw/PARA.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "Templates/learning-template.md",
-    "Templates/book-template.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
     "Templates/dev-tech-template.md",
+    "Templates/book-template.md",
     "02.Areas/DataIntegration/SymmetricDS/TaskScheduler.md",
     "03.Resources/KM/PARA.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSUsage.md",
@@ -223,10 +225,8 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
-    "Excalidraw/PARA.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
     "02.Areas/Framework/backend/comparison.md",

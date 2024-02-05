@@ -6,6 +6,8 @@ date: 2023-06-19T05:55:44.710Z
 tags: symmetricds
 editor: markdown
 dateCreated: 2023-06-17T01:24:54.414Z
+created: 2024-02-05T19:03
+updated: 2024-02-05T19:06
 ---
 
 # SymmetricDS Configuration
