@@ -18,8 +18,6 @@ PostgreSQL
 docker
 DB：A_SY004 ^up9rBNZX
 
-[[postgresql-logo.png]] ^Q33kowax
-
 %%
 # Drawing
 ```json
@@ -30,8 +28,8 @@ DB：A_SY004 ^up9rBNZX
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 852,
-			"versionNonce": 398639899,
+			"version": 853,
+			"versionNonce": 2072617659,
 			"isDeleted": false,
 			"id": "U0w4kQ__-WF_GEmlxt6wk",
 			"fillStyle": "solid",
@@ -40,7 +38,7 @@ DB：A_SY004 ^up9rBNZX
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 259.5831899015692,
+			"x": 257.6224621930232,
 			"y": -447.66811933734164,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#e9ecef",
@@ -51,7 +49,7 @@ DB：A_SY004 ^up9rBNZX
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707140597619,
+			"updated": 1707140694110,
 			"link": null,
 			"locked": false
 		},
@@ -94,8 +92,8 @@ DB：A_SY004 ^up9rBNZX
 		},
 		{
 			"type": "rectangle",
-			"version": 520,
-			"versionNonce": 919594901,
+			"version": 558,
+			"versionNonce": 2060649339,
 			"isDeleted": false,
 			"id": "Qrb7ouAnO90MEigBWL75I",
 			"fillStyle": "solid",
@@ -109,13 +107,13 @@ DB：A_SY004 ^up9rBNZX
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#a5d8ff",
 			"width": 766.6445340414963,
-			"height": 290.1877008648119,
+			"height": 227.444414191339,
 			"seed": 648627861,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707140582264,
+			"updated": 1707140722380,
 			"link": null,
 			"locked": false
 		},
@@ -226,6 +224,33 @@ DB：A_SY004 ^up9rBNZX
 			"lineHeight": 1.2
 		},
 		{
+			"id": "c_7ZzTURLtX8dz9kRKKBz",
+			"type": "rectangle",
+			"x": 855.2359033914979,
+			"y": -260.6767345501416,
+			"width": 198.0334985631489,
+			"height": 70.58619750765695,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 384113781,
+			"version": 131,
+			"versionNonce": 467268405,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707140734845,
+			"link": null,
+			"locked": false
+		},
+		{
 			"text": "📍[[postgresql-logo.png]]",
 			"fontSize": 16,
 			"fontFamily": 3,
@@ -234,8 +259,8 @@ DB：A_SY004 ^up9rBNZX
 			"baseline": 15,
 			"id": "Q33kowax",
 			"type": "text",
-			"x": 735.6315131701904,
-			"y": 109.90080236505742,
+			"x": 374.8576147977215,
+			"y": -109.70070099209755,
 			"width": 228.609375,
 			"height": 19.2,
 			"angle": 0,
@@ -248,13 +273,13 @@ DB：A_SY004 ^up9rBNZX
 			"opacity": 100,
 			"roundness": null,
 			"seed": 37346,
-			"version": 1,
-			"versionNonce": 38897014,
-			"updated": 1707140686788,
-			"isDeleted": false,
+			"version": 114,
+			"versionNonce": 1138481141,
+			"updated": 1707140702663,
+			"isDeleted": true,
 			"groupIds": [],
 			"boundElements": [],
-			"link": "[[postgresql-logo.png]]",
+			"link": null,
 			"locked": false,
 			"containerId": null,
 			"originalText": "📍[[postgresql-logo.png]]",
