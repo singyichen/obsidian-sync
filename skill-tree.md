@@ -1,9 +1,3 @@
-# skill-tree
-
-- [ ] []()
-- [ ] []()
-
-
 
 # Skill Tree
 
