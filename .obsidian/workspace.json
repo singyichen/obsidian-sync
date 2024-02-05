@@ -11,9 +11,11 @@
             "id": "2013382a41d2cfcf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/PARA.md"
+                "file": "00.Inbox/PARA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PARA.md",
+                "file": "00.Inbox/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PARA.md",
+                "file": "00.Inbox/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PARA.md"
+                "file": "00.Inbox/PARA.md"
               }
             }
           },
@@ -209,15 +211,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2013382a41d2cfcf",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Excalidraw/PARA.md",
     "02.Areas/Framework/backend/comparison.md",
     "Templates/learning-template.md",
     "Templates/book-template.md",
     "00.Inbox/PARA.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
-    "Excalidraw/PARA.md",
     "Templates/meeting-template.md",
     "Templates/blog-post-template.md",
     "Excalidraw/node-web-framework.md",
