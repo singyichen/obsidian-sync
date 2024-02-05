@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/blog-post-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/blog-post-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/blog-post-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/blog-post-template.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md"
               }
             }
           },
@@ -210,15 +210,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "04.Archives/lottery-system/dev-tech.md",
+    "Templates/blog-post-template.md",
     "Templates/book-template.md",
     "Templates/dev-tech-template.md",
     "Templates/learning-template.md",
     "Templates/meeting-template.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
-    "04.Archives/lottery-system/dev-tech.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
     "03.Resources/KM/PARA.md",
@@ -242,7 +243,6 @@
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
     "Excalidraw/PARA.md",
-    "Templates/blog-post-template.md",
     "04.Archives/lottery-system",
     "().md",
     "03.Resources/KM",
