@@ -14,6 +14,8 @@ Project ^NysrURSK
 
 專案 ^drMMz4cL
 
+P ^ZBm9ZUVD
+
 %%
 # Drawing
 ```json
@@ -24,11 +26,11 @@ Project ^NysrURSK
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 124,
-			"versionNonce": 533058156,
+			"version": 142,
+			"versionNonce": 1970095468,
 			"isDeleted": false,
 			"id": "ZaLHKo6vNER8h0LBHGBr_",
-			"fillStyle": "solid",
+			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
@@ -37,8 +39,8 @@ Project ^NysrURSK
 			"x": -476.5,
 			"y": -390.25,
 			"strokeColor": "#1971c2",
-			"backgroundColor": "#228be6",
-			"width": 205,
+			"backgroundColor": "#4dabf7",
+			"width": 231,
 			"height": 90,
 			"seed": 677533676,
 			"groupIds": [],
@@ -47,7 +49,7 @@ Project ^NysrURSK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707124160205,
+			"updated": 1707124267105,
 			"link": null,
 			"locked": false
 		},
@@ -165,13 +167,13 @@ Project ^NysrURSK
 		{
 			"id": "ETu48OnCM_j0gnNS9-PQj",
 			"type": "ellipse",
-			"x": -192.5,
-			"y": -380.25,
-			"width": 87.62886597938143,
-			"height": 84.99999999999999,
+			"x": -330.5,
+			"y": -382.64,
+			"width": 74.62886597938143,
+			"height": 72.38999999999999,
 			"angle": 0,
 			"strokeColor": "#1971c2",
-			"backgroundColor": "#4dabf7",
+			"backgroundColor": "#228be6",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
@@ -183,27 +185,69 @@ Project ^NysrURSK
 				"type": 2
 			},
 			"seed": 1503562452,
-			"version": 90,
-			"versionNonce": 1909541356,
+			"version": 224,
+			"versionNonce": 1151228140,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707124196506,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "ZBm9ZUVD"
+				}
+			],
+			"updated": 1707124255816,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "ZBm9ZUVD",
+			"type": "text",
+			"x": -301.7923099403737,
+			"y": -364.4002684065855,
+			"width": 17.44290865384615,
+			"height": 35.72307692307692,
+			"angle": 0,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#4dabf7",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 258612052,
+			"version": 188,
+			"versionNonce": 1471961964,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707124255816,
+			"link": null,
+			"locked": false,
+			"text": "P",
+			"rawText": "P",
+			"fontSize": 29.769230769230763,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 28,
+			"containerId": "ETu48OnCM_j0gnNS9-PQj",
+			"originalText": "P",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
-		"currentItemBackgroundColor": "#4dabf7",
-		"currentItemFillStyle": "solid",
+		"currentItemStrokeColor": "#ffffff",
+		"currentItemBackgroundColor": "#228be6",
+		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 3,
-		"currentItemFontSize": 28,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
