@@ -17,7 +17,7 @@ template-should-create: open-pane
 # 🚀 PARA
 
 - [ ] [PARA 分類架構](https://fntsr.tw/notes/para-method/)
-- [ ] []()
+- [ ] [PARA：搭配 Obsidian 使用的資料夾管理架構](https://hitripod.com/para-data-folder-structure/)
 
 
 |   類別    |    類別    | 關注程度 | 是否有時限 | 是否需要產生成果 |
