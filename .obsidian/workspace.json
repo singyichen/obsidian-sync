@@ -11,12 +11,19 @@
             "id": "823226c2d42ed817",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "software.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/node-web-framework.md"
+              }
+            }
+          },
+          {
+            "id": "0eb9ddd1ce79ec34",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-05 13.35.19.excalidraw.md"
               }
             }
           },
@@ -32,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 302.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "Excalidraw/Drawing 2024-02-05 13.35.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "Excalidraw/Drawing 2024-02-05 13.35.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "Excalidraw/Drawing 2024-02-05 13.35.19.excalidraw.md"
               }
             }
           },
@@ -206,13 +214,15 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "0eb9ddd1ce79ec34",
   "lastOpenFiles": [
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/Drawing 2024-02-05 13.35.19.excalidraw.md",
+    "Excalidraw/未命名.canvas",
+    "software.md",
     "03.Resources/PM",
     "00.Inbox",
     "04.Archives",
-    "Excalidraw/node-web-framework.md",
-    "software.md",
     "03.Resources",
     "02.Areas",
     "01.Projects",
@@ -235,7 +245,6 @@
     "Pasted Image 20240203214345_635.png",
     "Pasted Image 20240203212531_646.png",
     "Excalidraw/Drawing 2024-02-03 21.25.09.excalidraw.md",
-    "images",
-    "Excalidraw"
+    "images"
   ]
 }
