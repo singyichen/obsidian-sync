@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 387.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/KM/PARA.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -212,6 +212,7 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "03.Resources/KM/PARA.md",
     "02.Areas/Framework/backend/comparison.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSUsage.md",
     "Templates/book-template.md",
@@ -224,7 +225,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
     "Templates/dev-tech-template.md",
     "02.Areas/DataIntegration/SymmetricDS/TaskScheduler.md",
-    "03.Resources/KM/PARA.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",

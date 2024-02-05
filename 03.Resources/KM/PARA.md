@@ -6,7 +6,8 @@ description:
 author: mandy
 aliases: 
 category: 
-tags: 
+tags:
+  - km
 AutoNoteMover: disable
 disabled rules:
   - all
@@ -17,7 +18,6 @@ template-should-replace: sometimes
 template-should-create: open-pane
 published: false
 ---
-
 
 # 🚀 PARA
 
