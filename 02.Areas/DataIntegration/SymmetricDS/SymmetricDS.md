@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T20:48
+updated: 2024-02-05T20:50
 title: SymmetricDS
 description: 
 author: mandy
@@ -167,7 +167,9 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 # 使用案例 Use Case
 ## 負載平衡 Load Balancer
 
-![symmetricds cluster diagram with a load balancer.png](http://192.168.25.60:8000/files/file_storage/b83d8912.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-cluster-diagram-with-a-load-balancer.png)
+
 
 涉及 SymmetricDS 集群的最常見用例是通過負載平衡器來支持多個客戶端節點。這有助於將中央資料庫擴展到可複製到數百甚至數千個客戶端節點。它還可以作為高可用性用例，以便即使中央 SymmetricDS 節點關閉，複製到中央節點仍然繼續進行。
 
