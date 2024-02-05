@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:44
+updated: 2024-02-05T16:45
 author: mandy
 aliases: 
 category: 
@@ -31,8 +31,9 @@ template-should-create: open-pane
 | Archives  |    留存    |    Ｘ    |     X      |        X         |
 
 
-| | |
-| --- | --- |
-|  |  |
+| 知識管理工作流 | PARA | PAI |
+| ---- | ---- | ---- |
+| 全名 | Project、Area、Resources、Archive | Project、Action、Inbox |
+| 資料庫使用 | 至少5個資料庫以上 (+Note) |  |
 
 
