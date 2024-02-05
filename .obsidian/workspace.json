@@ -11,18 +11,24 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Excalidraw/node-web-framework.md"
+              }
+            }
+          },
+          {
+            "id": "f089b0895c16e607",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SymmetricDS Usage.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Excalidraw/SymmetricDS Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Excalidraw/SymmetricDS Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "Excalidraw/SymmetricDS Usage.md"
               }
             }
           },
@@ -213,9 +219,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0cda098af97cc537",
+  "active": "f089b0895c16e607",
   "lastOpenFiles": [
     "Excalidraw/node-web-framework.md",
+    "Excalidraw/SymmetricDS Usage.md",
+    "未命名.md",
     "未命名.canvas",
     "Excalidraw/PARA.md",
     "Excalidraw/lottery-system-tech.md",
@@ -249,7 +257,6 @@
     "().md",
     "03.Resources/KM",
     "skill-tree.md",
-    "software.md",
     "Templates",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
