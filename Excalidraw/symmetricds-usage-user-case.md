@@ -39,8 +39,6 @@ HTTPS ^p4o78wWA
 
 JDBC ^uZPUevvL
 
-[[postgresql-logo.png]] ^PzptBzyv
-
 %%
 # Drawing
 ```json
@@ -51,8 +49,8 @@ JDBC ^uZPUevvL
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 930,
-			"versionNonce": 1577830203,
+			"version": 932,
+			"versionNonce": 474035067,
 			"isDeleted": false,
 			"id": "U0w4kQ__-WF_GEmlxt6wk",
 			"fillStyle": "cross-hatch",
@@ -61,8 +59,8 @@ JDBC ^uZPUevvL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 263.6471912090254,
-			"y": -441.6433903213394,
+			"x": 261.8290093908435,
+			"y": -443.4615721395212,
 			"strokeColor": "#ced4da",
 			"backgroundColor": "#e9ecef",
 			"width": 904.9673729655859,
@@ -72,7 +70,7 @@ JDBC ^uZPUevvL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707142112030,
+			"updated": 1707142159154,
 			"link": null,
 			"locked": false
 		},
@@ -351,8 +349,8 @@ JDBC ^uZPUevvL
 		},
 		{
 			"type": "arrow",
-			"version": 318,
-			"versionNonce": 1107766971,
+			"version": 322,
+			"versionNonce": 462047131,
 			"isDeleted": false,
 			"id": "fGC-8zy50ohRsovWv3pUH",
 			"fillStyle": "solid",
@@ -381,7 +379,7 @@ JDBC ^uZPUevvL
 					"id": "8WuhuuKQ"
 				}
 			],
-			"updated": 1707142093412,
+			"updated": 1707142128008,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -669,8 +667,8 @@ JDBC ^uZPUevvL
 		},
 		{
 			"type": "arrow",
-			"version": 466,
-			"versionNonce": 1706141307,
+			"version": 470,
+			"versionNonce": 1829017435,
 			"isDeleted": false,
 			"id": "6haaSSgtgbq0g29mMwe7H",
 			"fillStyle": "solid",
@@ -695,7 +693,7 @@ JDBC ^uZPUevvL
 					"id": "uZPUevvL"
 				}
 			],
-			"updated": 1707142093413,
+			"updated": 1707142128009,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -761,8 +759,8 @@ JDBC ^uZPUevvL
 		},
 		{
 			"type": "arrow",
-			"version": 156,
-			"versionNonce": 607159227,
+			"version": 160,
+			"versionNonce": 1214561435,
 			"isDeleted": false,
 			"id": "p_4N-Z2rJbU73aF4L2Cor",
 			"fillStyle": "solid",
@@ -787,7 +785,7 @@ JDBC ^uZPUevvL
 					"id": "p4o78wWA"
 				}
 			],
-			"updated": 1707142093413,
+			"updated": 1707142128009,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -850,42 +848,6 @@ JDBC ^uZPUevvL
 			"originalText": "HTTPS",
 			"lineHeight": 1.2,
 			"baseline": 26
-		},
-		{
-			"text": "📍[[postgresql-logo.png]]",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 25,
-			"id": "PzptBzyv",
-			"type": "text",
-			"x": 363.40360496454565,
-			"y": -153.3404598753113,
-			"width": 330.30255126953125,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#ced4da",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"roundness": null,
-			"seed": 15491,
-			"version": 167,
-			"versionNonce": 317336341,
-			"updated": 1707142109620,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": "[[postgresql-logo.png]]",
-			"locked": false,
-			"containerId": null,
-			"originalText": "📍[[postgresql-logo.png]]",
-			"rawText": "[[postgresql-logo.png]]",
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -903,8 +865,8 @@ JDBC ^uZPUevvL
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "triangle",
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -225.67633223727296,
-		"scrollY": 483.7950053298568,
+		"scrollX": -223.8581504190911,
+		"scrollY": 485.6131871480386,
 		"zoom": {
 			"value": 1.1
 		},
