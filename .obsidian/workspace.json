@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
+                "file": "03.Resources/KM/PARA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
+                "file": "03.Resources/KM/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
+                "file": "03.Resources/KM/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/UIUX/UX.md"
+                "file": "03.Resources/KM/PARA.md"
               }
             }
           },
@@ -212,17 +212,19 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "03.Resources/UIUX/UIUX.md",
+    "02.Areas/Framework/backend/comparison.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSUsage.md",
+    "Templates/book-template.md",
+    "Templates/blog-post-template.md",
     "03.Resources/UIUX/UX.md",
+    "03.Resources/UIUX/UIUX.md",
     "Excalidraw/PARA.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "Templates/learning-template.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
     "Templates/dev-tech-template.md",
-    "Templates/book-template.md",
     "02.Areas/DataIntegration/SymmetricDS/TaskScheduler.md",
     "03.Resources/KM/PARA.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSUsage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
@@ -231,10 +233,8 @@
     "02.Areas/DataIntegration",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
-    "02.Areas/Framework/backend/comparison.md",
     "04.Archives/lottery-system/dev-tech.md",
     "Templates/meeting-template.md",
-    "Templates/blog-post-template.md",
     "04.Archives/lottery-system",
     "().md",
     "03.Resources/KM",

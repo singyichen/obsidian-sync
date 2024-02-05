@@ -1,11 +1,12 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:03
+updated: 2024-02-05T19:09
+title: PARA
+description: 
 author: mandy
 aliases: 
 category: 
-tags:
-  - km
+tags: 
 AutoNoteMover: disable
 disabled rules:
   - all
@@ -14,7 +15,10 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
+published: false
 ---
+
+
 # 🚀 PARA
 
 - [ ] [如何分類筆記？一套簡單又通用的分類架構 — PARA](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E5%A6%82%E4%BD%95%E5%88%86%E9%A1%9E%E7%AD%86%E8%A8%98-e25c4cc39dba)
