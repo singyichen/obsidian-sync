@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:20
+updated: 2024-02-05T19:31
 title: SymmetricDS
 description: 
 author: mandy
@@ -64,7 +64,9 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 ## 部署示意圖
 雙箭頭代表可以雙向同步，而不是簡單的單向複製
 
-![symmetricds 部署示意圖.png](http://192.168.25.60:8000/files/file_storage/714267f5.png)
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-deployment-diagram.png)
+
 
 ## 組態資料模型 Configuration Data Model
 - 對於各個服務器，不管是 Server 還是 Client，都需要組態 SymmetricDS 服務，主要用來進行監聽與執行動作。並且是以 Node 來代表服務器進行設置。
