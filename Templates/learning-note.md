@@ -14,7 +14,7 @@ template-should-create: open-pane
 created: "{{date}}:{{time:HH:mm:ss}}"
 updated: "{{date}}:{{time:HH:mm:ss}}"
 ---
-
+![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
 # {{title}}
 
 - [ ] []()

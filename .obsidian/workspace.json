@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/learning-note.md",
+                "file": "00.Inbox/PARP.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/learning-note.md",
+                "file": "00.Inbox/PARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/learning-note.md",
+                "file": "00.Inbox/PARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/learning-note.md"
+                "file": "00.Inbox/PARP.md"
               }
             }
           },
@@ -249,17 +249,17 @@
   },
   "active": "f0fb120752ddbd20",
   "lastOpenFiles": [
-    "00.Inbox/PARP.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/lottery-system-tech.md",
     "Templates/learning-note.md",
+    "00.Inbox/PARP.md",
     "Excalidraw/PARP.md",
     "skill-tree.md",
     "Templates/book-note.md",
     "Templates/meeting-note.md",
     "PARP.md",
     "README.md",
-    "Excalidraw/node-web-framework.md",
     "Templates",
-    "Excalidraw/lottery-system-tech.md",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
     "Images/adobe-photoshop-logo.png",
