@@ -771,27 +771,29 @@ A ^5mFrBv6h
 		{
 			"id": "ufV36434Je_5xOZ88E0SJ",
 			"type": "rectangle",
-			"x": -425.5325721743285,
-			"y": -443.2117379658142,
+			"x": -427.58899987192467,
+			"y": -452.4656626049967,
 			"width": 211.81205285239815,
-			"height": 26.733560068749284,
+			"height": 45.24140934711417,
 			"angle": 0,
 			"strokeColor": "#4dabf7",
 			"backgroundColor": "#a5d8ff",
 			"fillStyle": "solid",
-			"strokeWidth": 4,
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
-			"seed": 1238147668,
-			"version": 49,
-			"versionNonce": 2106665556,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 654113004,
+			"version": 116,
+			"versionNonce": 1805264596,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1707125066556,
+			"updated": 1707125092287,
 			"link": null,
 			"locked": false
 		}
@@ -802,7 +804,7 @@ A ^5mFrBv6h
 		"currentItemStrokeColor": "#4dabf7",
 		"currentItemBackgroundColor": "#a5d8ff",
 		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 4,
+		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
@@ -816,7 +818,7 @@ A ^5mFrBv6h
 		"zoom": {
 			"value": 0.9725603299050772
 		},
-		"currentItemRoundness": "sharp",
+		"currentItemRoundness": "round",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
