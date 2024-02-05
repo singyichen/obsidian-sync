@@ -11,9 +11,9 @@
             "id": "823226c2d42ed817",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "Images/Pasted Image 20240205135229_438.jpg"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "Images/Pasted Image 20240205135229_438.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "Images/Pasted Image 20240205135229_438.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "Images/Pasted Image 20240205135229_438.jpg"
               }
             }
           },
@@ -220,12 +220,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "25e5aa3c9aaba892",
+  "active": "823226c2d42ed817",
   "lastOpenFiles": [
+    "Excalidraw/PARP.md",
+    "Images/Pasted Image 20240205135229_438.jpg",
+    "Images",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "Pasted Image 20240205134339_758.png",
-    "Excalidraw/PARP.md",
     "Excalidraw/未命名.canvas",
     "software.md",
     "03.Resources/PM",
@@ -252,7 +254,6 @@
     "Excalidraw/Drawing 2024-02-03 22.12.43.excalidraw.md",
     "Pasted Image 20240203214345_635.png",
     "Pasted Image 20240203212531_646.png",
-    "Excalidraw/Drawing 2024-02-03 21.25.09.excalidraw.md",
-    "images"
+    "Excalidraw/Drawing 2024-02-03 21.25.09.excalidraw.md"
   ]
 }
