@@ -178,9 +178,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "0f69369519262a04",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -203,7 +211,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "823226c2d42ed817",
+  "active": "0f69369519262a04",
   "lastOpenFiles": [
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",

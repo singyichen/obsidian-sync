@@ -23,5 +23,7 @@
   "obsidian-chartsview-plugin",
   "obsidian-charts",
   "obsidian-admonition",
-  "markdown-table-editor"
+  "markdown-table-editor",
+  "obsidian-checklist-plugin",
+  "obsidian-day-planner"
 ]
