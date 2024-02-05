@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:49
+updated: 2024-02-05T17:17
 author: mandy
 aliases: 
 category: 
@@ -22,6 +22,8 @@ template-should-create: open-pane
 - [ ] [PARA：搭配 Obsidian 使用的資料夾管理架構](https://hitripod.com/para-data-folder-structure/)
 - [ ] [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](https://fortelabs.com/blog/para/)
 - [ ] [為什麼我不用 PARA 了？PAI 個人知識管理系統（Notion 原創範本）](https://raymondhouch.com/notion/para-pai/)
+
+![[E]]
 
 |   類別    |    類別    | 關注程度 | 是否有時限 | 是否需要產生成果 |
 |:---------:|:----------:|:--------:|:----------:|:----------------:|
