@@ -26,14 +26,13 @@ JDBC ^TnY5MSSM
 
 Node Group - Client ^oftzWS54
 
-PostgreSQL
-(Server)
+MSSQL
+(Client)
 192.168.XX.XX
-docker
-DB：A_SY004 ^35L63cQx
+DB：Leader ^35L63cQx
 
 client
-port：31415
+port：31416
 client-001 (node 1) ^jo4eBReV
 
 JDBC ^2iDFkeN8
@@ -342,8 +341,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "arrow",
-			"version": 248,
-			"versionNonce": 2063834165,
+			"version": 252,
+			"versionNonce": 946234139,
 			"isDeleted": false,
 			"id": "fGC-8zy50ohRsovWv3pUH",
 			"fillStyle": "solid",
@@ -365,7 +364,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141191526,
+			"updated": 1707141308440,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -394,8 +393,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "arrow",
-			"version": 194,
-			"versionNonce": 1572547995,
+			"version": 198,
+			"versionNonce": 1259771995,
 			"isDeleted": false,
 			"id": "-HeUsL2y52MDSQxoLzvOI",
 			"fillStyle": "solid",
@@ -417,7 +416,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141191526,
+			"updated": 1707141308440,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -589,8 +588,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "text",
-			"version": 171,
-			"versionNonce": 25930837,
+			"version": 191,
+			"versionNonce": 1635424955,
 			"isDeleted": false,
 			"id": "35L63cQx",
 			"fillStyle": "solid",
@@ -600,29 +599,29 @@ JDBC ^2iDFkeN8
 			"opacity": 100,
 			"angle": 0,
 			"x": 417.83868335066086,
-			"y": 131.0727616160039,
+			"y": 140.67276161600392,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a5d8ff",
 			"width": 121.875,
-			"height": 96,
+			"height": 76.8,
 			"seed": 480683611,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141191526,
+			"updated": 1707141519488,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "PostgreSQL\n(Server)\n192.168.XX.XX\ndocker\nDB：A_SY004",
-			"rawText": "PostgreSQL\n(Server)\n192.168.XX.XX\ndocker\nDB：A_SY004",
+			"text": "MSSQL\n(Client)\n192.168.XX.XX\nDB：Leader",
+			"rawText": "MSSQL\n(Client)\n192.168.XX.XX\nDB：Leader",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "xE070mzNszMKAxP1lthts",
-			"originalText": "PostgreSQL\n(Server)\n192.168.XX.XX\ndocker\nDB：A_SY004",
+			"originalText": "MSSQL\n(Client)\n192.168.XX.XX\nDB：Leader",
 			"lineHeight": 1.2,
-			"baseline": 92
+			"baseline": 73
 		},
 		{
 			"type": "rectangle",
@@ -666,8 +665,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "text",
-			"version": 152,
-			"versionNonce": 1976789051,
+			"version": 154,
+			"versionNonce": 937510875,
 			"isDeleted": false,
 			"id": "jo4eBReV",
 			"fillStyle": "solid",
@@ -687,24 +686,24 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141306807,
+			"updated": 1707141486552,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "client\nport：31415\nclient-001 (node 1)",
-			"rawText": "client\nport：31415\nclient-001 (node 1)",
+			"text": "client\nport：31416\nclient-001 (node 1)",
+			"rawText": "client\nport：31416\nclient-001 (node 1)",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "zjLs9F-UDpBTm4HWgVO1T",
-			"originalText": "client\nport：31415\nclient-001 (node 1)",
+			"originalText": "client\nport：31416\nclient-001 (node 1)",
 			"lineHeight": 1.2,
 			"baseline": 53
 		},
 		{
 			"type": "arrow",
-			"version": 413,
-			"versionNonce": 476156853,
+			"version": 425,
+			"versionNonce": 1663086747,
 			"isDeleted": false,
 			"id": "6haaSSgtgbq0g29mMwe7H",
 			"fillStyle": "solid",
@@ -724,7 +723,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141307500,
+			"updated": 1707141520618,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -753,8 +752,8 @@ JDBC ^2iDFkeN8
 		},
 		{
 			"type": "arrow",
-			"version": 359,
-			"versionNonce": 1855842933,
+			"version": 371,
+			"versionNonce": 314279387,
 			"isDeleted": false,
 			"id": "6g5s8EiZyc2Ck5s0Y0qkS",
 			"fillStyle": "solid",
@@ -774,7 +773,7 @@ JDBC ^2iDFkeN8
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707141307501,
+			"updated": 1707141520618,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -839,41 +838,40 @@ JDBC ^2iDFkeN8
 			"baseline": 26
 		},
 		{
+			"text": "PostgreSQL\r\n(Server)\r\n192.168.XX.XX\r\ndocker\r\nDB：A_SY004",
+			"fontSize": 28,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 160,
+			"id": "isFmgCsT",
 			"type": "text",
-			"version": 2,
-			"versionNonce": 1599629269,
-			"isDeleted": true,
-			"id": "bIJjMBak",
+			"x": 512.1085543959434,
+			"y": 211.85864320945086,
+			"width": 213.28125,
+			"height": 168,
+			"angle": 0,
+			"strokeColor": "#7950f2",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": 752.3161765222408,
-			"y": 146.75318539535564,
-			"strokeColor": "#7950f2",
-			"backgroundColor": "transparent",
-			"width": 311.71875,
-			"height": 100.80000000000001,
-			"seed": 44718,
-			"groupIds": [],
-			"frameId": null,
 			"roundness": null,
+			"seed": 19582,
+			"version": 2,
+			"versionNonce": 896064667,
+			"updated": 1707141500406,
+			"isDeleted": true,
+			"groupIds": [],
 			"boundElements": [],
-			"updated": 1707141291533,
 			"link": null,
 			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 3,
-			"text": "client\r\nport：31415\r\nserver-000 (node 0)",
-			"rawText": "client\r\nport：31415\r\nserver-000 (node 0)",
-			"textAlign": "left",
-			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "client\r\nport：31415\r\nserver-000 (node 0)",
-			"lineHeight": 1.2,
-			"baseline": 93
+			"originalText": "PostgreSQL\r\n(Server)\r\n192.168.XX.XX\r\ndocker\r\nDB：A_SY004",
+			"rawText": "PostgreSQL\r\n(Server)\r\n192.168.XX.XX\r\ndocker\r\nDB：A_SY004",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
