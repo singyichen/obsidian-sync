@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/meeting-template.md",
+                "file": "Templates/book-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/meeting-template.md",
+                "file": "Templates/book-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/meeting-template.md",
+                "file": "Templates/book-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/meeting-template.md"
+                "file": "Templates/book-template.md"
               }
             }
           },
@@ -216,6 +216,8 @@
     "Templates/learning-template.md",
     "Templates/book-template.md",
     "Templates/blog-post-template.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/lottery-system-tech.md",
     "Templates/meeting-template.md",
     "Excalidraw/PARA.md",
     "00.Inbox/PARA.md",
@@ -226,9 +228,7 @@
     "Templates/test.md",
     "03.Resources/UIUX/UIUX.md",
     "03.Resources/UIUX/UX.md",
-    "Excalidraw/lottery-system-tech.md",
     "00.Inbox/PARP.md",
-    "Excalidraw/node-web-framework.md",
     "PARP.md",
     "Templates",
     "Images/edraw-max-logo.svg",
