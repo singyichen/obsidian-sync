@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/book-template.md",
+                "file": "Templates/learning-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/book-template.md",
+                "file": "Templates/learning-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/book-template.md",
+                "file": "Templates/learning-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/book-template.md"
+                "file": "Templates/learning-template.md"
               }
             }
           },
@@ -213,13 +213,13 @@
   },
   "active": "2013382a41d2cfcf",
   "lastOpenFiles": [
+    "Templates/book-template.md",
+    "02.Areas/Framework/backend/comparison.md",
     "Templates/learning-template.md",
     "00.Inbox/PARA.md",
-    "02.Areas/Framework/backend/comparison.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
     "Excalidraw/PARA.md",
-    "Templates/book-template.md",
     "Templates/meeting-template.md",
     "Templates/blog-post-template.md",
     "Excalidraw/node-web-framework.md",
