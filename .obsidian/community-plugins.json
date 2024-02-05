@@ -20,5 +20,8 @@
   "obsidian-timelines",
   "table-extended",
   "sheets",
-  "obsidian-chartsview-plugin"
+  "obsidian-chartsview-plugin",
+  "obsidian-charts",
+  "obsidian-admonition",
+  "markdown-table-editor"
 ]
