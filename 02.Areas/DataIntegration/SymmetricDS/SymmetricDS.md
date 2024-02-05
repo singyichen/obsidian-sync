@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T20:58
+updated: 2024-02-05T21:01
 title: SymmetricDS
 description: 
 author: mandy
@@ -147,22 +147,25 @@ SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上
 - 每個節點都需要組態服務代碼，且比較複雜。會在每個節點數據庫中生成 41 張同步系統表，業務的控制體現在表數據中。適合用於固定或長期穩定的網絡通道的機房環境。如果整合進產品往外推廣，組態複雜後期維護也麻煩，適合本公司內部服務器的應用。
 
 # 支援不同的資料庫
-## MySQL 5.0.2及以上版本
-## MariaDB 及以上版本
-## Oracle 10g及以上版本
-## PostgreSQL 8.2.5及以上版本
-## Sql Server 2005及以上版本
-## Sql Server Azure
-## HSQLDB 2.x
-## H2 1.x
-## Apache Derby 10.3.2.1及以上版本
-## IBM DB2 9.5及以上版本
-## Firebird 2.0及以上版本
-## Interbase 2009及以上版本
-## Greenplum 8.2.15及以上版本
-## SQLite 3及以上版本
-## Sybase Adaptive ServerEnterprise 12.5及以上版本
-## Sybase SQL Anywhere 9及以上版本
+
+|              資料庫              |        版本        |
+|:--------------------------------:|:------------------:|
+|              MySQL               |  5.0.2及以上版本   |
+|             MariaDB              |     及以上版本     |
+|              Oracle              |   10g及以上版本    |
+|            PostgreSQL            |  8.2.5及以上版本   |
+|            Sql Server            |   2005及以上版本   |
+|         Sql Server Azure         |                    |
+|              HSQLDB              |        2.x         |
+|                H2                |        1.x         |
+|           Apache Derby           | 10.3.2.1及以上版本 |
+|             IBM DB2              |   9.5及以上版本    |
+|             Firebird             |   2.0及以上版本    |
+|            Interbase             |   2009及以上版本   |
+|            Greenplum             |  8.2.15及以上版本  |
+|              SQLite              |    3及以上版本     |
+| Sybase Adaptive ServerEnterprise |   12.5及以上版本   |
+|       Sybase SQL Anywhere        |    9及以上版本     |
 
 # 使用案例 Use Case
 ## 負載平衡 Load Balancer
