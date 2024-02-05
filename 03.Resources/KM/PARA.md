@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:45
+updated: 2024-02-05T16:46
 author: mandy
 aliases: 
 category: 
@@ -34,6 +34,10 @@ template-should-create: open-pane
 | 知識管理工作流 | PARA | PAI |
 | ---- | ---- | ---- |
 | 全名 | Project、Area、Resources、Archive | Project、Action、Inbox |
-| 資料庫使用 | 至少5個資料庫以上 (+Note) |  |
+| 資料庫使用 | 至少5個資料庫以上 (+Note) | 只需3個資料庫，減少翻找內容，盡可能簡化操作 |
+| 工作流、重心 | 收集→處理&組織→輸出→知識還原 | 專案執行→觀察反思→ 知識還原 |
+| 輔助 | 漸進式總結(CODE,輸出) | 外部資訊的收集 |
+| 成果 | 個人 Wiki(收藏用知識庫) | 讓知識跟著你的專案(個人專案知識庫)，每張行動卡片是紀錄，每個專案頁面是知識庫 |
+|  |  |  |
 
 
