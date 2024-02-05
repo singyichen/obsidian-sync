@@ -11,11 +11,9 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/PARA.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
+                "file": "Excalidraw/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/KM/PARA.md",
+                "file": "Excalidraw/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/KM/PARA.md"
+                "file": "Excalidraw/PARA.md"
               }
             }
           },
@@ -212,8 +210,8 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "Excalidraw/PARA.md",
     "03.Resources/KM/PARA.md",
+    "Excalidraw/PARA.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
     "02.Areas/Framework/backend/comparison.md",
