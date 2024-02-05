@@ -1,16 +1,25 @@
 ---
-title: SymmetricDS Install
+created: 2024-02-05T14:13
+updated: 2024-02-05T19:12
+title: SymmetricDSInstall
 description: 
-published: true
-date: 2023-06-20T07:42:03.896Z
-tags: symmetricds
-editor: markdown
-dateCreated: 2023-06-09T08:58:43.402Z
-created: 2024-02-05T19:03
-updated: 2024-02-05T19:10
+author: mandy
+aliases: 
+category: 
+tags:
+  - symmetricds
+AutoNoteMover: disable
+disabled rules:
+  - all
+template-output: 030-Inbox
+template-input: title,body
+template-replacement: "[[learning-template]]"
+template-should-replace: sometimes
+template-should-create: open-pane
+published: false
 ---
+# 🚀 SymmetricDS Install
 
-# SymmetricDS Install
 - [ ] [symmetricds](https://www.symmetricds.org/)
 - [ ] [Running as a Service](https://www.symmetricds.org/doc/3.14/html/user-guide.html#_running_as_a_service)
 - [ ] [SymmetricDS 3.14 Tutorials](https://www.symmetricds.org/doc/3.14/html/tutorials.html)

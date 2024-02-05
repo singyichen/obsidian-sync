@@ -21,11 +21,6 @@ published: false
 ---
 # 🚀 SymmetricDS Docker Install
 
-- [ ] []()
-- [ ] []()
-
-
-# SymmetricDS Docker Install
 - [ ] [jumpmind/symmetricds](https://hub.docker.com/r/jumpmind/symmetricds)
 
 # 安裝方法

@@ -1,16 +1,25 @@
 ---
-title: SymmetricDS Node Properties File
+created: 2024-02-05T14:13
+updated: 2024-02-05T19:13
+title: SymmetricDSNodePropertiesFile
 description: 
-published: true
-date: 2023-06-20T07:18:09.028Z
-tags: symmetricds
-editor: markdown
-dateCreated: 2023-06-17T01:21:11.605Z
-created: 2024-02-05T19:03
-updated: 2024-02-05T19:10
+author: mandy
+aliases: 
+category: 
+tags: 
+AutoNoteMover: disable
+disabled rules:
+  - all
+template-output: 030-Inbox
+template-input: title,body
+template-replacement: "[[learning-template]]"
+template-should-replace: sometimes
+template-should-create: open-pane
+published: false
 ---
+# 🚀 SymmetricDS Node Properties File
 
-# SymmetricDS Node Properties File
+
 - [ ] [Spring 的 CRON 支援](https://docs.spring.io/spring-framework/docs/3.0.x/javadoc-api/org/springframework/scheduling/support/CronSequenceGenerator.html)
 - [ ] [Connect to the Database](https://www.symmetricds.org/docs/how-to/connect-to-database)
 
