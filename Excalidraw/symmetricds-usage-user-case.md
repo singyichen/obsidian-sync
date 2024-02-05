@@ -18,6 +18,8 @@ PostgreSQL
 docker
 DB：A_SY004 ^up9rBNZX
 
+[[postgresql-logo.png]] ^Q33kowax
+
 %%
 # Drawing
 ```json
@@ -221,6 +223,42 @@ DB：A_SY004 ^up9rBNZX
 			"baseline": 92,
 			"containerId": "Wp65it_acD-gzG3U4NO-m",
 			"originalText": "PostgreSQL\n(Server)\n192.168.25.59\ndocker\nDB：A_SY004",
+			"lineHeight": 1.2
+		},
+		{
+			"text": "📍[[postgresql-logo.png]]",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"id": "Q33kowax",
+			"type": "text",
+			"x": 735.6315131701904,
+			"y": 109.90080236505742,
+			"width": 228.609375,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 37346,
+			"version": 1,
+			"versionNonce": 38897014,
+			"updated": 1707140686788,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": "[[postgresql-logo.png]]",
+			"locked": false,
+			"containerId": null,
+			"originalText": "📍[[postgresql-logo.png]]",
+			"rawText": "[[postgresql-logo.png]]",
 			"lineHeight": 1.2
 		}
 	],
