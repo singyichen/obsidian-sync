@@ -26,11 +26,11 @@ Resource ^bMQfTCxM
 
 R ^1nhz2ulI
 
-Resource ^ls8tTskL
+Archives ^ls8tTskL
 
-資源 ^DqzHENtE
+封存 ^DqzHENtE
 
-R ^5mFrBv6h
+A ^5mFrBv6h
 
 %%
 # Drawing
@@ -588,8 +588,8 @@ R ^5mFrBv6h
 		},
 		{
 			"type": "rectangle",
-			"version": 431,
-			"versionNonce": 946342612,
+			"version": 432,
+			"versionNonce": 1179095124,
 			"isDeleted": false,
 			"id": "K1mHYjHqJeX2IdoKSBnLC",
 			"fillStyle": "solid",
@@ -600,7 +600,7 @@ R ^5mFrBv6h
 			"angle": 0,
 			"x": 324.1253008663523,
 			"y": -560.0281662612681,
-			"strokeColor": "#9c36b5",
+			"strokeColor": "#6741d9",
 			"backgroundColor": "#9775fa",
 			"width": 231,
 			"height": 90,
@@ -609,14 +609,14 @@ R ^5mFrBv6h
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707124826729,
+			"updated": 1707124830494,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 475,
-			"versionNonce": 2095604308,
+			"version": 476,
+			"versionNonce": 1688983764,
 			"isDeleted": false,
 			"id": "ls8tTskL",
 			"fillStyle": "solid",
@@ -636,24 +636,24 @@ R ^5mFrBv6h
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707124783865,
+			"updated": 1707124876035,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 3,
-			"text": "Resource",
-			"rawText": "Resource",
+			"text": "Archives",
+			"rawText": "Archives",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Resource",
+			"originalText": "Archives",
 			"lineHeight": 1.2,
 			"baseline": 26
 		},
 		{
 			"type": "text",
-			"version": 433,
-			"versionNonce": 1473312724,
+			"version": 434,
+			"versionNonce": 1316212564,
 			"isDeleted": false,
 			"id": "DqzHENtE",
 			"fillStyle": "solid",
@@ -673,24 +673,24 @@ R ^5mFrBv6h
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707124783865,
+			"updated": 1707124891164,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 2,
-			"text": "資源",
-			"rawText": "資源",
+			"text": "封存",
+			"rawText": "封存",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "資源",
+			"originalText": "封存",
 			"lineHeight": 1.15,
 			"baseline": 25
 		},
 		{
 			"type": "ellipse",
-			"version": 519,
-			"versionNonce": 1141562708,
+			"version": 521,
+			"versionNonce": 80902380,
 			"isDeleted": false,
 			"id": "VRCC7M47Xi6lW4-WZRDRF",
 			"fillStyle": "solid",
@@ -701,8 +701,8 @@ R ^5mFrBv6h
 			"angle": 0,
 			"x": 471.1253008663523,
 			"y": -552.418166261268,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "#fab005",
+			"strokeColor": "#6741d9",
+			"backgroundColor": "#7950f2",
 			"width": 74.62886597938143,
 			"height": 72.38999999999999,
 			"seed": 1267352276,
@@ -717,14 +717,14 @@ R ^5mFrBv6h
 					"id": "5mFrBv6h"
 				}
 			],
-			"updated": 1707124783865,
+			"updated": 1707124841203,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 478,
-			"versionNonce": 720114388,
+			"version": 484,
+			"versionNonce": 665241556,
 			"isDeleted": false,
 			"id": "5mFrBv6h",
 			"fillStyle": "solid",
@@ -744,17 +744,17 @@ R ^5mFrBv6h
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707124783865,
+			"updated": 1707124849058,
 			"link": null,
 			"locked": false,
 			"fontSize": 29.769230769230763,
 			"fontFamily": 3,
-			"text": "R",
-			"rawText": "R",
+			"text": "A",
+			"rawText": "A",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "VRCC7M47Xi6lW4-WZRDRF",
-			"originalText": "R",
+			"originalText": "A",
 			"lineHeight": 1.2,
 			"baseline": 28
 		}
@@ -762,8 +762,8 @@ R ^5mFrBv6h
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#9c36b5",
-		"currentItemBackgroundColor": "#9775fa",
+		"currentItemStrokeColor": "#6741d9",
+		"currentItemBackgroundColor": "#7950f2",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
