@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:06
+updated: 2024-02-05T19:14
 title: SymmetricDS
 description: 
 author: mandy
@@ -25,11 +25,13 @@ published: true
 - [ ] [Clustering SymmetricDS](https://www.jumpmind.com/blog/blog/how-to/clustering-symmetricds/)
 
 # 關於 SymmetricDS
+
 SymmetricDS 是從大型 POS 開發專案衍生出來的開源資料庫同步軟體，支援單向複製，多主機複製，過濾同步和轉換。使用 web 和資料庫技術，它可以作為一個非同步複製資料或接近即時操作。可以擴展到大量的資料庫和不同平台之間的操作，它可以在低頻寬連接和經得起時間的網路故障。
 
 SymmetricDS 目前提供免費版與收費 PRO 版，兩種版本功能實現上相同，但 PRO 版另外提供 Web 管理介面，可以設置與監管各端點。
 
 ## 運作原理
+
 - SymmetricDS 是一個可以獨立運作的服務，不見得要跟資料庫裝在同套環境內，但因 SymmetricDS 體積小負載低，通常會裝在同一環境內，會取得最佳的效能。
 - SymmetricDS 透過 JDBC 跟資料庫連線，資料會先壓縮過再透過 HTTP/HTTPS 跟其他 Node 傳輸同步。
 - 每個 SymmetricDS Node 都會指定 `群組名稱(Group)` 及 `對外ID(External ID)` ， `Group+External ID＝Node` 辨識唯一值。
