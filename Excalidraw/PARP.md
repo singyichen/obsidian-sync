@@ -8,10 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-a41c89add0a491ae0177abdfbcfabdf89fb4a37c: [[Pasted Image 20240205135229_438.jpg]]
-
 %%
 # Drawing
 ```json
@@ -22,9 +18,9 @@ a41c89add0a491ae0177abdfbcfabdf89fb4a37c: [[Pasted Image 20240205135229_438.jpg]
 	"elements": [
 		{
 			"type": "image",
-			"version": 49,
-			"versionNonce": 88242388,
-			"isDeleted": false,
+			"version": 50,
+			"versionNonce": 1814159340,
+			"isDeleted": true,
 			"id": "zr-p_w90_4XCfnNQyIwFJ",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -43,7 +39,7 @@ a41c89add0a491ae0177abdfbcfabdf89fb4a37c: [[Pasted Image 20240205135229_438.jpg]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707112453034,
+			"updated": 1707112534714,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -69,10 +65,10 @@ a41c89add0a491ae0177abdfbcfabdf89fb4a37c: [[Pasted Image 20240205135229_438.jpg]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 463.5,
-		"scrollY": 498.85,
+		"scrollX": 357.5571428571428,
+		"scrollY": 395.76428571428573,
 		"zoom": {
-			"value": 1.25
+			"value": 1.75
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

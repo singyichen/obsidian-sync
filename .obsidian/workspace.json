@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "Excalidraw/lottery-system-tech.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "Excalidraw/lottery-system-tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "Excalidraw/lottery-system-tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "Excalidraw/lottery-system-tech.md"
               }
             }
           },
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,15 +210,23 @@
   },
   "active": "8efea57d44a3a5b6",
   "lastOpenFiles": [
+    "Excalidraw/PARP.md",
+    "Images/Pasted Image 20240201164731_138.png",
+    "Images/Pasted Image 20240201164332_954.png",
+    "Images/Pasted Image 20240201163831_891.svg",
+    "Images/Pasted Image 20240201163628_014.png",
+    "Images/Pasted Image 20240201163239_034.png",
+    "Images/Pasted Image 20240201163113_686.png",
+    "Images/Pasted Image 20240201162939_264.png",
+    "Images/Pasted Image 20240201162618_079.png",
+    "Images/Pasted Image 20240201162215_985.png",
+    "Images/Pasted Image 20240201162143_972.png",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
-    "Images/Pasted Image 20240205135229_438.jpg",
     "2024-02-05.md",
     "2024-02-04.md",
-    "Excalidraw/PARP.md",
     "software.md",
     "Images",
-    "Pasted Image 20240205134339_758.png",
     "Excalidraw/未命名.canvas",
     "03.Resources/PM",
     "00.Inbox",
@@ -241,8 +249,6 @@
     "Framework/backend",
     "test/hello world.md",
     "Excalidraw/Drawing 2024-02-03 22.12.43.excalidraw.md",
-    "Pasted Image 20240203214345_635.png",
-    "Pasted Image 20240203212531_646.png",
     "Excalidraw/Drawing 2024-02-03 21.25.09.excalidraw.md"
   ]
 }
