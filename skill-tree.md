@@ -13,13 +13,6 @@ template-should-create: open-pane
 created: 2024-02-0514:37
 author: mandy
 ---
-# skill-tree
-
-- [ ] []()
-- [ ] []()
-
-
-
 # Skill Tree
 
 - [ ] [roadmap](https://roadmap.sh/)
