@@ -11,11 +11,9 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/node-web-framework.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
+                "file": "Excalidraw/node-web-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/UIUX/UX.md",
+                "file": "Excalidraw/node-web-framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/UIUX/UX.md"
+                "file": "Excalidraw/node-web-framework.md"
               }
             }
           },
@@ -212,15 +210,15 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "02.Areas/Framework/backend/comparison.md",
+    "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
     "03.Resources/KM/PARA.md",
     "().md",
     "03.Resources/KM",
     "Excalidraw/PARA.md",
-    "02.Areas/Framework/backend/comparison.md",
     "Templates/learning-template.md",
     "Templates/book-template.md",
-    "03.Resources/UIUX/UX.md",
     "Templates/meeting-template.md",
     "Templates/blog-post-template.md",
     "Excalidraw/node-web-framework.md",

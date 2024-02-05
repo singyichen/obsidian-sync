@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:25
+updated: 2024-02-05T16:50
 author: mandy
 aliases: 
 category: backend
@@ -15,7 +15,6 @@ template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
 ---
-
 # 🚀 Node Framework Comparison
 
 - [ ] [Express、Fastify、Hapi、Koa：Hello world 效能比較](https://medium.com/deno-the-complete-reference/express-vs-fastify-vs-hapi-vs-koa-hello-world-performance-comparison-dd8cd6866bdd "https://medium.com/deno-the-complete-reference/express-vs-fastify-vs-hapi-vs-koa-hello-world-performance-comparison-dd8cd6866bdd")
@@ -46,10 +45,6 @@ template-should-create: open-pane
 | 可擴充性 | 較差 | 優異 | 優異 | 優異 |
 | 學習曲線 | 平緩 | 陡峭 | 陡峭 | 陡峭 |
 | 社群資源 | 豐富 | 較少 | 較少 | 較少 |
-
-
-
-
 
 ## Express
 
