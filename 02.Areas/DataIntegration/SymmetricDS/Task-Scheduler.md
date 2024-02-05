@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:27
+updated: 2024-02-05T21:28
 title: TaskScheduler
 description: 
 author: mandy
@@ -105,12 +105,12 @@ Get-Date
   - `-ExecutionPolicy Bypass`：確保 `.ps1` 被允許執行
   - `-File "path"`：執行檔案路徑
 
-![工作排程器 啟動程式.png](http://192.168.25.60:8000/files/file_storage/7474907c.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/工作排程器-啟動程式.png)
 
 ## 摘要
 - 勾選 `當我按完成時開啟這項工作內容對話方塊`
 
-![工作排程器 摘要.png](http://192.168.25.60:8000/files/file_storage/dffbd3be.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/工作排程器-摘要.png)
 
 ## 設定以管理員權限執行
 - 工作設定完成會出現在列表中
