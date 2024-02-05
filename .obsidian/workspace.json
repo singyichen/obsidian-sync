@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb60e6afa2382d6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md"
               }
             }
           },
@@ -223,8 +210,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bb60e6afa2382d6a",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSInstall.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSDockerInstall.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSConfiguration.md",
@@ -235,7 +223,6 @@
     "Excalidraw/PARA.md",
     "02.Areas/DataIntegration/SymmetricDS/TaskScheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSUsage.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDSTool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDSNodePropertiesFile.md",
     "03.Resources/KM/PARA.md",
     "02.Areas/Framework/backend/comparison.md",

@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:08
+updated: 2024-02-05T21:09
 title: SymmetricDSInstall
 description: 
 author: mandy
@@ -51,7 +51,7 @@ published: false
   - Store 001：第一子節點
   - Store 002：第二子節點 
 
-![symmetricds use case demo.png](http://192.168.25.60:8000/files/file_storage/d790701d.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-use-case-demo.png)
 
 ## 資料夾結構
 
