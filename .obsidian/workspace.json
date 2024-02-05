@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "Templates/dev-tech-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "Templates/dev-tech-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/learning-template.md",
+                "file": "Templates/dev-tech-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/learning-template.md"
+                "file": "Templates/dev-tech-template.md"
               }
             }
           },
@@ -210,11 +210,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0cda098af97cc537",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Templates/meeting-template.md",
+    "Templates/dev-tech-template.md",
+    "Templates/learning-template.md",
     "Templates/blog-post-template.md",
     "Templates/book-template.md",
-    "Templates/learning-template.md",
     "04.Archives/lottery-system/tech.md",
     "Excalidraw/lottery-system-tech.md",
     "04.Archives/lottery-system",
@@ -226,7 +228,6 @@
     "().md",
     "03.Resources/KM",
     "Excalidraw/PARA.md",
-    "Templates/meeting-template.md",
     "skill-tree.md",
     "software.md",
     "README.md",
@@ -257,7 +258,6 @@
     "2024-02-03.md",
     "Excalidraw/Drawing 2024-02-03 23.47.44.excalidraw.md",
     "[.md",
-    "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md",
-    "test/hello world.md"
+    "Excalidraw/Drawing 2024-02-03 22.43.31.excalidraw.md"
   ]
 }
