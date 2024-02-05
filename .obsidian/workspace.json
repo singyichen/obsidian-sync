@@ -11,11 +11,9 @@
             "id": "2013382a41d2cfcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/PARA.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "Excalidraw/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "Excalidraw/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md"
+                "file": "Excalidraw/PARA.md"
               }
             }
           },
@@ -213,9 +211,9 @@
   },
   "active": "2013382a41d2cfcf",
   "lastOpenFiles": [
+    "02.Areas/Framework/backend/comparison.md",
     "Templates/learning-template.md",
     "Templates/book-template.md",
-    "02.Areas/Framework/backend/comparison.md",
     "00.Inbox/PARA.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
