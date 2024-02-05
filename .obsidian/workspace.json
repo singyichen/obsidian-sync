@@ -13,17 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
-              }
-            }
-          },
-          {
-            "id": "0eb9ddd1ce79ec34",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "Excalidraw/lottery-system-tech.md"
               }
             }
           },
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 306.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "Excalidraw/lottery-system-tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PARP.md",
+                "file": "Excalidraw/lottery-system-tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PARP.md"
+                "file": "Excalidraw/lottery-system-tech.md"
               }
             }
           },
@@ -214,10 +203,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "0eb9ddd1ce79ec34",
+  "active": "823226c2d42ed817",
   "lastOpenFiles": [
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
+    "Pasted Image 20240205134339_758.png",
     "Excalidraw/PARP.md",
     "Excalidraw/未命名.canvas",
     "software.md",
