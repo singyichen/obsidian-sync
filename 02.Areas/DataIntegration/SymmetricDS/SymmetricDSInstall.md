@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:14
+updated: 2024-02-05T21:15
 title: SymmetricDSInstall
 description: 
 author: mandy
@@ -112,9 +112,6 @@ published: false
 
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/PowerShell-Run-as-Administrator.png)
 
-
-![PowerShell Run as Administrator.png](http://192.168.25.60:8000/files/file_storage/5808dc4c.png)
-
 - 到安裝執行檔資料夾
 
 ```shell
@@ -196,6 +193,8 @@ Server Running: true
 ## 資料驗證方式
 - 使用 `dbsql` 連接資料庫執行 sql 進行驗證
 - 開啟三個 PowerShell 執行
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-use-case-dbsql.png)
 
 ![symmetricds use case dbsql.png](http://192.168.25.60:8000/files/file_storage/8d5f05d9.png)
 
