@@ -11,9 +11,11 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "02.Areas/Test/Test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "02.Areas/Test/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "02.Areas/Test/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "02.Areas/Test/Test.md"
               }
             }
           },
@@ -208,12 +210,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "Excalidraw/symmetricds-usage-user-case.md",
+    "02.Areas/Test/Test.md",
     "02.Areas/Test",
     "software.md",
     "未命名.canvas",
-    "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/Framework/backend/comparison.md",
     "skill-tree.md",
     "README.md",
@@ -247,7 +250,6 @@
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
     "04.Archives/lottery-system",
-    "03.Resources/KM",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
     "Images/adobe-photoshop-logo.png",
