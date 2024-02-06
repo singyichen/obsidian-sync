@@ -11,11 +11,9 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "software.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           },
@@ -190,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,9 +210,9 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "skill-tree.md",
     "02.Areas/Framework/backend/comparison.md",
     "software.md",
+    "skill-tree.md",
     "README.md",
     "mind map.md",
     "Templates/meeting-template.md",
