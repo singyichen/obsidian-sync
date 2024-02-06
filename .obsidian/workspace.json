@@ -21,9 +21,11 @@
             "id": "969b90a1900ac081",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "Templates/icon-template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "Templates/icon-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "Templates/icon-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "Templates/icon-template.md"
               }
             }
           },
@@ -221,6 +223,9 @@
   },
   "active": "969b90a1900ac081",
   "lastOpenFiles": [
+    "Excalidraw/symmetricds-usage-user-case.md",
+    "Excalidraw/PARA.md",
+    "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "04.Archives/lottery-system/dev-tech.md",
     "03.Resources/UIUX/UIUX.md",
@@ -233,16 +238,13 @@
     "Templates/icon-template.md",
     "02.Areas/Test/Test.md",
     "02.Areas/Test",
-    "Excalidraw/symmetricds-usage-user-case.md",
     "images/symmetricds-usage-user-case.png",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "Templates/book-template.md",
     "images/postgresql-logo.png",
-    "Excalidraw/node-web-framework.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
     "未命名.md",
     "未命名.canvas",
-    "Excalidraw/PARA.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
