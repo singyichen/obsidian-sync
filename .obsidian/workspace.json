@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "Excalidraw/jwt-structure.md"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "Excalidraw/jwt-structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "Excalidraw/jwt-structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "Excalidraw/jwt-structure.md"
               }
             }
           },
@@ -233,6 +233,7 @@
   },
   "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
+    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
@@ -249,7 +250,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "Templates/blog-post-template.md",
     "02.Areas/Test/UnitTest",
-    "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/Test",
     "software.md",
     "未命名.canvas",
