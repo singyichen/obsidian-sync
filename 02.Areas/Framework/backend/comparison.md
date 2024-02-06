@@ -49,7 +49,7 @@ published: true
 | 驗證 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、[@fastify/jwt](https://github.com/fastify/fastify-jwt) 等 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、JWT 等 |
 | 效能 | 較低 | 優異 | 優異 | 優異 |
 | 可擴充性 | 較差 | 優異 | 優異 | 優異 |
-| 學習曲線 | 平緩 | 陡峭 | 陡峭 | 陡峭 |
+| 學習曲線 | 低 | 中等偏高 | 低 | 高 |
 | 社群資源 | 豐富 | 較少 | 較少 | 較少 |
 
 ## Express
