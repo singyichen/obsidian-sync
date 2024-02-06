@@ -2837,7 +2837,7 @@ data ^LfEWTBiJ
 			"containerId": null,
 			"originalText": "JWT",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
