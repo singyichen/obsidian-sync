@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           },
@@ -219,10 +219,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "969b90a1900ac081",
   "lastOpenFiles": [
-    "Excalidraw/lottery-system-tech.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Excalidraw/jwt.md",
+    "Excalidraw/lottery-system-tech.md",
     "Excalidraw/backend-logo.md",
     "Templates/icon-template.md",
     "Excalidraw/symmetricds-usage-user-case.md",
@@ -231,7 +232,6 @@
     "04.Archives/lottery-system/dev-tech.md",
     "03.Resources/UIUX/UIUX.md",
     "03.Resources/KM/PARA.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/Framework/backend/comparison.md",
     "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
