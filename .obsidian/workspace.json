@@ -16,8 +16,19 @@
                 "file": "Excalidraw/lottery-system-tech.md"
               }
             }
+          },
+          {
+            "id": "969b90a1900ac081",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md",
+                "file": "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md",
+                "file": "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
+                "file": "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md"
               }
             }
           },
@@ -208,8 +219,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "017b827a3fa4b60b",
+  "active": "969b90a1900ac081",
   "lastOpenFiles": [
+    "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Templates/icon-template.md",
     "Excalidraw/jwt-structure.md",
@@ -227,7 +240,6 @@
     "未命名.md",
     "未命名.canvas",
     "Excalidraw/PARA.md",
-    "Excalidraw/lottery-system-tech.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
@@ -244,7 +256,6 @@
     "Templates/blog-post-template.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
-    "Templates/dev-tech-template.md",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
     "04.Archives/lottery-system",
