@@ -186,11 +186,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
