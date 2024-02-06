@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md"
+                "file": "software.md"
               }
             }
           },
@@ -212,10 +212,10 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "software.md",
     "skill-tree.md",
-    "README.md",
     "02.Areas/Framework/backend/comparison.md",
+    "software.md",
+    "README.md",
     "mind map.md",
     "Templates/meeting-template.md",
     "盤點系統.xmind",
