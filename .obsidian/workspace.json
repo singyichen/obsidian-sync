@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/meeting-template.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/meeting-template.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/meeting-template.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/meeting-template.md"
+                "file": "02.Areas/Framework/backend/comparison.md"
               }
             }
           },
@@ -212,13 +212,13 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "Templates/meeting-template.md",
     "Templates/learning-template.md",
     "Templates/dev-tech-template.md",
     "Templates/book-template.md",
     "software.md",
     "skill-tree.md",
     "README.md",
-    "Templates/meeting-template.md",
     "Templates/blog-post-template.md",
     "04.Archives/lottery-system/dev-tech.md",
     "03.Resources/UIUX/UX.md",
