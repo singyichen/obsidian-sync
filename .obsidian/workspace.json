@@ -11,14 +11,11 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 21.5,
-                  "zoom": 0
-                }
+                "file": "software.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "software.md"
               }
             }
           },
@@ -215,8 +212,8 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "software.md",
     "未命名.canvas",
+    "software.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/Framework/backend/comparison.md",
     "skill-tree.md",
