@@ -36,6 +36,10 @@ with secret ^4CJvqkyg
 
 4 ^V5EAHDg5
 
+Response ^AY4oS5c4
+
+jwt ^Wn6zIQEp
+
 %%
 # Drawing
 ```json
@@ -2698,6 +2702,80 @@ with secret ^4CJvqkyg
 			"originalText": "4",
 			"lineHeight": 1.2,
 			"baseline": 9
+		},
+		{
+			"type": "text",
+			"version": 115,
+			"versionNonce": 100125092,
+			"isDeleted": false,
+			"id": "AY4oS5c4",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 144.03276322877164,
+			"y": -181.48888557008695,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#2f9e44",
+			"width": 93.75,
+			"height": 24,
+			"seed": 330179108,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707208026922,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "Response",
+			"rawText": "Response",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Response",
+			"lineHeight": 1.2,
+			"baseline": 19
+		},
+		{
+			"type": "text",
+			"version": 103,
+			"versionNonce": 181674012,
+			"isDeleted": false,
+			"id": "Wn6zIQEp",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 80,
+			"angle": 0,
+			"x": 145.1995499774069,
+			"y": -146.84892353036372,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#2f9e44",
+			"width": 35.15625,
+			"height": 24,
+			"seed": 1596914724,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707208035640,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "jwt",
+			"rawText": "jwt",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "jwt",
+			"lineHeight": 1.2,
+			"baseline": 19
 		}
 	],
 	"appState": {
