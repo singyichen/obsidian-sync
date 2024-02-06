@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T08:28
+updated: 2024-02-06T09:09
 title: software
 description: 
 author: mandy
@@ -75,3 +75,6 @@ eslint --init
 # Lightshot
 
 > [Lightshot download info](https://app.prntscr.com/zh-cn/index.html)
+
+# AI 
+
