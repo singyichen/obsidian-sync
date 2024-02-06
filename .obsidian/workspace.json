@@ -21,9 +21,11 @@
             "id": "969b90a1900ac081",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md"
               }
             }
           },
@@ -221,13 +223,13 @@
   },
   "active": "969b90a1900ac081",
   "lastOpenFiles": [
-    "Excalidraw/backend-logo.md",
     "Excalidraw/symmetricds-usage-user-case.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+    "Excalidraw/PARA.md",
     "Excalidraw/jwt.md",
+    "Excalidraw/backend-logo.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Excalidraw/lottery-system-tech.md",
     "Templates/icon-template.md",
-    "Excalidraw/PARA.md",
     "Excalidraw/node-web-framework.md",
     "04.Archives/lottery-system/dev-tech.md",
     "03.Resources/UIUX/UIUX.md",
