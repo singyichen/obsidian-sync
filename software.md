@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T10:44
+updated: 2024-02-06T10:45
 title: software
 description: 
 author: mandy
@@ -79,6 +79,12 @@ eslint --init
 ## ApowerREC
 
 ## DeepL
+
+##  XMind
+
+# DB
+## dbeaver
+## 
 # AI 
 
 ## [Bard](https://bard.google.com/?hl=zh-TW)
