@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 618.5
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +224,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2b68169d7437cc42",
+  "active": "7ba3c604761f672b",
   "lastOpenFiles": [
     "Templates/meeting-template.md",
     "mind map.md",
