@@ -446,15 +446,59 @@ server ^oAhOzMOM
 			]
 		},
 		{
-			"id": "d5EIMrP-YAF1JK0h8fSmL",
 			"type": "arrow",
+			"version": 80,
+			"versionNonce": 992719516,
+			"isDeleted": false,
+			"id": "d5EIMrP-YAF1JK0h8fSmL",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 50,
+			"angle": 0,
 			"x": 92.48560922202563,
 			"y": -289.74323160071964,
-			"width": 331.99271090309577,
-			"height": 2.2975274110941086,
-			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fcc2d7",
+			"width": 331.99271090309577,
+			"height": 2.2975274110941086,
+			"seed": 863596060,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1707207240188,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					331.99271090309577,
+					2.2975274110941086
+				]
+			]
+		},
+		{
+			"id": "1TJET3NSYhyxLkuJhJE_e",
+			"type": "ellipse",
+			"x": 145.9031215299632,
+			"y": -231.25764412125093,
+			"width": 23.169389064764474,
+			"height": 22.745868103736967,
+			"angle": 0,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "#2f9e44",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -465,36 +509,21 @@ server ^oAhOzMOM
 			"roundness": {
 				"type": 2
 			},
-			"seed": 863596060,
-			"version": 80,
-			"versionNonce": 992719516,
+			"seed": 1042036644,
+			"version": 227,
+			"versionNonce": 1183107356,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707207240188,
+			"boundElements": [],
+			"updated": 1707207320481,
 			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					331.99271090309577,
-					2.2975274110941086
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"locked": false
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#fcc2d7",
+		"currentItemStrokeColor": "#0c8599",
+		"currentItemBackgroundColor": "#2f9e44",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
