@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T14:42
+updated: 2024-02-06T15:01
 title: Test
 description: 測試
 author: mandy
@@ -120,8 +120,6 @@ published: false
     - 系統端對端工作流正確性
     - 介面功能正確性
     - 系統穩定性與相容性
-
-
 
 ## 壓力測試 ( Stress Testing )
 
