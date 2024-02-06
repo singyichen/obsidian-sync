@@ -21,9 +21,11 @@
             "id": "969b90a1900ac081",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md"
+                "file": "02.Areas/Framework/backend/comparison.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md"
+                "file": "02.Areas/Framework/backend/comparison.md"
               }
             }
           },
@@ -221,8 +223,8 @@
   },
   "active": "969b90a1900ac081",
   "lastOpenFiles": [
-    "Excalidraw/lottery-system-tech.md",
     "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
+    "Excalidraw/lottery-system-tech.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Templates/icon-template.md",
     "Excalidraw/jwt-structure.md",
