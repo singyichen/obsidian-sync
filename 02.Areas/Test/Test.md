@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T15:04
+updated: 2024-02-06T15:05
 title: Test
 description: 測試
 author: mandy
@@ -51,7 +51,7 @@ published: false
 
 在不同的測試類型中，所需要保護的面向不太相同，以下是不同測試類型的大致介紹：
 
-## 冒煙測試 (Smoke Testing)
+## 冒煙測試 ( Smoke Testing )
 
 > - 主要快速檢測關鍵功能在部署後是否正常,以確定後續測試是否可行。
 
@@ -73,7 +73,7 @@ published: false
     - UI Rendering
 
 
-## 單元測試 ( Unit testing )
+## 單元測試 ( Unit Testing )
 
 > - 主要的是在程式碼基礎上構建測試用例,以提高程式碼的可靠性與可維護性。
 
@@ -100,7 +100,7 @@ published: false
 
 
 
-## 整合測試 ( Integration testing )
+## 整合測試 ( Integration Testing )
 
 > - 主要是檢測單個模組單獨測試通過後,組合起來的整體系統是否能正確運行和互動。
 ### 定義
@@ -122,7 +122,7 @@ published: false
 
 
 
-## 端對端測試 ( End-to-end testing ) ( E2E testing )
+## 端對端測試 ( End-to-end Testing )
 
 > - 主要是從用戶角度模擬整個業務流程,測試應用系統的核心功能是否能夠按預期運行。
 
