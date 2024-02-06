@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "02.Areas/Framework/backend/comparison.md"
               }
             }
           },
@@ -212,12 +212,12 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "software.md",
     "02.Areas/Framework/backend/comparison.md",
     "Templates/meeting-template.md",
     "Templates/learning-template.md",
     "Templates/dev-tech-template.md",
     "Templates/book-template.md",
-    "software.md",
     "skill-tree.md",
     "README.md",
     "Templates/blog-post-template.md",
