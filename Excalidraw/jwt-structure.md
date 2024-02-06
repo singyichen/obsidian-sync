@@ -38,7 +38,7 @@ with secret ^4CJvqkyg
 
 Response ^AY4oS5c4
 
-jwt ^Wn6zIQEp
+JWT ^Wn6zIQEp
 
 5 ^At99udGN
 
@@ -2724,8 +2724,8 @@ data ^LfEWTBiJ
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 181674012,
+			"version": 106,
+			"versionNonce": 32206500,
 			"isDeleted": false,
 			"id": "Wn6zIQEp",
 			"fillStyle": "solid",
@@ -2745,17 +2745,17 @@ data ^LfEWTBiJ
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707208035640,
+			"updated": 1707208869240,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "jwt",
-			"rawText": "jwt",
+			"text": "JWT",
+			"rawText": "JWT",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "jwt",
+			"originalText": "JWT",
 			"lineHeight": 1.2,
 			"baseline": 19
 		},
@@ -5533,10 +5533,10 @@ data ^LfEWTBiJ
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 366.94481622995033,
-		"scrollY": 452.1018163199311,
+		"scrollX": 470.2368548872404,
+		"scrollY": 509.43694578418723,
 		"zoom": {
-			"value": 1.3
+			"value": 1.1360566476931633
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
