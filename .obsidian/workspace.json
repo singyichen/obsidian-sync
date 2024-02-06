@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md"
               }
             }
           },
@@ -224,6 +224,9 @@
   "active": "969b90a1900ac081",
   "lastOpenFiles": [
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
@@ -248,15 +251,12 @@
     "未命名.md",
     "未命名.canvas",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",
     "軟體開發/學習心得",
     "軟體開發",
     "Templates/learning-template.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "Templates/blog-post-template.md",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
