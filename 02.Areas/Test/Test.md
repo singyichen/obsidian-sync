@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T15:05
+updated: 2024-02-06T15:06
 title: Test
 description: 測試
 author: mandy
@@ -119,6 +119,9 @@ published: false
     - 模組間的互通性
     - 系統功能的正確性
     - 效能指標如延遲和吞吐量等
+
+
+## 回歸測試（ Regression Test ）
 
 
 
