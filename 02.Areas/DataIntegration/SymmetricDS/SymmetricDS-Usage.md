@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T08:26
+updated: 2024-02-06T09:54
 title: SymmetricDSUsage
 description: 
 author: mandy
@@ -109,7 +109,7 @@ https://miro.com/app/board/uXjVPF_1HJ4=/?moveToWidget=3458764557142315227&cot=10
 ## 目的資料
 ### 資料庫
 - PostgreSQL
-- IP：`192.168.25.59：5432`
+- IP：`192.168.25.11：5432`
 ### 資料庫名稱
 - `A_SY004`	
 ### 節點：根節點
@@ -120,7 +120,7 @@ https://miro.com/app/board/uXjVPF_1HJ4=/?moveToWidget=3458764557142315227&cot=10
 // server-000.properties
 engine.name=server-000
 db.driver=org.postgresql.Driver
-db.url=jdbc:postgresql://192.168.25.59:5432/A_SY004?stringtype=unspecified
+db.url=jdbc:postgresql://192.168.25.11:5432/A_SY004?stringtype=unspecified
 db.user=11542
 db.password=
 # 留空白，因為為根服務器
@@ -138,7 +138,7 @@ initial.load.create.first=true
 ## 來源資料
 ### 資料庫
 - SQL Server (MSSQL)
-- IP：`192.168.25.21：1433`
+- IP：`192.168.25.10：1433`
 ### 資料庫名稱
 - `Leader`：`A_SY004` 未持續更新的資料庫
 ### 節點：子節點
@@ -150,7 +150,7 @@ initial.load.create.first=true
 // client-001.properties
 engine.name=client-001
 db.driver=net.sourceforge.jtds.jdbc.Driver
-db.url=jdbc:jtds:sqlserver://192.168.25.21:1433/Leader;useCursors=true;bufferMaxMemory=10240;lobBuffer=5242880
+db.url=jdbc:jtds:sqlserver://192.168.25.10:1433/Leader;useCursors=true;bufferMaxMemory=10240;lobBuffer=5242880
 db.user=sa
 db.password=
 db.validation.query=Select 1
