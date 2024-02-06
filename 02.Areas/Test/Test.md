@@ -1,11 +1,11 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T14:40
+updated: 2024-02-06T14:41
 title: Test
 description: 
 author: mandy
 aliases: 
-category: 
+category: software development
 tags:
   - test
 AutoNoteMover: disable
