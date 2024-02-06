@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md"
               }
             }
           },
@@ -212,6 +212,10 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "04.Archives/lottery-system/dev-tech.md",
     "Templates/blog-post-template.md",
     "Templates/book-template.md",
@@ -232,14 +236,10 @@
     "軟體開發/學習心得",
     "軟體開發",
     "Images/symmetricds-usage-user-case.png",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
     "Excalidraw/PARA.md",
