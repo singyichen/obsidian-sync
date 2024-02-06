@@ -47,6 +47,8 @@ in local ^UBGAhrtG
 
 6 ^mckKdnDn
 
+Authentication: ^M7mMWHSx
+
 %%
 # Drawing
 ```json
@@ -4072,6 +4074,43 @@ in local ^UBGAhrtG
 			"originalText": "6",
 			"lineHeight": 1.2,
 			"baseline": 9
+		},
+		{
+			"type": "text",
+			"version": 146,
+			"versionNonce": 1792001700,
+			"isDeleted": false,
+			"id": "M7mMWHSx",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 145.82819329009376,
+			"y": -69.16490034460344,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#2f9e44",
+			"width": 175.78125,
+			"height": 24,
+			"seed": 744867612,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707208433851,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "Authentication:",
+			"rawText": "Authentication:",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Authentication:",
+			"lineHeight": 1.2,
+			"baseline": 19
 		}
 	],
 	"appState": {
