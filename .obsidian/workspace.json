@@ -18,8 +18,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ba3c604761f672b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mind map.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 262.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "mind map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "mind map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "mind map.md"
               }
             }
           },
@@ -190,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 618.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +224,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0cda098af97cc537",
+  "active": "2b68169d7437cc42",
   "lastOpenFiles": [
+    "Templates/meeting-template.md",
+    "mind map.md",
+    "software.md",
     "skill-tree.md",
     "README.md",
-    "software.md",
     "盤點系統.xmind",
     "04.Archives/lottery-system/dev-tech.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
@@ -226,7 +242,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "02.Areas/Framework/backend/comparison.md",
-    "Templates/meeting-template.md",
     "Templates/learning-template.md",
     "Templates/dev-tech-template.md",
     "Templates/book-template.md",
