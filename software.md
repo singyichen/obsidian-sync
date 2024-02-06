@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T10:45
+updated: 2024-02-06T10:47
 title: software
 description: 
 author: mandy
@@ -81,6 +81,8 @@ eslint --init
 ## DeepL
 
 ##  XMind
+
+## Discord
 
 # DB
 ## dbeaver
