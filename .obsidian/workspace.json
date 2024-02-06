@@ -23,16 +23,24 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Templates/icon-template.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/node-web-framework.md"
+              }
+            }
+          },
+          {
+            "id": "6f156dd88e6c8599",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/icon-template.md",
+                "file": "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/icon-template.md",
+                "file": "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/icon-template.md"
+                "file": "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md"
               }
             }
           },
@@ -223,8 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7531d96953c161f",
+  "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md",
+    "Excalidraw/lottery-system-tech.md",
+    "Templates/icon-template.md",
     "02.Areas/Test/Test.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
@@ -234,7 +246,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "Templates/icon-template.md",
     "Templates/blog-post-template.md",
     "02.Areas/Test/UnitTest",
     "Excalidraw/symmetricds-usage-user-case.md",
@@ -252,9 +263,6 @@
     "Templates/dev-tech-template.md",
     "Templates/book-template.md",
     "03.Resources/UIUX/UX.md",
-    "03.Resources/UIUX/UIUX.md",
-    "03.Resources/KM/PARA.md",
-    "Excalidraw/node-web-framework.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",
