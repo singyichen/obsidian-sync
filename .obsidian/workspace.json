@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "software development",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04b98431790f284e",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
     "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/Test/Test.md",
