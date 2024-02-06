@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T09:11
+updated: 2024-02-06T10:43
 title: software
 description: 
 author: mandy
@@ -71,11 +71,12 @@ eslint --init
 ### Postman
 ### CodiumAI (Test writing)
 
-
+# Tools
 # Lightshot
 
 > [Lightshot download info](https://app.prntscr.com/zh-cn/index.html)
 
+# A
 # AI 
 
 ## [Bard](https://bard.google.com/?hl=zh-TW)
