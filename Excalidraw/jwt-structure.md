@@ -62,7 +62,7 @@ Response ^HEsmgpyF
 
 data ^LfEWTBiJ
 
-Mandy Backend   ^95fzy6WK
+❤️ Mandy Backend ^95fzy6WK
 
 %%
 # Drawing
@@ -5607,8 +5607,8 @@ Mandy Backend   ^95fzy6WK
 		},
 		{
 			"type": "rectangle",
-			"version": 130,
-			"versionNonce": 1040156324,
+			"version": 327,
+			"versionNonce": 1336789924,
 			"isDeleted": false,
 			"id": "eKreVfasBPTSsORkP4yJR",
 			"fillStyle": "solid",
@@ -5617,12 +5617,12 @@ Mandy Backend   ^95fzy6WK
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 475.95113749468965,
-			"y": 212.7822045740166,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "#a18072",
-			"width": 171.20000000000007,
-			"height": 60,
+			"x": 459.9511374946894,
+			"y": 120.7822045740167,
+			"strokeColor": "#846358",
+			"backgroundColor": "#846358",
+			"width": 203.19999999999985,
+			"height": 34,
 			"seed": 704078108,
 			"groupIds": [],
 			"frameId": null,
@@ -5635,14 +5635,14 @@ Mandy Backend   ^95fzy6WK
 					"id": "95fzy6WK"
 				}
 			],
-			"updated": 1707209540463,
+			"updated": 1707209612446,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 117,
-			"versionNonce": 1218225564,
+			"version": 363,
+			"versionNonce": 1186772772,
 			"isDeleted": false,
 			"id": "95fzy6WK",
 			"fillStyle": "solid",
@@ -5651,28 +5651,28 @@ Mandy Backend   ^95fzy6WK
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 485.37926249468967,
-			"y": 230.7822045740166,
-			"strokeColor": "#f08c00",
+			"x": 465.7894187446893,
+			"y": 125.7822045740167,
+			"strokeColor": "#ffffff",
 			"backgroundColor": "#a18072",
-			"width": 152.34375,
+			"width": 191.5234375,
 			"height": 24,
 			"seed": 448953884,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707209540463,
+			"updated": 1707209612446,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "Mandy Backend  ",
-			"rawText": "Mandy Backend  ",
+			"text": "❤️ Mandy Backend",
+			"rawText": "❤️ Mandy Backend",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "eKreVfasBPTSsORkP4yJR",
-			"originalText": "Mandy Backend  ",
+			"originalText": "❤️ Mandy Backend",
 			"lineHeight": 1.2,
 			"baseline": 19
 		}
@@ -5680,8 +5680,8 @@ Mandy Backend   ^95fzy6WK
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#f08c00",
-		"currentItemBackgroundColor": "#a18072",
+		"currentItemStrokeColor": "#ffffff",
+		"currentItemBackgroundColor": "#846358",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -5692,8 +5692,8 @@ Mandy Backend   ^95fzy6WK
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 378.8488625053104,
-		"scrollY": 226.01779542598342,
+		"scrollX": 367.5099000660673,
+		"scrollY": 546.0177954259834,
 		"zoom": {
 			"value": 1.25
 		},
