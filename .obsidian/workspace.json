@@ -11,9 +11,11 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "software.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "software.md"
               }
             }
           },
@@ -210,6 +212,7 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/Framework/backend/comparison.md",
     "software.md",
     "skill-tree.md",
@@ -236,7 +239,6 @@
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",

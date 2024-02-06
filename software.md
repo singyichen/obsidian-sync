@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T11:55
+updated: 2024-02-06T13:31
 title: software
 description: 
 author: mandy
@@ -83,6 +83,8 @@ eslint --init
 ## XMind
 
 ## Discord
+
+### SumatraPDF
 
 # DB
 ## dbeaver
