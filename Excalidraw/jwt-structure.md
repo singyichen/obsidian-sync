@@ -102,8 +102,8 @@ server ^oAhOzMOM
 		},
 		{
 			"type": "line",
-			"version": 234,
-			"versionNonce": 1525451420,
+			"version": 284,
+			"versionNonce": 1073128868,
 			"isDeleted": false,
 			"id": "7eOaBpnZpV3eVr88e0z4P",
 			"fillStyle": "solid",
@@ -116,8 +116,8 @@ server ^oAhOzMOM
 			"y": -495.5230275157306,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.9012105195421896,
-			"height": 428.69347428028806,
+			"width": 1.3024210390843791,
+			"height": 495.75789609156374,
 			"seed": 1551084316,
 			"groupIds": [],
 			"frameId": null,
@@ -125,7 +125,7 @@ server ^oAhOzMOM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707206878818,
+			"updated": 1707207121203,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -139,8 +139,8 @@ server ^oAhOzMOM
 					0
 				],
 				[
-					1.9012105195421896,
-					428.69347428028806
+					1.3024210390843791,
+					495.75789609156374
 				]
 			]
 		},
@@ -356,25 +356,69 @@ server ^oAhOzMOM
 			"originalText": "server",
 			"lineHeight": 1.25,
 			"baseline": 25
+		},
+		{
+			"id": "U5OW74Z_MjGQvsLDsz4aM",
+			"type": "line",
+			"x": 88.7388001050476,
+			"y": -330.6671653576679,
+			"width": 0.5987894804578104,
+			"height": 325.14268788859556,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#fcc2d7",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 50,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 181768348,
+			"version": 179,
+			"versionNonce": 1395725348,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707207107774,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.5987894804578104,
+					325.14268788859556
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "#fcc2d7",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
+		"currentItemOpacity": 50,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 142.69333409189932,
-		"scrollY": 542.9380361799646,
+		"scrollX": 265.4451775857521,
+		"scrollY": 407.01282411603984,
 		"zoom": {
 			"value": 1.6700360187280283
 		},
