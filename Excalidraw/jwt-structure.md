@@ -2837,7 +2837,7 @@ data ^LfEWTBiJ
 			"containerId": null,
 			"originalText": "JWT",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 19
 		},
 		{
 			"type": "freedraw",
@@ -5746,10 +5746,10 @@ data ^LfEWTBiJ
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 323.5099000660675,
-		"scrollY": 551.3604259780387,
+		"scrollX": 559.646118309546,
+		"scrollY": 608.3781386694046,
 		"zoom": {
-			"value": 1.25
+			"value": 0.9559517330790597
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
