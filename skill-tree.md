@@ -15,13 +15,9 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
-published: false
+published: true
 ---
-# 🚀 skill-tree
-
-
-
-# Skill Tree
+# 🚀 Skill Tree
 
 - [ ] [roadmap](https://roadmap.sh/)
 - [ ] [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)

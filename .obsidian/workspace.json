@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skill-tree.md"
+                "file": "software.md"
               }
             }
           },
@@ -186,11 +186,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,10 +210,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0cda098af97cc537",
+  "active": "2b68169d7437cc42",
   "lastOpenFiles": [
-    "software.md",
     "skill-tree.md",
+    "software.md",
     "README.md",
     "Templates/meeting-template.md",
     "Templates/learning-template.md",
