@@ -47,7 +47,7 @@ in local ^UBGAhrtG
 
 6 ^mckKdnDn
 
-/resource/user/1 ^M7mMWHSx
+/data/user/1 ^M7mMWHSx
 
 Authorization:Bearer JWT ^0jnsfwvP
 
@@ -4073,8 +4073,8 @@ Authorization:Bearer JWT ^0jnsfwvP
 		},
 		{
 			"type": "text",
-			"version": 179,
-			"versionNonce": 587320612,
+			"version": 186,
+			"versionNonce": 526280604,
 			"isDeleted": false,
 			"id": "M7mMWHSx",
 			"fillStyle": "solid",
@@ -4083,28 +4083,28 @@ Authorization:Bearer JWT ^0jnsfwvP
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 145.82819329009376,
+			"x": 143.93955364812112,
 			"y": -69.16490034460344,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#2f9e44",
-			"width": 187.5,
+			"width": 140.625,
 			"height": 24,
 			"seed": 744867612,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707208575086,
+			"updated": 1707208622224,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "/resource/user/1",
-			"rawText": "/resource/user/1",
+			"text": "/data/user/1",
+			"rawText": "/data/user/1",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "/resource/user/1",
+			"originalText": "/data/user/1",
 			"lineHeight": 1.2,
 			"baseline": 19
 		},
@@ -4161,10 +4161,10 @@ Authorization:Bearer JWT ^0jnsfwvP
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 192.26452039866524,
-		"scrollY": 472.35084830492497,
+		"scrollX": 282.3294316145657,
+		"scrollY": 527.4864317045466,
 		"zoom": {
-			"value": 1.5884448961722257
+			"value": 1.3
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
