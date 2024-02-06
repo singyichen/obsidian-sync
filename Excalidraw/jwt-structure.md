@@ -5619,10 +5619,10 @@ data ^LfEWTBiJ
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 351.40475239118416,
-		"scrollY": 586.0176340594235,
+		"scrollX": 378.8488625053104,
+		"scrollY": 546.0177954259834,
 		"zoom": {
-			"value": 1.1360566476931633
+			"value": 1.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
