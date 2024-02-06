@@ -36,10 +36,8 @@ published: false
 
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/The-9-Testing-Types.gif)
 
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/Explaining-9-types-of-API-testing.gif)
 
-
-
-![Explaining 9 types of API testing.gif](http://192.168.25.60:8000/files/file_storage/0d56d76e.gif)
 
 在不同的測試類型中，所需要保護的面向不太相同，以下是不同測試類型的大致介紹：
 ## 單元測試 ( Unit testing )
