@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T09:01
+updated: 2024-02-06T09:02
 title: comparison
 description: 
 author: mandy
@@ -48,9 +48,9 @@ published: true
 | 資料庫 | 支援多種資料庫，例如 MySQL、PostgreSQL 等 | 支援多種資料庫，例如 MySQL、PostgreSQL 等 | 支援多種資料庫，例如 MySQL、PostgreSQL 等 | 支援多種資料庫，例如 MySQL、PostgreSQL 等 |
 | 驗證 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、[@fastify/jwt](https://github.com/fastify/fastify-jwt) 等 | 支援多種驗證框架，例如 Passport、JWT 等 | 支援多種驗證框架，例如 Passport、JWT 等 |
 | 效能 | 普通。 | 非常快速，基於非阻塞 I/O 架構。 | 普通。 | 普通，但提供了一些優化選項。 |
-| 可擴充性 | 較差 | 優異 | 優異 | 優異 |
+| 可擴充性 | 普通，通過使用中間件來實現。 | 高，支援外掛架構。 | 普通，通過使用中間件來實現。 | 高，支援外掛架構。 |
 | 學習曲線 | 低 | 中等偏高 | 低 | 高 |
-| 社群資源 | 豐富 | 較少 | 較少 | 較少 |
+| 社群與生態系統 | 非常大。 | 中等，正在快速成長。 | 中等。 | 較少 |
 
 ## Express
 
