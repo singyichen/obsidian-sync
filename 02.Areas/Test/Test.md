@@ -1,12 +1,13 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T14:39
+updated: 2024-02-06T14:40
 title: Test
 description: 
 author: mandy
 aliases: 
 category: 
-tags: 
+tags:
+  - test
 AutoNoteMover: disable
 disabled rules:
   - all

@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#framework",
+                "query": "測試",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 549.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -210,7 +211,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cda098af97cc537",
+  "active": "04b98431790f284e",
   "lastOpenFiles": [
     "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/Test/Test.md",
