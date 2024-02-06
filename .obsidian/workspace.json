@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md"
+                "file": "Excalidraw/jwt-structure.md"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md",
+                "file": "Excalidraw/jwt-structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md",
+                "file": "Excalidraw/jwt-structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md"
+                "file": "Excalidraw/jwt-structure.md"
               }
             }
           },
@@ -231,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f156dd88e6c8599",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
     "Excalidraw/node-web-framework.md",
-    "Excalidraw/Drawing 2024-02-06 16.01.16.excalidraw.md",
+    "Excalidraw/jwt-structure.md",
     "Excalidraw/lottery-system-tech.md",
     "Templates/icon-template.md",
     "02.Areas/Test/Test.md",
