@@ -27,6 +27,7 @@ published: true
 # 關於 SymmetricDS
 
 
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-logo.png)
 
 
 SymmetricDS 是從大型 POS 開發專案衍生出來的開源資料庫同步軟體，支援單向複製，多主機複製，過濾同步和轉換。使用 web 和資料庫技術，它可以作為一個非同步複製資料或接近即時操作。可以擴展到大量的資料庫和不同平台之間的操作，它可以在低頻寬連接和經得起時間的網路故障。
