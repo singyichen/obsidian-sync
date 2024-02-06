@@ -45,7 +45,7 @@ JDBC ^uZPUevvL
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.19",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -372,8 +372,8 @@ JDBC ^uZPUevvL
 		},
 		{
 			"type": "arrow",
-			"version": 381,
-			"versionNonce": 297349205,
+			"version": 385,
+			"versionNonce": 1633280540,
 			"isDeleted": false,
 			"id": "fGC-8zy50ohRsovWv3pUH",
 			"fillStyle": "solid",
@@ -405,7 +405,7 @@ JDBC ^uZPUevvL
 					"id": "8WuhuuKQ"
 				}
 			],
-			"updated": 1707142504294,
+			"updated": 1707198993972,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -726,8 +726,8 @@ JDBC ^uZPUevvL
 		},
 		{
 			"type": "arrow",
-			"version": 530,
-			"versionNonce": 1612176853,
+			"version": 534,
+			"versionNonce": 531143964,
 			"isDeleted": false,
 			"id": "6haaSSgtgbq0g29mMwe7H",
 			"fillStyle": "solid",
@@ -737,11 +737,11 @@ JDBC ^uZPUevvL
 			"opacity": 100,
 			"angle": 0,
 			"x": 560.1463832553206,
-			"y": 172.43541845092463,
+			"y": 172.43541840924297,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#a5d8ff",
-			"width": 292.14842857335793,
-			"height": 1.4580388238033208,
+			"width": 292.14842857335816,
+			"height": 1.4580388545831227,
 			"seed": 1795219515,
 			"groupIds": [
 				"3v7_H2tNCiU1Sy4AOpv_h",
@@ -757,7 +757,7 @@ JDBC ^uZPUevvL
 					"id": "uZPUevvL"
 				}
 			],
-			"updated": 1707142504294,
+			"updated": 1707198993975,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -779,8 +779,8 @@ JDBC ^uZPUevvL
 					0
 				],
 				[
-					292.14842857335793,
-					1.4580388238033208
+					292.14842857335816,
+					1.4580388545831227
 				]
 			]
 		},
@@ -828,8 +828,8 @@ JDBC ^uZPUevvL
 		},
 		{
 			"type": "arrow",
-			"version": 221,
-			"versionNonce": 963074869,
+			"version": 225,
+			"versionNonce": 973145628,
 			"isDeleted": false,
 			"id": "p_4N-Z2rJbU73aF4L2Cor",
 			"fillStyle": "solid",
@@ -838,11 +838,11 @@ JDBC ^uZPUevvL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 960.2144939832942,
+			"x": 960.2144936678253,
 			"y": -156.61562010683804,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#9775fa",
-			"width": 2.4843620790020395,
+			"width": 2.4843618195502586,
 			"height": 268.6196960708056,
 			"seed": 409063803,
 			"groupIds": [
@@ -858,7 +858,7 @@ JDBC ^uZPUevvL
 					"id": "p4o78wWA"
 				}
 			],
-			"updated": 1707142504294,
+			"updated": 1707198993976,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -880,7 +880,7 @@ JDBC ^uZPUevvL
 					0
 				],
 				[
-					-2.4843620790020395,
+					-2.4843618195502586,
 					268.6196960708056
 				]
 			]
@@ -942,7 +942,7 @@ JDBC ^uZPUevvL
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "triangle",
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -222.03996860090945,
+		"scrollX": -88.17633223727307,
 		"scrollY": 494.7040962389478,
 		"zoom": {
 			"value": 1.1
