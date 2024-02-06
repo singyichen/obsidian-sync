@@ -178,7 +178,7 @@
             }
           },
           {
-            "id": "cb0c016ad1a40460",
+            "id": "f72b8e133e0a2274",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -210,7 +210,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb0c016ad1a40460",
+  "active": "f72b8e133e0a2274",
   "lastOpenFiles": [
     "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/Framework/backend/comparison.md",
