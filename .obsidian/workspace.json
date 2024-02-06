@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/jwt-structure.md"
+                "file": "Excalidraw/node-web-framework.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/jwt-structure.md",
+                "file": "Excalidraw/node-web-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/jwt-structure.md",
+                "file": "Excalidraw/node-web-framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/jwt-structure.md"
+                "file": "Excalidraw/node-web-framework.md"
               }
             }
           },
@@ -221,20 +221,22 @@
   },
   "active": "969b90a1900ac081",
   "lastOpenFiles": [
+    "Excalidraw/lottery-system-tech.md",
+    "04.Archives/lottery-system/dev-tech.md",
+    "03.Resources/UIUX/UIUX.md",
+    "03.Resources/KM/PARA.md",
+    "Excalidraw/jwt-structure.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/Framework/backend/comparison.md",
     "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
-    "Excalidraw/lottery-system-tech.md",
     "Templates/icon-template.md",
-    "Excalidraw/jwt-structure.md",
     "02.Areas/Test/Test.md",
     "02.Areas/Test",
     "Excalidraw/symmetricds-usage-user-case.md",
     "images/symmetricds-usage-user-case.png",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "Templates/book-template.md",
-    "04.Archives/lottery-system/dev-tech.md",
     "images/postgresql-logo.png",
     "Excalidraw/node-web-framework.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
@@ -252,10 +254,8 @@
     "Templates/learning-template.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "03.Resources/KM/PARA.md",
     "Templates/blog-post-template.md",
     "03.Resources/UIUX/UX.md",
-    "03.Resources/UIUX/UIUX.md",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
     "04.Archives/lottery-system",
