@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T09:13
+updated: 2024-02-06T09:16
 title: comparison
 description: 
 author: mandy
@@ -55,7 +55,7 @@ published: true
 
 ## Express
 
-
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/expressjs-logo.png)
 
 Express 是最流行的 Node.js 框架之一，它擁有豐富的社群資源和大量的第三方套件。Express 提供了簡單易用的介面，可以幫助開發人員快速開發 Web 應用程式。
 
@@ -80,6 +80,9 @@ Express.js 是開源的 Node.js 模組，每週下載量約 1800 萬次，出現
 
 由於具備上述高端功能（詳細路由、配置、安全功能和除錯机制），此 Node.js 框架非常適合任何企業級或網絡應用程式。但建議在做出选择之前彻底比较 Node.js 框架。
 ## Fastify
+
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/fastify-logo.png)
+
 
 Fastify 是近年來新興的 Node.js 框架，它以其高效能和可擴充性著稱。Fastify 採用了插件式的架構，允許開發人員根據需要靈活地擴充框架的功能。
 
