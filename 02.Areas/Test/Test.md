@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T14:10
+updated: 2024-02-06T14:12
 title: Test
 description: 
 author: mandy
@@ -32,9 +32,12 @@ published: false
 
 # Types
 
-![UnitTest three types of test.png](http://192.168.25.60:8000/files/file_storage/e4908507.png)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/UnitTest-three-types-of-test.png)
 
-![The 9 Testing Types.gif](http://192.168.25.60:8000/files/file_storage/dbb38a1d.gif)
+![gh](https://raw.githubusercontent.com/singyichen/images/main/images/The-9-Testing-Types.gif)
+
+
+
 
 ![Explaining 9 types of API testing.gif](http://192.168.25.60:8000/files/file_storage/0d56d76e.gif)
 
