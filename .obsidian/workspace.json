@@ -200,14 +200,14 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-spaced-repetition:復習卡片": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0cda098af97cc537",
