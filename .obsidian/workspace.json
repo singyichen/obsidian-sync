@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md"
               }
             }
           },
@@ -223,11 +223,11 @@
   },
   "active": "969b90a1900ac081",
   "lastOpenFiles": [
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
     "Excalidraw/jwt.md",
