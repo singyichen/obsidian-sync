@@ -11,11 +11,14 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "software.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 21.5,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -69,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 276.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -186,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,11 +213,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f72b8e133e0a2274",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "software.md",
+    "未命名.canvas",
     "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/Framework/backend/comparison.md",
-    "software.md",
     "skill-tree.md",
     "README.md",
     "mind map.md",
@@ -238,7 +242,6 @@
     "03.Resources/KM/PARA.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
-    "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",
