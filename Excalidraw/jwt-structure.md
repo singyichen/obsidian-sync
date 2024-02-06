@@ -47,7 +47,9 @@ in local ^UBGAhrtG
 
 6 ^mckKdnDn
 
-Authorization:Bearer JWT ^M7mMWHSx
+/resource/user/1 ^M7mMWHSx
+
+Authorization:Bearer JWT ^0jnsfwvP
 
 %%
 # Drawing
@@ -4071,8 +4073,8 @@ Authorization:Bearer JWT ^M7mMWHSx
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 883595172,
+			"version": 179,
+			"versionNonce": 587320612,
 			"isDeleted": false,
 			"id": "M7mMWHSx",
 			"fillStyle": "solid",
@@ -4085,14 +4087,51 @@ Authorization:Bearer JWT ^M7mMWHSx
 			"y": -69.16490034460344,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#2f9e44",
-			"width": 281.25,
+			"width": 187.5,
 			"height": 24,
 			"seed": 744867612,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707208493567,
+			"updated": 1707208575086,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "/resource/user/1",
+			"rawText": "/resource/user/1",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "/resource/user/1",
+			"lineHeight": 1.2,
+			"baseline": 19
+		},
+		{
+			"type": "text",
+			"version": 138,
+			"versionNonce": 1987509404,
+			"isDeleted": false,
+			"id": "0jnsfwvP",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 80,
+			"angle": 0,
+			"x": 140.5000081872618,
+			"y": -30.76256095782611,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#2f9e44",
+			"width": 281.25,
+			"height": 24,
+			"seed": 264372124,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707208547200,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
