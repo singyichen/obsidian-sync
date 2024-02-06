@@ -1,11 +1,11 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T08:26
+updated: 2024-02-06T15:49
 title: TaskScheduler
 description: 
 author: mandy
 aliases: 
-category: 
+category: data integration
 tags:
   - task
   - schedule
