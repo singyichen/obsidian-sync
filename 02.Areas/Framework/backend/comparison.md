@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T09:16
+updated: 2024-02-06T09:17
 title: comparison
 description: 
 author: mandy
@@ -80,6 +80,7 @@ Express.js 是開源的 Node.js 模組，每週下載量約 1800 萬次，出現
 
 由於具備上述高端功能（詳細路由、配置、安全功能和除錯机制），此 Node.js 框架非常適合任何企業級或網絡應用程式。但建議在做出选择之前彻底比较 Node.js 框架。
 ## Fastify
+
 
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/fastify-logo.png)
 
