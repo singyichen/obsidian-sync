@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T09:54
+updated: 2024-02-06T15:48
 title: SymmetricDSUsage
 description: 
 author: mandy
@@ -36,7 +36,6 @@ published: false
 
 # 架構：使用情境及相關設定
 
-https://miro.com/app/board/uXjVPF_1HJ4=/?moveToWidget=3458764557142315227&cot=10
 
 ![gh](https://raw.githubusercontent.com/singyichen/images/main/images/symmetricds-usage-user-case.png)
 
