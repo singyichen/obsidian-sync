@@ -146,8 +146,8 @@ data ^LfEWTBiJ
 		},
 		{
 			"type": "line",
-			"version": 436,
-			"versionNonce": 943663388,
+			"version": 442,
+			"versionNonce": 1856260892,
 			"isDeleted": false,
 			"id": "7eOaBpnZpV3eVr88e0z4P",
 			"fillStyle": "solid",
@@ -160,8 +160,8 @@ data ^LfEWTBiJ
 			"y": -493.6421428181898,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.324523179427473,
-			"height": 663.9563279525537,
+			"width": 4.0766658019079784,
+			"height": 664.8365657488208,
 			"seed": 1551084316,
 			"groupIds": [],
 			"frameId": null,
@@ -169,7 +169,7 @@ data ^LfEWTBiJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707208962658,
+			"updated": 1707209059320,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -183,18 +183,18 @@ data ^LfEWTBiJ
 					0
 				],
 				[
-					0.324523179427473,
-					663.9563279525537
+					-4.0766658019079784,
+					664.8365657488208
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 307,
-			"versionNonce": 716151708,
+			"version": 308,
+			"versionNonce": 180696732,
 			"isDeleted": false,
 			"id": "kxA3CgAOnBsA14mcmg-W1",
-			"fillStyle": "hachure",
+			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
@@ -218,14 +218,14 @@ data ^LfEWTBiJ
 					"id": "s0UFkIWA"
 				}
 			],
-			"updated": 1707208988134,
+			"updated": 1707209001959,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 236,
-			"versionNonce": 172277412,
+			"version": 238,
+			"versionNonce": 850039196,
 			"isDeleted": false,
 			"id": "s0UFkIWA",
 			"fillStyle": "solid",
@@ -236,7 +236,7 @@ data ^LfEWTBiJ
 			"angle": 0,
 			"x": 116.81793940846092,
 			"y": -485.06720529786855,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#343a40",
 			"backgroundColor": "transparent",
 			"width": 268.81195068359375,
 			"height": 45,
@@ -245,7 +245,7 @@ data ^LfEWTBiJ
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707208993039,
+			"updated": 1707209014227,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5521,9 +5521,9 @@ data ^LfEWTBiJ
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#343a40",
 		"currentItemBackgroundColor": "#a18072",
-		"currentItemFillStyle": "hachure",
+		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
