@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/icon-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/icon-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/icon-template.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/icon-template.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md"
               }
             }
           },
@@ -225,8 +225,8 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
-    "Templates/blog-post-template.md",
     "Templates/icon-template.md",
+    "Templates/blog-post-template.md",
     "02.Areas/Test/Test.md",
     "02.Areas/Test/UnitTest",
     "Excalidraw/symmetricds-usage-user-case.md",
