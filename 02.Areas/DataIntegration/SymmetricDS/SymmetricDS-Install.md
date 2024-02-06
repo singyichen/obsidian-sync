@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T23:39
+updated: 2024-02-07T00:07
 title: SymmetricDSInstall
 description: 
 author: mandy
@@ -47,7 +47,7 @@ published: false
 
 - `samples` 資料夾為實作以下案例的配置，為一個範例
 - 將安裝三個節點，代表三個嵌入式數據庫。一個節點將代表一個中央企業數據庫，另外兩個節點將代表兩個單獨的零售店數據庫。
-	- Corp 000：根節點
+  - Corp 000：根節點
   - Store 001：第一子節點
   - Store 002：第二子節點 
 
