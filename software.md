@@ -1,6 +1,8 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:14
+updated: 2024-02-06T13:31
+title: software
+description: 
 author: mandy
 aliases: 
 category: 
@@ -13,8 +15,10 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
+published: false
 ---
-![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
+# 🚀 software
+
 # Visual Studio Code
 
 ## Version
@@ -67,7 +71,26 @@ eslint --init
 ### Postman
 ### CodiumAI (Test writing)
 
-
-# Lightshot
+# Tools
+## Lightshot
 
 > [Lightshot download info](https://app.prntscr.com/zh-cn/index.html)
+
+## ApowerREC
+
+## DeepL
+
+## XMind
+
+## Discord
+
+### SumatraPDF
+
+# DB
+## dbeaver
+
+## DBSchema
+# AI 
+
+## [Bard](https://bard.google.com/?hl=zh-TW)
+## [Claude](https://claude.ai/chats)

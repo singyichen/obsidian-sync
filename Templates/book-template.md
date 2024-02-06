@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:31
-updated: 2024-02-05T19:04
+updated: 2024-02-06T08:29
 ---
 
 # {{title}}
@@ -26,4 +26,3 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 # ✍️ My Top 3 Quotes
 
 # 📒 Summary + Notes
-```

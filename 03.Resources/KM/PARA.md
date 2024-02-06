@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T19:09
+updated: 2024-02-06T07:45
 title: PARA
 description: 
 author: mandy

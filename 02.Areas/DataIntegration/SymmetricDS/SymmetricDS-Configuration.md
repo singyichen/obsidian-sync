@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T21:04
+updated: 2024-02-06T08:26
 title: SymmetricDSConfiguration
 description: 
 author: mandy
@@ -19,7 +19,7 @@ template-should-create: open-pane
 published: false
 ---
 
-# SymmetricDS Configuration
+# 🚀 SymmetricDS Configuration
 
 # 組態
 - 初始化系統表資料：進行組態( Configuration )設定
