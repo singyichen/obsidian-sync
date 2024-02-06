@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 330.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md",
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Framework/backend/comparison.md"
+                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md"
               }
             }
           },
@@ -212,8 +212,8 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "software.md",
     "02.Areas/Framework/backend/comparison.md",
+    "software.md",
     "Templates/meeting-template.md",
     "Templates/learning-template.md",
     "Templates/dev-tech-template.md",
