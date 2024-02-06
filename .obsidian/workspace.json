@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/jwt-structure.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/jwt-structure.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/jwt-structure.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/jwt-structure.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           },
@@ -231,11 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
+    "Excalidraw/PARA.md",
     "Excalidraw/node-web-framework.md",
-    "Excalidraw/jwt-structure.md",
     "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/jwt-structure.md",
     "Templates/icon-template.md",
     "02.Areas/Test/Test.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
@@ -262,7 +263,6 @@
     "Templates/learning-template.md",
     "Templates/dev-tech-template.md",
     "Templates/book-template.md",
-    "03.Resources/UIUX/UX.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",
