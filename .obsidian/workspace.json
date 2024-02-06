@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skill-tree.md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skill-tree.md"
+                "file": "software.md"
               }
             }
           },
@@ -212,9 +212,9 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "skill-tree.md",
     "README.md",
     "software.md",
-    "skill-tree.md",
     "盤點系統.xmind",
     "04.Archives/lottery-system/dev-tech.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
