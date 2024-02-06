@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software.md",
+                "file": "Templates/book-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "Templates/book-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "Templates/book-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "Templates/book-template.md"
               }
             }
           },
@@ -210,10 +210,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2b68169d7437cc42",
+  "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "skill-tree.md",
     "software.md",
+    "skill-tree.md",
     "README.md",
     "Templates/meeting-template.md",
     "Templates/learning-template.md",
