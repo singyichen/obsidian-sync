@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software.md",
+                "file": "04.Archives/lottery-system/dev-tech.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "04.Archives/lottery-system/dev-tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "04.Archives/lottery-system/dev-tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "04.Archives/lottery-system/dev-tech.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "software.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
@@ -221,7 +222,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "02.Areas/Framework/backend/comparison.md",
-    "software.md",
     "Templates/meeting-template.md",
     "Templates/learning-template.md",
     "Templates/dev-tech-template.md",

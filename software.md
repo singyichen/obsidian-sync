@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T10:47
+updated: 2024-02-06T10:54
 title: software
 description: 
 author: mandy
@@ -86,7 +86,8 @@ eslint --init
 
 # DB
 ## dbeaver
-## 
+
+## DBSchema
 # AI 
 
 ## [Bard](https://bard.google.com/?hl=zh-TW)
