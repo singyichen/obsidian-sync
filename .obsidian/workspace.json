@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e53e1bbc58fdd8a8",
-        "type": "split",
+        "id": "e4cab5442eb35c5c",
+        "type": "tabs",
         "children": [
           {
-            "id": "e4cab5442eb35c5c",
-            "type": "tabs",
-            "dimension": 42.88461538461538,
-            "children": [
-              {
-                "id": "0cda098af97cc537",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02.Areas/Framework/backend/comparison.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "0cda098af97cc537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Areas/Framework/backend/comparison.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "84dae5b40e182147",
-            "type": "tabs",
-            "dimension": 57.11538461538461,
-            "children": [
-              {
-                "id": "2b977fb9b15ad8f0",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708.5
+    "width": 575.5
   },
   "left-ribbon": {
     "hiddenItems": {
