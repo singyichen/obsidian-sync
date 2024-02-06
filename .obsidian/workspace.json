@@ -11,8 +11,12 @@
             "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "skill-tree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "skill-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "skill-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "skill-tree.md"
+              }
             }
           },
           {
@@ -204,9 +212,11 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
+    "README.md",
+    "software.md",
+    "skill-tree.md",
     "盤點系統.xmind",
     "04.Archives/lottery-system/dev-tech.md",
-    "software.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
@@ -220,8 +230,6 @@
     "Templates/learning-template.md",
     "Templates/dev-tech-template.md",
     "Templates/book-template.md",
-    "skill-tree.md",
-    "README.md",
     "Templates/blog-post-template.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
@@ -240,7 +248,6 @@
     "02.Areas/DataIntegration",
     "04.Archives/lottery-system",
     "03.Resources/KM",
-    "Templates",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
     "Images/adobe-photoshop-logo.png",
