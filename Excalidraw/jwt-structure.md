@@ -461,8 +461,8 @@ data ^LfEWTBiJ
 		},
 		{
 			"type": "line",
-			"version": 333,
-			"versionNonce": 86961828,
+			"version": 334,
+			"versionNonce": 1914291356,
 			"isDeleted": false,
 			"id": "MN2pJ3UvHgSnBpf6SoYX2",
 			"fillStyle": "solid",
@@ -475,7 +475,7 @@ data ^LfEWTBiJ
 			"y": -331.6712338910941,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fcc2d7",
-			"width": 4.510380919085549,
+			"width": 3.630143122818424,
 			"height": 488.45163045130084,
 			"seed": 642821148,
 			"groupIds": [
@@ -486,7 +486,7 @@ data ^LfEWTBiJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707209197272,
+			"updated": 1707209321644,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -500,7 +500,7 @@ data ^LfEWTBiJ
 					0
 				],
 				[
-					4.510380919085549,
+					3.630143122818424,
 					488.45163045130084
 				]
 			]
