@@ -12,7 +12,7 @@
     "02.Areas/Framework/backend/comparison.md": "bb5f002a211487882c0844fe88a8a26ed3e04da399047199b4e480a8328a7cf6",
     "03.Resources/UIUX/UIUX.md": "c26697eb74799a55b77495de0fd6dfc520869aa587d3e6276bc1b8999e3cdb25",
     "03.Resources/UIUX/UX.md": "ea93892b9214b9e74a3aa46248cb546cf05f6b11f0d7a0bd460f5f558940c436",
-    "skill-tree.md": "5f940ab0b28ec615ed4530cdc5cb4cd27146e2c8e4e386003389259c3ce78639",
+    "skill-tree.md": "8d397b521632bdb40bb1944462e2967686aecbd21964e8a67976fed8765e3876",
     "software.md": "a9f050d834913160b516d0667c57e9f6b6c4c33985b8ad27a84a44144a91c37f",
     "Templates/blog-post-template.md": "b482955e0531c39718155344fbddfbc765e01339223de4d2aa62d3add2f1b9a4",
     "Templates/meeting-template.md": "b40706d89755b5d47e66b018e63b190a7dde88afe20a1ec2837b82ea9686a97d",
@@ -23,6 +23,10 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md": "e589e5901b3d794207d6aeb8c5ea2121642985ec38f55589f6bc17fc5fbec7a1",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md": "95d0275644d107635365396f8780d8298eecfd9891030319c96e1ced2ae7d1c0",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md": "83149a2535d586d3975c50d5c143a3a0a2e232f67c5e010f58bb65c380167069",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md": "799ddc11f16d24286e3c8ea92efc784fda5f2c354b69e89a1fb19263ac2b30d9"
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md": "799ddc11f16d24286e3c8ea92efc784fda5f2c354b69e89a1fb19263ac2b30d9",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md": "33678cd7f9c5b73aeea0190b8f8f5260054537d453ed022d8616f7bf1ac633f1",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md": "04d3fe4cfd0d6d61f2952db9c5dc9f0d288da2abc462a09cd8f9f341d18870bc",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md": "2bcde6789c39dd3ae2000d7cbaeee166810a0ea40436a2da019f2cfb21d1e8bf",
+    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md": "dcdce736a522e99e7b7f1d4db3d5f33e92a59388330738b6e618c2e9fdbf740d"
   }
 }

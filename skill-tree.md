@@ -1,6 +1,8 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-05T16:12
+updated: 2024-02-06T08:27
+title: skill-tree
+description: 
 author: mandy
 aliases: 
 category: 
@@ -13,8 +15,12 @@ template-input: title,body
 template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
+published: false
 ---
-![](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4d6.png)
+# 🚀 skill-tree
+
+
+
 # Skill Tree
 
 - [ ] [roadmap](https://roadmap.sh/)

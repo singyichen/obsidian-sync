@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
+                "file": "skill-tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
+                "file": "skill-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
+                "file": "skill-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md"
+                "file": "skill-tree.md"
               }
             }
           },
@@ -212,22 +212,29 @@
   },
   "active": "0cda098af97cc537",
   "lastOpenFiles": [
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
-    "04.Archives/lottery-system/dev-tech.md",
-    "Templates/blog-post-template.md",
-    "Templates/book-template.md",
-    "Templates/dev-tech-template.md",
-    "Templates/learning-template.md",
+    "software.md",
+    "skill-tree.md",
+    "README.md",
     "Templates/meeting-template.md",
-    "Excalidraw/node-web-framework.md",
-    "Excalidraw/lottery-system-tech.md",
+    "Templates/learning-template.md",
+    "Templates/dev-tech-template.md",
+    "Templates/book-template.md",
+    "Templates/blog-post-template.md",
+    "04.Archives/lottery-system/dev-tech.md",
     "03.Resources/UIUX/UX.md",
     "03.Resources/UIUX/UIUX.md",
     "03.Resources/KM/PARA.md",
     "02.Areas/Framework/backend/comparison.md",
+    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/lottery-system-tech.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
@@ -236,18 +243,11 @@
     "軟體開發/學習心得",
     "軟體開發",
     "Images/symmetricds-usage-user-case.png",
-    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
     "Excalidraw/PARA.md",
     "04.Archives/lottery-system",
-    "().md",
     "03.Resources/KM",
-    "skill-tree.md",
-    "software.md",
     "Templates",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
