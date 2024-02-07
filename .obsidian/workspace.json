@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4174a94f884db279",
+        "id": "19cafe60adc8322d",
         "type": "tabs",
         "children": [
           {
-            "id": "017b827a3fa4b60b",
+            "id": "9305e8d43fb4be54",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
-              }
-            }
-          },
-          {
-            "id": "969b90a1900ac081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 216.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+                "file": "Excalidraw/symmetricds-usage-user-case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md"
+                "file": "Excalidraw/symmetricds-usage-user-case.md"
               }
             }
           },
@@ -201,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,21 +199,27 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-spaced-repetition:復習卡片": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "969b90a1900ac081",
+  "active": "9305e8d43fb4be54",
   "lastOpenFiles": [
+    "Excalidraw/lottery-system-tech.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
     "Excalidraw/jwt.md",
     "Excalidraw/backend-logo.md",
-    "Excalidraw/lottery-system-tech.md",
     "Templates/icon-template.md",
     "Excalidraw/node-web-framework.md",
     "04.Archives/lottery-system/dev-tech.md",
