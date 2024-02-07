@@ -74,7 +74,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.19",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -181,7 +181,7 @@
             "containerId": null,
             "originalText": "Application\nserver",
             "lineHeight": 1.3499999999999994,
-            "baseline": 33
+            "baseline": 34
           }
         ],
         "id": "Pu3Hbmyxg6xTeNE4QDvRg",
@@ -392,7 +392,7 @@
             "containerId": null,
             "originalText": "server",
             "lineHeight": 1.320687725575955,
-            "baseline": 18
+            "baseline": 19
           }
         ],
         "id": "4blgK3sZljEqPC2vU9gh5",
@@ -528,7 +528,7 @@
             "containerId": null,
             "originalText": "Multi Instance",
             "lineHeight": 1.3218415496714844,
-            "baseline": 18
+            "baseline": 19
           }
         ],
         "id": "l1cNtvY5FVKr46eNruEpm",
@@ -1115,7 +1115,7 @@
             "containerId": null,
             "originalText": "Relational DB",
             "lineHeight": 1.350000000000001,
-            "baseline": 15
+            "baseline": 16
           }
         ],
         "id": "J-6Hi9g7wAjDaILy8xzsI",
@@ -2575,7 +2575,7 @@
             "containerId": null,
             "originalText": "}",
             "lineHeight": 1.2232416316348487,
-            "baseline": 28
+            "baseline": 29
           },
           {
             "type": "text",
@@ -2660,7 +2660,7 @@
             "containerId": null,
             "originalText": "Columnar DB",
             "lineHeight": 1.3420772212688767,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "line",
@@ -3015,7 +3015,7 @@
             "containerId": null,
             "originalText": "Graph DB",
             "lineHeight": 1.3499999999999999,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "line",
@@ -4119,7 +4119,7 @@
             "containerId": null,
             "originalText": "Stack\nStorage",
             "lineHeight": 1.3500000000000014,
-            "baseline": 33
+            "baseline": 34
           }
         ],
         "id": "zpjWRMP7Bm9I0VSZgDnXx",
@@ -4703,7 +4703,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.3499999999999988,
-            "baseline": 5
+            "baseline": 6
           },
           {
             "type": "text",
@@ -4743,7 +4743,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.3499999999999988,
-            "baseline": 5
+            "baseline": 6
           },
           {
             "type": "text",
@@ -4783,7 +4783,7 @@
             "containerId": null,
             "originalText": "Value",
             "lineHeight": 1.3499999999999952,
-            "baseline": 5
+            "baseline": 6
           },
           {
             "type": "text",
@@ -4823,7 +4823,7 @@
             "containerId": null,
             "originalText": "Value",
             "lineHeight": 1.3499999999999952,
-            "baseline": 5
+            "baseline": 6
           },
           {
             "type": "text",
@@ -4867,7 +4867,7 @@
             "containerId": null,
             "originalText": "Cache",
             "lineHeight": 1.269574560630744,
-            "baseline": 19
+            "baseline": 20
           }
         ],
         "id": "UrY7sS0Z7YJc3hQoX_6uR",
@@ -5495,7 +5495,7 @@
             "containerId": null,
             "originalText": "Auth &\n IAM",
             "lineHeight": 1.3328788279541297,
-            "baseline": 44
+            "baseline": 45
           }
         ],
         "id": "NFmaSD9nJ4cEUqEMK-pmP",
@@ -5911,7 +5911,7 @@
             "containerId": null,
             "originalText": "www     127.0.0.1",
             "lineHeight": 1.0127659574468078,
-            "baseline": 8
+            "baseline": 9
           },
           {
             "type": "arrow",
@@ -6771,7 +6771,7 @@
             "containerId": null,
             "originalText": "Message Q",
             "lineHeight": 1.3500000000000016,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "uxAv3tNlEkKlvmy9-Qxzc",
@@ -7009,7 +7009,7 @@
             "containerId": null,
             "originalText": "Pipeline",
             "lineHeight": 1.2999999999999996,
-            "baseline": 21
+            "baseline": 22
           }
         ],
         "id": "ro-uAEHNAxM-IQT9SBhSB",
@@ -7362,7 +7362,7 @@
             "containerId": null,
             "originalText": "cloud",
             "lineHeight": 1.3499999999999974,
-            "baseline": 18
+            "baseline": 19
           }
         ],
         "id": "HlQM583osxqxySx5sFNui",
@@ -7715,7 +7715,7 @@
             "containerId": null,
             "originalText": "CDN",
             "lineHeight": 1.2257881191819515,
-            "baseline": 28
+            "baseline": 29
           },
           {
             "type": "line",
