@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "Excalidraw/jwt.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "Excalidraw/jwt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "Excalidraw/jwt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "Excalidraw/jwt.md"
               }
             }
           },
@@ -210,16 +210,18 @@
   },
   "active": "9305e8d43fb4be54",
   "lastOpenFiles": [
+    "software.md",
+    "skill-tree.md",
+    "Excalidraw/backend-logo.md",
+    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/lottery-system-tech.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
     "Excalidraw/jwt.md",
-    "Excalidraw/backend-logo.md",
     "Templates/icon-template.md",
     "Excalidraw/node-web-framework.md",
     "04.Archives/lottery-system/dev-tech.md",
@@ -243,8 +245,6 @@
     "軟體開發/學習心得/11542",
     "軟體開發/學習心得",
     "軟體開發",
-    "Templates/learning-template.md",
-    "Templates/blog-post-template.md",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
     "04.Archives/lottery-system",
