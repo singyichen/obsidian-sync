@@ -4,20 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "19cafe60adc8322d",
+        "id": "e4cab5442eb35c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "9305e8d43fb4be54",
+            "id": "0cda098af97cc537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/blog-post-template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "Excalidraw/node-web-framework.md"
               }
             }
+          },
+          {
+            "id": "6f156dd88e6c8599",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -46,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#framework",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 350.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -83,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "Templates/blog-post-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "Templates/blog-post-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "Templates/blog-post-template.md"
               }
             }
           },
@@ -176,7 +197,7 @@
             }
           },
           {
-            "id": "25e5aa3c9aaba892",
+            "id": "f72b8e133e0a2274",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -184,11 +205,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,57 +219,56 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-spaced-repetition:復習卡片": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9305e8d43fb4be54",
+  "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
-    "Excalidraw/backend-logo.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
-    "Excalidraw/PARA.md",
-    "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
-    "Excalidraw/jwt.md",
-    "software.md",
-    "skill-tree.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
+    "Excalidraw/symmetricds-usage-user-case.md",
+    "Excalidraw/jwt-structure.md",
+    "Templates/icon-template.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/PARA.md",
+    "02.Areas/Test/Test.md",
+    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
-    "Templates/icon-template.md",
-    "04.Archives/lottery-system/dev-tech.md",
-    "03.Resources/UIUX/UIUX.md",
-    "03.Resources/KM/PARA.md",
-    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
-    "02.Areas/Framework/backend/comparison.md",
-    "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
-    "02.Areas/Test/Test.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+    "Templates/blog-post-template.md",
+    "02.Areas/Test/UnitTest",
     "02.Areas/Test",
-    "images/symmetricds-usage-user-case.png",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
-    "Templates/book-template.md",
-    "images/postgresql-logo.png",
-    "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
-    "未命名.md",
+    "software.md",
     "未命名.canvas",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
+    "02.Areas/Framework/backend/comparison.md",
+    "skill-tree.md",
+    "README.md",
+    "mind map.md",
+    "Templates/meeting-template.md",
+    "盤點系統.xmind",
+    "04.Archives/lottery-system/dev-tech.md",
+    "Templates/learning-template.md",
+    "Templates/dev-tech-template.md",
+    "Templates/book-template.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",
     "軟體開發/學習心得",
     "軟體開發",
+    "Images/symmetricds-usage-user-case.png",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
-    "04.Archives/lottery-system",
-    "03.Resources/KM",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
     "Images/adobe-photoshop-logo.png",
@@ -257,6 +277,7 @@
     "Images/adobe-illustrator-logo.png",
     "Images/figjam-logo.png",
     "Images/figma-logo.png",
+    "Images/gitea-logo.png",
     "Excalidraw/未命名.canvas"
   ]
 }
