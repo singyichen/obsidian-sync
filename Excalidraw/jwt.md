@@ -276,8 +276,8 @@ data ^Rq5HBG9p
 		},
 		{
 			"type": "rectangle",
-			"version": 355,
-			"versionNonce": 484549505,
+			"version": 356,
+			"versionNonce": 943102532,
 			"isDeleted": false,
 			"id": "FnZh4_PmYgJBCRC_hbssg",
 			"fillStyle": "solid",
@@ -286,7 +286,7 @@ data ^Rq5HBG9p
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 222.0062155524114,
+			"x": 222.00621555241136,
 			"y": -588.696438056297,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#fcc2d7",
@@ -307,14 +307,14 @@ data ^Rq5HBG9p
 					"id": "oAhOzMOM"
 				}
 			],
-			"updated": 1707324927468,
+			"updated": 1707961180259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 326,
-			"versionNonce": 615928453,
+			"version": 327,
+			"versionNonce": 1316139460,
 			"isDeleted": false,
 			"id": "oAhOzMOM",
 			"fillStyle": "solid",
@@ -323,7 +323,7 @@ data ^Rq5HBG9p
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 238.7069958569987,
+			"x": 238.70699585699867,
 			"y": -575.3587798127194,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -337,7 +337,7 @@ data ^Rq5HBG9p
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707235247458,
+			"updated": 1707961180259,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -560,7 +560,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Login",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -600,7 +600,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "username,password",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "ellipse",
@@ -1833,7 +1833,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Validate\nCredentials",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "ellipse",
@@ -1950,7 +1950,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Create JWT\nwith secret",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
@@ -2727,7 +2727,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Response",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -2767,7 +2767,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "JWT",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "freedraw",
@@ -3544,7 +3544,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Store JWT\nin local",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
@@ -4153,7 +4153,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "/data/user/1",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -4193,7 +4193,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Authorization:Bearer JWT",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "ellipse",
@@ -4310,7 +4310,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Validate JWT\nwith secret",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
@@ -5543,7 +5543,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Response",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -5583,7 +5583,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "data",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -5623,8 +5623,8 @@ data ^Rq5HBG9p
 		},
 		{
 			"type": "text",
-			"version": 512,
-			"versionNonce": 1987143233,
+			"version": 514,
+			"versionNonce": 1694240964,
 			"isDeleted": false,
 			"id": "95fzy6WK",
 			"fillStyle": "solid",
@@ -5633,11 +5633,11 @@ data ^Rq5HBG9p
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 314.65322082802277,
+			"x": 311.92275207802277,
 			"y": -66.48446209265018,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a18072",
-			"width": 186.0625,
+			"width": 191.5234375,
 			"height": 24,
 			"seed": 448953884,
 			"groupIds": [
@@ -5646,7 +5646,7 @@ data ^Rq5HBG9p
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707324927469,
+			"updated": 1707961180287,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5658,7 +5658,7 @@ data ^Rq5HBG9p
 			"containerId": "eKreVfasBPTSsORkP4yJR",
 			"originalText": "❤️ Mandy Backend",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -6067,7 +6067,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Login",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -6104,7 +6104,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "username,password",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "ellipse",
@@ -7320,7 +7320,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Validate\nCredentials",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "ellipse",
@@ -7428,7 +7428,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Create JWT\nwith secret",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
@@ -8192,7 +8192,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Response",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -8229,7 +8229,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "JWT",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "freedraw",
@@ -8993,7 +8993,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Store JWT\nin local",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
@@ -9589,7 +9589,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "/data/user/1",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -9626,7 +9626,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Authorization:Bearer JWT",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "ellipse",
@@ -9734,7 +9734,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Validate JWT\nwith secret",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
@@ -10950,7 +10950,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "Response",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -10987,7 +10987,7 @@ data ^Rq5HBG9p
 			"containerId": null,
 			"originalText": "data",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -11025,8 +11025,8 @@ data ^Rq5HBG9p
 		},
 		{
 			"type": "text",
-			"version": 638,
-			"versionNonce": 978469153,
+			"version": 640,
+			"versionNonce": 1106882500,
 			"isDeleted": false,
 			"id": "EwdWYWDK",
 			"fillStyle": "solid",
@@ -11035,18 +11035,18 @@ data ^Rq5HBG9p
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 1201.0622048141768,
+			"x": 1198.3317360641768,
 			"y": -71.29003704283923,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a18072",
-			"width": 186.0625,
+			"width": 191.5234375,
 			"height": 24,
 			"seed": 1122187909,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707324941975,
+			"updated": 1707961180293,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11058,7 +11058,7 @@ data ^Rq5HBG9p
 			"containerId": "_dtECxbosID3UHj1WUONV",
 			"originalText": "❤️ Mandy Backend",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -11076,10 +11076,10 @@ data ^Rq5HBG9p
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 341.7028994238126,
-		"scrollY": 1233.3972218362776,
+		"scrollX": 309.03623275714597,
+		"scrollY": 1007.7409718362776,
 		"zoom": {
-			"value": 0.5
+			"value": 0.75
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

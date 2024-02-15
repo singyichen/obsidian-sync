@@ -2533,7 +2533,7 @@
             "containerId": null,
             "originalText": "{",
             "lineHeight": 1.2320567040578883,
-            "baseline": 30
+            "baseline": 28
           },
           {
             "type": "text",
@@ -2575,7 +2575,7 @@
             "containerId": null,
             "originalText": "}",
             "lineHeight": 1.2232416316348487,
-            "baseline": 30
+            "baseline": 28
           },
           {
             "type": "text",
@@ -5869,7 +5869,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.2177715417832888,
-            "baseline": 26
+            "baseline": 25
           },
           {
             "type": "text",
@@ -7715,7 +7715,7 @@
             "containerId": null,
             "originalText": "CDN",
             "lineHeight": 1.2257881191819515,
-            "baseline": 30
+            "baseline": 28
           },
           {
             "type": "line",
