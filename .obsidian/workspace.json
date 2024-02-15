@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "Excalidraw/backend-logo.md"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "Excalidraw/backend-logo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md",
+                "file": "Excalidraw/backend-logo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/symmetricds-usage-user-case.md"
+                "file": "Excalidraw/backend-logo.md"
               }
             }
           },
@@ -211,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,10 +233,10 @@
   },
   "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
+    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/jwt.md",
     "skill-tree.md",
     "Excalidraw/backend-logo.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
