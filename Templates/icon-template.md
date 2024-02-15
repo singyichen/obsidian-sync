@@ -1,6 +1,6 @@
 ---
 created: 2024-02-06T15:33
-updated: 2024-02-15T09:39
+updated: 2024-02-15T10:01
 ---
 # 🎉
 
@@ -16,7 +16,7 @@ updated: 2024-02-15T09:39
 
 # 🔎
 
-# 🔗 Resources
+# 🔗 Resources / Link
 
 # 🛠️ Tools
 

@@ -33,9 +33,11 @@
             "id": "6f156dd88e6c8599",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "Templates/icon-template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "Templates/icon-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "Templates/icon-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "Templates/icon-template.md"
               }
             }
           },
@@ -233,8 +235,8 @@
   },
   "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
-    "Excalidraw/node-web-framework.md",
     "Excalidraw/jwt.md",
+    "Excalidraw/node-web-framework.md",
     "Excalidraw/jwt-structure.md",
     "Excalidraw/lottery-system-tech.md",
     "Templates/icon-template.md",
