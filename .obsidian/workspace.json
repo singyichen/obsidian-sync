@@ -23,9 +23,11 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/PARA.md"
+                "file": "02.Areas/Test/Test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PARA.md",
+                "file": "02.Areas/Test/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PARA.md",
+                "file": "02.Areas/Test/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PARA.md"
+                "file": "02.Areas/Test/Test.md"
               }
             }
           },
@@ -223,13 +225,13 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
+    "Excalidraw/PARA.md",
     "Excalidraw/jwt.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
     "Images/hapi-logo.png",
     "Images/fastify-logo.png",
     "Images/koa-logo.png",
-    "Excalidraw/PARA.md",
     "02.Areas/Framework/backend/comparison.md",
     "Images/express-logo.png",
     "Excalidraw/symmetricds-usage-user-case.md",
