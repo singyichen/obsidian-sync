@@ -20,8 +20,8 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 529,
-			"versionNonce": 1350453185,
+			"version": 531,
+			"versionNonce": 1729485845,
 			"isDeleted": false,
 			"id": "eKreVfasBPTSsORkP4yJR",
 			"fillStyle": "solid",
@@ -48,14 +48,14 @@ tags: [excalidraw]
 					"id": "95fzy6WK"
 				}
 			],
-			"updated": 1707658540617,
+			"updated": 1707955296197,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 559,
-			"versionNonce": 197240737,
+			"version": 562,
+			"versionNonce": 613126517,
 			"isDeleted": false,
 			"id": "95fzy6WK",
 			"fillStyle": "solid",
@@ -64,18 +64,18 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 49.31988749468928,
+			"x": 48.99176249468928,
 			"y": -395.81779542598343,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a18072",
-			"width": 186.0625,
+			"width": 186.71875,
 			"height": 24,
 			"seed": 448953884,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707658540618,
+			"updated": 1707955296198,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -87,7 +87,7 @@ tags: [excalidraw]
 			"containerId": "eKreVfasBPTSsORkP4yJR",
 			"originalText": "🇹🇼 Mandy Backend",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -105,8 +105,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 86.39886250531072,
-		"scrollY": 600.4818579259834,
+		"scrollX": 188.52386250531072,
+		"scrollY": 624.1927954259834,
 		"zoom": {
 			"value": 2
 		},
