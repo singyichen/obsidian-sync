@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-15T16:57
+updated: 2024-02-15T16:58
 title: Test
 description: 測試
 author: mandy
@@ -51,7 +51,7 @@ published: false
 
 在不同的測試類型中，所需要保護的面向不太相同，以下是不同測試類型的大致介紹：
 
-# 比較表
+# 測試分類
 ## α測試 ( Alpha Testing )
 
 > - α測試主要由內部人員進行,測試新功能是否符合預期並發現早期問題。
@@ -116,7 +116,7 @@ published: false
    - 加載時間
    - UI Rendering
 
-
+# 測試方法
 ## 單元測試 ( Unit Testing )
 
 > - 主要的是在程式碼基礎上構建測試用例,以提高程式碼的可靠性與可維護性。
