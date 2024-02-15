@@ -544,10 +544,10 @@ More Convince ^Dfck0SHc
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 521.0091348310407,
-		"scrollY": 477.6846092503987,
+		"scrollX": 369.4216112646887,
+		"scrollY": 206.99016480595435,
 		"zoom": {
-			"value": 2
+			"value": 1.8
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
