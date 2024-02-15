@@ -24,6 +24,10 @@ More Freedom ^wZWhVBBe
 
 More Convince ^Dfck0SHc
 
+
+# Embedded files
+52747635af356f1843f95e224b3abbe9d3a681fd: [[fastify-logo.png]]
+
 %%
 # Drawing
 ```json
@@ -527,6 +531,41 @@ More Convince ^Dfck0SHc
 			"originalText": "More Convince",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"type": "image",
+			"version": 1205,
+			"versionNonce": 1230089084,
+			"isDeleted": false,
+			"id": "jTyjEkJVavPTJRvkX6p8z",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -111.3742359413873,
+			"y": -44.63314381097031,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 92.79413824228578,
+			"height": 46.39706912114289,
+			"seed": 1226531908,
+			"groupIds": [
+				"8u5jV9FfrXouk7EHTHf1W"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707983083649,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "52747635af356f1843f95e224b3abbe9d3a681fd",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
