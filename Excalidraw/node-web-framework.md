@@ -838,8 +838,8 @@ d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 		{
 			"id": "F7HcPsvH7fMoUr-2GEgRx",
 			"type": "rectangle",
-			"x": -350.25494459802206,
-			"y": 25.294540544452644,
+			"x": -350.254944598022,
+			"y": 24.73898498889713,
 			"width": 80.55555555555554,
 			"height": 61.666666666666686,
 			"angle": 0,
@@ -854,11 +854,11 @@ d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1119384772,
-			"version": 142,
-			"versionNonce": 265942084,
+			"version": 159,
+			"versionNonce": 1937378940,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1707984018947,
+			"updated": 1707984055848,
 			"link": null,
 			"locked": false
 		}
@@ -879,7 +879,7 @@ d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 369.4216112646887,
-		"scrollY": 194.98323723332516,
+		"scrollY": 250.5387927888807,
 		"zoom": {
 			"value": 1.8
 		},
