@@ -33,9 +33,11 @@
             "id": "6f156dd88e6c8599",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/backend-logo.md"
+                "file": "Templates/icon-template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/backend-logo.md",
+                "file": "Templates/icon-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/backend-logo.md",
+                "file": "Templates/icon-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/backend-logo.md"
+                "file": "Templates/icon-template.md"
               }
             }
           },
@@ -233,6 +235,7 @@
   },
   "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
+    "Excalidraw/backend-logo.md",
     "Excalidraw/jwt.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/symmetricds-usage-user-case.md",
@@ -262,7 +265,6 @@
     "盤點系統.xmind",
     "04.Archives/lottery-system/dev-tech.md",
     "Templates/learning-template.md",
-    "Templates/dev-tech-template.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",
