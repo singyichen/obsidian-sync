@@ -30,6 +30,7 @@ hapi ^Wd59dVUM
 # Embedded files
 52747635af356f1843f95e224b3abbe9d3a681fd: [[fastify-logo.png]]
 dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[express-logo.png]]
+0d0823007c105eb6fc767f82403aaed6c179400d: [[koa-logo.png]]
 
 %%
 # Drawing
@@ -641,6 +642,39 @@ dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[express-logo.png]]
 			"originalText": "hapi",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"type": "image",
+			"version": 137,
+			"versionNonce": 1838215676,
+			"isDeleted": false,
+			"id": "Jko_AL-6iJ9zRBKWt82Hn",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4.15618908499971,
+			"y": -54.19437427953031,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 121.17773263395662,
+			"height": 51.634731285501005,
+			"seed": 2062520260,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707983576051,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "0d0823007c105eb6fc767f82403aaed6c179400d",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -659,7 +693,7 @@ dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[express-logo.png]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 369.4216112646887,
-		"scrollY": 371.43256419233535,
+		"scrollY": 417.2054594555473,
 		"zoom": {
 			"value": 1.8
 		},
