@@ -27,6 +27,7 @@ More Convince ^Dfck0SHc
 
 # Embedded files
 52747635af356f1843f95e224b3abbe9d3a681fd: [[fastify-logo.png]]
+dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[Pasted Image 20240215154601_833.png]]
 
 %%
 # Drawing
@@ -534,8 +535,8 @@ More Convince ^Dfck0SHc
 		},
 		{
 			"type": "image",
-			"version": 1292,
-			"versionNonce": 384777596,
+			"version": 1336,
+			"versionNonce": 921275460,
 			"isDeleted": false,
 			"id": "jTyjEkJVavPTJRvkX6p8z",
 			"fillStyle": "solid",
@@ -544,8 +545,8 @@ More Convince ^Dfck0SHc
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -225.81868038583175,
-			"y": -65.18869936652591,
+			"x": -159.7075692747206,
+			"y": -68.52203269985925,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 92.79413824228578,
@@ -557,11 +558,44 @@ More Convince ^Dfck0SHc
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707983123260,
+			"updated": 1707983173092,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "52747635af356f1843f95e224b3abbe9d3a681fd",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "qMAbcc01oXsHhdY0fc0ke",
+			"type": "image",
+			"x": -280.0071431152553,
+			"y": -61.108573388599254,
+			"width": 102.28217481224416,
+			"height": 31.014594943067586,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1852620228,
+			"version": 127,
+			"versionNonce": 1883317628,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707983176911,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3",
 			"scale": [
 				1,
 				1
