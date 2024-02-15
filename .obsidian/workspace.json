@@ -33,9 +33,9 @@
             "id": "6f156dd88e6c8599",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "Images/hapi-logo.png"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "Images/hapi-logo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "Images/hapi-logo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "Images/hapi-logo.png"
               }
             }
           },
@@ -231,16 +231,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6f156dd88e6c8599",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
-    "Images/koa-logo.png",
     "Excalidraw/node-web-framework.md",
+    "Images/fastify-logo.png",
+    "Images/hapi-logo.png",
+    "Images/koa-logo.png",
     "Excalidraw/PARA.md",
     "02.Areas/Framework/backend/comparison.md",
     "Images/express-logo.png",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/symmetricds-usage-user-case.md",
-    "Images/fastify-logo.png",
     "Excalidraw/backend-logo.md",
     "Excalidraw/jwt.md",
     "skill-tree.md",
@@ -278,7 +279,6 @@
     "Images/adobe-photoshop-logo.png",
     "Images/saas-logo.png",
     "Images/Pasted Image 20240201163628_014.png",
-    "Images/adobe-illustrator-logo.png",
     "Excalidraw/未命名.canvas"
   ]
 }

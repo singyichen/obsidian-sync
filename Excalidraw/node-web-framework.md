@@ -31,6 +31,7 @@ hapi ^Wd59dVUM
 52747635af356f1843f95e224b3abbe9d3a681fd: [[fastify-logo.png]]
 dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[express-logo.png]]
 0d0823007c105eb6fc767f82403aaed6c179400d: [[koa-logo.png]]
+d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 
 %%
 # Drawing
@@ -645,8 +646,8 @@ dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[express-logo.png]]
 		},
 		{
 			"type": "image",
-			"version": 137,
-			"versionNonce": 1838215676,
+			"version": 267,
+			"versionNonce": 238864580,
 			"isDeleted": false,
 			"id": "Jko_AL-6iJ9zRBKWt82Hn",
 			"fillStyle": "solid",
@@ -655,22 +656,55 @@ dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[express-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4.15618908499971,
-			"y": -54.19437427953031,
+			"x": -63.173285436509765,
+			"y": -73.66799021765542,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 121.17773263395662,
-			"height": 51.634731285501005,
+			"width": 107.50334834364233,
+			"height": 56.137518717306705,
 			"seed": 2062520260,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707983576051,
+			"updated": 1707983612853,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "0d0823007c105eb6fc767f82403aaed6c179400d",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 196,
+			"versionNonce": 571086916,
+			"isDeleted": false,
+			"id": "cD87ykFiPgFRC4owelXQ9",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 49.818132635290155,
+			"y": -65.65430539222876,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 59.85384553337578,
+			"height": 41.897691873363044,
+			"seed": 47194108,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707983611617,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "d134b028b3ef586a9a9c5aee1720208dc1590a30",
 			"scale": [
 				1,
 				1
