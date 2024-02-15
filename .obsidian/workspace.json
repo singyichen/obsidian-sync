@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "Excalidraw/PARA.md"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "Excalidraw/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "Excalidraw/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "Excalidraw/PARA.md"
               }
             }
           },
@@ -223,6 +223,7 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
+    "Excalidraw/jwt.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
     "Images/hapi-logo.png",
@@ -233,7 +234,6 @@
     "Images/express-logo.png",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/backend-logo.md",
-    "Excalidraw/jwt.md",
     "skill-tree.md",
     "Templates/icon-template.md",
     "Excalidraw/jwt-structure.md",
