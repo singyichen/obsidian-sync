@@ -27,7 +27,7 @@ More Convince ^Dfck0SHc
 
 # Embedded files
 52747635af356f1843f95e224b3abbe9d3a681fd: [[fastify-logo.png]]
-dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[Pasted Image 20240215154601_833.png]]
+dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[express-logo.png]]
 
 %%
 # Drawing
@@ -600,6 +600,43 @@ dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[Pasted Image 20240215154601_833.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "A8nvbFsJ",
+			"type": "text",
+			"x": -218.58827793135535,
+			"y": -37.82145308122426,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#c2255c",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1525426884,
+			"version": 2,
+			"versionNonce": 1795425276,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1707983296872,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -618,7 +655,7 @@ dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[Pasted Image 20240215154601_833.png]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 369.4216112646887,
-		"scrollY": 206.99016480595435,
+		"scrollY": 426.9881197478909,
 		"zoom": {
 			"value": 1.8
 		},
