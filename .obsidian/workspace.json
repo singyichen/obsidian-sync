@@ -211,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,7 +231,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6f156dd88e6c8599",
+  "active": "0f69369519262a04",
   "lastOpenFiles": [
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/jwt.md",
