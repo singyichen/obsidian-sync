@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T23:39
+updated: 2024-02-15T15:29
 title: skill-tree
 description: 
 author: mandy
@@ -26,6 +26,7 @@ published: true
 - [ ] [ExplainThis](https://www.explainthis.io/zh-hant/about)
 - [ ] [IT-Tools](https://it.jason.tools/)
 - [ ] [Essential skills for a web developer](https://learningdaily.dev/essential-skills-for-a-web-developer-5dbc052cea89)
+- [ ] [free-for.dev](https://free-for.dev/#/?id=free-fordev)
 
 ## 簡介 intro
 

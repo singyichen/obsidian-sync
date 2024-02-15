@@ -33,9 +33,11 @@
             "id": "6f156dd88e6c8599",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "skill-tree.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "skill-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "skill-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "skill-tree.md"
               }
             }
           },
@@ -233,12 +235,12 @@
   },
   "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
+    "Excalidraw/jwt.md",
     "Excalidraw/backend-logo.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
-    "Excalidraw/jwt.md",
     "Templates/icon-template.md",
     "Excalidraw/jwt-structure.md",
     "02.Areas/Test/Test.md",
