@@ -33,9 +33,11 @@
             "id": "6f156dd88e6c8599",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "02.Areas/Framework/backend/comparison.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "02.Areas/Framework/backend/comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "02.Areas/Framework/backend/comparison.md"
               }
             }
           },
@@ -233,8 +235,8 @@
   },
   "active": "6f156dd88e6c8599",
   "lastOpenFiles": [
-    "Images/express-logo.png",
     "Excalidraw/node-web-framework.md",
+    "Images/express-logo.png",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/PARA.md",
     "Excalidraw/symmetricds-usage-user-case.md",
