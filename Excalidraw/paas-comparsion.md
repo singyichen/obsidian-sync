@@ -52,6 +52,8 @@ Free 100 requests ^aexh5vst
 
 • small ^w8UItlMH
 
+Supported Language ^PkvE8RMg
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -1433,13 +1435,82 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"originalText": "• small",
 			"lineHeight": 1.2,
 			"baseline": 10
+		},
+		{
+			"type": "rectangle",
+			"version": 553,
+			"versionNonce": 257583198,
+			"isDeleted": false,
+			"id": "2-pRdH58NqPLxRXhlPrqp",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -590.9812422112198,
+			"y": -0.1062010747308193,
+			"strokeColor": "#6741d9",
+			"backgroundColor": "#6741d9",
+			"width": 109.31912030043657,
+			"height": 199.17503102214494,
+			"seed": 77362498,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "PkvE8RMg"
+				}
+			],
+			"updated": 1708075710385,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 459,
+			"versionNonce": 1753032066,
+			"isDeleted": false,
+			"id": "PkvE8RMg",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -584.5916252983061,
+			"y": 74.48131443634165,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#1971c2",
+			"width": 96.53988647460938,
+			"height": 50,
+			"seed": 1369472258,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075701110,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Supported\nLanguage",
+			"rawText": "Supported Language",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "2-pRdH58NqPLxRXhlPrqp",
+			"originalText": "Supported Language",
+			"lineHeight": 1.25,
+			"baseline": 43
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#099268",
-		"currentItemBackgroundColor": "#099268",
+		"currentItemStrokeColor": "#6741d9",
+		"currentItemBackgroundColor": "#6741d9",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -1451,7 +1522,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 705.6555963134391,
-		"scrollY": 487.98007828908646,
+		"scrollY": 487.9800782890865,
 		"zoom": {
 			"value": 1.296255395553994
 		},
