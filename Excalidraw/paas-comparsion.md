@@ -16,9 +16,9 @@ Features ^wZeX0yja
 • high security
 • scalability   ^axv00S1B
 
-• global scale
+• easy to use
 • high security
-• scalability   ^TB94al2f
+• auto-scales   ^TB94al2f
 
 
 # Embedded files
@@ -543,8 +543,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "text",
-			"version": 248,
-			"versionNonce": 1197023838,
+			"version": 252,
+			"versionNonce": 735327426,
 			"isDeleted": false,
 			"id": "TB94al2f",
 			"fillStyle": "solid",
@@ -566,19 +566,55 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708074747818,
+			"updated": 1708074803282,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.400000000000006,
 			"fontFamily": 3,
-			"text": "• global scale\n• high security\n• scalability  ",
-			"rawText": "• global scale\n• high security\n• scalability  ",
+			"text": "• easy to use\n• high security\n• auto-scales  ",
+			"rawText": "• easy to use\n• high security\n• auto-scales  ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• global scale\n• high security\n• scalability  ",
+			"originalText": "• easy to use\n• high security\n• auto-scales  ",
 			"lineHeight": 1.2,
 			"baseline": 41
+		},
+		{
+			"text": "• global scale\r\n• high security\r\n• scalability  ",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 53,
+			"id": "3dlfa2JC",
+			"type": "text",
+			"x": -308.53209646547486,
+			"y": -169.15808622813688,
+			"width": 140.625,
+			"height": 57.599999999999994,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 44200,
+			"version": 32,
+			"versionNonce": 792805250,
+			"updated": 1708074774623,
+			"isDeleted": true,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"containerId": null,
+			"originalText": "• global scale\r\n• high security\r\n• scalability  ",
+			"rawText": "• global scale\r\n• high security\r\n• scalability  ",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
