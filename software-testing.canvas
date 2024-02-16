@@ -2,10 +2,13 @@
 	"nodes":[
 		{"id":"b85bcd06bc08a3a4","type":"text","text":"Manual Testing","x":-1080,"y":-640,"width":220,"height":60,"color":"6"},
 		{"id":"5a5fca642c1f5fa2","type":"text","text":"Software Testing","x":-1420,"y":-540,"width":200,"height":60,"color":"6"},
-		{"id":"64a1dacf5762ed5c","type":"text","text":"Automation Testing","x":-1080,"y":-440,"width":220,"height":60,"color":"6"}
+		{"id":"64a1dacf5762ed5c","type":"text","text":"Automation Testing","x":-1080,"y":-440,"width":220,"height":60,"color":"6"},
+		{"id":"cbb5cbda1bf05447","x":-780,"y":-740,"width":250,"height":60,"type":"text","text":"White Box"},
+		{"id":"39ca31bcd45e31cc","type":"text","text":"White Box","x":-780,"y":-640,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left"},
-		{"id":"e99da3e3eb628b88","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"64a1dacf5762ed5c","toSide":"left"}
+		{"id":"e99da3e3eb628b88","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"64a1dacf5762ed5c","toSide":"left"},
+		{"id":"5fd8f3ea1487c544","fromNode":"b85bcd06bc08a3a4","fromSide":"right","toNode":"cbb5cbda1bf05447","toSide":"left"}
 	]
 }
