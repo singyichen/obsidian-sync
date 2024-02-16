@@ -20,8 +20,8 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 531,
-			"versionNonce": 1729485845,
+			"version": 533,
+			"versionNonce": 1359247042,
 			"isDeleted": false,
 			"id": "eKreVfasBPTSsORkP4yJR",
 			"fillStyle": "solid",
@@ -48,14 +48,14 @@ tags: [excalidraw]
 					"id": "95fzy6WK"
 				}
 			],
-			"updated": 1707955296197,
+			"updated": 1708077624047,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 562,
-			"versionNonce": 613126517,
+			"version": 564,
+			"versionNonce": 613174914,
 			"isDeleted": false,
 			"id": "95fzy6WK",
 			"fillStyle": "solid",
@@ -75,7 +75,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707955296198,
+			"updated": 1708077624047,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -105,7 +105,7 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 188.52386250531072,
+		"scrollX": 145.39886250531072,
 		"scrollY": 624.1927954259834,
 		"zoom": {
 			"value": 2

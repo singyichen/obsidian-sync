@@ -147,8 +147,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 551,
-			"versionNonce": 595286338,
+			"version": 552,
+			"versionNonce": 371867202,
 			"isDeleted": false,
 			"id": "dqn8DWMmQCFKYB4VGyWyX",
 			"fillStyle": "solid",
@@ -166,20 +166,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"seed": 1614224734,
 			"groupIds": [
 				"hDGec8Igxr6UnihjIebwu",
-				"Eq2zX5g8-YF6WLVyK2KMJ",
-				"deAbyJr4btBtR34ISpwli"
+				"Eq2zX5g8-YF6WLVyK2KMJ"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 447,
-			"versionNonce": 1735611358,
+			"version": 448,
+			"versionNonce": 1733377758,
 			"isDeleted": false,
 			"id": "BZGsZclu",
 			"fillStyle": "hachure",
@@ -196,13 +195,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 22.10977341943649,
 			"seed": 32360,
 			"groupIds": [
-				"Eq2zX5g8-YF6WLVyK2KMJ",
-				"deAbyJr4btBtR34ISpwli"
+				"Eq2zX5g8-YF6WLVyK2KMJ"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -214,8 +212,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "image",
-			"version": 389,
-			"versionNonce": 2063786242,
+			"version": 390,
+			"versionNonce": 1619863042,
 			"isDeleted": false,
 			"id": "wc5esDLw",
 			"fillStyle": "hachure",
@@ -232,13 +230,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 75.1336269396474,
 			"seed": 55234,
 			"groupIds": [
-				"3X3Nl40qmrQG6caDHGW8K",
-				"deAbyJr4btBtR34ISpwli"
+				"3X3Nl40qmrQG6caDHGW8K"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -250,8 +247,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 411,
-			"versionNonce": 1406740510,
+			"version": 412,
+			"versionNonce": 381793054,
 			"isDeleted": false,
 			"id": "jfhwaLc86FtNX9F1M2MQG",
 			"fillStyle": "solid",
@@ -270,20 +267,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"groupIds": [
 				"zhRtF0EumcxIer31ySV8l",
 				"NURWbpfIYhYjIlFnmJpqX",
-				"3X3Nl40qmrQG6caDHGW8K",
-				"deAbyJr4btBtR34ISpwli"
+				"3X3Nl40qmrQG6caDHGW8K"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 536,
-			"versionNonce": 1338208450,
+			"version": 537,
+			"versionNonce": 1975326146,
 			"isDeleted": false,
 			"id": "m5XfmK6mPfA8ibqETFCAf",
 			"fillStyle": "solid",
@@ -302,20 +298,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"groupIds": [
 				"ywUYj9CSpx7ubGS46GlWx",
 				"hBfMjjRH9T_4zfM1L4vBN",
-				"JgusoxgMg2JFCUHq5Ih06",
-				"deAbyJr4btBtR34ISpwli"
+				"JgusoxgMg2JFCUHq5Ih06"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 541,
-			"versionNonce": 351958110,
+			"version": 542,
+			"versionNonce": 546938718,
 			"isDeleted": false,
 			"id": "i3AhB8zQ",
 			"fillStyle": "hachure",
@@ -332,13 +327,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 29.856697865092304,
 			"seed": 2235,
 			"groupIds": [
-				"JgusoxgMg2JFCUHq5Ih06",
-				"deAbyJr4btBtR34ISpwli"
+				"JgusoxgMg2JFCUHq5Ih06"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -350,8 +344,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 602,
-			"versionNonce": 626788482,
+			"version": 603,
+			"versionNonce": 114888066,
 			"isDeleted": false,
 			"id": "InNmC5bTPZsaLCua5T4p3",
 			"fillStyle": "solid",
@@ -370,20 +364,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"groupIds": [
 				"1NYh6RBSZhvb256PAeCvF",
 				"SUs6QaaabT3JS8NPxgzeI",
-				"o0xdCVPIrY2hEZJYXVQH9",
-				"deAbyJr4btBtR34ISpwli"
+				"o0xdCVPIrY2hEZJYXVQH9"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 695,
-			"versionNonce": 1957181598,
+			"version": 696,
+			"versionNonce": 959054750,
 			"isDeleted": false,
 			"id": "8cEerhMs",
 			"fillStyle": "hachure",
@@ -400,13 +393,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 63.574661339347344,
 			"seed": 41600,
 			"groupIds": [
-				"o0xdCVPIrY2hEZJYXVQH9",
-				"deAbyJr4btBtR34ISpwli"
+				"o0xdCVPIrY2hEZJYXVQH9"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -418,8 +410,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 325,
-			"versionNonce": 864790594,
+			"version": 326,
+			"versionNonce": 1226837314,
 			"isDeleted": false,
 			"id": "H7s_gaO4Ej8hv3luQyl0w",
 			"fillStyle": "solid",
@@ -435,9 +427,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 109.31912030043657,
 			"height": 62.49999999999999,
 			"seed": 454473950,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -446,14 +436,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "wZeX0yja"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 1519613150,
+			"version": 223,
+			"versionNonce": 1654906846,
 			"isDeleted": false,
 			"id": "wZeX0yja",
 			"fillStyle": "solid",
@@ -469,13 +459,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 88.81991577148438,
 			"height": 25,
 			"seed": 879361758,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -491,8 +479,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 753,
-			"versionNonce": 1647398914,
+			"version": 754,
+			"versionNonce": 1911624962,
 			"isDeleted": false,
 			"id": "4bJrl-1IW_kHhUmUoav6T",
 			"fillStyle": "solid",
@@ -510,8 +498,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"seed": 1097543042,
 			"groupIds": [
 				"-NMGXsDIVxL7U5xgWcWGU",
-				"xMCQf2eEDwPIDljIWV4m5",
-				"deAbyJr4btBtR34ISpwli"
+				"xMCQf2eEDwPIDljIWV4m5"
 			],
 			"frameId": null,
 			"roundness": {
@@ -523,14 +510,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "bck0me2n"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 687,
-			"versionNonce": 273492254,
+			"version": 688,
+			"versionNonce": 823669790,
 			"isDeleted": false,
 			"id": "bck0me2n",
 			"fillStyle": "solid",
@@ -548,13 +535,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"seed": 745418050,
 			"groupIds": [
 				"-NMGXsDIVxL7U5xgWcWGU",
-				"xMCQf2eEDwPIDljIWV4m5",
-				"deAbyJr4btBtR34ISpwli"
+				"xMCQf2eEDwPIDljIWV4m5"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -570,8 +556,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 509,
-			"versionNonce": 1162608578,
+			"version": 510,
+			"versionNonce": 852174018,
 			"isDeleted": false,
 			"id": "mUrYuU6dU0rDow6Mjs6eP",
 			"fillStyle": "solid",
@@ -588,20 +574,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 63.75,
 			"seed": 706940318,
 			"groupIds": [
-				"vgPBwraucvRWYjiRuoY4o",
-				"deAbyJr4btBtR34ISpwli"
+				"vgPBwraucvRWYjiRuoY4o"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 356,
-			"versionNonce": 88495454,
+			"version": 357,
+			"versionNonce": 242745438,
 			"isDeleted": false,
 			"id": "axv00S1B",
 			"fillStyle": "solid",
@@ -618,13 +603,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 37.140000000000015,
 			"seed": 1720281502,
 			"groupIds": [
-				"vgPBwraucvRWYjiRuoY4o",
-				"deAbyJr4btBtR34ISpwli"
+				"vgPBwraucvRWYjiRuoY4o"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -640,8 +624,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 541,
-			"versionNonce": 419084162,
+			"version": 542,
+			"versionNonce": 894254210,
 			"isDeleted": false,
 			"id": "XfR2hFkDr6lK86DO8S346",
 			"fillStyle": "solid",
@@ -658,20 +642,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 63.75,
 			"seed": 224310978,
 			"groupIds": [
-				"fK37q9P2rvMRe2ccJqkbb",
-				"deAbyJr4btBtR34ISpwli"
+				"fK37q9P2rvMRe2ccJqkbb"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 586,
-			"versionNonce": 315619742,
+			"version": 587,
+			"versionNonce": 2123646110,
 			"isDeleted": false,
 			"id": "TB94al2f",
 			"fillStyle": "solid",
@@ -688,13 +671,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 35.89000000000005,
 			"seed": 1537117826,
 			"groupIds": [
-				"fK37q9P2rvMRe2ccJqkbb",
-				"deAbyJr4btBtR34ISpwli"
+				"fK37q9P2rvMRe2ccJqkbb"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 9.96944444444446,
@@ -710,8 +692,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 611,
-			"versionNonce": 1031567170,
+			"version": 612,
+			"versionNonce": 389438530,
 			"isDeleted": false,
 			"id": "9iNGqJvXqd_Mjv8OnROoN",
 			"fillStyle": "solid",
@@ -728,20 +710,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 63.75,
 			"seed": 1786014082,
 			"groupIds": [
-				"XXAO1rCz8FFrFjRljYHCx",
-				"deAbyJr4btBtR34ISpwli"
+				"XXAO1rCz8FFrFjRljYHCx"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 661,
-			"versionNonce": 1075516894,
+			"version": 662,
+			"versionNonce": 1662910686,
 			"isDeleted": false,
 			"id": "qzlmBDXk",
 			"fillStyle": "solid",
@@ -758,13 +739,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 35.89000000000005,
 			"seed": 1492117826,
 			"groupIds": [
-				"XXAO1rCz8FFrFjRljYHCx",
-				"deAbyJr4btBtR34ISpwli"
+				"XXAO1rCz8FFrFjRljYHCx"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 9.96944444444446,
@@ -780,8 +760,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 684,
-			"versionNonce": 858799874,
+			"version": 685,
+			"versionNonce": 1717928962,
 			"isDeleted": false,
 			"id": "dWn2P95QXRTusp_urkGrn",
 			"fillStyle": "solid",
@@ -798,20 +778,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 63.75,
 			"seed": 578244190,
 			"groupIds": [
-				"f2X74pPouVGzC_AvGnHR0",
-				"deAbyJr4btBtR34ISpwli"
+				"f2X74pPouVGzC_AvGnHR0"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 728,
-			"versionNonce": 104376862,
+			"version": 729,
+			"versionNonce": 1067857182,
 			"isDeleted": false,
 			"id": "A6bWys7g",
 			"fillStyle": "solid",
@@ -828,13 +807,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 35.89000000000005,
 			"seed": 830067358,
 			"groupIds": [
-				"f2X74pPouVGzC_AvGnHR0",
-				"deAbyJr4btBtR34ISpwli"
+				"f2X74pPouVGzC_AvGnHR0"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 9.96944444444446,
@@ -850,8 +828,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 387,
-			"versionNonce": 378867394,
+			"version": 388,
+			"versionNonce": 484029378,
 			"isDeleted": false,
 			"id": "IKDo6qH10SxfRPBcKqkge",
 			"fillStyle": "solid",
@@ -867,9 +845,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 109.31912030043657,
 			"height": 66.43471943079851,
 			"seed": 625753090,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -878,14 +854,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "1oqthdJn"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 288,
-			"versionNonce": 337229406,
+			"version": 289,
+			"versionNonce": 2107498846,
 			"isDeleted": false,
 			"id": "1oqthdJn",
 			"fillStyle": "solid",
@@ -901,13 +877,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 59.97993469238281,
 			"height": 25,
 			"seed": 1042901954,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -923,8 +897,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 670,
-			"versionNonce": 474605186,
+			"version": 671,
+			"versionNonce": 481422210,
 			"isDeleted": false,
 			"id": "BUoyZ6o69j0k5P-3EqfTp",
 			"fillStyle": "solid",
@@ -940,9 +914,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 128.06912030043657,
 			"height": 68,
 			"seed": 1935964674,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -951,14 +923,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "MyNOriLE"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 311376542,
+			"version": 104,
+			"versionNonce": 810943902,
 			"isDeleted": false,
 			"id": "MyNOriLE",
 			"fillStyle": "solid",
@@ -974,13 +946,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 75,
 			"height": 57.599999999999994,
 			"seed": 540102786,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -996,8 +966,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 676,
-			"versionNonce": 219006530,
+			"version": 677,
+			"versionNonce": 741157698,
 			"isDeleted": false,
 			"id": "QTgRDI02QDHbfbn6o6UVz",
 			"fillStyle": "solid",
@@ -1013,9 +983,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 128.06912030043657,
 			"height": 67.68471943079851,
 			"seed": 1453496990,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -1024,14 +992,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "xD1V5DOA"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 149,
-			"versionNonce": 1749694174,
+			"version": 150,
+			"versionNonce": 1493148126,
 			"isDeleted": false,
 			"id": "xD1V5DOA",
 			"fillStyle": "solid",
@@ -1047,13 +1015,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 75,
 			"height": 38.4,
 			"seed": 317822686,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1069,8 +1035,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 715,
-			"versionNonce": 1103080962,
+			"version": 716,
+			"versionNonce": 1906995970,
 			"isDeleted": false,
 			"id": "QtVf0xgUIklGsAOxfh521",
 			"fillStyle": "solid",
@@ -1086,9 +1052,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 128.06912030043657,
 			"height": 67.68471943079851,
 			"seed": 516433054,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -1097,14 +1061,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "bZdKpx7q"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 189,
-			"versionNonce": 2111548190,
+			"version": 190,
+			"versionNonce": 715896350,
 			"isDeleted": false,
 			"id": "bZdKpx7q",
 			"fillStyle": "solid",
@@ -1120,13 +1084,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 75,
 			"height": 38.4,
 			"seed": 299229406,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1142,8 +1104,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 731,
-			"versionNonce": 526294466,
+			"version": 732,
+			"versionNonce": 1873330882,
 			"isDeleted": false,
 			"id": "UqB7WAYGVd0JyhFWXvKdc",
 			"fillStyle": "solid",
@@ -1159,9 +1121,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 128.06912030043657,
 			"height": 67.68471943079851,
 			"seed": 818444098,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -1170,14 +1130,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "aexh5vst"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 205,
-			"versionNonce": 28612446,
+			"version": 206,
+			"versionNonce": 1313555038,
 			"isDeleted": false,
 			"id": "aexh5vst",
 			"fillStyle": "solid",
@@ -1193,13 +1153,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 75,
 			"height": 38.4,
 			"seed": 1560035074,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1215,8 +1173,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 503,
-			"versionNonce": 319395202,
+			"version": 504,
+			"versionNonce": 13048450,
 			"isDeleted": false,
 			"id": "6fYkqLm-ENjgdbaYWFO8k",
 			"fillStyle": "solid",
@@ -1232,9 +1190,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 109.31912030043657,
 			"height": 61.6405766078625,
 			"seed": 1919713438,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -1243,14 +1199,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "iqSPyqeP"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 406,
-			"versionNonce": 740686750,
+			"version": 407,
+			"versionNonce": 649021086,
 			"isDeleted": false,
 			"id": "iqSPyqeP",
 			"fillStyle": "solid",
@@ -1266,13 +1222,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 71.73992919921875,
 			"height": 50,
 			"seed": 680443102,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1288,8 +1242,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 569,
-			"versionNonce": 234853698,
+			"version": 570,
+			"versionNonce": 1405385282,
 			"isDeleted": false,
 			"id": "XugAHAh7et2dpM45-LAkO",
 			"fillStyle": "solid",
@@ -1306,20 +1260,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 63.75,
 			"seed": 1717584194,
 			"groupIds": [
-				"IDf06Px6x1iMBIUv7tRCN",
-				"deAbyJr4btBtR34ISpwli"
+				"IDf06Px6x1iMBIUv7tRCN"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 422,
-			"versionNonce": 56678366,
+			"version": 423,
+			"versionNonce": 344507102,
 			"isDeleted": false,
 			"id": "9BBcSuvj",
 			"fillStyle": "solid",
@@ -1336,13 +1289,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 37.140000000000015,
 			"seed": 1628096770,
 			"groupIds": [
-				"IDf06Px6x1iMBIUv7tRCN",
-				"deAbyJr4btBtR34ISpwli"
+				"IDf06Px6x1iMBIUv7tRCN"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -1358,8 +1310,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 602,
-			"versionNonce": 27237634,
+			"version": 603,
+			"versionNonce": 1736434178,
 			"isDeleted": false,
 			"id": "a694gDvuHaCtaUPbBJt1L",
 			"fillStyle": "solid",
@@ -1376,20 +1328,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 63.75,
 			"seed": 1491489246,
 			"groupIds": [
-				"WsMUro6JgBLp-zQSfLedq",
-				"deAbyJr4btBtR34ISpwli"
+				"WsMUro6JgBLp-zQSfLedq"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 458,
-			"versionNonce": 527838238,
+			"version": 459,
+			"versionNonce": 979941150,
 			"isDeleted": false,
 			"id": "IhMaGKyC",
 			"fillStyle": "solid",
@@ -1406,83 +1357,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 24.76000000000001,
 			"seed": 1513907742,
 			"groupIds": [
-				"WsMUro6JgBLp-zQSfLedq",
-				"deAbyJr4btBtR34ISpwli"
+				"WsMUro6JgBLp-zQSfLedq"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
-			"link": null,
-			"locked": false,
-			"fontSize": 10.31666666666667,
-			"fontFamily": 3,
-			"text": "• small\n• medium",
-			"rawText": "• small\n• medium",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "• small\n• medium",
-			"lineHeight": 1.2,
-			"baseline": 22
-		},
-		{
-			"type": "rectangle",
-			"version": 650,
-			"versionNonce": 1533586626,
-			"isDeleted": false,
-			"id": "lmQO2uBDG00jz1wrmapOL",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -127.21124532025175,
-			"y": -93.61400885188272,
-			"strokeColor": "#868e96",
-			"backgroundColor": "transparent",
-			"width": 128.06912030043657,
-			"height": 63.75,
-			"seed": 2072495490,
-			"groupIds": [
-				"qHkuhdo7RdBGuVZZG459J",
-				"deAbyJr4btBtR34ISpwli"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1708077541925,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 506,
-			"versionNonce": 1851193438,
-			"isDeleted": false,
-			"id": "wJUFQSz4",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -121.00877934541,
-			"y": -81.1690088518827,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 48.328125,
-			"height": 24.76000000000001,
-			"seed": 657966402,
-			"groupIds": [
-				"qHkuhdo7RdBGuVZZG459J",
-				"deAbyJr4btBtR34ISpwli"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -1499,7 +1379,75 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		{
 			"type": "rectangle",
 			"version": 651,
-			"versionNonce": 16368770,
+			"versionNonce": 116937154,
+			"isDeleted": false,
+			"id": "lmQO2uBDG00jz1wrmapOL",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -127.21124532025175,
+			"y": -93.61400885188272,
+			"strokeColor": "#868e96",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 63.75,
+			"seed": 2072495490,
+			"groupIds": [
+				"qHkuhdo7RdBGuVZZG459J"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708077603142,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 507,
+			"versionNonce": 1086333790,
+			"isDeleted": false,
+			"id": "wJUFQSz4",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -121.00877934541,
+			"y": -81.1690088518827,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 48.328125,
+			"height": 24.76000000000001,
+			"seed": 657966402,
+			"groupIds": [
+				"qHkuhdo7RdBGuVZZG459J"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708077603142,
+			"link": null,
+			"locked": false,
+			"fontSize": 10.31666666666667,
+			"fontFamily": 3,
+			"text": "• small\n• medium",
+			"rawText": "• small\n• medium",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• small\n• medium",
+			"lineHeight": 1.2,
+			"baseline": 22
+		},
+		{
+			"type": "rectangle",
+			"version": 652,
+			"versionNonce": 1162660226,
 			"isDeleted": false,
 			"id": "9dPb-KVGSB5TFg-Q3-T51",
 			"fillStyle": "solid",
@@ -1516,20 +1464,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 63.75,
 			"seed": 1912098562,
 			"groupIds": [
-				"bC5GB59AL14GgLl0ZxITg",
-				"deAbyJr4btBtR34ISpwli"
+				"bC5GB59AL14GgLl0ZxITg"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 506,
-			"versionNonce": 2010397854,
+			"version": 507,
+			"versionNonce": 434112414,
 			"isDeleted": false,
 			"id": "w8UItlMH",
 			"fillStyle": "solid",
@@ -1546,13 +1493,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 12.380000000000004,
 			"seed": 1641750210,
 			"groupIds": [
-				"bC5GB59AL14GgLl0ZxITg",
-				"deAbyJr4btBtR34ISpwli"
+				"bC5GB59AL14GgLl0ZxITg"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -1568,8 +1514,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 665,
-			"versionNonce": 1276240962,
+			"version": 666,
+			"versionNonce": 2042382658,
 			"isDeleted": false,
 			"id": "2-pRdH58NqPLxRXhlPrqp",
 			"fillStyle": "solid",
@@ -1585,9 +1531,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 109.31912030043657,
 			"height": 146.7162329849433,
 			"seed": 77362498,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -1596,14 +1540,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "PkvE8RMg"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 569,
-			"versionNonce": 564066526,
+			"version": 570,
+			"versionNonce": 1173971934,
 			"isDeleted": false,
 			"id": "PkvE8RMg",
 			"fillStyle": "solid",
@@ -1619,13 +1563,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 96.53988647460938,
 			"height": 50,
 			"seed": 1369472258,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1641,8 +1583,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 671,
-			"versionNonce": 110103554,
+			"version": 672,
+			"versionNonce": 1000722690,
 			"isDeleted": false,
 			"id": "bUoefwBCDAR8krHgtfEbE",
 			"fillStyle": "solid",
@@ -1659,20 +1601,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 145.52400870504965,
 			"seed": 1335491074,
 			"groupIds": [
-				"1qi7_jva-inPKqCZSmTkD",
-				"deAbyJr4btBtR34ISpwli"
+				"1qi7_jva-inPKqCZSmTkD"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 463,
-			"versionNonce": 1934109982,
+			"version": 464,
+			"versionNonce": 387790878,
 			"isDeleted": false,
 			"id": "SzSLtiMx",
 			"fillStyle": "solid",
@@ -1689,13 +1630,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 123.80000000000004,
 			"seed": 336554434,
 			"groupIds": [
-				"1qi7_jva-inPKqCZSmTkD",
-				"deAbyJr4btBtR34ISpwli"
+				"1qi7_jva-inPKqCZSmTkD"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -1711,8 +1651,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 708,
-			"versionNonce": 1718827970,
+			"version": 709,
+			"versionNonce": 1585995970,
 			"isDeleted": false,
 			"id": "bn77tty9qWU7k8v47ASA0",
 			"fillStyle": "solid",
@@ -1729,20 +1669,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 145.52400870504965,
 			"seed": 124026654,
 			"groupIds": [
-				"0rjfq0nBwY8zxwdmRlicg",
-				"deAbyJr4btBtR34ISpwli"
+				"0rjfq0nBwY8zxwdmRlicg"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 500,
-			"versionNonce": 1514199390,
+			"version": 501,
+			"versionNonce": 1966900318,
 			"isDeleted": false,
 			"id": "hUYGjKBy",
 			"fillStyle": "solid",
@@ -1759,13 +1698,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 123.80000000000004,
 			"seed": 184740702,
 			"groupIds": [
-				"0rjfq0nBwY8zxwdmRlicg",
-				"deAbyJr4btBtR34ISpwli"
+				"0rjfq0nBwY8zxwdmRlicg"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -1781,8 +1719,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 731,
-			"versionNonce": 165311362,
+			"version": 732,
+			"versionNonce": 1845688450,
 			"isDeleted": false,
 			"id": "XhIq_hKfHjCkv2M3vUvfw",
 			"fillStyle": "solid",
@@ -1799,20 +1737,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 145.52400870504965,
 			"seed": 1053916802,
 			"groupIds": [
-				"iEGR3SrapUYDwvYib_bs5",
-				"deAbyJr4btBtR34ISpwli"
+				"iEGR3SrapUYDwvYib_bs5"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 523,
-			"versionNonce": 1843002782,
+			"version": 524,
+			"versionNonce": 573065374,
 			"isDeleted": false,
 			"id": "eLGWl2dR",
 			"fillStyle": "solid",
@@ -1829,13 +1766,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 123.80000000000004,
 			"seed": 719478338,
 			"groupIds": [
-				"iEGR3SrapUYDwvYib_bs5",
-				"deAbyJr4btBtR34ISpwli"
+				"iEGR3SrapUYDwvYib_bs5"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -1851,8 +1787,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 703,
-			"versionNonce": 1929687874,
+			"version": 704,
+			"versionNonce": 701798466,
 			"isDeleted": false,
 			"id": "M-gPCxhVI_n3sOsTLZal8",
 			"fillStyle": "solid",
@@ -1869,20 +1805,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 145.52400870504965,
 			"seed": 1270294018,
 			"groupIds": [
-				"KybtzHAXA8hcGt45H2tWr",
-				"deAbyJr4btBtR34ISpwli"
+				"KybtzHAXA8hcGt45H2tWr"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 496,
-			"versionNonce": 860133854,
+			"version": 497,
+			"versionNonce": 2106688734,
 			"isDeleted": false,
 			"id": "tSmkWXNW",
 			"fillStyle": "solid",
@@ -1899,13 +1834,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 74.28000000000003,
 			"seed": 1806112194,
 			"groupIds": [
-				"KybtzHAXA8hcGt45H2tWr",
-				"deAbyJr4btBtR34ISpwli"
+				"KybtzHAXA8hcGt45H2tWr"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -1921,8 +1855,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 556,
-			"versionNonce": 72416002,
+			"version": 557,
+			"versionNonce": 31211522,
 			"isDeleted": false,
 			"id": "HwXyceYFFpi0WqpSExFqC",
 			"fillStyle": "solid",
@@ -1938,9 +1872,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 109.31912030043657,
 			"height": 68.02803592914057,
 			"seed": 266811714,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -1949,14 +1881,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "m537KTRF"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 461,
-			"versionNonce": 1636937246,
+			"version": 462,
+			"versionNonce": 1225341214,
 			"isDeleted": false,
 			"id": "m537KTRF",
 			"fillStyle": "solid",
@@ -1972,13 +1904,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 76.3199462890625,
 			"height": 50,
 			"seed": 787661058,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1994,8 +1924,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 751,
-			"versionNonce": 2084457154,
+			"version": 752,
+			"versionNonce": 303624130,
 			"isDeleted": false,
 			"id": "ig7mLEChcLq_aT9mCs-5X",
 			"fillStyle": "solid",
@@ -2011,9 +1941,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 128.06912030043657,
 			"height": 68,
 			"seed": 551470814,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -2022,14 +1950,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "r2sLH5l7"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 187,
-			"versionNonce": 632437342,
+			"version": 188,
+			"versionNonce": 1811965278,
 			"isDeleted": false,
 			"id": "r2sLH5l7",
 			"fillStyle": "solid",
@@ -2045,13 +1973,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 28.125,
 			"height": 19.2,
 			"seed": 1432238878,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2067,8 +1993,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 807,
-			"versionNonce": 1902879362,
+			"version": 808,
+			"versionNonce": 514434946,
 			"isDeleted": false,
 			"id": "tTBdPupb3r6AsBXUr1EJ9",
 			"fillStyle": "solid",
@@ -2084,9 +2010,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 128.06912030043657,
 			"height": 68,
 			"seed": 1734307422,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -2095,14 +2019,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "8znmZ5Iy"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 245,
-			"versionNonce": 1719090846,
+			"version": 246,
+			"versionNonce": 935856542,
 			"isDeleted": false,
 			"id": "8znmZ5Iy",
 			"fillStyle": "solid",
@@ -2118,13 +2042,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 56.25,
 			"height": 19.2,
 			"seed": 1683878558,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2140,8 +2062,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 793,
-			"versionNonce": 1318584898,
+			"version": 794,
+			"versionNonce": 265119554,
 			"isDeleted": false,
 			"id": "A0-GvMhv3iKp7mEJ788c6",
 			"fillStyle": "solid",
@@ -2157,9 +2079,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 128.06912030043657,
 			"height": 68,
 			"seed": 637776002,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -2168,14 +2088,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "Fn7faX3l"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 231,
-			"versionNonce": 143768286,
+			"version": 232,
+			"versionNonce": 730932702,
 			"isDeleted": false,
 			"id": "Fn7faX3l",
 			"fillStyle": "solid",
@@ -2191,13 +2111,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 37.5,
 			"height": 19.2,
 			"seed": 285102146,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2213,8 +2131,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 808,
-			"versionNonce": 1319266818,
+			"version": 809,
+			"versionNonce": 1843605250,
 			"isDeleted": false,
 			"id": "cpV38-3_1sOhGwnvN-6UC",
 			"fillStyle": "solid",
@@ -2230,9 +2148,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 128.06912030043657,
 			"height": 68,
 			"seed": 201729694,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -2241,14 +2157,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "5SEIbJat"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 246,
-			"versionNonce": 848473886,
+			"version": 247,
+			"versionNonce": 946649630,
 			"isDeleted": false,
 			"id": "5SEIbJat",
 			"fillStyle": "solid",
@@ -2264,13 +2180,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 37.5,
 			"height": 19.2,
 			"seed": 1812177630,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2286,8 +2200,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 640,
-			"versionNonce": 2022300098,
+			"version": 641,
+			"versionNonce": 1567227586,
 			"isDeleted": false,
 			"id": "MS2jn5ws3AYxJ9apVkB0p",
 			"fillStyle": "solid",
@@ -2303,9 +2217,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 109.31912030043657,
 			"height": 85,
 			"seed": 952904542,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -2314,14 +2226,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "Hw8TEnyF"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 546,
-			"versionNonce": 283843422,
+			"version": 547,
+			"versionNonce": 88852062,
 			"isDeleted": false,
 			"id": "Hw8TEnyF",
 			"fillStyle": "solid",
@@ -2337,13 +2249,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 98.87992858886719,
 			"height": 50,
 			"seed": 1126895518,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2359,8 +2269,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 785,
-			"versionNonce": 460149122,
+			"version": 786,
+			"versionNonce": 453039746,
 			"isDeleted": false,
 			"id": "pLASxDZekgPtRvfAXelal",
 			"fillStyle": "solid",
@@ -2377,20 +2287,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 83.80777572010646,
 			"seed": 983518686,
 			"groupIds": [
-				"l7X_3qCeNEFSscaeEyWbm",
-				"deAbyJr4btBtR34ISpwli"
+				"l7X_3qCeNEFSscaeEyWbm"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 546,
-			"versionNonce": 434896798,
+			"version": 547,
+			"versionNonce": 855591582,
 			"isDeleted": false,
 			"id": "as1JSlas",
 			"fillStyle": "solid",
@@ -2407,13 +2316,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 49.52000000000002,
 			"seed": 326492702,
 			"groupIds": [
-				"l7X_3qCeNEFSscaeEyWbm",
-				"deAbyJr4btBtR34ISpwli"
+				"l7X_3qCeNEFSscaeEyWbm"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -2429,8 +2337,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 824,
-			"versionNonce": 1250677058,
+			"version": 825,
+			"versionNonce": 2003220034,
 			"isDeleted": false,
 			"id": "keLseVeYgPD_ihUJZ6JKa",
 			"fillStyle": "solid",
@@ -2447,20 +2355,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 83.80777572010646,
 			"seed": 1245305794,
 			"groupIds": [
-				"E057oAhVn3Zabivy-yHxw",
-				"deAbyJr4btBtR34ISpwli"
+				"E057oAhVn3Zabivy-yHxw"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603142,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 589,
-			"versionNonce": 1371954142,
+			"version": 590,
+			"versionNonce": 540559070,
 			"isDeleted": false,
 			"id": "wcmaSDFR",
 			"fillStyle": "solid",
@@ -2477,13 +2384,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 49.52000000000002,
 			"seed": 2077037442,
 			"groupIds": [
-				"E057oAhVn3Zabivy-yHxw",
-				"deAbyJr4btBtR34ISpwli"
+				"E057oAhVn3Zabivy-yHxw"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -2499,8 +2405,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 829,
-			"versionNonce": 1497651458,
+			"version": 830,
+			"versionNonce": 1400544770,
 			"isDeleted": false,
 			"id": "USmiDZEZ2cGKGL5-KCWH2",
 			"fillStyle": "solid",
@@ -2517,20 +2423,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 83.80777572010646,
 			"seed": 2080316866,
 			"groupIds": [
-				"RTs4C4LUShH6aykeeklM_",
-				"deAbyJr4btBtR34ISpwli"
+				"RTs4C4LUShH6aykeeklM_"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 594,
-			"versionNonce": 244002846,
+			"version": 595,
+			"versionNonce": 763869982,
 			"isDeleted": false,
 			"id": "prDNP6oV",
 			"fillStyle": "solid",
@@ -2547,13 +2452,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 49.52000000000002,
 			"seed": 127538562,
 			"groupIds": [
-				"RTs4C4LUShH6aykeeklM_",
-				"deAbyJr4btBtR34ISpwli"
+				"RTs4C4LUShH6aykeeklM_"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -2569,8 +2473,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 861,
-			"versionNonce": 1461053634,
+			"version": 862,
+			"versionNonce": 473664962,
 			"isDeleted": false,
 			"id": "8tYOQj2YZvQ_3swJK2y8A",
 			"fillStyle": "solid",
@@ -2587,20 +2491,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 83.80777572010646,
 			"seed": 1549762654,
 			"groupIds": [
-				"8CeslWHdLyjM4kGOOdK6I",
-				"deAbyJr4btBtR34ISpwli"
+				"8CeslWHdLyjM4kGOOdK6I"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 626,
-			"versionNonce": 1009482846,
+			"version": 627,
+			"versionNonce": 22980446,
 			"isDeleted": false,
 			"id": "t4Ble93v",
 			"fillStyle": "solid",
@@ -2617,13 +2520,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 49.52000000000002,
 			"seed": 596362398,
 			"groupIds": [
-				"8CeslWHdLyjM4kGOOdK6I",
-				"deAbyJr4btBtR34ISpwli"
+				"8CeslWHdLyjM4kGOOdK6I"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -2639,8 +2541,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 690,
-			"versionNonce": 195002498,
+			"version": 691,
+			"versionNonce": 1187546498,
 			"isDeleted": false,
 			"id": "hvhoJMVZ8KtEaesRsKbkf",
 			"fillStyle": "solid",
@@ -2656,9 +2558,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 109.31912030043657,
 			"height": 80.55105849119855,
 			"seed": 1177394078,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -2667,14 +2567,14 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 					"id": "GARcBXWd"
 				}
 			],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 599,
-			"versionNonce": 544751774,
+			"version": 600,
+			"versionNonce": 1275988894,
 			"isDeleted": false,
 			"id": "GARcBXWd",
 			"fillStyle": "solid",
@@ -2690,13 +2590,11 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"width": 73.93992614746094,
 			"height": 25,
 			"seed": 997488606,
-			"groupIds": [
-				"deAbyJr4btBtR34ISpwli"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2712,8 +2610,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "image",
-			"version": 693,
-			"versionNonce": 1923096642,
+			"version": 694,
+			"versionNonce": 1281393986,
 			"isDeleted": false,
 			"id": "dcXKWAKU",
 			"fillStyle": "hachure",
@@ -2730,13 +2628,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 69.2164692237759,
 			"seed": 23571,
 			"groupIds": [
-				"GB5jv5PGiC-s2fn_9deEc",
-				"deAbyJr4btBtR34ISpwli"
+				"GB5jv5PGiC-s2fn_9deEc"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2748,8 +2645,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 863,
-			"versionNonce": 522353886,
+			"version": 864,
+			"versionNonce": 197584862,
 			"isDeleted": false,
 			"id": "h0CVqSB3wiBGtuZqqcPis",
 			"fillStyle": "solid",
@@ -2766,20 +2663,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 83.42905824623585,
 			"seed": 1162967774,
 			"groupIds": [
-				"GB5jv5PGiC-s2fn_9deEc",
-				"deAbyJr4btBtR34ISpwli"
+				"GB5jv5PGiC-s2fn_9deEc"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077603143,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 745,
-			"versionNonce": 938919938,
+			"version": 748,
+			"versionNonce": 1896936002,
 			"isDeleted": false,
 			"id": "SKJm8iMxJwhyakOGCqKLe",
 			"fillStyle": "hachure",
@@ -2788,7 +2684,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -245.864274181756,
+			"x": -247.864274181756,
 			"y": 315.9466697119099,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -2796,13 +2692,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 69.2164692237759,
 			"seed": 1829028318,
 			"groupIds": [
-				"JpqJE_k1Sb_jrcfop_TaG",
-				"deAbyJr4btBtR34ISpwli"
+				"JpqJE_k1Sb_jrcfop_TaG"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077610291,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2814,8 +2709,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 915,
-			"versionNonce": 2109419806,
+			"version": 918,
+			"versionNonce": 343759362,
 			"isDeleted": false,
 			"id": "3ob-NYvXNT_HetlYaSIgR",
 			"fillStyle": "solid",
@@ -2824,7 +2719,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -265.46600276736586,
+			"x": -267.46600276736586,
 			"y": 308.8921033129794,
 			"strokeColor": "#868e96",
 			"backgroundColor": "transparent",
@@ -2832,20 +2727,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 83.42905824623585,
 			"seed": 1091360286,
 			"groupIds": [
-				"JpqJE_k1Sb_jrcfop_TaG",
-				"deAbyJr4btBtR34ISpwli"
+				"JpqJE_k1Sb_jrcfop_TaG"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077610291,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 719,
-			"versionNonce": 866285506,
+			"version": 722,
+			"versionNonce": 1141664734,
 			"isDeleted": false,
 			"id": "c-SucabDT7kBBIHU5VI3E",
 			"fillStyle": "hachure",
@@ -2854,7 +2748,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -105.25728756231007,
+			"x": -107.25728756231007,
 			"y": 315.58484812404623,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -2862,13 +2756,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 69.2164692237759,
 			"seed": 635596290,
 			"groupIds": [
-				"7sqAe2NUmoHMH8FEoBG7i",
-				"deAbyJr4btBtR34ISpwli"
+				"7sqAe2NUmoHMH8FEoBG7i"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541925,
+			"updated": 1708077611329,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2880,8 +2773,8 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 889,
-			"versionNonce": 666066270,
+			"version": 892,
+			"versionNonce": 1838104606,
 			"isDeleted": false,
 			"id": "MlWw2d_Yv_P78Ga98T9uq",
 			"fillStyle": "solid",
@@ -2890,7 +2783,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -124.85901614791993,
+			"x": -126.85901614791993,
 			"y": 308.5302817251157,
 			"strokeColor": "#868e96",
 			"backgroundColor": "transparent",
@@ -2898,20 +2791,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 83.42905824623585,
 			"seed": 1898536386,
 			"groupIds": [
-				"7sqAe2NUmoHMH8FEoBG7i",
-				"deAbyJr4btBtR34ISpwli"
+				"7sqAe2NUmoHMH8FEoBG7i"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541926,
+			"updated": 1708077611329,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 906,
-			"versionNonce": 1707224962,
+			"version": 909,
+			"versionNonce": 414322078,
 			"isDeleted": false,
 			"id": "loQbfiMluYT1_XAuw_AGD",
 			"fillStyle": "solid",
@@ -2920,7 +2812,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 16.024327295798287,
+			"x": 14.024327295798287,
 			"y": 307.48672176464675,
 			"strokeColor": "#868e96",
 			"backgroundColor": "transparent",
@@ -2929,20 +2821,19 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"seed": 1943112130,
 			"groupIds": [
 				"DXiMivwle-2VTG3cPoNrX",
-				"9WqINcCDT77sJpCMY87VO",
-				"deAbyJr4btBtR34ISpwli"
+				"9WqINcCDT77sJpCMY87VO"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541926,
+			"updated": 1708077606081,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 502,
-			"versionNonce": 1918632350,
+			"version": 505,
+			"versionNonce": 1754966494,
 			"isDeleted": false,
 			"id": "UHCMnoOD",
 			"fillStyle": "hachure",
@@ -2951,7 +2842,7 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 44.32853228782433,
+			"x": 42.32853228782433,
 			"y": 328.83781603963354,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -2959,13 +2850,12 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"height": 40.63043564037098,
 			"seed": 47954,
 			"groupIds": [
-				"9WqINcCDT77sJpCMY87VO",
-				"deAbyJr4btBtR34ISpwli"
+				"9WqINcCDT77sJpCMY87VO"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077541926,
+			"updated": 1708077606081,
 			"link": null,
 			"locked": false,
 			"status": "pending",
