@@ -8,13 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-52747635af356f1843f95e224b3abbe9d3a681fd: [[fastify-logo.png]]
-dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3: [[express-logo.png]]
-0d0823007c105eb6fc767f82403aaed6c179400d: [[koa-logo.png]]
-d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
-
 %%
 # Drawing
 ```json
@@ -23,41 +16,6 @@ d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
 	"elements": [
-		{
-			"type": "image",
-			"version": 305,
-			"versionNonce": 619980226,
-			"isDeleted": false,
-			"id": "LGRWX7MS3E1aj9jo_5Cqo",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -370.8633096283444,
-			"y": -222.3562916963219,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 102.28217481224416,
-			"height": 31.014594943067586,
-			"seed": 1807151390,
-			"groupIds": [
-				"hDGec8Igxr6UnihjIebwu"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1708073063018,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3",
-			"scale": [
-				1,
-				1
-			]
-		},
 		{
 			"type": "rectangle",
 			"version": 212,
@@ -86,41 +44,6 @@ d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 			"updated": 1708073063018,
 			"link": null,
 			"locked": false
-		},
-		{
-			"type": "image",
-			"version": 679,
-			"versionNonce": 1554914690,
-			"isDeleted": false,
-			"id": "lKimX_Z-ckRSWNRXViD1u",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -135.2002986264954,
-			"y": -242.92485387449716,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 138.17837503076865,
-			"height": 72.15580941554498,
-			"seed": 1684521374,
-			"groupIds": [
-				"cpzoFPohY0C6IoG8Y-y0s"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1708073063019,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "0d0823007c105eb6fc767f82403aaed6c179400d",
-			"scale": [
-				1,
-				1
-			]
 		},
 		{
 			"type": "rectangle",
@@ -152,42 +75,6 @@ d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 			"locked": false
 		},
 		{
-			"type": "image",
-			"version": 1506,
-			"versionNonce": 1104354626,
-			"isDeleted": false,
-			"id": "dpVi32Laji3qdiVoVvSw6",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -241.67484689892092,
-			"y": -231.99197322980413,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 92.79413824228578,
-			"height": 46.39706912114289,
-			"seed": 444494366,
-			"groupIds": [
-				"YuuxfjKE_UMg83TJpIn1i",
-				"Xbd-bS0k19V7uV9J3TG7p"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1708073063019,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "52747635af356f1843f95e224b3abbe9d3a681fd",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"type": "rectangle",
 			"version": 250,
 			"versionNonce": 1315557342,
@@ -217,41 +104,6 @@ d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 			"locked": false
 		},
 		{
-			"type": "image",
-			"version": 720,
-			"versionNonce": 890080606,
-			"isDeleted": false,
-			"id": "j7i46sZjJhjgBU_MYkFFf",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 36.85085501108995,
-			"y": -228.79091258884029,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 59.85384553337578,
-			"height": 41.897691873363044,
-			"seed": 369296030,
-			"groupIds": [
-				"2cVswkjykmK_R2q_23EgI"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1708073067319,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "d134b028b3ef586a9a9c5aee1720208dc1590a30",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"type": "rectangle",
 			"version": 605,
 			"versionNonce": 888156574,
@@ -279,6 +131,147 @@ d134b028b3ef586a9a9c5aee1720208dc1590a30: [[hapi-logo.png]]
 			"updated": 1708073067319,
 			"link": null,
 			"locked": false
+		},
+		{
+			"type": "image",
+			"version": 306,
+			"versionNonce": 2061776798,
+			"isDeleted": true,
+			"id": "LGRWX7MS3E1aj9jo_5Cqo",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -370.8633096283444,
+			"y": -222.3562916963219,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 102.28217481224416,
+			"height": 31.014594943067586,
+			"seed": 1807151390,
+			"groupIds": [
+				"hDGec8Igxr6UnihjIebwu"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708073458480,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "dde2c6a0a5c0648fe3eb2609167ef0324f99aeb3",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 680,
+			"versionNonce": 1149462594,
+			"isDeleted": true,
+			"id": "lKimX_Z-ckRSWNRXViD1u",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -135.2002986264954,
+			"y": -242.92485387449716,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 138.17837503076865,
+			"height": 72.15580941554498,
+			"seed": 1684521374,
+			"groupIds": [
+				"cpzoFPohY0C6IoG8Y-y0s"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708073461422,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "0d0823007c105eb6fc767f82403aaed6c179400d",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 1507,
+			"versionNonce": 1739272386,
+			"isDeleted": true,
+			"id": "dpVi32Laji3qdiVoVvSw6",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -241.67484689892092,
+			"y": -231.99197322980413,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 92.79413824228578,
+			"height": 46.39706912114289,
+			"seed": 444494366,
+			"groupIds": [
+				"YuuxfjKE_UMg83TJpIn1i",
+				"Xbd-bS0k19V7uV9J3TG7p"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708073460447,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "52747635af356f1843f95e224b3abbe9d3a681fd",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 721,
+			"versionNonce": 1263779778,
+			"isDeleted": true,
+			"id": "j7i46sZjJhjgBU_MYkFFf",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 36.85085501108995,
+			"y": -228.79091258884029,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 59.85384553337578,
+			"height": 41.897691873363044,
+			"seed": 369296030,
+			"groupIds": [
+				"2cVswkjykmK_R2q_23EgI"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708073462374,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "d134b028b3ef586a9a9c5aee1720208dc1590a30",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
