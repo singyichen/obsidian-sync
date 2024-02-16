@@ -55,8 +55,14 @@ Free 100 requests ^aexh5vst
 Supported Language ^PkvE8RMg
 
 • Python
-• high security
-• scalability   ^SzSLtiMx
+• Node.js
+• Go
+• Ruby
+• PHP
+• Java
+• Ruby
+• PHP
+• Java   ^SzSLtiMx
 
 
 # Embedded files
@@ -1511,8 +1517,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 515,
-			"versionNonce": 2144301022,
+			"version": 572,
+			"versionNonce": 391472734,
 			"isDeleted": false,
 			"id": "bUoefwBCDAR8krHgtfEbE",
 			"fillStyle": "solid",
@@ -1526,22 +1532,20 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"strokeColor": "#868e96",
 			"backgroundColor": "transparent",
 			"width": 128.06912030043657,
-			"height": 63.75,
+			"height": 160.9530669512855,
 			"seed": 1335491074,
-			"groupIds": [
-				"vvh5NtnIffvxVL_If3zgV"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075800522,
+			"updated": 1708075853739,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 367,
-			"versionNonce": 2113292830,
+			"version": 377,
+			"versionNonce": 939899394,
 			"isDeleted": false,
 			"id": "SzSLtiMx",
 			"fillStyle": "solid",
@@ -1554,28 +1558,26 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"y": 11.392005240592283,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 90.615234375,
-			"height": 37.140000000000015,
+			"width": 54.369140625,
+			"height": 111.42000000000004,
 			"seed": 336554434,
-			"groupIds": [
-				"vvh5NtnIffvxVL_If3zgV"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075839768,
+			"updated": 1708075897647,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
 			"fontFamily": 3,
-			"text": "• Python\n• high security\n• scalability  ",
-			"rawText": "• Python\n• high security\n• scalability  ",
+			"text": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Ruby\n• PHP\n• Java  ",
+			"rawText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Ruby\n• PHP\n• Java  ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• Python\n• high security\n• scalability  ",
+			"originalText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Ruby\n• PHP\n• Java  ",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 109
 		}
 	],
 	"appState": {
