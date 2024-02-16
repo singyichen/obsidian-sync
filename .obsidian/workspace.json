@@ -11,9 +11,11 @@
             "id": "7d0f43313b82de95",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
+                "file": "04.Archives/lottery-system/dev-tech.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md",
+                "file": "04.Archives/lottery-system/dev-tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md",
+                "file": "04.Archives/lottery-system/dev-tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
+                "file": "04.Archives/lottery-system/dev-tech.md"
               }
             }
           },
@@ -184,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,14 +212,14 @@
   },
   "active": "7d0f43313b82de95",
   "lastOpenFiles": [
-    "Excalidraw/backend-logo.md",
-    "software-testing.canvas",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
     "Excalidraw/paas-comparsion.md",
-    "Excalidraw/jwt.md",
-    "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
+    "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/jwt.md",
+    "Excalidraw/backend-logo.md",
+    "software-testing.canvas",
     "images/taiwan-flag.jpg",
     "Images/Pasted Image 20240216174857_947.jpg",
     "images/united-states-flag.jpg",
