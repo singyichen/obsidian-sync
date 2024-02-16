@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "未命名.canvas",
+                "file": "software-testing.canvas",
                 "viewState": {
-                  "x": -195,
-                  "y": -110,
+                  "x": -540,
+                  "y": -170,
                   "zoom": 0
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "software-testing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "software-testing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "software-testing.canvas"
               }
             }
           },
@@ -213,10 +213,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7d0f43313b82de95",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "software-testing.canvas",
     "Excalidraw/symmetricds-usage-user-case.md",
-    "未命名.canvas",
     "Excalidraw/PARA.md",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/backend-logo.md",
