@@ -106,10 +106,15 @@ High ^5SEIbJat
 
 Supported Database ^Hw8TEnyF
 
-• Python
-• Node.js
-• Go
-• Ruby ^as1JSlas
+• Cloud SQL
+• Cloud Spanner
+• Cloud Bigtable
+• Firestore ^as1JSlas
+
+• Cloud SQL
+• Cloud Spanner
+• Cloud Bigtable
+• Firestore ^wcmaSDFR
 
 
 # Embedded files
@@ -2250,8 +2255,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 672,
-			"versionNonce": 2025755294,
+			"version": 673,
+			"versionNonce": 345794114,
 			"isDeleted": false,
 			"id": "pLASxDZekgPtRvfAXelal",
 			"fillStyle": "solid",
@@ -2267,18 +2272,20 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"width": 128.06912030043657,
 			"height": 83.80777572010646,
 			"seed": 983518686,
-			"groupIds": [],
+			"groupIds": [
+				"l7X_3qCeNEFSscaeEyWbm"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708076330829,
+			"updated": 1708076377253,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 428,
-			"versionNonce": 825260318,
+			"version": 434,
+			"versionNonce": 1584764638,
 			"isDeleted": false,
 			"id": "as1JSlas",
 			"fillStyle": "solid",
@@ -2287,28 +2294,98 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -464.54968696799693,
-			"y": 261.3427488296122,
+			"x": -463.00678114337336,
+			"y": 259.79984300498865,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 54.369140625,
+			"width": 96.65625,
 			"height": 49.52000000000002,
 			"seed": 326492702,
-			"groupIds": [],
+			"groupIds": [
+				"l7X_3qCeNEFSscaeEyWbm"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708076327787,
+			"updated": 1708076377253,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
 			"fontFamily": 3,
-			"text": "• Python\n• Node.js\n• Go\n• Ruby",
-			"rawText": "• Python\n• Node.js\n• Go\n• Ruby",
+			"text": "• Cloud SQL\n• Cloud Spanner\n• Cloud Bigtable\n• Firestore",
+			"rawText": "• Cloud SQL\n• Cloud Spanner\n• Cloud Bigtable\n• Firestore",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• Python\n• Node.js\n• Go\n• Ruby",
+			"originalText": "• Cloud SQL\n• Cloud Spanner\n• Cloud Bigtable\n• Firestore",
+			"lineHeight": 1.2,
+			"baseline": 47
+		},
+		{
+			"type": "rectangle",
+			"version": 710,
+			"versionNonce": 1588572318,
+			"isDeleted": false,
+			"id": "keLseVeYgPD_ihUJZ6JKa",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -327.26191125284583,
+			"y": 250.4406546542358,
+			"strokeColor": "#868e96",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 83.80777572010646,
+			"seed": 1245305794,
+			"groupIds": [
+				"E057oAhVn3Zabivy-yHxw"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708076382775,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 471,
+			"versionNonce": 82570462,
+			"isDeleted": false,
+			"id": "wcmaSDFR",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -319.51653945338046,
+			"y": 259.7998430049886,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 96.65625,
+			"height": 49.52000000000002,
+			"seed": 2077037442,
+			"groupIds": [
+				"E057oAhVn3Zabivy-yHxw"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708076382775,
+			"link": null,
+			"locked": false,
+			"fontSize": 10.31666666666667,
+			"fontFamily": 3,
+			"text": "• Cloud SQL\n• Cloud Spanner\n• Cloud Bigtable\n• Firestore",
+			"rawText": "• Cloud SQL\n• Cloud Spanner\n• Cloud Bigtable\n• Firestore",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• Cloud SQL\n• Cloud Spanner\n• Cloud Bigtable\n• Firestore",
 			"lineHeight": 1.2,
 			"baseline": 47
 		}
