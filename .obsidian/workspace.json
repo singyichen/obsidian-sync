@@ -15,8 +15,8 @@
               "state": {
                 "file": "software-testing.canvas",
                 "viewState": {
-                  "x": -540,
-                  "y": -170,
+                  "x": -900,
+                  "y": -310,
                   "zoom": 0
                 }
               }
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {

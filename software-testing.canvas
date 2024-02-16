@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"b85bcd06bc08a3a4","x":-665,"y":-200,"width":250,"height":60,"type":"text","text":""},
-		{"id":"5a5fca642c1f5fa2","type":"text","text":"Software Testing","x":-980,"y":-240,"width":200,"height":60,"color":"5"}
+		{"id":"5a5fca642c1f5fa2","type":"text","text":"Software Testing","x":-1260,"y":-400,"width":200,"height":60,"color":"6"},
+		{"id":"b85bcd06bc08a3a4","x":-920,"y":-520,"width":250,"height":60,"color":"6","type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left","color":"6"}
+	]
 }
