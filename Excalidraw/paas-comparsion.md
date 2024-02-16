@@ -126,6 +126,8 @@ Supported Database ^Hw8TEnyF
 • Redis
 • MongoDB ^t4Ble93v
 
+Development Team Country ^GARcBXWd
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -2534,6 +2536,75 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"originalText": "• PostgreSQL\n• MySQL\n• Redis\n• MongoDB",
 			"lineHeight": 1.2,
 			"baseline": 47
+		},
+		{
+			"type": "rectangle",
+			"version": 566,
+			"versionNonce": 2100585922,
+			"isDeleted": false,
+			"id": "hvhoJMVZ8KtEaesRsKbkf",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -595.6099596850904,
+			"y": 351.6763269394453,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "#f08c00",
+			"width": 109.31912030043657,
+			"height": 85,
+			"seed": 1177394078,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "GARcBXWd"
+				}
+			],
+			"updated": 1708076598640,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 474,
+			"versionNonce": 1278578242,
+			"isDeleted": false,
+			"id": "GARcBXWd",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -589.8203488756924,
+			"y": 356.6763269394453,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#1971c2",
+			"width": 97.73989868164062,
+			"height": 75,
+			"seed": 997488606,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708076598209,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Developme\nnt Team\nCountry",
+			"rawText": "Development Team Country",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "hvhoJMVZ8KtEaesRsKbkf",
+			"originalText": "Development Team Country",
+			"lineHeight": 1.25,
+			"baseline": 68
 		}
 	],
 	"appState": {
@@ -2552,7 +2623,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 705.6555963134391,
-		"scrollY": 333.68949582672855,
+		"scrollY": 256.54420459554956,
 		"zoom": {
 			"value": 1.296255395553994
 		},
