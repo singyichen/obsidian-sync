@@ -121,6 +121,11 @@ Supported Database ^Hw8TEnyF
 • Redis
 • MongoDB ^prDNP6oV
 
+• PostgreSQL
+• MySQL
+• Redis
+• MongoDB ^t4Ble93v
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -2449,6 +2454,74 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1708076443312,
+			"link": null,
+			"locked": false,
+			"fontSize": 10.31666666666667,
+			"fontFamily": 3,
+			"text": "• PostgreSQL\n• MySQL\n• Redis\n• MongoDB",
+			"rawText": "• PostgreSQL\n• MySQL\n• Redis\n• MongoDB",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• PostgreSQL\n• MySQL\n• Redis\n• MongoDB",
+			"lineHeight": 1.2,
+			"baseline": 47
+		},
+		{
+			"type": "rectangle",
+			"version": 755,
+			"versionNonce": 802637342,
+			"isDeleted": false,
+			"id": "8tYOQj2YZvQ_3swJK2y8A",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -44.910145346730644,
+			"y": 250.21210756654756,
+			"strokeColor": "#868e96",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 83.80777572010646,
+			"seed": 1549762654,
+			"groupIds": [
+				"8CeslWHdLyjM4kGOOdK6I"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708076511059,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 520,
+			"versionNonce": 1199886942,
+			"isDeleted": false,
+			"id": "t4Ble93v",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -37.16477354726527,
+			"y": 259.57129591730035,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 72.4921875,
+			"height": 49.52000000000002,
+			"seed": 596362398,
+			"groupIds": [
+				"8CeslWHdLyjM4kGOOdK6I"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708076511059,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
