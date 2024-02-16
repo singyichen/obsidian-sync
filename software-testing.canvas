@@ -3,13 +3,14 @@
 		{"id":"b85bcd06bc08a3a4","type":"text","text":"Manual Testing","x":-1080,"y":-640,"width":220,"height":60,"color":"6"},
 		{"id":"5a5fca642c1f5fa2","type":"text","text":"Software Testing","x":-1420,"y":-540,"width":200,"height":60,"color":"6"},
 		{"id":"64a1dacf5762ed5c","type":"text","text":"Automation Testing","x":-1080,"y":-440,"width":220,"height":60,"color":"6"},
-		{"id":"cbb5cbda1bf05447","type":"text","text":"White Box","x":-780,"y":-740,"width":250,"height":60},
-		{"id":"39ca31bcd45e31cc","type":"text","text":"Black Box","x":-780,"y":-640,"width":250,"height":60},
-		{"id":"60d974e9b30a1a88","type":"text","text":"Grey Box","x":-780,"y":-540,"width":250,"height":60},
-		{"id":"155b08cf7570a022","type":"text","text":"Functional Testing","x":-440,"y":-700,"width":250,"height":60},
-		{"id":"fe7c64ee4fcb907f","type":"text","text":"Non-Functional Testing","x":-440,"y":-580,"width":250,"height":60},
-		{"id":"e3beceecbcdfa55c","type":"text","text":"Integration Testing","x":-140,"y":-770,"width":250,"height":60},
-		{"id":"0c09e389f44025f1","type":"text","text":"Integration Testing","x":-140,"y":-670,"width":250,"height":60}
+		{"id":"cbb5cbda1bf05447","type":"text","text":"White Box","x":-780,"y":-740,"width":250,"height":60,"color":"6"},
+		{"id":"39ca31bcd45e31cc","type":"text","text":"Black Box","x":-780,"y":-640,"width":250,"height":60,"color":"6"},
+		{"id":"60d974e9b30a1a88","type":"text","text":"Grey Box","x":-780,"y":-540,"width":250,"height":60,"color":"6"},
+		{"id":"155b08cf7570a022","type":"text","text":"Functional Testing","x":-440,"y":-700,"width":250,"height":60,"color":"6"},
+		{"id":"fe7c64ee4fcb907f","type":"text","text":"Non-Functional Testing","x":-440,"y":-580,"width":250,"height":60,"color":"6"},
+		{"id":"e3beceecbcdfa55c","type":"text","text":"Integration Testing","x":-100,"y":-770,"width":250,"height":60},
+		{"id":"0c09e389f44025f1","type":"text","text":"System Testing","x":-100,"y":-640,"width":250,"height":60},
+		{"id":"20217c421dc62d3a","type":"text","text":"Integration Testing","x":-780,"y":-740,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left"},
@@ -18,6 +19,8 @@
 		{"id":"e48e369e3f8f9507","fromNode":"b85bcd06bc08a3a4","fromSide":"right","toNode":"39ca31bcd45e31cc","toSide":"left"},
 		{"id":"a06e7cad8f9abc3a","fromNode":"b85bcd06bc08a3a4","fromSide":"right","toNode":"60d974e9b30a1a88","toSide":"left"},
 		{"id":"18907ecc67e82bf0","fromNode":"39ca31bcd45e31cc","fromSide":"right","toNode":"155b08cf7570a022","toSide":"left"},
-		{"id":"8d5310076a8c3c32","fromNode":"39ca31bcd45e31cc","fromSide":"right","toNode":"fe7c64ee4fcb907f","toSide":"left"}
+		{"id":"8d5310076a8c3c32","fromNode":"39ca31bcd45e31cc","fromSide":"right","toNode":"fe7c64ee4fcb907f","toSide":"left"},
+		{"id":"72f22f8ce7745f56","fromNode":"155b08cf7570a022","fromSide":"right","toNode":"e3beceecbcdfa55c","toSide":"left"},
+		{"id":"e9abbd47834f1ec0","fromNode":"155b08cf7570a022","fromSide":"right","toNode":"0c09e389f44025f1","toSide":"left"}
 	]
 }
