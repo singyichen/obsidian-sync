@@ -12,7 +12,7 @@ PaaS ^bck0me2n
 
 Features ^wZeX0yja
 
-Global scale ^iy1YAExW
+• Global scale ^iy1YAExW
 
 
 # Embedded files
@@ -440,8 +440,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 316,
-			"versionNonce": 2124290370,
+			"version": 378,
+			"versionNonce": 2089118082,
 			"isDeleted": false,
 			"id": "mUrYuU6dU0rDow6Mjs6eP",
 			"fillStyle": "solid",
@@ -451,10 +451,10 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"opacity": 100,
 			"angle": 0,
 			"x": -470.6916566156931,
-			"y": -234.15808622813688,
+			"y": -232.90808622813688,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 126.81912030043657,
+			"width": 128.06912030043657,
 			"height": 63.75,
 			"seed": 706940318,
 			"groupIds": [],
@@ -466,14 +466,14 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 					"id": "iy1YAExW"
 				}
 			],
-			"updated": 1708074557564,
+			"updated": 1708074603891,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 217,
-			"versionNonce": 798756866,
+			"version": 321,
+			"versionNonce": 14739778,
 			"isDeleted": false,
 			"id": "iy1YAExW",
 			"fillStyle": "solid",
@@ -482,30 +482,30 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -455.81006582582637,
-			"y": -212.28308622813688,
+			"x": -444.1570964654748,
+			"y": -220.23308622813687,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1971c2",
-			"width": 97.05593872070312,
-			"height": 20,
+			"width": 75,
+			"height": 38.4,
 			"seed": 602647006,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708074564875,
+			"updated": 1708074603891,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
-			"fontFamily": 1,
-			"text": "Global scale",
-			"rawText": "Global scale",
+			"fontFamily": 3,
+			"text": "• Global\nscale",
+			"rawText": "• Global scale",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "mUrYuU6dU0rDow6Mjs6eP",
-			"originalText": "Global scale",
-			"lineHeight": 1.25,
-			"baseline": 14
+			"originalText": "• Global scale",
+			"lineHeight": 1.2,
+			"baseline": 34
 		}
 	],
 	"appState": {
@@ -518,7 +518,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
+		"currentItemFontFamily": 3,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
