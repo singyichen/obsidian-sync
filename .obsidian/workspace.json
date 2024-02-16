@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd85837134b20557",
+        "id": "98125ddad68013fa",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6f3e0fdaa5c35c",
+            "id": "7d0f43313b82de95",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -208,13 +208,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3c6f3e0fdaa5c35c",
+  "active": "7d0f43313b82de95",
   "lastOpenFiles": [
-    "images/postman-logo.png",
+    "Excalidraw/symmetricds-usage-user-case.md",
+    "images/united-states-flag.jpg",
+    "Images/Pasted Image 20240216174608_190.jpg",
     "Excalidraw/paas-comparsion.md",
+    "images/postman-logo.png",
     "Excalidraw/jwt.md",
     "Excalidraw/lottery-system-tech.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/PARA.md",
     "Excalidraw/node-web-framework.md",
     "images/bootstrap-logo.png",
@@ -224,11 +226,8 @@
     "Images/Pasted Image 20240216165518_961.png",
     "images/render-logo.png",
     "Images/Pasted Image 20240216165254_386.png",
-    "images/zeabur-logo.png",
-    "Images/Pasted Image 20240216165121_576.png",
     "Excalidraw/backend-logo.md",
     "02.Areas/Test/Test.md",
-    "Images/hapi-logo.png",
     "02.Areas/Framework/backend/comparison.md",
     "skill-tree.md",
     "Templates/icon-template.md",
