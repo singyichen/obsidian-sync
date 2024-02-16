@@ -24,6 +24,10 @@ Features ^wZeX0yja
 • secure
 • reliable   ^qzlmBDXk
 
+• fast
+• secure
+• reliable   ^A6bWys7g
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -627,6 +631,70 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1708074949409,
+			"link": null,
+			"locked": false,
+			"fontSize": 9.96944444444446,
+			"fontFamily": 3,
+			"text": "• fast\n• secure\n• reliable  ",
+			"rawText": "• fast\n• secure\n• reliable  ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• fast\n• secure\n• reliable  ",
+			"lineHeight": 1.2,
+			"baseline": 33
+		},
+		{
+			"type": "rectangle",
+			"version": 610,
+			"versionNonce": 782291806,
+			"isDeleted": false,
+			"id": "dWn2P95QXRTusp_urkGrn",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -47.56665661569315,
+			"y": -243.53308622813688,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 63.75,
+			"seed": 578244190,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075024977,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 656,
+			"versionNonce": 570920066,
+			"isDeleted": false,
+			"id": "A6bWys7g",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -43.952018340475036,
+			"y": -232.33808622813683,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 70.03125,
+			"height": 35.89000000000005,
+			"seed": 830067358,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075015000,
 			"link": null,
 			"locked": false,
 			"fontSize": 9.96944444444446,
