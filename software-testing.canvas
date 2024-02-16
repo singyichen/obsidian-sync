@@ -8,10 +8,10 @@
 		{"id":"60d974e9b30a1a88","type":"text","text":"Grey Box","x":-780,"y":-540,"width":250,"height":60,"color":"6"},
 		{"id":"155b08cf7570a022","type":"text","text":"Functional Testing","x":-440,"y":-700,"width":250,"height":60,"color":"6"},
 		{"id":"fe7c64ee4fcb907f","type":"text","text":"Non-Functional Testing","x":-440,"y":-580,"width":250,"height":60,"color":"6"},
-		{"id":"e3beceecbcdfa55c","type":"text","text":"Integration Testing","x":-100,"y":-770,"width":250,"height":60},
-		{"id":"0c09e389f44025f1","type":"text","text":"System Testing","x":-100,"y":-640,"width":250,"height":60},
-		{"id":"20217c421dc62d3a","type":"text","text":"Increm Testing","x":260,"y":-830,"width":250,"height":60,"color":"6"},
-		{"id":"c7416e50984772a7","type":"text","text":"Integration Testing","x":260,"y":-710,"width":250,"height":60}
+		{"id":"e3beceecbcdfa55c","type":"text","text":"Integration Testing","x":-100,"y":-830,"width":250,"height":60,"color":"6"},
+		{"id":"20217c421dc62d3a","type":"text","text":"Incremental Testing","x":260,"y":-890,"width":250,"height":60,"color":"6"},
+		{"id":"c7416e50984772a7","type":"text","text":"Non-Incremental Testing","x":260,"y":-785,"width":250,"height":60},
+		{"id":"0c09e389f44025f1","type":"text","text":"System Testing","x":-100,"y":-695,"width":250,"height":50,"color":"6"}
 	],
 	"edges":[
 		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left"},
@@ -22,6 +22,8 @@
 		{"id":"18907ecc67e82bf0","fromNode":"39ca31bcd45e31cc","fromSide":"right","toNode":"155b08cf7570a022","toSide":"left"},
 		{"id":"8d5310076a8c3c32","fromNode":"39ca31bcd45e31cc","fromSide":"right","toNode":"fe7c64ee4fcb907f","toSide":"left"},
 		{"id":"72f22f8ce7745f56","fromNode":"155b08cf7570a022","fromSide":"right","toNode":"e3beceecbcdfa55c","toSide":"left"},
-		{"id":"e9abbd47834f1ec0","fromNode":"155b08cf7570a022","fromSide":"right","toNode":"0c09e389f44025f1","toSide":"left"}
+		{"id":"e9abbd47834f1ec0","fromNode":"155b08cf7570a022","fromSide":"right","toNode":"0c09e389f44025f1","toSide":"left"},
+		{"id":"d18b7d24968f0812","fromNode":"e3beceecbcdfa55c","fromSide":"right","toNode":"20217c421dc62d3a","toSide":"left","color":"6"},
+		{"id":"0ba9215270c0f266","fromNode":"e3beceecbcdfa55c","fromSide":"right","toNode":"c7416e50984772a7","toSide":"left","color":"6"}
 	]
 }
