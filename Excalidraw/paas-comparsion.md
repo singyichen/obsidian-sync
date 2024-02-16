@@ -2879,10 +2879,10 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 600.5480474798333,
-		"scrollY": 33.94087386652603,
+		"scrollX": 684.3692940791196,
+		"scrollY": 448.6274343296397,
 		"zoom": {
-			"value": 1.2208682431554627
+			"value": 0.9990902649735022
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
