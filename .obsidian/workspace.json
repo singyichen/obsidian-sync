@@ -11,9 +11,14 @@
             "id": "7d0f43313b82de95",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/paas-comparsion.md"
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -83,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/paas-comparsion.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/paas-comparsion.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/paas-comparsion.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -210,13 +215,14 @@
   },
   "active": "7d0f43313b82de95",
   "lastOpenFiles": [
-    "Excalidraw/backend-logo.md",
-    "Excalidraw/paas-comparsion.md",
     "Excalidraw/symmetricds-usage-user-case.md",
+    "未命名.canvas",
+    "Excalidraw/PARA.md",
+    "Excalidraw/paas-comparsion.md",
+    "Excalidraw/backend-logo.md",
     "Excalidraw/jwt.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
-    "Excalidraw/PARA.md",
     "images/taiwan-flag.jpg",
     "Images/Pasted Image 20240216174857_947.jpg",
     "images/united-states-flag.jpg",
@@ -244,7 +250,6 @@
     "02.Areas/Test/UnitTest",
     "02.Areas/Test",
     "software.md",
-    "未命名.canvas",
     "README.md",
     "mind map.md",
     "Templates/meeting-template.md",
