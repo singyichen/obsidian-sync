@@ -8,7 +8,7 @@ tags: [excalidraw]
 
 
 # Text Elements
-🇹🇼 Mandy Backend ^95fzy6WK
+❤️ Mandy Backend ^95fzy6WK
 
 %%
 # Drawing
@@ -20,8 +20,8 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 533,
-			"versionNonce": 1359247042,
+			"version": 535,
+			"versionNonce": 1413761410,
 			"isDeleted": false,
 			"id": "eKreVfasBPTSsORkP4yJR",
 			"fillStyle": "solid",
@@ -48,14 +48,14 @@ tags: [excalidraw]
 					"id": "95fzy6WK"
 				}
 			],
-			"updated": 1708077624047,
+			"updated": 1708077766664,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 564,
-			"versionNonce": 613174914,
+			"version": 567,
+			"versionNonce": 1036241218,
 			"isDeleted": false,
 			"id": "95fzy6WK",
 			"fillStyle": "solid",
@@ -64,28 +64,28 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 48.99176249468928,
+			"x": 46.58941874468928,
 			"y": -395.81779542598343,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a18072",
-			"width": 186.71875,
+			"width": 191.5234375,
 			"height": 24,
 			"seed": 448953884,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708077624047,
+			"updated": 1708077766664,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "🇹🇼 Mandy Backend",
-			"rawText": "🇹🇼 Mandy Backend",
+			"text": "❤️ Mandy Backend",
+			"rawText": "❤️ Mandy Backend",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "eKreVfasBPTSsORkP4yJR",
-			"originalText": "🇹🇼 Mandy Backend",
+			"originalText": "❤️ Mandy Backend",
 			"lineHeight": 1.2,
 			"baseline": 19
 		}
