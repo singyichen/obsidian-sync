@@ -20,9 +20,9 @@ Features ^wZeX0yja
 • multiple frameworks
 • auto-scales   ^TB94al2f
 
-• easy to use
-• multiple frameworks
-• auto-scales   ^qzlmBDXk
+• fast
+• secure
+• reliable   ^qzlmBDXk
 
 
 # Embedded files
@@ -605,8 +605,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "text",
-			"version": 585,
-			"versionNonce": 1613544478,
+			"version": 590,
+			"versionNonce": 82218910,
 			"isDeleted": false,
 			"id": "qzlmBDXk",
 			"fillStyle": "solid",
@@ -619,24 +619,24 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"y": -232.33808622813683,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 122.5546875,
+			"width": 70.03125,
 			"height": 35.89000000000005,
 			"seed": 1492117826,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708074918976,
+			"updated": 1708074949409,
 			"link": null,
 			"locked": false,
 			"fontSize": 9.96944444444446,
 			"fontFamily": 3,
-			"text": "• easy to use\n• multiple frameworks\n• auto-scales  ",
-			"rawText": "• easy to use\n• multiple frameworks\n• auto-scales  ",
+			"text": "• fast\n• secure\n• reliable  ",
+			"rawText": "• fast\n• secure\n• reliable  ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• easy to use\n• multiple frameworks\n• auto-scales  ",
+			"originalText": "• fast\n• secure\n• reliable  ",
 			"lineHeight": 1.2,
 			"baseline": 33
 		}
