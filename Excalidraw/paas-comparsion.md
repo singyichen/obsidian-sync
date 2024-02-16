@@ -40,7 +40,11 @@ Free 100 requests ^aexh5vst
 
  Project Size ^iqSPyqeP
 
-Free 2 million requests ^iVxbyZHS
+Small,medium, large ^iVxbyZHS
+
+• small
+• high security
+• scalability   ^9BBcSuvj
 
 
 # Embedded files
@@ -1085,8 +1089,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 386,
-			"versionNonce": 825282946,
+			"version": 400,
+			"versionNonce": 1009891358,
 			"isDeleted": false,
 			"id": "6fYkqLm-ENjgdbaYWFO8k",
 			"fillStyle": "solid",
@@ -1100,7 +1104,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"strokeColor": "#099268",
 			"backgroundColor": "#099268",
 			"width": 109.31912030043657,
-			"height": 85,
+			"height": 68.02803592914057,
 			"seed": 1919713438,
 			"groupIds": [],
 			"frameId": null,
@@ -1111,14 +1115,14 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 					"id": "iqSPyqeP"
 				}
 			],
-			"updated": 1708075472966,
+			"updated": 1708075479239,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 291,
-			"versionNonce": 1753677022,
+			"version": 305,
+			"versionNonce": 62981214,
 			"isDeleted": false,
 			"id": "iqSPyqeP",
 			"fillStyle": "solid",
@@ -1128,7 +1132,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"opacity": 100,
 			"angle": 0,
 			"x": -572.1916466606106,
-			"y": -66.66936317985665,
+			"y": -75.15534521528636,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#1971c2",
 			"width": 71.73992919921875,
@@ -1138,7 +1142,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075475456,
+			"updated": 1708075479239,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1186,8 +1190,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "text",
-			"version": 71,
-			"versionNonce": 891694622,
+			"version": 78,
+			"versionNonce": 1740160286,
 			"isDeleted": false,
 			"id": "iVxbyZHS",
 			"fillStyle": "solid",
@@ -1196,30 +1200,98 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -444.21759279262045,
-			"y": -76.6661918152103,
+			"x": -462.96759279262045,
+			"y": -67.0661918152103,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#0c8599",
-			"width": 75,
-			"height": 57.599999999999994,
+			"width": 112.5,
+			"height": 38.4,
 			"seed": 861288514,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075458332,
+			"updated": 1708075504185,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "Free 2\nmillion\nrequests",
-			"rawText": "Free 2 million requests",
+			"text": "Small,medium\n, large",
+			"rawText": "Small,medium, large",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "5UeZMUPrZno1uuBCcUDz2",
-			"originalText": "Free 2 million requests",
+			"originalText": "Small,medium, large",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 34
+		},
+		{
+			"type": "rectangle",
+			"version": 442,
+			"versionNonce": 1605430238,
+			"isDeleted": false,
+			"id": "XugAHAh7et2dpM45-LAkO",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -350.4054986221995,
+			"y": 20.547686785322412,
+			"strokeColor": "#868e96",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 63.75,
+			"seed": 1717584194,
+			"groupIds": [
+				"IDf06Px6x1iMBIUv7tRCN"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075522358,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 293,
+			"versionNonce": 391621762,
+			"isDeleted": false,
+			"id": "9BBcSuvj",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -344.2030326473577,
+			"y": 32.992686785322434,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 90.615234375,
+			"height": 37.140000000000015,
+			"seed": 1628096770,
+			"groupIds": [
+				"IDf06Px6x1iMBIUv7tRCN"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075532047,
+			"link": null,
+			"locked": false,
+			"fontSize": 10.31666666666667,
+			"fontFamily": 3,
+			"text": "• small\n• high security\n• scalability  ",
+			"rawText": "• small\n• high security\n• scalability  ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• small\n• high security\n• scalability  ",
+			"lineHeight": 1.2,
+			"baseline": 35
 		}
 	],
 	"appState": {
