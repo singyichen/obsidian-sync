@@ -65,6 +65,35 @@ Supported Language ^PkvE8RMg
 • C++
 • Dart   ^SzSLtiMx
 
+• Python
+• Node.js
+• Go
+• Ruby
+• PHP
+• Java
+• Rust
+• C
+• C++
+• Dart   ^hUYGjKBy
+
+• Python
+• Node.js
+• Go
+• Ruby
+• PHP
+• Java
+• Rust
+• C
+• C++
+• Dart   ^eLGWl2dR
+
+• Python
+• Node.js
+• Go
+• Ruby
+• PHP
+• Java  ^tSmkWXNW
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -1449,8 +1478,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 553,
-			"versionNonce": 257583198,
+			"version": 587,
+			"versionNonce": 955388126,
 			"isDeleted": false,
 			"id": "2-pRdH58NqPLxRXhlPrqp",
 			"fillStyle": "solid",
@@ -1461,10 +1490,10 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"angle": 0,
 			"x": -590.9812422112198,
 			"y": -0.1062010747308193,
-			"strokeColor": "#6741d9",
-			"backgroundColor": "#6741d9",
+			"strokeColor": "#e8590c",
+			"backgroundColor": "#e8590c",
 			"width": 109.31912030043657,
-			"height": 199.17503102214494,
+			"height": 146.7162329849433,
 			"seed": 77362498,
 			"groupIds": [],
 			"frameId": null,
@@ -1475,14 +1504,14 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 					"id": "PkvE8RMg"
 				}
 			],
-			"updated": 1708075710385,
+			"updated": 1708076021287,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 459,
-			"versionNonce": 1753032066,
+			"version": 491,
+			"versionNonce": 1722420382,
 			"isDeleted": false,
 			"id": "PkvE8RMg",
 			"fillStyle": "solid",
@@ -1492,7 +1521,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"opacity": 100,
 			"angle": 0,
 			"x": -584.5916252983061,
-			"y": 74.48131443634165,
+			"y": 48.25191541774083,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#1971c2",
 			"width": 96.53988647460938,
@@ -1502,7 +1531,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075701110,
+			"updated": 1708075977347,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1518,8 +1547,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 591,
-			"versionNonce": 1726331294,
+			"version": 592,
+			"versionNonce": 29220098,
 			"isDeleted": false,
 			"id": "bUoefwBCDAR8krHgtfEbE",
 			"fillStyle": "solid",
@@ -1535,18 +1564,20 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"width": 128.06912030043657,
 			"height": 145.52400870504965,
 			"seed": 1335491074,
-			"groupIds": [],
+			"groupIds": [
+				"1qi7_jva-inPKqCZSmTkD"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075969764,
+			"updated": 1708075973896,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 383,
-			"versionNonce": 831940034,
+			"version": 384,
+			"versionNonce": 1734077470,
 			"isDeleted": false,
 			"id": "SzSLtiMx",
 			"fillStyle": "solid",
@@ -1562,11 +1593,13 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"width": 54.369140625,
 			"height": 123.80000000000004,
 			"seed": 336554434,
-			"groupIds": [],
+			"groupIds": [
+				"1qi7_jva-inPKqCZSmTkD"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075959498,
+			"updated": 1708075973896,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
@@ -1579,13 +1612,217 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"originalText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
 			"lineHeight": 1.2,
 			"baseline": 121
+		},
+		{
+			"type": "rectangle",
+			"version": 627,
+			"versionNonce": 1309560706,
+			"isDeleted": false,
+			"id": "bn77tty9qWU7k8v47ASA0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -327.2619112528457,
+			"y": 1.2613639775276795,
+			"strokeColor": "#868e96",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 145.52400870504965,
+			"seed": 124026654,
+			"groupIds": [
+				"0rjfq0nBwY8zxwdmRlicg"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075984653,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 419,
+			"versionNonce": 1012731714,
+			"isDeleted": false,
+			"id": "hUYGjKBy",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -321.059445278004,
+			"y": 12.163458152904127,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 54.369140625,
+			"height": 123.80000000000004,
+			"seed": 184740702,
+			"groupIds": [
+				"0rjfq0nBwY8zxwdmRlicg"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075984653,
+			"link": null,
+			"locked": false,
+			"fontSize": 10.31666666666667,
+			"fontFamily": 3,
+			"text": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
+			"rawText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
+			"lineHeight": 1.2,
+			"baseline": 121
+		},
+		{
+			"type": "rectangle",
+			"version": 650,
+			"versionNonce": 316767326,
+			"isDeleted": false,
+			"id": "XhIq_hKfHjCkv2M3vUvfw",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -186.85748121210008,
+			"y": 1.2613639775276795,
+			"strokeColor": "#868e96",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 145.52400870504965,
+			"seed": 1053916802,
+			"groupIds": [
+				"iEGR3SrapUYDwvYib_bs5"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075992049,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 442,
+			"versionNonce": 812531870,
+			"isDeleted": false,
+			"id": "eLGWl2dR",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -180.65501523725823,
+			"y": 12.163458152904127,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 54.369140625,
+			"height": 123.80000000000004,
+			"seed": 719478338,
+			"groupIds": [
+				"iEGR3SrapUYDwvYib_bs5"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075992049,
+			"link": null,
+			"locked": false,
+			"fontSize": 10.31666666666667,
+			"fontFamily": 3,
+			"text": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
+			"rawText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
+			"lineHeight": 1.2,
+			"baseline": 121
+		},
+		{
+			"type": "rectangle",
+			"version": 618,
+			"versionNonce": 1729531102,
+			"isDeleted": false,
+			"id": "M-gPCxhVI_n3sOsTLZal8",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -46.45305117135422,
+			"y": 1.2613639775276795,
+			"strokeColor": "#868e96",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 145.52400870504965,
+			"seed": 1270294018,
+			"groupIds": [
+				"KybtzHAXA8hcGt45H2tWr"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708076000806,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 411,
+			"versionNonce": 426430046,
+			"isDeleted": false,
+			"id": "tSmkWXNW",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -40.25058519651236,
+			"y": 12.163458152904127,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 54.369140625,
+			"height": 74.28000000000003,
+			"seed": 1806112194,
+			"groupIds": [
+				"KybtzHAXA8hcGt45H2tWr"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708076009424,
+			"link": null,
+			"locked": false,
+			"fontSize": 10.31666666666667,
+			"fontFamily": 3,
+			"text": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java ",
+			"rawText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java ",
+			"lineHeight": 1.2,
+			"baseline": 72
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#6741d9",
-		"currentItemBackgroundColor": "#6741d9",
+		"currentItemStrokeColor": "#e8590c",
+		"currentItemBackgroundColor": "#e8590c",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
