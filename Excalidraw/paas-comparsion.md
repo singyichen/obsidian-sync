@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+JWT Auth Flow ^bck0me2n
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -285,13 +287,117 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 				1,
 				1
 			]
+		},
+		{
+			"type": "rectangle",
+			"version": 90,
+			"versionNonce": 1528943518,
+			"isDeleted": false,
+			"id": "H7s_gaO4Ej8hv3luQyl0w",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -592.4430232555497,
+			"y": -239.46904932822775,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#1971c2",
+			"width": 109.31912030043657,
+			"height": 78.2625520332671,
+			"seed": 454473950,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708073990505,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 562,
+			"versionNonce": 1522530718,
+			"isDeleted": false,
+			"id": "4bJrl-1IW_kHhUmUoav6T",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -339.31112443741154,
+			"y": -414.7830862281369,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#a18072",
+			"width": 292.8080559438732,
+			"height": 55,
+			"seed": 1097543042,
+			"groupIds": [
+				"-NMGXsDIVxL7U5xgWcWGU",
+				"xMCQf2eEDwPIDljIWV4m5"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "bck0me2n"
+				}
+			],
+			"updated": 1708074011714,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 495,
+			"versionNonce": 168498654,
+			"isDeleted": false,
+			"id": "bck0me2n",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -327.3130718072718,
+			"y": -409.7830862281369,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 268.81195068359375,
+			"height": 45,
+			"seed": 745418050,
+			"groupIds": [
+				"-NMGXsDIVxL7U5xgWcWGU",
+				"xMCQf2eEDwPIDljIWV4m5"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708074011714,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "JWT Auth Flow",
+			"rawText": "JWT Auth Flow",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "4bJrl-1IW_kHhUmUoav6T",
+			"originalText": "JWT Auth Flow",
+			"lineHeight": 1.25,
+			"baseline": 32
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemStrokeColor": "#1971c2",
+		"currentItemBackgroundColor": "#1971c2",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -302,12 +408,12 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 606.418478975776,
-		"scrollY": 362.1424939835472,
+		"scrollX": 616.9695964654749,
+		"scrollY": 546.9705862281369,
 		"zoom": {
-			"value": 1.609965388637482
+			"value": 1.6
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
