@@ -18,7 +18,8 @@
 		{"id":"bd52299c681b2a5b","type":"text","text":"Load Testing","x":260,"y":-580,"width":250,"height":60,"color":"6"},
 		{"id":"4b2a6eb5f308447f","type":"text","text":"Stress Testing","x":260,"y":-510,"width":250,"height":60,"color":"6"},
 		{"id":"77d2b833a657b871","type":"text","text":"Scalability Testing","x":260,"y":-440,"width":250,"height":60,"color":"6"},
-		{"id":"1cecdef389403dc9","type":"text","text":"Stability Testing","x":260,"y":-360,"width":250,"height":60,"color":"6"}
+		{"id":"1cecdef389403dc9","type":"text","text":"Stability Testing","x":260,"y":-360,"width":250,"height":60,"color":"6"},
+		{"id":"a80839e17c61a414","type":"text","text":"Non-Incremental Testing","x":560,"y":-950,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left"},
