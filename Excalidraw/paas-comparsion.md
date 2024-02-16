@@ -54,6 +54,10 @@ Free 100 requests ^aexh5vst
 
 Supported Language ^PkvE8RMg
 
+• Python
+• high security
+• scalability   ^SzSLtiMx
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -1504,6 +1508,74 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"originalText": "Supported Language",
 			"lineHeight": 1.25,
 			"baseline": 43
+		},
+		{
+			"type": "rectangle",
+			"version": 515,
+			"versionNonce": 2144301022,
+			"isDeleted": false,
+			"id": "bUoefwBCDAR8krHgtfEbE",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -470.75215294283873,
+			"y": 0.4899110652158356,
+			"strokeColor": "#868e96",
+			"backgroundColor": "transparent",
+			"width": 128.06912030043657,
+			"height": 63.75,
+			"seed": 1335491074,
+			"groupIds": [
+				"vvh5NtnIffvxVL_If3zgV"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075800522,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 367,
+			"versionNonce": 2113292830,
+			"isDeleted": false,
+			"id": "SzSLtiMx",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -464.54968696799693,
+			"y": 11.392005240592283,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 90.615234375,
+			"height": 37.140000000000015,
+			"seed": 336554434,
+			"groupIds": [
+				"vvh5NtnIffvxVL_If3zgV"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708075839768,
+			"link": null,
+			"locked": false,
+			"fontSize": 10.31666666666667,
+			"fontFamily": 3,
+			"text": "• Python\n• high security\n• scalability  ",
+			"rawText": "• Python\n• high security\n• scalability  ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• Python\n• high security\n• scalability  ",
+			"lineHeight": 1.2,
+			"baseline": 35
 		}
 	],
 	"appState": {
@@ -1522,7 +1594,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 705.6555963134391,
-		"scrollY": 487.9800782890865,
+		"scrollY": 410.83478705790753,
 		"zoom": {
 			"value": 1.296255395553994
 		},
