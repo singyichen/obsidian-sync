@@ -14,7 +14,10 @@
 		{"id":"0c09e389f44025f1","type":"text","text":"System Testing","x":-100,"y":-695,"width":250,"height":50,"color":"6"},
 		{"id":"05cd048f9cf7d595","type":"text","text":"Compatibility Testing","x":-100,"y":-380,"width":250,"height":50,"color":"6"},
 		{"id":"2307d7412586ee89","type":"text","text":"Performance Testing","x":-100,"y":-480,"width":250,"height":50,"color":"6"},
-		{"id":"6d71daf3f3d70ed3","type":"text","text":"Usability Testing","x":-100,"y":-575,"width":250,"height":50,"color":"6"}
+		{"id":"6d71daf3f3d70ed3","type":"text","text":"Usability Testing","x":-100,"y":-575,"width":250,"height":50,"color":"6"},
+		{"id":"bd52299c681b2a5b","type":"text","text":"Load Testing","x":260,"y":-580,"width":250,"height":60,"color":"6"},
+		{"id":"4b2a6eb5f308447f","type":"text","text":"Stress Testing","x":260,"y":-510,"width":250,"height":60,"color":"6"},
+		{"id":"77d2b833a657b871","type":"text","text":"Scala Testing","x":260,"y":-440,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left"},
