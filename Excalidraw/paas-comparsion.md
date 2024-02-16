@@ -10,6 +10,10 @@ tags: [excalidraw]
 # Text Elements
 PaaS ^bck0me2n
 
+Features ^wZeX0yja
+
+Features ^iy1YAExW
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -265,12 +269,12 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -466.02448056137854,
-			"y": -329.1491547870436,
+			"x": -466.45332984098945,
+			"y": -328.9188341880861,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 118.3739007292245,
-			"height": 64.03530253726227,
+			"width": 119.2315992884463,
+			"height": 63.574661339347344,
 			"seed": 41600,
 			"groupIds": [
 				"o0xdCVPIrY2hEZJYXVQH9"
@@ -290,8 +294,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 107,
-			"versionNonce": 1010516574,
+			"version": 238,
+			"versionNonce": 1829324510,
 			"isDeleted": false,
 			"id": "H7s_gaO4Ej8hv3luQyl0w",
 			"fillStyle": "solid",
@@ -300,20 +304,62 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -592.4430232555497,
-			"y": -243.21904932822775,
+			"x": -588.6930232555499,
+			"y": -233.21904932822775,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#1971c2",
 			"width": 109.31912030043657,
-			"height": 60.7625520332671,
+			"height": 63.75,
 			"seed": 454473950,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1708074174565,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "wZeX0yja"
+				}
+			],
+			"updated": 1708074497255,
 			"link": null,
 			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 135,
+			"versionNonce": 943242014,
+			"isDeleted": false,
+			"id": "wZeX0yja",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -578.4434209910737,
+			"y": -213.84404932822775,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#1971c2",
+			"width": 88.81991577148438,
+			"height": 25,
+			"seed": 879361758,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708074497255,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Features",
+			"rawText": "Features",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "H7s_gaO4Ej8hv3luQyl0w",
+			"originalText": "Features",
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -391,12 +437,81 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"originalText": "PaaS",
 			"lineHeight": 1.25,
 			"baseline": 32
+		},
+		{
+			"type": "rectangle",
+			"version": 240,
+			"versionNonce": 1200923458,
+			"isDeleted": false,
+			"id": "mUrYuU6dU0rDow6Mjs6eP",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -383.1916566156931,
+			"y": -155.40808622813688,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#1971c2",
+			"width": 109.31912030043657,
+			"height": 63.75,
+			"seed": 706940318,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "iy1YAExW"
+				}
+			],
+			"updated": 1708074507799,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 138,
+			"versionNonce": 26360514,
+			"isDeleted": false,
+			"id": "iy1YAExW",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -372.942054351217,
+			"y": -136.03308622813688,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#1971c2",
+			"width": 88.81991577148438,
+			"height": 25,
+			"seed": 602647006,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708074507800,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Features",
+			"rawText": "Features",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "mUrYuU6dU0rDow6Mjs6eP",
+			"originalText": "Features",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
+		"currentItemStrokeColor": "#ffffff",
 		"currentItemBackgroundColor": "#1971c2",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -408,8 +523,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 616.9695964654749,
-		"scrollY": 546.9705862281369,
+		"scrollX": 736.9695964654749,
+		"scrollY": 534.4705862281369,
 		"zoom": {
 			"value": 1.6
 		},
