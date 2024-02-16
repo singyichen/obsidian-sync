@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"5a5fca642c1f5fa2","x":-640,"y":-200,"width":200,"height":60,"color":"5","type":"text","text":"Software Testing"}
+		{"id":"b85bcd06bc08a3a4","x":-665,"y":-200,"width":250,"height":60,"type":"text","text":""},
+		{"id":"5a5fca642c1f5fa2","type":"text","text":"Software Testing","x":-980,"y":-240,"width":200,"height":60,"color":"5"}
 	],
 	"edges":[]
 }
