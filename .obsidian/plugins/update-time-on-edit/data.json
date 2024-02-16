@@ -9,12 +9,12 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "Templates/learning-template.md": "a6485f0fe82680c1f39f52a3399d376f3f1080738a0c7b8794d5a8ae59521688",
-    "02.Areas/Framework/backend/comparison.md": "781e17e42d3a6b63c8ae7ab0bca95232730bf9962c439f60ad5648e9de25cc82",
+    "02.Areas/Framework/backend/comparison.md": "f7e96a68cca254a202998b8062429b1b2e8d61464cb915de339136774fe25c95",
     "03.Resources/UIUX/UIUX.md": "835aad4547f7ca29cd66ca7f4401dd0c996361bc8fd1d917f0b954c6772bc3de",
     "03.Resources/UIUX/UX.md": "9ae6e047a8705833026643b5f8d85beae58aa794d84bb91dc969550cfd6b8f75",
-    "skill-tree.md": "82a820902f8d156842586c45bb50df99ddd76f7ef26bd755bd1c83b3ab550185",
+    "skill-tree.md": "0030365e5bfa5d93d822db832a553dd24aaae21f812ca896ad1bfcf1c7b48797",
     "software.md": "e486a47778627aa13a66a618ad742047bbc4aa6a9f664facd1baa5fc25c4d621",
-    "Templates/blog-post-template.md": "d0196c3c5566a4c3a3545e50d259c87b490816d6219822792a8481990318b34d",
+    "Templates/blog-post-template.md": "b6f0d3054faf796e8807432791e4bf845942dee998fb243c7438ec5d288bc684",
     "Templates/meeting-template.md": "b40706d89755b5d47e66b018e63b190a7dde88afe20a1ec2837b82ea9686a97d",
     "Templates/book-template.md": "f986b6e25a6fe3f35eaf0ffbb6779d774a40334fe0bfb8f8d767a95b8dd164e1",
     "03.Resources/KM/PARA.md": "b656e6dfa6e4b5fbcc51487c6d2117dc56d198f0f4f1f56f6ee62ab1af53fc9b",
@@ -28,6 +28,7 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md": "1095a1da15b9f7a3820534c4b60241f5ae7f5fa450a5971a199382c405688674",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md": "daf46f627940039ea720282e954f238215c3c1ab98f64555bdc6c1a20be4cc4c",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md": "3359a8d1ef9f7eb64d40ffd574f130fc59b751fd0f9df51796428d1a2715e01d",
-    "Templates/icon-template.md": "34d1b94d35016313ceb7278c7fda6eb42ca0fc4e1ced22f1b84209584a44286f"
+    "Templates/icon-template.md": "de9d330c620e0c79ef30ff4c4000d6cfc259e02d3e03ca295771bbd21d49b0f5",
+    "02.Areas/Test/Test.md": "a7dd5faaf6857b7aba560e2a5dc6baf2602460d3a41921ed0d937165b0340ff8"
   }
 }

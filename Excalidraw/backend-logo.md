@@ -8,7 +8,7 @@ tags: [excalidraw]
 
 
 # Text Elements
-❤️ Mandy Backend ^95fzy6WK
+🇹🇼 Mandy Backend ^95fzy6WK
 
 %%
 # Drawing
@@ -16,12 +16,12 @@ tags: [excalidraw]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.19",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 523,
-			"versionNonce": 1335763787,
+			"version": 531,
+			"versionNonce": 1729485845,
 			"isDeleted": false,
 			"id": "eKreVfasBPTSsORkP4yJR",
 			"fillStyle": "solid",
@@ -48,14 +48,14 @@ tags: [excalidraw]
 					"id": "95fzy6WK"
 				}
 			],
-			"updated": 1707235190970,
+			"updated": 1707955296197,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 550,
-			"versionNonce": 1311867371,
+			"version": 562,
+			"versionNonce": 613126517,
 			"isDeleted": false,
 			"id": "95fzy6WK",
 			"fillStyle": "solid",
@@ -64,28 +64,28 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 46.58941874468928,
+			"x": 48.99176249468928,
 			"y": -395.81779542598343,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a18072",
-			"width": 191.5234375,
+			"width": 186.71875,
 			"height": 24,
 			"seed": 448953884,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707235190970,
+			"updated": 1707955296198,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "❤️ Mandy Backend",
-			"rawText": "❤️ Mandy Backend",
+			"text": "🇹🇼 Mandy Backend",
+			"rawText": "🇹🇼 Mandy Backend",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "eKreVfasBPTSsORkP4yJR",
-			"originalText": "❤️ Mandy Backend",
+			"originalText": "🇹🇼 Mandy Backend",
 			"lineHeight": 1.2,
 			"baseline": 19
 		}
@@ -105,10 +105,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 379.50990006606753,
-		"scrollY": 646.3104259780388,
+		"scrollX": 188.52386250531072,
+		"scrollY": 624.1927954259834,
 		"zoom": {
-			"value": 1
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4174a94f884db279",
+        "id": "e4cab5442eb35c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "017b827a3fa4b60b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/lottery-system-tech.md"
-              }
-            }
-          },
-          {
-            "id": "969b90a1900ac081",
+            "id": "0cda098af97cc537",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+                "file": "Templates/blog-post-template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7531d96953c161f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Areas/Test/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#framework",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 350.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+                "file": "02.Areas/Test/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+                "file": "02.Areas/Test/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md"
+                "file": "02.Areas/Test/Test.md"
               }
             }
           },
@@ -189,7 +191,7 @@
             }
           },
           {
-            "id": "25e5aa3c9aaba892",
+            "id": "f72b8e133e0a2274",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -201,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,55 +223,54 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "969b90a1900ac081",
+  "active": "d7531d96953c161f",
   "lastOpenFiles": [
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
+    "Excalidraw/PARA.md",
+    "Excalidraw/jwt.md",
+    "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/node-web-framework.md",
+    "Images/hapi-logo.png",
+    "Images/fastify-logo.png",
+    "Images/koa-logo.png",
+    "02.Areas/Framework/backend/comparison.md",
+    "Images/express-logo.png",
+    "Excalidraw/symmetricds-usage-user-case.md",
+    "Excalidraw/backend-logo.md",
+    "skill-tree.md",
+    "Templates/icon-template.md",
+    "Excalidraw/jwt-structure.md",
+    "02.Areas/Test/Test.md",
+    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
-    "Excalidraw/PARA.md",
-    "Excalidraw/jwt.md",
-    "Excalidraw/backend-logo.md",
-    "Excalidraw/lottery-system-tech.md",
-    "Templates/icon-template.md",
-    "Excalidraw/node-web-framework.md",
-    "04.Archives/lottery-system/dev-tech.md",
-    "03.Resources/UIUX/UIUX.md",
-    "03.Resources/KM/PARA.md",
-    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
-    "02.Areas/Framework/backend/comparison.md",
-    "Excalidraw/Drawing 2024-02-06 23.42.39.excalidraw.md",
-    "02.Areas/Test/Test.md",
+    "Templates/blog-post-template.md",
+    "02.Areas/Test/UnitTest",
     "02.Areas/Test",
-    "images/symmetricds-usage-user-case.png",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
-    "Templates/book-template.md",
-    "images/postgresql-logo.png",
-    "軟體開發/學習心得/11542/DataIntegration/SymmetricDS/TaskScheduler.md",
-    "未命名.md",
+    "software.md",
     "未命名.canvas",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
+    "README.md",
+    "mind map.md",
+    "Templates/meeting-template.md",
+    "盤點系統.xmind",
+    "04.Archives/lottery-system/dev-tech.md",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
     "軟體開發/學習心得/11542",
     "軟體開發/學習心得",
     "軟體開發",
-    "Templates/learning-template.md",
-    "Templates/blog-post-template.md",
+    "Images/symmetricds-usage-user-case.png",
     "02.Areas/DataIntegration/SymmetricDS",
     "02.Areas/DataIntegration",
-    "04.Archives/lottery-system",
-    "03.Resources/KM",
     "Images/edraw-max-logo.svg",
     "Images/dbdiagram-io-logo.png",
     "Images/adobe-photoshop-logo.png",
     "Images/saas-logo.png",
     "Images/Pasted Image 20240201163628_014.png",
-    "Images/adobe-illustrator-logo.png",
-    "Images/figjam-logo.png",
-    "Images/figma-logo.png",
     "Excalidraw/未命名.canvas"
   ]
 }
