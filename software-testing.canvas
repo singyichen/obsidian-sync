@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"b85bcd06bc08a3a4","type":"text","text":"Manual Testing","x":-980,"y":-520,"width":180,"height":60,"color":"6"},
+		{"id":"b85bcd06bc08a3a4","type":"text","text":"Manual Testing","x":-980,"y":-520,"width":220,"height":60,"color":"6"},
 		{"id":"5a5fca642c1f5fa2","type":"text","text":"Software Testing","x":-1320,"y":-420,"width":200,"height":60,"color":"6"},
-		{"id":"64a1dacf5762ed5c","type":"text","text":"","x":-980,"y":-320,"width":180,"height":60,"color":"6"}
+		{"id":"64a1dacf5762ed5c","type":"text","text":"Automation Testing","x":-980,"y":-320,"width":220,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left"},
