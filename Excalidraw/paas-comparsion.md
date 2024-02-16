@@ -104,6 +104,8 @@ High ^Fn7faX3l
 
 High ^5SEIbJat
 
+Low Latency ^Hw8TEnyF
+
 
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
@@ -923,7 +925,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1708076090908,
 			"link": null,
 			"locked": false,
@@ -2171,6 +2173,75 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"originalText": "High",
 			"lineHeight": 1.2,
 			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 521,
+			"versionNonce": 354453378,
+			"isDeleted": false,
+			"id": "MS2jn5ws3AYxJ9apVkB0p",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -594.0670538604668,
+			"y": 250.61599542660088,
+			"strokeColor": "#6741d9",
+			"backgroundColor": "#6741d9",
+			"width": 109.31912030043657,
+			"height": 68.02803592914057,
+			"seed": 952904542,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Hw8TEnyF"
+				}
+			],
+			"updated": 1708076269175,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 427,
+			"versionNonce": 1416120130,
+			"isDeleted": false,
+			"id": "Hw8TEnyF",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -577.5674668547797,
+			"y": 259.63001339117113,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#1971c2",
+			"width": 76.3199462890625,
+			"height": 50,
+			"seed": 1126895518,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708076269175,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Low\nLatency",
+			"rawText": "Low Latency",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "MS2jn5ws3AYxJ9apVkB0p",
+			"originalText": "Low Latency",
+			"lineHeight": 1.25,
+			"baseline": 43
 		}
 	],
 	"appState": {
