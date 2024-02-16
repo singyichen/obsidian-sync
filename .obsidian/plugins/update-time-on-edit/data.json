@@ -14,7 +14,7 @@
     "03.Resources/UIUX/UX.md": "9ae6e047a8705833026643b5f8d85beae58aa794d84bb91dc969550cfd6b8f75",
     "skill-tree.md": "0030365e5bfa5d93d822db832a553dd24aaae21f812ca896ad1bfcf1c7b48797",
     "software.md": "e486a47778627aa13a66a618ad742047bbc4aa6a9f664facd1baa5fc25c4d621",
-    "Templates/blog-post-template.md": "94cafd4156649d23bbe4f163a6a84253b84f9058ed494f2b796c8c396c2f9504",
+    "Templates/blog-post-template.md": "1795cc7d2c3de545d84e5a427ef8b3164655deb44f09acede4d416e6105bcc9e",
     "Templates/meeting-template.md": "b40706d89755b5d47e66b018e63b190a7dde88afe20a1ec2837b82ea9686a97d",
     "Templates/book-template.md": "f986b6e25a6fe3f35eaf0ffbb6779d774a40334fe0bfb8f8d767a95b8dd164e1",
     "03.Resources/KM/PARA.md": "b656e6dfa6e4b5fbcc51487c6d2117dc56d198f0f4f1f56f6ee62ab1af53fc9b",
@@ -29,6 +29,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md": "daf46f627940039ea720282e954f238215c3c1ab98f64555bdc6c1a20be4cc4c",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md": "3359a8d1ef9f7eb64d40ffd574f130fc59b751fd0f9df51796428d1a2715e01d",
     "Templates/icon-template.md": "de9d330c620e0c79ef30ff4c4000d6cfc259e02d3e03ca295771bbd21d49b0f5",
-    "02.Areas/Test/Test.md": "a0f20f88cada515d7199b3e2d4002cab46957f7c37ae1fcc667fb04fb21f7bc5"
+    "02.Areas/Test/Test.md": "8ee7657cceffa32de81d712409fc4f3cdbcc8b1483c165a9e0ceb0fd628488e6"
   }
 }
