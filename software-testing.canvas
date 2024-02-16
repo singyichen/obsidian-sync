@@ -7,7 +7,9 @@
 		{"id":"39ca31bcd45e31cc","type":"text","text":"Black Box","x":-780,"y":-640,"width":250,"height":60},
 		{"id":"60d974e9b30a1a88","type":"text","text":"Grey Box","x":-780,"y":-540,"width":250,"height":60},
 		{"id":"155b08cf7570a022","type":"text","text":"Functional Testing","x":-440,"y":-700,"width":250,"height":60},
-		{"id":"fe7c64ee4fcb907f","type":"text","text":"Functional Testing","x":-440,"y":-580,"width":250,"height":60}
+		{"id":"fe7c64ee4fcb907f","type":"text","text":"Non-Functional Testing","x":-440,"y":-580,"width":250,"height":60},
+		{"id":"e3beceecbcdfa55c","type":"text","text":"Integration Testing","x":-140,"y":-770,"width":250,"height":60},
+		{"id":"0c09e389f44025f1","type":"text","text":"Integration Testing","x":-140,"y":-670,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left"},
