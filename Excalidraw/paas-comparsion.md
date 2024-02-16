@@ -13,6 +13,7 @@ tags: [excalidraw]
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 4858137512e5f4cfbf93a17f4bffcf758572a440: [[render-logo.png]]
 5a47bcd83c8640699ab88936c18b81b5b52adaba: [[fly-io-logo.png]]
+755446bcdea1775b6768eaced461271383152351: [[google-cloud-run-logo.png]]
 
 %%
 # Drawing
@@ -155,8 +156,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 339,
-			"versionNonce": 972254430,
+			"version": 405,
+			"versionNonce": 1548544286,
 			"isDeleted": false,
 			"id": "m5XfmK6mPfA8ibqETFCAf",
 			"fillStyle": "solid",
@@ -165,7 +166,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -190.0279493908704,
+			"x": -50.54076990369094,
 			"y": -329.29980613593386,
 			"strokeColor": "#343a40",
 			"backgroundColor": "transparent",
@@ -180,14 +181,14 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708073870030,
+			"updated": 1708073929503,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 344,
-			"versionNonce": 585947138,
+			"version": 410,
+			"versionNonce": 994973022,
 			"isDeleted": false,
 			"id": "i3AhB8zQ",
 			"fillStyle": "hachure",
@@ -196,7 +197,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -162.23884553396817,
+			"x": -22.751666046788728,
 			"y": -308.47121062403556,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -209,7 +210,7 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708073870030,
+			"updated": 1708073929503,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -221,8 +222,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 353,
-			"versionNonce": 1894654238,
+			"version": 458,
+			"versionNonce": 2145135838,
 			"isDeleted": false,
 			"id": "InNmC5bTPZsaLCua5T4p3",
 			"fillStyle": "solid",
@@ -231,8 +232,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -50.62901984472171,
-			"y": -330.11230613593386,
+			"x": -191.1418403575422,
+			"y": -329.0866651102928,
 			"strokeColor": "#343a40",
 			"backgroundColor": "transparent",
 			"width": 128.41960022829093,
@@ -240,14 +241,50 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"seed": 1393725186,
 			"groupIds": [
 				"1NYh6RBSZhvb256PAeCvF",
-				"SUs6QaaabT3JS8NPxgzeI"
+				"SUs6QaaabT3JS8NPxgzeI",
+				"o0xdCVPIrY2hEZJYXVQH9"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708073870030,
+			"updated": 1708073927982,
 			"link": null,
 			"locked": false
+		},
+		{
+			"type": "image",
+			"version": 528,
+			"versionNonce": 2076107038,
+			"isDeleted": false,
+			"id": "8cEerhMs",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -181.02448056137854,
+			"y": -322.8991547870436,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 108.37390072922447,
+			"height": 57.78530253726227,
+			"seed": 41600,
+			"groupIds": [
+				"o0xdCVPIrY2hEZJYXVQH9"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708073927982,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "755446bcdea1775b6768eaced461271383152351",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -265,10 +302,10 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 491.70932506856116,
-		"scrollY": 540.768823229951,
+		"scrollX": 606.418478975776,
+		"scrollY": 362.1424939835472,
 		"zoom": {
-			"value": 1.9500000000000002
+			"value": 1.609965388637482
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
