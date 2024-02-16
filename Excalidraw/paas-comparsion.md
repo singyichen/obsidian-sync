@@ -60,9 +60,10 @@ Supported Language ^PkvE8RMg
 • Ruby
 • PHP
 • Java
-• Ruby
-• PHP
-• Java   ^SzSLtiMx
+• Rust
+• C
+• C++
+• Dart   ^SzSLtiMx
 
 
 # Embedded files
@@ -1517,8 +1518,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		},
 		{
 			"type": "rectangle",
-			"version": 572,
-			"versionNonce": 391472734,
+			"version": 591,
+			"versionNonce": 1726331294,
 			"isDeleted": false,
 			"id": "bUoefwBCDAR8krHgtfEbE",
 			"fillStyle": "solid",
@@ -1532,20 +1533,20 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"strokeColor": "#868e96",
 			"backgroundColor": "transparent",
 			"width": 128.06912030043657,
-			"height": 160.9530669512855,
+			"height": 145.52400870504965,
 			"seed": 1335491074,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075853739,
+			"updated": 1708075969764,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 377,
-			"versionNonce": 939899394,
+			"version": 383,
+			"versionNonce": 831940034,
 			"isDeleted": false,
 			"id": "SzSLtiMx",
 			"fillStyle": "solid",
@@ -1559,25 +1560,25 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 54.369140625,
-			"height": 111.42000000000004,
+			"height": 123.80000000000004,
 			"seed": 336554434,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708075897647,
+			"updated": 1708075959498,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.31666666666667,
 			"fontFamily": 3,
-			"text": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Ruby\n• PHP\n• Java  ",
-			"rawText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Ruby\n• PHP\n• Java  ",
+			"text": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
+			"rawText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Ruby\n• PHP\n• Java  ",
+			"originalText": "• Python\n• Node.js\n• Go\n• Ruby\n• PHP\n• Java\n• Rust\n• C\n• C++\n• Dart  ",
 			"lineHeight": 1.2,
-			"baseline": 109
+			"baseline": 121
 		}
 	],
 	"appState": {
