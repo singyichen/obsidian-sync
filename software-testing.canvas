@@ -12,9 +12,9 @@
 		{"id":"20217c421dc62d3a","type":"text","text":"Incremental Testing","x":260,"y":-890,"width":250,"height":60,"color":"6"},
 		{"id":"c7416e50984772a7","type":"text","text":"Non-Incremental Testing","x":260,"y":-785,"width":250,"height":60,"color":"6"},
 		{"id":"0c09e389f44025f1","type":"text","text":"System Testing","x":-100,"y":-695,"width":250,"height":50,"color":"6"},
-		{"id":"6d71daf3f3d70ed3","type":"text","text":"Usability Testing","x":-100,"y":-575,"width":250,"height":50,"color":"6"},
+		{"id":"05cd048f9cf7d595","type":"text","text":"Compatibility Testing","x":-100,"y":-380,"width":250,"height":50,"color":"6"},
 		{"id":"2307d7412586ee89","type":"text","text":"Performance Testing","x":-100,"y":-480,"width":250,"height":50,"color":"6"},
-		{"id":"05cd048f9cf7d595","type":"text","text":"Comp Testing","x":-100,"y":-380,"width":250,"height":50,"color":"6"}
+		{"id":"6d71daf3f3d70ed3","type":"text","text":"Usability Testing","x":-100,"y":-575,"width":250,"height":50,"color":"6"}
 	],
 	"edges":[
 		{"id":"05486048e70c79fc","fromNode":"5a5fca642c1f5fa2","fromSide":"right","toNode":"b85bcd06bc08a3a4","toSide":"left"},
@@ -27,6 +27,9 @@
 		{"id":"72f22f8ce7745f56","fromNode":"155b08cf7570a022","fromSide":"right","toNode":"e3beceecbcdfa55c","toSide":"left"},
 		{"id":"e9abbd47834f1ec0","fromNode":"155b08cf7570a022","fromSide":"right","toNode":"0c09e389f44025f1","toSide":"left"},
 		{"id":"d18b7d24968f0812","fromNode":"e3beceecbcdfa55c","fromSide":"right","toNode":"20217c421dc62d3a","toSide":"left"},
-		{"id":"0ba9215270c0f266","fromNode":"e3beceecbcdfa55c","fromSide":"right","toNode":"c7416e50984772a7","toSide":"left"}
+		{"id":"0ba9215270c0f266","fromNode":"e3beceecbcdfa55c","fromSide":"right","toNode":"c7416e50984772a7","toSide":"left"},
+		{"id":"97001b88d3fd2d51","fromNode":"fe7c64ee4fcb907f","fromSide":"right","toNode":"6d71daf3f3d70ed3","toSide":"left"},
+		{"id":"c27c7f2de300e1bd","fromNode":"fe7c64ee4fcb907f","fromSide":"right","toNode":"2307d7412586ee89","toSide":"left"},
+		{"id":"6b9fca90d1309e66","fromNode":"fe7c64ee4fcb907f","fromSide":"right","toNode":"05cd048f9cf7d595","toSide":"left"}
 	]
 }
