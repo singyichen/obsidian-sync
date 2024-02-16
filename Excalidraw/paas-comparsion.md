@@ -12,6 +12,7 @@ tags: [excalidraw]
 # Embedded files
 b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 4858137512e5f4cfbf93a17f4bffcf758572a440: [[render-logo.png]]
+5a47bcd83c8640699ab88936c18b81b5b52adaba: [[fly-io-logo.png]]
 
 %%
 # Drawing
@@ -87,32 +88,34 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			]
 		},
 		{
-			"id": "wc5esDLw",
 			"type": "image",
-			"x": -336.31814927672485,
-			"y": -333.2303616914894,
-			"width": 138.93749999999997,
-			"height": 78,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 313,
+			"versionNonce": 697805634,
+			"isDeleted": false,
+			"id": "wc5esDLw",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"roundness": null,
+			"angle": 0,
+			"x": -338.96840538237404,
+			"y": -331.79717516131313,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 144.23801221129838,
+			"height": 75.1336269396474,
 			"seed": 55234,
-			"version": 313,
-			"versionNonce": 697805634,
-			"updated": 1708073657579,
-			"isDeleted": false,
 			"groupIds": [
 				"3X3Nl40qmrQG6caDHGW8K"
 			],
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [],
+			"updated": 1708073657579,
 			"link": null,
 			"locked": false,
+			"status": "pending",
 			"fileId": "4858137512e5f4cfbf93a17f4bffcf758572a440",
 			"scale": [
 				1,
@@ -181,35 +184,31 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 			"locked": false
 		},
 		{
+			"id": "seetsOx5",
 			"type": "image",
-			"version": 234,
-			"versionNonce": 348329538,
-			"isDeleted": true,
-			"id": "I6rgFhERx46RkwfsRmx2F",
+			"x": -335.28058471343047,
+			"y": -174.0428616914894,
+			"width": 161,
+			"height": 52,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -184.47065889721716,
-			"y": -305.4134542444125,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 117.84281296751202,
-			"height": 22.10977341943649,
-			"seed": 351724510,
-			"groupIds": [
-				"hBfMjjRH9T_4zfM1L4vBN"
-			],
-			"frameId": null,
 			"roundness": null,
+			"seed": 54524,
+			"version": 209,
+			"versionNonce": 935166850,
+			"updated": 1708073760388,
+			"isDeleted": false,
+			"groupIds": [],
 			"boundElements": [],
-			"updated": 1708073667495,
 			"link": null,
 			"locked": false,
-			"status": "pending",
-			"fileId": "b4287e0a2bc6758c4b4401e8742a8a17ed566729",
+			"fileId": "5a47bcd83c8640699ab88936c18b81b5b52adaba",
 			"scale": [
 				1,
 				1
@@ -231,8 +230,8 @@ b4287e0a2bc6758c4b4401e8742a8a17ed566729: [[zeabur-logo.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 537.0681492767249,
-		"scrollY": 402.6053616914894,
+		"scrollX": 554.0305847134305,
+		"scrollY": 436.4178616914894,
 		"zoom": {
 			"value": 2
 		},
