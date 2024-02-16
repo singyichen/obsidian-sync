@@ -3051,6 +3051,77 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 			"originalText": "❤️ Mandy Backend",
 			"lineHeight": 1.2,
 			"baseline": 19
+		},
+		{
+			"type": "rectangle",
+			"version": 572,
+			"versionNonce": 1746547294,
+			"isDeleted": true,
+			"id": "jTPbw9UJ5QatEA5NJHlfQ",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 80,
+			"angle": 0,
+			"x": -69.34824670177215,
+			"y": 470.18536622639243,
+			"strokeColor": "#846358",
+			"backgroundColor": "#a18072",
+			"width": 203.19999999999985,
+			"height": 34,
+			"seed": 387871106,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "1cfuBJNU"
+				}
+			],
+			"updated": 1708077861130,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 604,
+			"versionNonce": 1671375490,
+			"isDeleted": true,
+			"id": "1cfuBJNU",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 80,
+			"angle": 0,
+			"x": -63.50996545177223,
+			"y": 475.18536622639243,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#a18072",
+			"width": 191.5234375,
+			"height": 24,
+			"seed": 1931014466,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708077861130,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "❤️ Mandy Backend",
+			"rawText": "❤️ Mandy Backend",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "jTPbw9UJ5QatEA5NJHlfQ",
+			"originalText": "❤️ Mandy Backend",
+			"lineHeight": 1.2,
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -3068,10 +3139,10 @@ a5b3e8bd34c11ec59a65aacfa383cd1970763d5c: [[taiwan-flag.jpg]]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 832.6189736573967,
-		"scrollY": 733.050847213932,
+		"scrollX": 800.2043870526493,
+		"scrollY": 461.02770454583197,
 		"zoom": {
-			"value": 0.754885201322151
+			"value": 0.9500000000000001
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
