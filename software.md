@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-06T23:39
+updated: 2024-02-17T09:42
 title: software
 description: 
 author: mandy
@@ -92,5 +92,5 @@ eslint --init
 ## DBSchema
 # AI 
 
-## [Bard](https://bard.google.com/?hl=zh-TW)
+## [Gemini](https://gemini.google.com/app)
 ## [Claude](https://claude.ai/chats)
