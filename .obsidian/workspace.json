@@ -23,9 +23,14 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "software-testing.canvas",
+                "viewState": {
+                  "x": -1048.7937293999396,
+                  "y": -476.4166564654108,
+                  "zoom": 0.2756535232246546
+                }
               }
             }
           }
@@ -96,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "software-testing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "software-testing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "software-testing.canvas"
               }
             }
           },
@@ -223,11 +228,11 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
-    "Excalidraw/backend-logo.md",
+    "Excalidraw/paas-comparsion.md",
     "Excalidraw/jwt.md",
+    "Excalidraw/backend-logo.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
-    "Excalidraw/paas-comparsion.md",
     "02.Areas/Test/Test.md",
     "software-testing.canvas",
     "Images/zeabur-logo.png",
