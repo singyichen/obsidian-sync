@@ -23,14 +23,11 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "software-testing.canvas",
-                "viewState": {
-                  "x": -295,
-                  "y": -625,
-                  "zoom": -1.0576798101086786
-                }
+                "file": "software.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software-testing.canvas",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software-testing.canvas",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software-testing.canvas"
+                "file": "software.md"
               }
             }
           },
@@ -228,13 +225,13 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
+    "software-testing.canvas",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/jwt.md",
     "Excalidraw/backend-logo.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "02.Areas/Test/Test.md",
-    "software-testing.canvas",
     "Images/zeabur-logo.png",
     "Images/united-states-flag.jpg",
     "Images/taiwan-flag.jpg",
