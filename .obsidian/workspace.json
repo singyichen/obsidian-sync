@@ -23,11 +23,9 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "02.Areas/Test/Test.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/jwt.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Test/Test.md",
+                "file": "Excalidraw/jwt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Test/Test.md",
+                "file": "Excalidraw/jwt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Test/Test.md"
+                "file": "Excalidraw/jwt.md"
               }
             }
           },
@@ -225,6 +223,12 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
+    "Excalidraw/backend-logo.md",
+    "Excalidraw/jwt.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/paas-comparsion.md",
+    "02.Areas/Test/Test.md",
     "software-testing.canvas",
     "Images/zeabur-logo.png",
     "Images/united-states-flag.jpg",
@@ -232,22 +236,16 @@
     "Images/render-logo.png",
     "Images/google-cloud-run-logo.png",
     "Images/fly-io-logo.png",
-    "Excalidraw/paas-comparsion.md",
     "Excalidraw/PARA.md",
-    "Excalidraw/jwt.md",
-    "Excalidraw/lottery-system-tech.md",
-    "Excalidraw/node-web-framework.md",
     "Images/hapi-logo.png",
     "Images/fastify-logo.png",
     "Images/koa-logo.png",
     "02.Areas/Framework/backend/comparison.md",
     "Images/express-logo.png",
     "Excalidraw/symmetricds-usage-user-case.md",
-    "Excalidraw/backend-logo.md",
     "skill-tree.md",
     "Templates/icon-template.md",
     "Excalidraw/jwt-structure.md",
-    "02.Areas/Test/Test.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
