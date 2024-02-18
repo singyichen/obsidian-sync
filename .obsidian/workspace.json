@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skill-tree.md",
+                "file": "03.Resources/KM/PARA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skill-tree.md",
+                "file": "03.Resources/KM/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skill-tree.md",
+                "file": "03.Resources/KM/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skill-tree.md"
+                "file": "03.Resources/KM/PARA.md"
               }
             }
           },
@@ -225,6 +225,8 @@
   },
   "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "03.Resources/Career",
+    "skill-tree.md",
     "01.Project",
     "images/playwright-logo.svg",
     "Excalidraw/PARA.md",
@@ -248,7 +250,6 @@
     "Images/koa-logo.png",
     "02.Areas/Framework/backend/comparison.md",
     "Excalidraw/symmetricds-usage-user-case.md",
-    "skill-tree.md",
     "Templates/icon-template.md",
     "Excalidraw/jwt-structure.md",
     "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
@@ -272,7 +273,6 @@
     "軟體開發/學習心得",
     "軟體開發",
     "02.Areas/DataIntegration/SymmetricDS",
-    "02.Areas/DataIntegration",
     "Excalidraw/未命名.canvas"
   ]
 }
