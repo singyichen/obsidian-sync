@@ -23,14 +23,11 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "software-testing.canvas",
-                "viewState": {
-                  "x": -295,
-                  "y": -625,
-                  "zoom": -1.0883374669460506
-                }
+                "file": "skill-tree.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software-testing.canvas",
+                "file": "skill-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software-testing.canvas",
+                "file": "skill-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software-testing.canvas"
+                "file": "skill-tree.md"
               }
             }
           },
@@ -226,10 +223,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d7531d96953c161f",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
-    "software.md",
+    "01.Project",
+    "images/playwright-logo.svg",
+    "Excalidraw/PARA.md",
+    "Templates/meeting-template.md",
     "software-testing.canvas",
+    "software.md",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/jwt.md",
     "Excalidraw/backend-logo.md",
@@ -242,12 +243,10 @@
     "Images/render-logo.png",
     "Images/google-cloud-run-logo.png",
     "Images/fly-io-logo.png",
-    "Excalidraw/PARA.md",
     "Images/hapi-logo.png",
     "Images/fastify-logo.png",
     "Images/koa-logo.png",
     "02.Areas/Framework/backend/comparison.md",
-    "Images/express-logo.png",
     "Excalidraw/symmetricds-usage-user-case.md",
     "skill-tree.md",
     "Templates/icon-template.md",
@@ -266,7 +265,6 @@
     "未命名.canvas",
     "README.md",
     "mind map.md",
-    "Templates/meeting-template.md",
     "盤點系統.xmind",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "軟體開發/學習心得/11542/DataIntegration",
