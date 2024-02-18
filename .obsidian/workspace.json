@@ -23,11 +23,14 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "software.md",
-                "mode": "source",
-                "source": false
+                "file": "software-testing.canvas",
+                "viewState": {
+                  "x": -295,
+                  "y": -625,
+                  "zoom": -1.0883374669460506
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "software-testing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "software-testing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "software-testing.canvas"
               }
             }
           },
@@ -225,6 +228,7 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
+    "software.md",
     "software-testing.canvas",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/jwt.md",
@@ -259,7 +263,6 @@
     "Templates/blog-post-template.md",
     "02.Areas/Test/UnitTest",
     "02.Areas/Test",
-    "software.md",
     "未命名.canvas",
     "README.md",
     "mind map.md",
