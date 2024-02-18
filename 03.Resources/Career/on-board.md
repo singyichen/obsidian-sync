@@ -19,7 +19,7 @@ published: false
 ---
 # 🚀 on-board
 
-- [ ] []()
+- [ ] [剛入職新團隊要如何快速進入狀況]([剛入職新團隊要如何快速進入狀況｜ExplainThis](https://www.explainthis.io/zh-hant/career/how-to-ramp-up-at-work))
 - [ ] []()
 
 
