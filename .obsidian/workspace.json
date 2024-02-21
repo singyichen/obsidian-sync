@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +213,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
-    "03.Resources/KM/PARA.md",
+    "Templates/blog-post-template.md",
     "03.Resources/Career/on-board.md",
+    "03.Resources/KM/PARA.md",
     "03.Resources/Career",
     "skill-tree.md",
     "01.Project",
@@ -255,7 +263,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "Templates/blog-post-template.md",
     "02.Areas/Test/UnitTest",
     "02.Areas/Test",
     "未命名.canvas",
