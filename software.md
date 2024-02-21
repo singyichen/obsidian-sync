@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-18T13:04
+updated: 2024-02-21T13:37
 title: software
 description: 
 author: mandy
@@ -90,6 +90,8 @@ eslint --init
 ## dbeaver
 
 ## DBSchema
+
+## tableplus
 # AI 
 
 ## [Gemini](https://gemini.google.com/app)
