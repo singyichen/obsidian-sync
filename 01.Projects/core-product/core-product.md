@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:19
+updated: 2024-02-22T10:32
 title: core-product
 description: 
 author: mandy
@@ -76,6 +76,6 @@ published: false
 
 ### 積分制課程
 
-### 續約使用發薪 APP
+### 續約使用考核 APP
 
 
