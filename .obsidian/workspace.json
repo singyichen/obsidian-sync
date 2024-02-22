@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Projects/勞務法務/勞動法務輔導專案.md",
+                "file": "01.Projects/core-product/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/勞務法務/勞動法務輔導專案.md",
+                "file": "01.Projects/core-product/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/勞務法務/勞動法務輔導專案.md",
+                "file": "01.Projects/core-product/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/勞務法務/勞動法務輔導專案.md"
+                "file": "01.Projects/core-product/Untitled.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -225,8 +225,10 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
-    "Untitled.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
+    "01.Projects/core-product/Untitled.md",
+    "01.Projects/core-product",
+    "Untitled.md",
     "README.md",
     "01.Projects/勞務法務",
     "01.Projects",
@@ -267,12 +269,10 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "02.Areas/Test/UnitTest",
     "02.Areas/Test",
     "未命名.canvas",
     "盤點系統.xmind",
-    "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
     "Excalidraw/未命名.canvas"
   ]
 }
