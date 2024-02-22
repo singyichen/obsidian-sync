@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:11
+updated: 2024-02-22T10:13
 title: core-product
 description: 
 author: mandy
@@ -51,6 +51,7 @@ excalidraw-plugin:
 ## 職能考核
 
 > - 專案輔導：協助公司釐清職位是否必要，及其產出應該要是如何
+> - 以不變應萬變
 
 ### 常年人資顧問
 
@@ -67,7 +68,7 @@ excalidraw-plugin:
 
 ### 續約使用發薪 APP
 
-## 一鍵發薪
+## 日日考核
 
 > - 雲端軟體
 
