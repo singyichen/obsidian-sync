@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:10
+updated: 2024-02-22T10:11
 title: core-product
 description: 
 author: mandy
@@ -58,6 +58,14 @@ excalidraw-plugin:
 
 ### 職能課程
 
+
+## 一鍵發薪
+
+> - 雲端軟體
+
+### 代客發薪
+
+### 續約使用發薪 APP
 
 ## 一鍵發薪
 
