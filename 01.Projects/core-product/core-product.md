@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:06
+updated: 2024-02-22T10:07
 title: core-product
 description: 
 author: mandy
@@ -51,3 +51,9 @@ excalidraw-plugin:
 ## 職能考核
 
 > - 專案輔導
+
+### 常年人資顧問
+
+### 績效考核
+
+### 職能課程
