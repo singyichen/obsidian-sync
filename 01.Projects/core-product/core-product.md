@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:01
+updated: 2024-02-22T10:05
 title: core-product
 description: 
 author: mandy
@@ -47,4 +47,6 @@ excalidraw-plugin:
 ### 薪酬管理
 
 ### 確保薪水無誤
+
+## 
 
