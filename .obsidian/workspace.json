@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Projects/core-product/core-product.md",
+                "file": "01.Projects/勞務法務/勞動法務輔導專案.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/core-product/core-product.md",
+                "file": "01.Projects/勞務法務/勞動法務輔導專案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/core-product/core-product.md",
+                "file": "01.Projects/勞務法務/勞動法務輔導專案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/core-product/core-product.md"
+                "file": "01.Projects/勞務法務/勞動法務輔導專案.md"
               }
             }
           },
@@ -225,8 +225,8 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
-    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "01.Projects/core-product/core-product.md",
+    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "03.Resources/KM/PARA.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product",
