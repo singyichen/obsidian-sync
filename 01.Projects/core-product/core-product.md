@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T09:54
+updated: 2024-02-22T09:55
 title: core-product
 description: 
 author: mandy
@@ -27,10 +27,12 @@ excalidraw-plugin:
 
 ## 勞動法務
 
+
+
 ## 薪資委外
 
 - 需求來源：公司人資不夠專業、本業業務更重要(草創時期)
-- 比較
+- 與會計師事務所比較：可能較無新的法律知識
 ### 代客算薪
 ### 薪酬管理
 
