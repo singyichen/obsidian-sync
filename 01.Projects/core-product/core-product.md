@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T09:58
+updated: 2024-02-22T10:00
 title: core-product
 description: 
 author: mandy
@@ -29,7 +29,11 @@ excalidraw-plugin:
 
 > - 專案輔導 
 
+### 常年勞資法務顧問
 
+###  訂閱/諮詢
+
+### 勞資爭議
 ## 薪資委外
 
 > - 專案服務
