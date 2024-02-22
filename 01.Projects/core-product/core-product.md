@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:36
+updated: 2024-02-22T10:37
 title: core-product
 description: 
 author: mandy
@@ -64,7 +64,7 @@ published: false
 ## 一鍵發薪
 
 > - 雲端軟體
-> - 以勞基法為主ㄝ
+> - 以勞基法為主，可能跟實務上不太依樣
 
 ### 代客發薪
 
