@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:17
+updated: 2024-02-22T10:18
 title: core-product
 description: 
 author: mandy
@@ -57,7 +57,7 @@ excalidraw-plugin:
 
 ### 績效考核
 
-- 先詢問在職員工職務內容
+- 先詢問在職員工職務內容：也須用員工可以理解的話去詢問
 
 ### 職能課程
 
@@ -78,3 +78,5 @@ excalidraw-plugin:
 ### 積分制課程
 
 ### 續約使用發薪 APP
+
+
