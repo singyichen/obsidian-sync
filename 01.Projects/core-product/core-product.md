@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T09:52
+updated: 2024-02-22T09:53
 title: core-product
 description: 
 author: mandy
@@ -27,4 +27,5 @@ published: false
 ## 勞動法務
 
 ## 薪資委外
-需求來源：公司、本業業務
+需求來源：公司人資不夠專業、本業業務更重要(草創時期)
+### 代客
