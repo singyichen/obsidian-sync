@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:33
+updated: 2024-02-22T10:34
 title: core-product
 description: 
 author: mandy
@@ -73,7 +73,7 @@ published: false
 ## 日日考核
 
 > - 雲端軟體
-> - 需求：目前目標為中小企業，老闆有一把尺，大企業又會有
+> - 需求：目前目標為中小企業，老闆有一把尺，大企業又會有自己的一套標準。
 
 ### 積分制課程
 
