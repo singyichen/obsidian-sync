@@ -1,12 +1,12 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T08:50
+updated: 2024-02-22T08:51
 title: labor-standards-act
 description: 
 author: mandy
 aliases: 
-category: 
-tags: 
+category: domain-knowledge
+tags: []
 AutoNoteMover: disable
 disabled rules:
   - all
