@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T10:18
+updated: 2024-02-22T10:19
 title: core-product
 description: 
 author: mandy
@@ -16,7 +16,6 @@ template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
 published: false
-excalidraw-plugin: 
 ---
 # 🚀 core-product
 
