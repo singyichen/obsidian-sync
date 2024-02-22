@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T09:51
+updated: 2024-02-22T09:52
 title: core-product
 description: 
 author: mandy
@@ -24,4 +24,7 @@ published: false
 
 # 核心產品
 
-## xl
+## 勞動法務
+
+## 薪資委外
+需求來源：公司、本業業務
