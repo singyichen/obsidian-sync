@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01.Projects/勞務法務/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01.Projects/勞務法務/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01.Projects/勞務法務/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01.Projects/勞務法務/Untitled.md"
               }
             }
           },
@@ -225,6 +225,10 @@
   },
   "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Untitled.md",
+    "01.Projects/勞務法務/Untitled.md",
+    "README.md",
+    "01.Projects/勞務法務",
     "01.Projects",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "software.md",
@@ -264,15 +268,11 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Tool.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Node-Properties-File.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Docker-Install.md",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Configuration.md",
     "02.Areas/Test/UnitTest",
     "02.Areas/Test",
     "未命名.canvas",
     "盤點系統.xmind",
     "軟體開發/學習心得/11542/DataIntegration/SymmetricDS",
-    "軟體開發/學習心得/11542/DataIntegration",
-    "軟體開發/學習心得/11542",
     "Excalidraw/未命名.canvas"
   ]
 }
