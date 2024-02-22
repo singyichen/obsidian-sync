@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-22T09:53
+updated: 2024-02-22T09:54
 title: core-product
 description: 
 author: mandy
@@ -16,6 +16,7 @@ template-replacement: "[[learning-template]]"
 template-should-replace: sometimes
 template-should-create: open-pane
 published: false
+excalidraw-plugin: 
 ---
 # 🚀 core-product
 
@@ -27,5 +28,10 @@ published: false
 ## 勞動法務
 
 ## 薪資委外
-需求來源：公司人資不夠專業、本業業務更重要(草創時期)
-### 代客
+
+- 需求來源：公司人資不夠專業、本業業務更重要(草創時期)
+- 比較
+### 代客算薪
+### 薪酬管理
+
+### 確保薪水無誤
