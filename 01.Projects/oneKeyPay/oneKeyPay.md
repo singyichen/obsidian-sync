@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T10:51
+updated: 2024-02-23T10:52
 title: oneKeyPay
 description: 
 author: mandy
@@ -229,25 +229,15 @@ published: false
 **
 
 ├── Dockerfile
-
 ├── Helpers.js
-
 ├── README.md
-
 ├── app.js
-
 ├── bin
-
 │   └── www
-
 ├── config
-
 │   ├── auth.js
-
 │   ├── config.js
-
 │   ├── cors.js
-
 │   ├── employee.js
 
 │   ├── googleStore.js
@@ -1287,35 +1277,20 @@ published: false
 │   │       │   └── organisations.js
 
 │   │       └── stepTwoToken
-
 │   │           └── index.js
-
 │   └── index.js
-
 ├── scheduleTasks.js
-
 ├── seeders
-
 │   ├── 20220320093134-seed-locations.js
-
 │   ├── 20220324071003-seed-organisation-scales.js
-
 │   ├── 20220424125441-seed-permission-types.js
-
 │   └── 20220424131139-seed-permissions.js
-
 ├── services
-
 │   └── CloudStorage.js
-
 ├── storage
-
 │   └── temp
-
 ├── uploads
-
 └── worker.js
 
-  
 **
 ```
