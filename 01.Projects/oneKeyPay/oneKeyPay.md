@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:46
+updated: 2024-02-23T13:47
 title: oneKeyPay
 description: 
 author: mandy
@@ -392,7 +392,7 @@ published: false
 ├── migrations              # 數據庫遷移
 ├── models                  # Sequelize 模型
 ├── public                  # 
-├── requests                # 
+├── requests                # 放置請求的 schema ㄉㄧ
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
