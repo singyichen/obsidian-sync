@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T11:46
+updated: 2024-02-23T11:47
 title: oneKeyPay
 description: 
 author: mandy
@@ -360,10 +360,10 @@ published: false
 ```
 
 ```
-├── Dockerfile
+├── 
 ├── Helpers.js
 ├── README.md
-├── app.js
+
 ├── bin
 │   └── www
 ├── config
@@ -389,7 +389,10 @@ published: false
 ├── services
 ├── storage
 ├── uploads
-│   ecosystem.config.js
+│   app.js
+│   .sequelizerc
+│   app.js
+│   Dockerfile
 │   ecosystem.config.js
 │   Helper.js
 │   package-lock.json
