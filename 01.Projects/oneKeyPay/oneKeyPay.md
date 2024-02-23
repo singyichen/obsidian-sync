@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T10:30
+updated: 2024-02-23T10:31
 title: oneKeyPay
 description: 
 author: mandy
@@ -28,10 +28,9 @@ published: false
 │  .env.example
 │  .gitignore
 │  .sequelizerc
-│  .prettierrc.json
 │  app.js
-│  dockerfile
-│  jest.config.js
+│  Dockerfile
+│  ecosystem.config.js
 │  package-lock.json
 │  package.json
 │  README.md
