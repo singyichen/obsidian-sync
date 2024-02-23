@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:41
+updated: 2024-02-23T13:42
 title: oneKeyPay
 description: 
 author: mandy
@@ -373,15 +373,15 @@ published: false
 │   ├──daydayAssess
 │   └──ondkeyPay
 ├── docker_compose          # 放置 docker-compose yml 設定檔
-│   └──docker-compose.yml
+│   └── docker-compose.yml
 ├── docs                    # swagger 文件
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
 ├── gcp_credentials         # GCP 部署設定檔
 ├── handlers                # 處理器
-│   └──errorHandlers.js     # 應用層面的統一錯誤處理中心
-├── helpers.            
+│   └── errorHandlers.js     # 應用層面的統一錯誤處理中心
+├── helpers                 # 
 │   ├── logHelpers.js
 │   ├── mailHelper.js
 │   ├── queueHelper.js
@@ -390,8 +390,8 @@ published: false
 ├── logs                    # 日誌
 ├── middleware              # 中間件
 ├── migrations              # 數據庫遷移
-├── models
-├── public
+├── models                  # 
+├── public                  # 
 ├── requests
 │   ├──backStage
 │   ├──daydayAssess
@@ -405,7 +405,7 @@ published: false
 │   │   ├──backStage
 │   │   ├──daydayAssess
 │   │   └──ondkeyPay
-│   └──index.js
+│   └── index.js
 ├── salaryCalculation
 ├── scheduleJobs
 │   ├──backStage
