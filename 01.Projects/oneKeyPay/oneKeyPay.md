@@ -360,8 +360,7 @@ published: false
 ```
 
 ```
-├── 
-├── Helpers.js
+├── .github
 ├── basicInfo
 ├── bin
 ├── config
