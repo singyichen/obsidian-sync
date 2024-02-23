@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T10:52
+updated: 2024-02-23T10:53
 title: oneKeyPay
 description: 
 author: mandy
@@ -239,73 +239,39 @@ published: false
 │   ├── config.js
 │   ├── cors.js
 │   ├── employee.js
-
 │   ├── googleStore.js
-
 │   ├── limit.js
-
 │   ├── mail.js
-
 │   ├── queue.js
-
 │   └── storage.js
-
 ├── controllers
-
 │   ├── AuthController.js
-
 │   ├── LocationController.js
-
 │   ├── OrganisationController.js
-
 │   ├── UserController.js
-
 │   ├── employee
-
 │   │   ├── BasicPointCategoryController.js
-
 │   │   ├── BasicPointController.js
-
 │   │   ├── BehaviorPointCategoryController.js
-
 │   │   ├── BehaviorPointController.js
-
 │   │   ├── DepartmentController.js
-
 │   │   ├── EmployeeController.js
-
 │   │   ├── InterviewController.js
-
 │   │   ├── JobTenureRecordController.js
-
 │   │   ├── JobTitleController.js
-
 │   │   ├── OrganisationController.js
-
 │   │   ├── PermissionController.js
-
 │   │   ├── PermissionRoleController.js
-
 │   │   ├── PointApplicationController.js
-
 │   │   ├── SeniorityController.js
-
 │   │   ├── SignedUrlController.js
-
 │   │   ├── TaskCandidateController.js
-
 │   │   ├── TaskController.js
-
 │   │   └── TaskMemberController.js
-
 │   └── organisationAdmin
-
 │       ├── OrganisationController.js
-
 │       └── OrganisationScaleController.js
-
 ├── docker_compose
-
 │   └── docker-compose.yml
 
 ├── docs
