@@ -387,14 +387,8 @@ published: false
 ├── routes
 ├── scheduleTasks.js
 ├── seeders
-│   ├── 20220320093134-seed-locations.js
-│   ├── 20220324071003-seed-organisation-scales.js
-│   ├── 20220424125441-seed-permission-types.js
-│   └── 20220424131139-seed-permissions.js
 ├── services
-│   └── CloudStorage.js
 ├── storage
-│   └── temp
 ├── uploads
 └── worker.js
 ```
