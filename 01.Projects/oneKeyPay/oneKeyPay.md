@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:49
+updated: 2024-02-23T13:51
 title: oneKeyPay
 description: 
 author: mandy
@@ -411,7 +411,7 @@ published: false
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
-├── seeders 
+├── seeders             # 存放數據庫的初始或測試用的模擬數據
 ├── services
 ├── storage
 ├── tests
