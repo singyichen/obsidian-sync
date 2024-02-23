@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T11:05
+updated: 2024-02-23T11:06
 title: oneKeyPay
 description: 
 author: mandy
@@ -338,85 +338,45 @@ published: false
 │   │   │   ├── apiGetCurrentEmployee.js
 │   │   │   ├── apiGetImportEmployeeTemplate.js
 │   │   │   ├── apiIndex.js
-
 │   │   │   ├── apiIndexAvailablyPerPermissionRole.js
-
 │   │   │   ├── apiIndexPerDepartment.js
-
 │   │   │   ├── apiIndexPerPermissionRole.js
-
 │   │   │   ├── apiRemove.js
-
 │   │   │   ├── apiSendActivationEmail.js
-
 │   │   │   ├── apiShow.js
-
 │   │   │   ├── apiStore.js
-
 │   │   │   ├── apiUpdate.js
-
 │   │   │   └── index.js
-
 │   │   ├── InterviewController
-
 │   │   │   ├── apiAgree.js
-
 │   │   │   ├── apiAllList.js
-
 │   │   │   ├── apiDelete.js
-
 │   │   │   ├── apiIndex.js
-
 │   │   │   ├── apiManage.js
-
 │   │   │   ├── apiNotAgree.js
-
 │   │   │   ├── apiShow.js
-
 │   │   │   ├── apiStore.js
-
 │   │   │   ├── apiUpdate.js
-
 │   │   │   └── index.js
-
 │   │   ├── JobTenureRecordsController
-
 │   │   │   ├── apiIndexPerEmployee.js
-
 │   │   │   ├── apiSync.js
-
 │   │   │   └── index.js
-
 │   │   ├── JobTitleController
-
 │   │   │   ├── apiEliminate.js
-
 │   │   │   ├── apiIndex.js
-
 │   │   │   ├── apiStore.js
-
 │   │   │   ├── apiUpdate.js
-
 │   │   │   └── index.js
-
 │   │   ├── OrganisationController
-
 │   │   │   ├── apiGetCurrentOrganisation.js
-
 │   │   │   ├── apiUpdateCurrentOrganisation.js
-
 │   │   │   └── index.js
-
 │   │   ├── PermissionController
-
 │   │   │   ├── apiIndex.js
-
 │   │   │   └── index.js
-
 │   │   ├── PermissionRoleController
-
 │   │   │   ├── apiAddEmployees.js
-
 │   │   │   ├── apiIndex.js
 
 │   │   │   ├── apiRemove.js
@@ -1171,12 +1131,10 @@ published: false
 
 │   │       ├── stepOneToken
 
-│   │       │   ├── index.js
+│   │       │   ├── index.j
 
 │   │       │   ├── organisationScales.js
-
 │   │       │   └── organisations.js
-
 │   │       └── stepTwoToken
 │   │           └── index.js
 │   └── index.js
