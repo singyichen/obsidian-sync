@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T11:04
+updated: 2024-02-23T11:05
 title: oneKeyPay
 description: 
 author: mandy
@@ -289,103 +289,54 @@ published: false
 │   │   ├── OrganisationController
 │   │   │   ├── apiIndex.js
 │   │   │   └── index.js
-
 │   │   ├── UserController
-
 │   │   │   ├── apiMe.js
-
 │   │   │   ├── index.js
-
 │   │   │   └── updateMyself.js
-
 │   │   └── index.js
-
 │   ├── components.js
-
 │   ├── employee
-
 │   │   ├── BasicPointCategoryController
-
 │   │   │   ├── apiIndex.js
-
 │   │   │   ├── apiStore.js
-
 │   │   │   └── index.js
-
 │   │   ├── BasicPointController
-
 │   │   │   ├── apiDestroy.js
-
 │   │   │   ├── apiIndex.js
-
 │   │   │   ├── apiIndexEditRecord.js
-
 │   │   │   ├── apiShow.js
-
 │   │   │   ├── apiStore.js
-
 │   │   │   ├── apiUpdate.js
-
 │   │   │   └── index.js
-
 │   │   ├── BehaviorPointCategoryController
-
 │   │   │   ├── apiIndex.js
-
 │   │   │   ├── apiStore.js
-
 │   │   │   └── index.js
-
 │   │   ├── BehaviorPointController
-
 │   │   │   ├── apiApplyDepartment.js
-
 │   │   │   ├── apiApplyOrganisation.js
-
 │   │   │   ├── apiDestroy.js
-
 │   │   │   ├── apiIndex.js
-
 │   │   │   ├── apiIndexEditRecord.js
-
 │   │   │   ├── apiShow.js
-
 │   │   │   ├── apiStore.js
-
 │   │   │   ├── apiUpdate.js
-
 │   │   │   └── index.js
-
 │   │   ├── DepartmentController
-
 │   │   │   ├── apiGetDepartmentTree.js
-
 │   │   │   ├── apiGetValidParmentDepartments.js
-
 │   │   │   ├── apiIndex.js
-
 │   │   │   ├── apiRemove.js
-
 │   │   │   ├── apiStore.js
-
 │   │   │   ├── apiUpdate.js
-
 │   │   │   └── index.js
-
 │   │   ├── EmployeeController
-
 │   │   │   ├── apiActivateEmployee.js
-
 │   │   │   ├── apiBatchExport.js
-
 │   │   │   ├── apiBatchImport.js
-
 │   │   │   ├── apiBatchUpdate.js
-
 │   │   │   ├── apiGetCurrentEmployee.js
-
 │   │   │   ├── apiGetImportEmployeeTemplate.js
-
 │   │   │   ├── apiIndex.js
 
 │   │   │   ├── apiIndexAvailablyPerPermissionRole.js
