@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T14:08
+updated: 2024-02-23T14:09
 title: oneKeyPay
 description: 
 author: mandy
@@ -93,6 +93,6 @@ published: false
 │   package.json
 │   README.md
 │   scheduleTasks.js        # 排程設定檔
-│   worker.js。             # 排程設定檔
+│   worker.js               # 寄信執行器
 ```
 
