@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:32
+updated: 2024-02-23T13:33
 title: oneKeyPay
 description: 
 author: mandy
@@ -374,11 +374,11 @@ published: false
 │   └──ondkeyPay
 ├── docker_compose          # 放置 docker-compose yml 設定檔
 │   └── docker-compose.yml
-├── docs                    # swagger jp
+├── docs                    # swagger 文件
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
-├── gcp_credentials
+├── gcp_credentials         # GCP 不
 ├── handlers
 ├── helpers
 ├── logs
