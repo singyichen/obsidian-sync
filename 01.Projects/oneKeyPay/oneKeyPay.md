@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:30
+updated: 2024-02-23T13:31
 title: oneKeyPay
 description: 
 author: mandy
@@ -368,7 +368,10 @@ published: false
 │   └──ondkeyPay
 ├── bin                     # 存放 www 檔案，為程式進入點
 ├── config                  # 系統中參數進行可配置的限制設定，資料來源為 .env
-├── controllers             # 各系統業務邏輯相關的常數配置信息
+├── controllers             # 控制器，主要放各系統的
+│   ├──backStage
+│   ├──daydayAssess
+│   └──ondkeyPay
 ├── docker_compose          # 放置 docker-compose yml 設定檔
 │   └── docker-compose.yml
 ├── docs                    # 系統中參數進行可配置的限制設
