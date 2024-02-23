@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T10:33
+updated: 2024-02-23T10:34
 title: oneKeyPay
 description: 
 author: mandy
@@ -40,8 +40,9 @@ published: false
 │  README.md
 │  worker.js
 │
-├─config
-│    casbinConfig.js
+├─.gitgub
+│  └─workflows
+│ 
 │    
 ├─logs
 │  ├─error
