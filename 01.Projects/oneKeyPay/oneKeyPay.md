@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T14:00
+updated: 2024-02-23T14:01
 title: oneKeyPay
 description: 
 author: mandy
@@ -117,7 +117,7 @@ published: false
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
-├── resources               # 回應的資料定義
+├── resources               # 回應的資料定義，controller 層輸出的資源對象
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
