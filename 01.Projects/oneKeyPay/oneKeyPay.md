@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:40
+updated: 2024-02-23T13:41
 title: oneKeyPay
 description: 
 author: mandy
@@ -381,10 +381,12 @@ published: false
 ├── gcp_credentials         # GCP 部署設定檔
 ├── handlers                # 處理器
 │   └──errorHandlers.js     # 應用層面的統一錯誤處理中心
-├── helpers
-│   ├──backStage
-│   ├──daydayAssess
-│   └──ondkeyPay
+├── helpers.            
+│   ├── logHelpers.js
+│   ├── mailHelper.js
+│   ├── queueHelper.js
+│   ├── stringHelpers.js
+│   └── timeHelper.js
 ├── logs                    # 日誌
 ├── middleware              # 中間件
 ├── migrations              # 數據庫遷移
@@ -646,7 +648,7 @@ published: false
 │   ├── mailHelper.js
 │   ├── queueHelper.js
 │   ├── stringHelpers.js
-│   └── tim.js
+│   └── timeHelper.js
 ├── logs
 ├── middleware
 │   ├── authJwt.js
