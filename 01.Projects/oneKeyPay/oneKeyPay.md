@@ -387,8 +387,9 @@ published: false
 ├── seeders
 ├── services
 ├── storage
+├── tests
 ├── uploads
-│   .env
+│   .dockerignore
 │   .env
 │   .env.example
 │   .gitignore
