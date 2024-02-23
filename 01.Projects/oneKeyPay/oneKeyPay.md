@@ -273,13 +273,9 @@ published: false
 │       └── OrganisationScaleController.js
 ├── docker_compose
 │   └── docker-compose.yml
-
 ├── docs
-
 │   ├── basicInfo.js
-
 │   ├── common
-
 │   │   ├── AuthController
 
 │   │   │   ├── apiForgetPassword.js
