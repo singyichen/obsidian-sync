@@ -65,7 +65,17 @@ published: false
 │ ├── validate - 請求數據驗證 
 ├── migrations - 數據庫遷移腳本目錄 
 ├── models - 數據庫模型與業務實體對象目錄 
-├── public - 靜態文件目錄 ├── requests - 請求參數驗證 schema 目錄 ├── resources - controller 層輸出的資源對象目錄 ├── routes - 路由目錄 │ ├── api │ │ ├── common │ │ ├── employee │ │ └── organisationAdmin ├── services - 業務邏輯层服務 ├── storage - 本地文件系統存儲目錄 └── uploads - 用戶上傳文件的存儲目錄`
+├── public - 靜態文件目錄 
+├── requests - 請求參數驗證 schema 目錄 
+├── resources - controller 層輸出的資源對象目錄 
+├── routes - 路由目錄 
+│ ├── api 
+│ │ ├── common 
+│ │ ├── employee 
+│ │ └── organisationAdmin 
+├── services - 業務邏輯层服務 
+├── storage - 本地文件系統存儲目錄 
+└── uploads - 用戶上傳文件的存儲目錄`
 ```
 
 ```
