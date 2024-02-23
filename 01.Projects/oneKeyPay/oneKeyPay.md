@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:48
+updated: 2024-02-23T13:49
 title: oneKeyPay
 description: 
 author: mandy
@@ -406,7 +406,7 @@ published: false
 │   │   ├──daydayAssess
 │   │   └──ondkeyPay
 │   └── index.js
-├── salaryCalculation
+├── salaryCalculation       # 薪資計算邏輯
 ├── scheduleJobs
 │   ├──backStage
 │   ├──daydayAssess
