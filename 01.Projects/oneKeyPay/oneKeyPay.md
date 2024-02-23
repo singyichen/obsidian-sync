@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T11:13
+updated: 2024-02-23T11:19
 title: oneKeyPay
 description: 
 author: mandy
@@ -22,7 +22,29 @@ published: false
 - [ ] []()
 - [ ] []()
 
-
+```
+├── app.js - 入口檔案
+├── bin - 可執行檔案目錄 
+│   └── www - www 檔案
+├── config - 配置檔案目錄
+├── controllers - 控制器目錄
+│   ├── common - 公共控制器
+│   ├── employee - 員工模組控制器
+│   └── organisationAdmin - 組織管理模組控制器
+├── docs - 文件目錄
+├── helpers - 助手函數目錄
+├── middleware - 中間件目錄 
+├── migrations - 數據庫遷移腳本目錄
+├── models - 模型目錄
+├── public - 公共文件目錄 
+├── requests - 請求驗證schema目錄
+├── resources - 資源類目錄
+├── routes - 路由目錄
+├── seeders - 數據填充腳本目錄
+├── services - 服務類目錄
+├── storage - 儲存目錄
+└── uploads - 上傳檔案目錄
+```
 
 ```
 ├── Dockerfile
