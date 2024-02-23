@@ -1130,9 +1130,7 @@ published: false
 │   │       │   └── index.js
 
 │   │       ├── stepOneToken
-
 │   │       │   ├── index.j
-
 │   │       │   ├── organisationScales.js
 │   │       │   └── organisations.js
 │   │       └── stepTwoToken
