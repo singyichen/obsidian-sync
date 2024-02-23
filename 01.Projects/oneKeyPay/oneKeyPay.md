@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:42
+updated: 2024-02-23T13:44
 title: oneKeyPay
 description: 
 author: mandy
@@ -380,7 +380,7 @@ published: false
 │   └──ondkeyPay
 ├── gcp_credentials         # GCP 部署設定檔
 ├── handlers                # 處理器
-│   └── errorHandlers.js     # 應用層面的統一錯誤處理中心
+│   └── errorHandlers.js    # 應用層面的統一錯誤處理中心
 ├── helpers                 # 
 │   ├── logHelpers.js
 │   ├── mailHelper.js
@@ -390,7 +390,7 @@ published: false
 ├── logs                    # 日誌
 ├── middleware              # 中間件
 ├── migrations              # 數據庫遷移
-├── models                  # 
+├── models                  # Sequelize 模型
 ├── public                  # 
 ├── requests
 │   ├──backStage
