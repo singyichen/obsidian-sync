@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:33
+updated: 2024-02-23T13:34
 title: oneKeyPay
 description: 
 author: mandy
@@ -378,11 +378,11 @@ published: false
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
-├── gcp_credentials         # GCP 不
+├── gcp_credentials         # GCP 部署設定檔
 ├── handlers
 ├── helpers
 ├── logs
-├── middleware
+├── middleware。
 ├── migrations
 ├── models
 ├── public
