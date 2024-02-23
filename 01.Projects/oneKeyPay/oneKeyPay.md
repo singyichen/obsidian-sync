@@ -411,7 +411,7 @@ published: false
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
-├── seeders             # 存放數據庫的初始或測試用的模擬數據
+├── seeders                 # 存放數據庫的初始或測試用的模擬數據
 ├── services
 ├── storage
 ├── tests
