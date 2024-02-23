@@ -407,11 +407,11 @@ published: false
 │   │   └──ondkeyPay
 │   └── index.js
 ├── salaryCalculation       # 薪資計算邏輯
-├── scheduleJobs
+├── scheduleJobs            # 排程
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
-├── seeders
+├── seeders 
 ├── services
 ├── storage
 ├── tests
