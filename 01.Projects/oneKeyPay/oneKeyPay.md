@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:59
+updated: 2024-02-23T14:00
 title: oneKeyPay
 description: 
 author: mandy
@@ -111,7 +111,7 @@ published: false
 ├── logs                    # 日誌
 ├── middleware              # 中間件
 ├── migrations              # 數據庫遷移
-├── models                  # Sequelize 模型
+├── models                  # Sequelize 模型，數據庫模型與業務實體對象
 ├── public                  # 
 ├── requests                # 請求參數驗證 schema 定義
 │   ├──backStage
@@ -134,7 +134,7 @@ published: false
 │   └──ondkeyPay
 ├── seeders                 # 存放數據庫的初始或測試用的模擬數據
 ├── services                # 存儲客戶端對象實例化配置方式，用來與 Google Cloud Storage 進行交互
-├── storage
+├── storage                 # 本地文件系統存儲資料夾 
 ├── tests                   # 測試資料夾
 ├── uploads                 # 用戶上傳文件的存儲資料夾
 │   .dockerignore
