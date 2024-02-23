@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +210,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "d7531d96953c161f",
   "lastOpenFiles": [
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
