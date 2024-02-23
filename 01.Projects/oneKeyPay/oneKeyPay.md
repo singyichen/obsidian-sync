@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:37
+updated: 2024-02-23T13:38
 title: oneKeyPay
 description: 
 author: mandy
@@ -380,7 +380,7 @@ published: false
 │   └──ondkeyPay
 ├── gcp_credentials         # GCP 部署設定檔
 ├── handlers                # 處理器，放置應用層面的統一錯誤處理中心
-│   └──docker-compose.yml
+│   └──errorHandlers.js
 ├── helpers
 ├── logs
 ├── middleware              # 中間件
