@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:51
+updated: 2024-02-23T13:54
 title: oneKeyPay
 description: 
 author: mandy
@@ -381,7 +381,7 @@ published: false
 ├── gcp_credentials         # GCP 部署設定檔
 ├── handlers                # 處理器
 │   └── errorHandlers.js    # 應用層面的統一錯誤處理中心
-├── helpers                 # 
+├── helpers                 # 可重用的輔助方法
 │   ├── logHelpers.js
 │   ├── mailHelper.js
 │   ├── queueHelper.js
@@ -421,7 +421,7 @@ published: false
 │   .env.example
 │   .gitignore
 │   .sequelizerc
-│   app.js
+│   app.js                  # 使用 express 初始化的應用入口 
 │   Dockerfile
 │   ecosystem.config.js
 │   Helper.js
