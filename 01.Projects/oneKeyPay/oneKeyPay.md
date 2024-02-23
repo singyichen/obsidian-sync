@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:20
+updated: 2024-02-23T13:22
 title: oneKeyPay
 description: 
 author: mandy
@@ -362,7 +362,7 @@ published: false
 ```
 ├── .github                  
 │   └──workflows            # 放置 CICD yml 設定檔
-├── basicInfo
+├── basicInfo               # 各系統     
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
