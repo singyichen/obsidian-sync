@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T10:29
+updated: 2024-02-23T10:30
 title: oneKeyPay
 description: 
 author: mandy
@@ -23,12 +23,11 @@ published: false
 - [ ] []()
 
 ```
-│  .dockerignore
+│  .dockerignore                       
 │  .env
 │  .env.example
-│  .eslintrc.json
 │  .gitignore
-│  .prettierignore
+│  .sequelizerc
 │  .prettierrc.json
 │  app.js
 │  dockerfile
