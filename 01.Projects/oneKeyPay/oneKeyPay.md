@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:54
+updated: 2024-02-23T11:06
 title: oneKeyPay
 description: 
 author: mandy
@@ -412,9 +412,9 @@ published: false
 │   ├──daydayAssess
 │   └──ondkeyPay
 ├── seeders                 # 存放數據庫的初始或測試用的模擬數據
-├── services
+├── services                # 存儲客戶端對象實例化配置方式，用來與 Google Cloud Storage 進行交互
 ├── storage
-├── tests
+├── tests                   # 測試資料夾
 ├── uploads
 │   .dockerignore
 │   .env
