@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T11:23
+updated: 2024-02-23T11:28
 title: oneKeyPay
 description: 
 author: mandy
@@ -44,6 +44,28 @@ published: false
 ├── services - 服務類目錄
 ├── storage - 儲存目錄
 └── uploads - 上傳檔案目錄
+```
+
+```
+├── app.js - 使用 express 初始化的應用入口 
+├── bin - 存放www檔案的可執行腳本 
+├── config - 配置檔案目錄 
+│ ├── auth.js - 授權和認證相關配置 
+│ ├── cors.js - 跨域相關配置 
+│ ├── db.js - 數據庫連接配置 
+│ └── etc - 其他 configs 
+├── controllers - 處理路由並執行業務邏輯的控制器 
+│ ├── common 
+│ ├── employee 
+│ └── organisationAdmin 
+├── docs - 接口文檔目錄 
+├── helpers - 可重用的輔助方法目錄 
+├── middleware - express 中間件目錄 
+│ ├── auth - 授權 authenticaton 驗證 
+│ ├── validate - 請求數據驗證 
+├── migrations - 數據庫遷移腳本目錄 
+├── models - 數據庫模型與業務實體對象目錄 
+├── public - 靜態文件目錄 ├── requests - 請求參數驗證 schema 目錄 ├── resources - controller 層輸出的資源對象目錄 ├── routes - 路由目錄 │ ├── api │ │ ├── common │ │ ├── employee │ │ └── organisationAdmin ├── services - 業務邏輯层服務 ├── storage - 本地文件系統存儲目錄 └── uploads - 用戶上傳文件的存儲目錄`
 ```
 
 ```
