@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0cda098af97cc537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/blog-post-template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Projects/oneKeyPay/Untitled.md",
+                "file": "01.Projects/oneKeyPay/oneKeyPay.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/oneKeyPay/Untitled.md",
+                "file": "01.Projects/oneKeyPay/oneKeyPay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/oneKeyPay/Untitled.md",
+                "file": "01.Projects/oneKeyPay/oneKeyPay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/oneKeyPay/Untitled.md"
+                "file": "01.Projects/oneKeyPay/oneKeyPay.md"
               }
             }
           },
@@ -226,10 +213,11 @@
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
     "01.Projects/core-product/core-product.md",
-    "01.Projects/oneKeyPay/Untitled.md",
+    "01.Projects/oneKeyPay/oneKeyPay.md",
+    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+    "Templates/blog-post-template.md",
     "01.Projects/oneKeyPay",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
-    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "03.Resources/KM/PARA.md",
     "01.Projects/core-product",
     "Untitled.md",
@@ -241,7 +229,6 @@
     "03.Resources/Law",
     "software-testing.canvas",
     "03.Resources/Career/on-board.md",
-    "Templates/blog-post-template.md",
     "03.Resources/Career",
     "skill-tree.md",
     "01.Projects",
