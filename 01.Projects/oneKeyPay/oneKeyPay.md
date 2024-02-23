@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T11:28
+updated: 2024-02-23T11:37
 title: oneKeyPay
 description: 
 author: mandy
@@ -75,7 +75,8 @@ published: false
 │ │ └── organisationAdmin 
 ├── services - 業務邏輯层服務 
 ├── storage - 本地文件系統存儲目錄 
-└── uploads - 用戶上傳文件的存儲目錄`
+├── uploads - 用戶上傳文件的存儲目錄
+├── Dockerfile
 ```
 
 ```
