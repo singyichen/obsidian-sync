@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:24
+updated: 2024-02-23T13:25
 title: oneKeyPay
 description: 
 author: mandy
@@ -366,7 +366,7 @@ published: false
 │   ├──backStage
 │   ├──daydayAssess
 │   └──ondkeyPay
-├── bin                     # 存放 www檔案的可執行腳本
+├── bin                     # 存放 www 檔案，為程式進入點
 ├── config
 ├── controllers
 ├── docker_compose
