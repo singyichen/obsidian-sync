@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/backend.md"
+                "file": "README.md"
               }
             }
           },
@@ -210,10 +210,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d7531d96953c161f",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
+    "Xmind/一鍵發薪.xmind",
+    "Xmind",
     "01.Projects/trendlink/backend.md",
+    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "01.Projects/core-product/core-product.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
@@ -256,9 +258,7 @@
     "Excalidraw/symmetricds-usage-user-case.md",
     "Templates/icon-template.md",
     "Excalidraw/jwt-structure.md",
-    "02.Areas/DataIntegration/SymmetricDS/Task-Scheduler.md",
     "02.Areas/Test/UnitTest",
-    "02.Areas/Test",
     "未命名.canvas",
     "Excalidraw/未命名.canvas"
   ]
