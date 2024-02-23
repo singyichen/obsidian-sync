@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-23T13:34
+updated: 2024-02-23T13:36
 title: oneKeyPay
 description: 
 author: mandy
@@ -383,7 +383,7 @@ published: false
 ├── helpers
 ├── logs
 ├── middleware              # 中間件
-├── migrations
+├── migrations              # 中間件
 ├── models
 ├── public
 ├── requests
