@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/backend.md"
+                "file": "software.md"
               }
             }
           },
@@ -212,10 +212,10 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
+    "01.Projects/trendlink/backend.md",
     "README.md",
     "Xmind/一鍵發薪.xmind",
     "Xmind",
-    "01.Projects/trendlink/backend.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "01.Projects/core-product/core-product.md",

@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-21T13:37
+updated: 2024-02-26T10:03
 title: software
 description: 
 author: mandy
@@ -70,6 +70,8 @@ eslint --init
 ### New Relic CodeStream
 ### Postman
 ### CodiumAI (Test writing)
+
+### TypeLens
 
 # Tools
 ## Lightshot
