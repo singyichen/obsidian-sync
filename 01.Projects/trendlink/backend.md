@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-27T10:29
+updated: 2024-02-27T10:30
 title: oneKeyPay
 description: 
 author: mandy
@@ -46,11 +46,11 @@ published: false
 ├── handlers                # 處理器
 │   └── errorHandlers.js    # 應用層面的統一錯誤處理中心
 ├── helpers                 # 可重用的輔助方法
-│   ├── logHelpers.js       # 用於日誌記錄和管理的輔助方法
-│   ├── mailHelper.js       # 用於日誌記錄和管理的輔助方法
-│   ├── queueHelper.js       # 用於日誌記錄和管理的輔助方法
-│   ├── stringHelpers.js       # 用於日誌記錄和管理的輔助方法
-│   └── timeHelper.js       # 時間相關
+│   ├── logHelpers.js       # 用於日誌記錄和管理
+│   ├── mailHelper.js       # 用於郵件發送和管理
+│   ├── queueHelper.js      # 用於處理佇列和任務
+│   ├── stringHelpers.js    # 用於處理字串操作的
+│   └── timeHelper.js       # 用於時間相關操作
 ├── logs                    # 日誌
 ├── middleware              # 中間件
 ├── migrations              # 數據庫遷移
