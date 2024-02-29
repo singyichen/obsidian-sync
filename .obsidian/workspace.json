@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 322.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/backend.md"
+                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md"
               }
             }
           },
@@ -212,9 +212,10 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
+    "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product/core-product.md",
-    "software.md",
     "01.Projects/trendlink/backend.md",
+    "software.md",
     "README.md",
     "Xmind/一鍵發薪.xmind",
     "Xmind",
@@ -223,7 +224,6 @@
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "Templates/blog-post-template.md",
     "01.Projects/trendlink",
-    "01.Projects/勞務法務/勞動法務輔導專案.md",
     "03.Resources/KM/PARA.md",
     "01.Projects/core-product",
     "Untitled.md",
