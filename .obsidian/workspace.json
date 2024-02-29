@@ -11,15 +11,24 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/backend-logo.md"
+              }
+            }
+          },
+          {
+            "id": "f5f9a9aecd598404",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 338.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+                "file": "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+                "file": "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md"
+                "file": "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md"
               }
             }
           },
@@ -210,8 +219,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d7531d96953c161f",
+  "active": "f5f9a9aecd598404",
   "lastOpenFiles": [
+    "Excalidraw/backend-logo.md",
+    "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md",
+    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product/core-product.md",
     "01.Projects/trendlink/backend.md",
@@ -221,7 +233,6 @@
     "Xmind",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
-    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "Templates/blog-post-template.md",
     "01.Projects/trendlink",
     "03.Resources/KM/PARA.md",
@@ -241,7 +252,6 @@
     "Templates/meeting-template.md",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/jwt.md",
-    "Excalidraw/backend-logo.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "02.Areas/Test/Test.md",
