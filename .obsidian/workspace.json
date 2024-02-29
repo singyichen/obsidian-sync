@@ -13,22 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/backend-logo.md"
-              }
-            }
-          },
-          {
-            "id": "f5f9a9aecd598404",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md"
+                "file": "Excalidraw/severance-pay.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md",
+                "file": "Excalidraw/severance-pay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md",
+                "file": "Excalidraw/severance-pay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md"
+                "file": "Excalidraw/severance-pay.md"
               }
             }
           },
@@ -195,11 +184,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +209,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f5f9a9aecd598404",
+  "active": "d7c8126bf0a3d98a",
   "lastOpenFiles": [
-    "software.md",
-    "Excalidraw/Drawing 2024-02-29 14.22.21.excalidraw.md",
+    "Excalidraw/jwt.md",
+    "Excalidraw/severance-pay.md",
     "Excalidraw/backend-logo.md",
+    "software.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product/core-product.md",
@@ -251,7 +242,6 @@
     "Excalidraw/PARA.md",
     "Templates/meeting-template.md",
     "Excalidraw/paas-comparsion.md",
-    "Excalidraw/jwt.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "02.Areas/Test/Test.md",
