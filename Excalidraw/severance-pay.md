@@ -4557,8 +4557,8 @@ tags: [excalidraw]
 		{
 			"id": "AmtL-gz2IhhxN5SuoUswg",
 			"type": "rectangle",
-			"x": -111.99686756523747,
-			"y": 99.71980357129632,
+			"x": -346.3689740467189,
+			"y": 81.61795171944448,
 			"width": 201.5914351851852,
 			"height": 65.66840277777771,
 			"angle": 0,
@@ -4569,25 +4569,27 @@ tags: [excalidraw]
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"QcF4cKYRNEUKbi4f02nU8"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"seed": 1818005688,
-			"version": 559,
-			"versionNonce": 1203942072,
+			"version": 708,
+			"versionNonce": 1583210952,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1709188873983,
+			"updated": 1709188940008,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "SEpg5onv",
 			"type": "text",
-			"x": -92.97487682449679,
-			"y": 110.98649377009343,
+			"x": -327.68841849116336,
+			"y": 93.0553595108342,
 			"width": 163.8622685185185,
 			"height": 44.049050541943515,
 			"angle": 0,
@@ -4598,15 +4600,17 @@ tags: [excalidraw]
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"QcF4cKYRNEUKbi4f02nU8"
+			],
 			"frameId": null,
 			"roundness": null,
 			"seed": 1712511160,
-			"version": 547,
-			"versionNonce": 196437688,
+			"version": 697,
+			"versionNonce": 2060347592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709188876564,
+			"updated": 1709188940009,
 			"link": null,
 			"locked": false,
 			"text": "• 注意事項：\n1.行業納入勞基法時間\n2.納入勞基法之前依條件協商",
@@ -4619,6 +4623,50 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "• 注意事項：\n1.行業納入勞基法時間\n2.納入勞基法之前依條件協商",
 			"lineHeight": 1.15
+		},
+		{
+			"type": "line",
+			"version": 92,
+			"versionNonce": 162282936,
+			"isDeleted": false,
+			"id": "zQgjr9ZYCBp2-j-Ocqihx",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 165.8752963121916,
+			"y": 64.7439697313849,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.9375,
+			"height": 48.29861111111114,
+			"seed": 1676358344,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1709188948659,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.9375,
+					48.29861111111114
+				]
+			]
 		},
 		{
 			"id": "qIPFYPpp",
