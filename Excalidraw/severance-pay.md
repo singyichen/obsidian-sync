@@ -8,13 +8,15 @@ tags: [excalidraw]
 
 
 # Text Elements
-94.7.1 ^YajT6qlQ
+94.07.01 ^YajT6qlQ
 
 勞退新制 ^QESkLk9F
 
 到職者（移工除外） ^H8K7wnjs
 
 以前到職者 ^x8bGQmMv
+
+一律使用新制 ^DbzSXiRR
 
 %%
 # Drawing
@@ -115,10 +117,10 @@ tags: [excalidraw]
 		{
 			"id": "YajT6qlQ",
 			"type": "text",
-			"x": -26.261913861533856,
-			"y": -57.939339947222265,
-			"width": 52.119964599609375,
-			"height": 25,
+			"x": -38.235293491163475,
+			"y": -54.588645502777865,
+			"width": 77.8515625,
+			"height": 23,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -131,23 +133,23 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 918100936,
-			"version": 111,
-			"versionNonce": 634013896,
+			"version": 182,
+			"versionNonce": 1381755848,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709188166583,
+			"updated": 1709188226191,
 			"link": null,
 			"locked": false,
-			"text": "94.7.1",
-			"rawText": "94.7.1",
+			"text": "94.07.01",
+			"rawText": "94.07.01",
 			"fontSize": 20,
-			"fontFamily": 1,
+			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 19,
 			"containerId": null,
-			"originalText": "94.7.1",
-			"lineHeight": 1.25
+			"originalText": "94.07.01",
+			"lineHeight": 1.15
 		},
 		{
 			"id": "QESkLk9F",
@@ -751,8 +753,8 @@ tags: [excalidraw]
 		{
 			"id": "H8K7wnjs",
 			"type": "text",
-			"x": 100.19931299031794,
-			"y": -69.96190939166664,
+			"x": 106.27859539772533,
+			"y": -68.56723346574071,
 			"width": 144,
 			"height": 20,
 			"angle": 0,
@@ -767,11 +769,11 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1159553992,
-			"version": 59,
-			"versionNonce": 1280620232,
+			"version": 83,
+			"versionNonce": 187980472,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709188166583,
+			"updated": 1709188168725,
 			"link": null,
 			"locked": false,
 			"text": "到職者（移工除外）",
@@ -821,6 +823,43 @@ tags: [excalidraw]
 			"originalText": "以前到職者",
 			"lineHeight": 1.25,
 			"baseline": 14
+		},
+		{
+			"id": "DbzSXiRR",
+			"type": "text",
+			"x": 108.89433613846609,
+			"y": -43.902881613888894,
+			"width": 96,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1895238840,
+			"version": 85,
+			"versionNonce": 283808456,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709188204405,
+			"link": null,
+			"locked": false,
+			"text": "一律使用新制",
+			"rawText": "一律使用新制",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "一律使用新制",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "4BwicLq0zUGP5vRV9WEmX",
@@ -873,14 +912,14 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#f08c00",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
+		"currentItemFontFamily": 2,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
