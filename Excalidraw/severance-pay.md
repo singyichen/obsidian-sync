@@ -28,7 +28,7 @@ tags: [excalidraw]
 1.行業納入勞基法時間
 2.納入勞基法之前依條件協商 ^SEpg5onv
 
-94.07.01 ^xK1dxs96
+99.06.30 ^xK1dxs96
 
 %%
 # Drawing
@@ -774,7 +774,7 @@ tags: [excalidraw]
 			"width": 144,
 			"height": 20,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
@@ -785,11 +785,11 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1159553992,
-			"version": 96,
-			"versionNonce": 1159312072,
+			"version": 97,
+			"versionNonce": 1213653960,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709188467071,
+			"updated": 1709189059324,
 			"link": null,
 			"locked": false,
 			"text": "到職者（移工除外）",
@@ -805,8 +805,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 174,
-			"versionNonce": 2024127928,
+			"version": 178,
+			"versionNonce": 242299576,
 			"isDeleted": false,
 			"id": "x8bGQmMv",
 			"fillStyle": "solid",
@@ -816,8 +816,8 @@ tags: [excalidraw]
 			"opacity": 100,
 			"angle": 0,
 			"x": -206.95693700968206,
-			"y": -66.6054279101852,
-			"strokeColor": "#1e1e1e",
+			"y": -66.26977976203705,
+			"strokeColor": "#9c36b5",
 			"backgroundColor": "transparent",
 			"width": 80,
 			"height": 20,
@@ -826,7 +826,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709188467071,
+			"updated": 1709189067166,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4672,8 +4672,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 275,
-			"versionNonce": 1671132104,
+			"version": 286,
+			"versionNonce": 1859543480,
 			"isDeleted": false,
 			"id": "xK1dxs96",
 			"fillStyle": "solid",
@@ -4693,17 +4693,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709188973311,
+			"updated": 1709188989676,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "94.07.01",
-			"rawText": "94.07.01",
+			"text": "99.06.30",
+			"rawText": "99.06.30",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "94.07.01",
+			"originalText": "99.06.30",
 			"lineHeight": 1.15,
 			"baseline": 19
 		}
@@ -4711,7 +4711,7 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
+		"currentItemStrokeColor": "#9c36b5",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
