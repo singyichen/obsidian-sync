@@ -154,11 +154,11 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 918100936,
-			"version": 198,
-			"versionNonce": 609869000,
+			"version": 199,
+			"versionNonce": 801445576,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709190575482,
+			"updated": 1709201671792,
 			"link": null,
 			"locked": false,
 			"text": "94.07.01",
@@ -167,7 +167,7 @@ tags: [excalidraw]
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 19,
+			"baseline": 18,
 			"containerId": null,
 			"originalText": "94.07.01",
 			"lineHeight": 1.15
@@ -1648,8 +1648,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 310,
-			"versionNonce": 229564360,
+			"version": 311,
+			"versionNonce": 1808964024,
 			"isDeleted": false,
 			"id": "XL25UWE4",
 			"fillStyle": "solid",
@@ -1671,7 +1671,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709190575482,
+			"updated": 1709201671882,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1683,7 +1683,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "?.?.?",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -4603,11 +4603,11 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 7999944,
-			"version": 105,
-			"versionNonce": 1610565064,
+			"version": 106,
+			"versionNonce": 1669791176,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709190575482,
+			"updated": 1709201671886,
 			"link": null,
 			"locked": false,
 			"text": "使用舊制",
@@ -4616,7 +4616,7 @@ tags: [excalidraw]
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 15,
+			"baseline": 14,
 			"containerId": null,
 			"originalText": "使用舊制",
 			"lineHeight": 1.15
@@ -4677,11 +4677,11 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"seed": 1712511160,
-			"version": 896,
-			"versionNonce": 178474184,
+			"version": 897,
+			"versionNonce": 986096312,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709190575482,
+			"updated": 1709201671933,
 			"link": null,
 			"locked": false,
 			"text": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前的年資依\n    條件協商",
@@ -4690,7 +4690,7 @@ tags: [excalidraw]
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 56,
+			"baseline": 55,
 			"containerId": null,
 			"originalText": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前的年資依\n    條件協商",
 			"lineHeight": 1.15
@@ -4743,8 +4743,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 287,
-			"versionNonce": 1898869704,
+			"version": 288,
+			"versionNonce": 880018632,
 			"isDeleted": false,
 			"id": "xK1dxs96",
 			"fillStyle": "solid",
@@ -4766,7 +4766,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709190575482,
+			"updated": 1709201671934,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4778,7 +4778,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "99.06.30",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"id": "_owDoD3w15LMsxKlfatsF",
@@ -6559,8 +6559,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 261,
-			"versionNonce": 1237105352,
+			"version": 262,
+			"versionNonce": 5344184,
 			"isDeleted": false,
 			"id": "5ZfCp174",
 			"fillStyle": "solid",
@@ -6582,7 +6582,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709190575482,
+			"updated": 1709201671940,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -6594,7 +6594,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "可選擇使用新制或沿用舊制",
 			"lineHeight": 1.15,
-			"baseline": 15
+			"baseline": 14
 		}
 	],
 	"appState": {
@@ -6612,8 +6612,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 382.4251083059783,
-		"scrollY": 316.11352976203705,
+		"scrollX": 386.86955275042277,
+		"scrollY": 210.92834457685112,
 		"zoom": {
 			"value": 1.35
 		},
