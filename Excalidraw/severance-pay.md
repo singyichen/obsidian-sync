@@ -26,7 +26,8 @@ tags: [excalidraw]
 
 • 注意事項：
 1. 行業納入勞基法時間
-2. 納入勞基法之前依條件協商 ^SEpg5onv
+2. 納入勞基法之前的年資依
+    條件協商 ^SEpg5onv
 
 99.06.30 ^xK1dxs96
 
@@ -4561,10 +4562,10 @@ tags: [excalidraw]
 		{
 			"id": "AmtL-gz2IhhxN5SuoUswg",
 			"type": "rectangle",
-			"x": -357.6508027504226,
-			"y": 69.93392394166676,
+			"x": -359.53158978745967,
+			"y": 65.42582208981486,
 			"width": 201.5914351851852,
-			"height": 65.66840277777771,
+			"height": 78.7731481481481,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4573,29 +4574,27 @@ tags: [excalidraw]
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [
-				"QcF4cKYRNEUKbi4f02nU8"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"seed": 1818005688,
-			"version": 780,
-			"versionNonce": 42898872,
+			"version": 847,
+			"versionNonce": 111927992,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1709189328026,
+			"updated": 1709190336769,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "SEpg5onv",
 			"type": "text",
-			"x": -338.97024719486706,
-			"y": 81.37133173305648,
-			"width": 167.30670166015625,
-			"height": 44.049050541943565,
+			"x": -346.85508515783005,
+			"y": 76.13695673305642,
+			"width": 154.5467071533203,
+			"height": 58.732067389258084,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4604,28 +4603,28 @@ tags: [excalidraw]
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [
-				"QcF4cKYRNEUKbi4f02nU8"
-			],
+			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
+			"roundness": {
+				"type": 2
+			},
 			"seed": 1712511160,
-			"version": 773,
-			"versionNonce": 809561016,
+			"version": 882,
+			"versionNonce": 1954727112,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709189331509,
+			"updated": 1709190336769,
 			"link": null,
 			"locked": false,
-			"text": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前依條件協商",
-			"rawText": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前依條件協商",
+			"text": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前的年資依\n    條件協商",
+			"rawText": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前的年資依\n    條件協商",
 			"fontSize": 12.767840736795236,
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 41,
+			"baseline": 56,
 			"containerId": null,
-			"originalText": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前依條件協商",
+			"originalText": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前的年資依\n    條件協商",
 			"lineHeight": 1.15
 		},
 		{
