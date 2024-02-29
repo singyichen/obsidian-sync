@@ -25,7 +25,7 @@ tags: [excalidraw]
 使用舊制 ^CNgGWVfj
 
 注意事項：
-1. ^SEpg5onv
+1.行業納入勞基法時間 ^SEpg5onv
 
 %%
 # Drawing
@@ -4556,8 +4556,8 @@ tags: [excalidraw]
 		{
 			"id": "AmtL-gz2IhhxN5SuoUswg",
 			"type": "rectangle",
-			"x": -102.22545552820057,
-			"y": 86.54850727499996,
+			"x": -349.95693700968195,
+			"y": 77.12431746018513,
 			"width": 211.15162037037035,
 			"height": 141.0445601851851,
 			"angle": 0,
@@ -4574,20 +4574,20 @@ tags: [excalidraw]
 				"type": 3
 			},
 			"seed": 1818005688,
-			"version": 107,
-			"versionNonce": 1270626760,
+			"version": 307,
+			"versionNonce": 1959866568,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1709188636257,
+			"updated": 1709188681759,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "SEpg5onv",
 			"type": "text",
-			"x": -72.42510830597831,
-			"y": 106.62373875648143,
-			"width": 80,
+			"x": -325.87707589857087,
+			"y": 90.82223412685175,
+			"width": 157.34375,
 			"height": 36.8,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -4601,22 +4601,22 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1712511160,
-			"version": 36,
-			"versionNonce": 987196104,
+			"version": 300,
+			"versionNonce": 603969480,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709188650045,
+			"updated": 1709188681759,
 			"link": null,
 			"locked": false,
-			"text": "注意事項：\n1.",
-			"rawText": "注意事項：\n1.",
+			"text": "注意事項：\n1.行業納入勞基法時間",
+			"rawText": "注意事項：\n1.行業納入勞基法時間",
 			"fontSize": 16,
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 33,
 			"containerId": null,
-			"originalText": "注意事項：\n1.",
+			"originalText": "注意事項：\n1.行業納入勞基法時間",
 			"lineHeight": 1.15
 		},
 		{
