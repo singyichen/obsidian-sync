@@ -35,7 +35,8 @@ published: false
 
 ## 勞動基準法沿革
 
-- [[全國法規資料庫勞動基準法]]
+- [全國法規資料庫勞動基準法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030001)
+- [勞動部勞動法令查詢系統](https://laws.mol.gov.tw/)
 
 
 # 作業
