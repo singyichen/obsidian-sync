@@ -16,6 +16,9 @@ tags: [excalidraw]
 
 107.11.21 ^SXkoLlVV
 
+工廠法
+  制定 ^Ir3KFo2Z
+
 %%
 # Drawing
 ```json
@@ -280,8 +283,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 580,
-			"versionNonce": 877392824,
+			"version": 584,
+			"versionNonce": 2087666376,
 			"isDeleted": false,
 			"id": "fU4DfUsE",
 			"fillStyle": "solid",
@@ -292,7 +295,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": -72.83433925422833,
 			"y": -211.47306116069848,
-			"strokeColor": "#1971c2",
+			"strokeColor": "#846358",
 			"backgroundColor": "transparent",
 			"width": 77.8515625,
 			"height": 23,
@@ -303,7 +306,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709261924363,
+			"updated": 1709261981449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -399,12 +402,51 @@ tags: [excalidraw]
 			"originalText": "107.11.21",
 			"lineHeight": 1.15,
 			"baseline": 19
+		},
+		{
+			"type": "text",
+			"version": 357,
+			"versionNonce": 319078072,
+			"isDeleted": false,
+			"id": "Ir3KFo2Z",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -104.5500183567458,
+			"y": -38.56948093284217,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 46,
+			"seed": 1358143176,
+			"groupIds": [
+				"557VdgdbaMFmwWoDjhVDj"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709262009630,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "工廠法\n  制定",
+			"rawText": "工廠法\n  制定",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "工廠法\n  制定",
+			"lineHeight": 1.15,
+			"baseline": 42
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#846358",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
