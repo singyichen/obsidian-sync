@@ -19,6 +19,15 @@ tags: [excalidraw]
 工廠法
   制定 ^Ir3KFo2Z
 
+工廠法
+  實施 ^15VFYbdt
+
+工廠法
+  廢止 ^S2hTJY5k
+
+勞基法
+公佈實施 ^T3HvEaah
+
 %%
 # Drawing
 ```json
@@ -405,8 +414,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 357,
-			"versionNonce": 319078072,
+			"version": 445,
+			"versionNonce": 2078876600,
 			"isDeleted": false,
 			"id": "Ir3KFo2Z",
 			"fillStyle": "solid",
@@ -415,8 +424,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -104.5500183567458,
-			"y": -38.56948093284217,
+			"x": -401.0017576032878,
+			"y": -103.78055530976792,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 60,
@@ -428,7 +437,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709262009630,
+			"updated": 1709262019379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -439,6 +448,123 @@ tags: [excalidraw]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "工廠法\n  制定",
+			"lineHeight": 1.15,
+			"baseline": 42
+		},
+		{
+			"type": "text",
+			"version": 516,
+			"versionNonce": 786862008,
+			"isDeleted": false,
+			"id": "15VFYbdt",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -241.55659043479125,
+			"y": -103.7889236151014,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 46,
+			"seed": 768197064,
+			"groupIds": [
+				"PRQrmfrCNZNfe2w6_rZE_"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709262029725,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "工廠法\n  實施",
+			"rawText": "工廠法\n  實施",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "工廠法\n  實施",
+			"lineHeight": 1.15,
+			"baseline": 42
+		},
+		{
+			"type": "text",
+			"version": 613,
+			"versionNonce": 654186696,
+			"isDeleted": false,
+			"id": "S2hTJY5k",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 137.77657466437927,
+			"y": -108.38470173956665,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 46,
+			"seed": 161805240,
+			"groupIds": [
+				"B9rxURaTfGwcigi1GZz8L"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709262042972,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "工廠法\n  廢止",
+			"rawText": "工廠法\n  廢止",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "工廠法\n  廢止",
+			"lineHeight": 1.15,
+			"baseline": 42
+		},
+		{
+			"type": "text",
+			"version": 716,
+			"versionNonce": 804152760,
+			"isDeleted": false,
+			"id": "T3HvEaah",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -66.37138961773019,
+			"y": -109.43017028294491,
+			"strokeColor": "#846358",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 46,
+			"seed": 174552264,
+			"groupIds": [
+				"Dgy7-yZFz91dv7Gd1O4V-"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709262066512,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "勞基法\n公佈實施",
+			"rawText": "勞基法\n公佈實施",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "勞基法\n公佈實施",
 			"lineHeight": 1.15,
 			"baseline": 42
 		}
