@@ -49,18 +49,19 @@ tags: [excalidraw]
 			"opacity": 100,
 			"groupIds": [
 				"nxrs-aGfb7SpeQlkYIujo",
-				"tSTxT0odMOuHRayoYjF57"
+				"tSTxT0odMOuHRayoYjF57",
+				"DgEmOi7Hh9TLlFBl6zo78"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 817972424,
-			"version": 251,
-			"versionNonce": 58857160,
+			"version": 252,
+			"versionNonce": 763362760,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260232900,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96,18 +97,19 @@ tags: [excalidraw]
 			"opacity": 100,
 			"groupIds": [
 				"nxrs-aGfb7SpeQlkYIujo",
-				"tSTxT0odMOuHRayoYjF57"
+				"tSTxT0odMOuHRayoYjF57",
+				"DgEmOi7Hh9TLlFBl6zo78"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 1937923512,
-			"version": 230,
-			"versionNonce": 933494216,
+			"version": 231,
+			"versionNonce": 1759355576,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260232900,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143,18 +145,19 @@ tags: [excalidraw]
 			"opacity": 100,
 			"groupIds": [
 				"nxrs-aGfb7SpeQlkYIujo",
-				"tSTxT0odMOuHRayoYjF57"
+				"tSTxT0odMOuHRayoYjF57",
+				"DgEmOi7Hh9TLlFBl6zo78"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 1579455688,
-			"version": 271,
-			"versionNonce": 2096170184,
+			"version": 272,
+			"versionNonce": 1464665288,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260232900,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -190,18 +193,19 @@ tags: [excalidraw]
 			"opacity": 100,
 			"groupIds": [
 				"nxrs-aGfb7SpeQlkYIujo",
-				"tSTxT0odMOuHRayoYjF57"
+				"tSTxT0odMOuHRayoYjF57",
+				"DgEmOi7Hh9TLlFBl6zo78"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 518723016,
-			"version": 138,
-			"versionNonce": 1090857928,
+			"version": 139,
+			"versionNonce": 1401457592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260232900,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -237,18 +241,19 @@ tags: [excalidraw]
 			"opacity": 100,
 			"groupIds": [
 				"nxrs-aGfb7SpeQlkYIujo",
-				"tSTxT0odMOuHRayoYjF57"
+				"tSTxT0odMOuHRayoYjF57",
+				"DgEmOi7Hh9TLlFBl6zo78"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 1365156792,
-			"version": 214,
-			"versionNonce": 1576825544,
+			"version": 215,
+			"versionNonce": 1877027784,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260232900,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -283,16 +288,17 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [
-				"tSTxT0odMOuHRayoYjF57"
+				"tSTxT0odMOuHRayoYjF57",
+				"DgEmOi7Hh9TLlFBl6zo78"
 			],
 			"frameId": null,
 			"roundness": null,
 			"seed": 499446200,
-			"version": 107,
-			"versionNonce": 953668280,
+			"version": 108,
+			"versionNonce": 1525568696,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260719006,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"text": "憲法",
@@ -308,8 +314,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 175,
-			"versionNonce": 47875528,
+			"version": 176,
+			"versionNonce": 1364751048,
 			"isDeleted": false,
 			"id": "uE9DhRkK",
 			"fillStyle": "solid",
@@ -326,12 +332,13 @@ tags: [excalidraw]
 			"height": 35,
 			"seed": 1910412216,
 			"groupIds": [
-				"tSTxT0odMOuHRayoYjF57"
+				"tSTxT0odMOuHRayoYjF57",
+				"DgEmOi7Hh9TLlFBl6zo78"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709260737565,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -347,8 +354,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 206,
-			"versionNonce": 684355512,
+			"version": 208,
+			"versionNonce": 1689451960,
 			"isDeleted": false,
 			"id": "ixjPnQiF",
 			"fillStyle": "solid",
@@ -359,18 +366,19 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": -155.31640625,
 			"y": 80.8046875,
-			"strokeColor": "#343a40",
+			"strokeColor": "#099268",
 			"backgroundColor": "#ffec99",
 			"width": 56,
 			"height": 35,
 			"seed": 1062384312,
 			"groupIds": [
-				"tSTxT0odMOuHRayoYjF57"
+				"tSTxT0odMOuHRayoYjF57",
+				"DgEmOi7Hh9TLlFBl6zo78"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709260474437,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -399,15 +407,17 @@ tags: [excalidraw]
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"DgEmOi7Hh9TLlFBl6zo78"
+			],
 			"frameId": null,
 			"roundness": null,
 			"seed": 1089713608,
-			"version": 373,
-			"versionNonce": 1324953800,
+			"version": 374,
+			"versionNonce": 844028360,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260729248,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"text": "• 效力最高\n• 民國 36 年12 月 25 日正式實施",
@@ -423,8 +433,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 575,
-			"versionNonce": 430303432,
+			"version": 576,
+			"versionNonce": 33195704,
 			"isDeleted": false,
 			"id": "YdoGg2nm",
 			"fillStyle": "solid",
@@ -440,11 +450,13 @@ tags: [excalidraw]
 			"width": 202.046875,
 			"height": 36.8,
 			"seed": 2034996920,
-			"groupIds": [],
+			"groupIds": [
+				"DgEmOi7Hh9TLlFBl6zo78"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709260746209,
+			"updated": 1709260776147,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -460,8 +472,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 561,
-			"versionNonce": 1907276984,
+			"version": 564,
+			"versionNonce": 367026376,
 			"isDeleted": false,
 			"id": "KXvWDLbz",
 			"fillStyle": "solid",
@@ -472,16 +484,18 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": 107.26953125,
 			"y": 74.7875,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#12b886",
 			"backgroundColor": "#ffec99",
 			"width": 234.046875,
 			"height": 55.199999999999996,
 			"seed": 2122376632,
-			"groupIds": [],
+			"groupIds": [
+				"DgEmOi7Hh9TLlFBl6zo78"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709260702232,
+			"updated": 1709260776148,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -536,7 +550,7 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#228be6",
+		"currentItemStrokeColor": "#12b886",
 		"currentItemBackgroundColor": "#ffec99",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
