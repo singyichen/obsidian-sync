@@ -16,8 +16,19 @@
                 "file": "Excalidraw/severance-pay.md"
               }
             }
+          },
+          {
+            "id": "b0b40e80bce5125f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Rank and Effect of Law.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/severance-pay.md",
+                "file": "Excalidraw/Rank and Effect of Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/severance-pay.md",
+                "file": "Excalidraw/Rank and Effect of Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/severance-pay.md"
+                "file": "Excalidraw/Rank and Effect of Law.md"
               }
             }
           },
@@ -208,13 +219,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "046768f9debaa6df",
+  "active": "b0b40e80bce5125f",
   "lastOpenFiles": [
+    "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/Rank and Effect of Law.md",
+    "Excalidraw/severance-pay.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
-    "Excalidraw/severance-pay.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product/core-product.md",
     "Excalidraw/PARA.md",
@@ -244,7 +257,6 @@
     "Templates/meeting-template.md",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/node-web-framework.md",
-    "Excalidraw/lottery-system-tech.md",
     "02.Areas/Test/Test.md",
     "Images/zeabur-logo.png",
     "Images/united-states-flag.jpg",
@@ -256,7 +268,6 @@
     "Images/fastify-logo.png",
     "Images/koa-logo.png",
     "02.Areas/Framework/backend/comparison.md",
-    "Templates/icon-template.md",
     "未命名.canvas",
     "Excalidraw/未命名.canvas"
   ]
