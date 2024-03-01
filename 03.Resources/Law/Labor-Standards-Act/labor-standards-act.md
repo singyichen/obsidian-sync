@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-03-01T10:16
+updated: 2024-03-01T10:41
 title: labor-standards-act
 description: 
 author: mandy
@@ -30,7 +30,7 @@ published: false
 
 勞基法是特別法，遇到其他法律會以特別法優先，若特別法沒有的部分會由其他法則補足
 
-
+![[rank-and-effect-of-law|1000]]
 # 作業
 ## 作業1(全) :
 
