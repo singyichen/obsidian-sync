@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-29T13:32
+updated: 2024-03-01T10:02
 title: labor-standards-act
 description: 
 author: mandy
@@ -22,7 +22,7 @@ published: false
 - [ ] []()
 - [ ] []()
 
-**
+
 
 # 作業1(全) :
 

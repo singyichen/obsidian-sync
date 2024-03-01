@@ -11,9 +11,11 @@
             "id": "d7531d96953c161f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/severance-pay.md"
+                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/severance-pay.md",
+                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/severance-pay.md",
+                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/severance-pay.md"
+                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md"
               }
             }
           },
@@ -211,14 +213,14 @@
   },
   "active": "d7531d96953c161f",
   "lastOpenFiles": [
-    "Excalidraw/PARA.md",
+    "01.Projects/勞務法務/勞動法務輔導專案.md",
+    "01.Projects/core-product/core-product.md",
     "Excalidraw/severance-pay.md",
+    "Excalidraw/PARA.md",
     "Excalidraw/jwt.md",
     "Excalidraw/backend-logo.md",
     "software.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
-    "01.Projects/勞務法務/勞動法務輔導專案.md",
-    "01.Projects/core-product/core-product.md",
     "01.Projects/trendlink/backend.md",
     "README.md",
     "Xmind/一鍵發薪.xmind",
