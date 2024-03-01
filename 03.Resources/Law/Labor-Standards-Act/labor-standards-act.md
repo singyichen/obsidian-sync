@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-03-01T10:05
+updated: 2024-03-01T10:06
 title: labor-standards-act
 description: 
 author: mandy
@@ -142,7 +142,7 @@ A:除了一般非定期契約的受僱勞工外，如果是定期契約的約聘
 
 4.納入勞基法之前年資
 
-  
+
 
 ## 作業11(全) :
 
