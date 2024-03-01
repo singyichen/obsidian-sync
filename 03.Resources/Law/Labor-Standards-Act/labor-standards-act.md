@@ -33,9 +33,9 @@ published: false
 
 ![[rank-and-effect-of-law|1000]]
 
+## 勞動基準法沿革
 
-
-
+- 
 
 
 # 作業
