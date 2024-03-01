@@ -20,8 +20,9 @@ tags: [excalidraw]
 • 立法院三讀通過總統公布
 • 命名：法、律、條例、通則 ^YdoGg2nm
 
-• 立法院三讀通過總統公布
-• 命名：法、律、條例、通則 ^KXvWDLbz
+• 行政機關自行公布
+• 命名：規程、規則、細則、辦法
+             綱要、標準、準則 ^KXvWDLbz
 
 %%
 # Drawing
@@ -459,8 +460,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 463,
-			"versionNonce": 1904368568,
+			"version": 550,
+			"versionNonce": 170203848,
 			"isDeleted": false,
 			"id": "KXvWDLbz",
 			"fillStyle": "solid",
@@ -473,26 +474,26 @@ tags: [excalidraw]
 			"y": 74.7875,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
-			"width": 202.046875,
-			"height": 36.8,
+			"width": 234.046875,
+			"height": 55.199999999999996,
 			"seed": 2122376632,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709260580446,
+			"updated": 1709260673532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 2,
-			"text": "• 立法院三讀通過總統公布\n• 命名：法、律、條例、通則",
-			"rawText": "• 立法院三讀通過總統公布\n• 命名：法、律、條例、通則",
+			"text": "• 行政機關自行公布\n• 命名：規程、規則、細則、辦法\n             綱要、標準、準則",
+			"rawText": "• 行政機關自行公布\n• 命名：規程、規則、細則、辦法\n             綱要、標準、準則",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 立法院三讀通過總統公布\n• 命名：法、律、條例、通則",
+			"originalText": "• 行政機關自行公布\n• 命名：規程、規則、細則、辦法\n             綱要、標準、準則",
 			"lineHeight": 1.15,
-			"baseline": 33
+			"baseline": 51
 		},
 		{
 			"type": "text",
