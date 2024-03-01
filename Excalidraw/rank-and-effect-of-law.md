@@ -14,7 +14,7 @@ tags: [excalidraw]
 
 命令 ^ixjPnQiF
 
-效力最高 ^v7woioCv
+• 效力最高 ^v7woioCv
 
 %%
 # Drawing
@@ -379,9 +379,9 @@ tags: [excalidraw]
 		{
 			"id": "v7woioCv",
 			"type": "text",
-			"x": 41.4453125,
-			"y": -215.171875,
-			"width": 64,
+			"x": 28.48828125,
+			"y": -223.38671875,
+			"width": 77.15199279785156,
 			"height": 20,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -395,22 +395,22 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1089713608,
-			"version": 106,
-			"versionNonce": 1700702136,
+			"version": 134,
+			"versionNonce": 1189387976,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260295200,
+			"updated": 1709260367798,
 			"link": null,
 			"locked": false,
-			"text": "效力最高",
-			"rawText": "效力最高",
+			"text": "• 效力最高",
+			"rawText": "• 效力最高",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 14,
 			"containerId": null,
-			"originalText": "效力最高",
+			"originalText": "• 效力最高",
 			"lineHeight": 1.25
 		}
 	],
