@@ -21,6 +21,7 @@ tags: [excalidraw]
 • 命名：法、律、條例、通則 ^YdoGg2nm
 
 • 行政機關自行公布
+• 緊急命令、法規命令、行政規則
 • 命名：規程、規則、細則、辦法
   綱要、標準、準則 ^KXvWDLbz
 
@@ -132,8 +133,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "line",
-			"version": 272,
-			"versionNonce": 1464665288,
+			"version": 294,
+			"versionNonce": 2038245560,
 			"isDeleted": false,
 			"id": "9gSqORB8mg5OCKUGfa7yM",
 			"fillStyle": "solid",
@@ -146,8 +147,8 @@ tags: [excalidraw]
 			"y": 164.9765625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
-			"width": 468.62890625,
-			"height": 1.2578125,
+			"width": 466.09309895833337,
+			"height": 1.0559895833333712,
 			"seed": 1579455688,
 			"groupIds": [
 				"nxrs-aGfb7SpeQlkYIujo",
@@ -159,7 +160,7 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709260776147,
+			"updated": 1709262868999,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -173,8 +174,8 @@ tags: [excalidraw]
 					0
 				],
 				[
-					468.62890625,
-					1.2578125
+					466.09309895833337,
+					1.0559895833333712
 				]
 			]
 		},
@@ -474,8 +475,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 564,
-			"versionNonce": 367026376,
+			"version": 653,
+			"versionNonce": 1533827784,
 			"isDeleted": false,
 			"id": "KXvWDLbz",
 			"fillStyle": "solid",
@@ -484,12 +485,12 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 107.26953125,
-			"y": 74.7875,
+			"x": 104.662109375,
+			"y": 58.635156249999994,
 			"strokeColor": "#12b886",
 			"backgroundColor": "#ffec99",
 			"width": 234.046875,
-			"height": 55.199999999999996,
+			"height": 73.6,
 			"seed": 2122376632,
 			"groupIds": [
 				"DgEmOi7Hh9TLlFBl6zo78"
@@ -497,19 +498,19 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709260776148,
+			"updated": 1709262860080,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 2,
-			"text": "• 行政機關自行公布\n• 命名：規程、規則、細則、辦法\n  綱要、標準、準則",
-			"rawText": "• 行政機關自行公布\n• 命名：規程、規則、細則、辦法\n  綱要、標準、準則",
+			"text": "• 行政機關自行公布\n• 緊急命令、法規命令、行政規則\n• 命名：規程、規則、細則、辦法\n  綱要、標準、準則",
+			"rawText": "• 行政機關自行公布\n• 緊急命令、法規命令、行政規則\n• 命名：規程、規則、細則、辦法\n  綱要、標準、準則",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 行政機關自行公布\n• 命名：規程、規則、細則、辦法\n  綱要、標準、準則",
+			"originalText": "• 行政機關自行公布\n• 緊急命令、法規命令、行政規則\n• 命名：規程、規則、細則、辦法\n  綱要、標準、準則",
 			"lineHeight": 1.15,
-			"baseline": 51
+			"baseline": 70
 		},
 		{
 			"type": "rectangle",
@@ -605,7 +606,7 @@ tags: [excalidraw]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 375.8181318526466,
-		"scrollY": 435.0271992490296,
+		"scrollY": 435.4357278948629,
 		"zoom": {
 			"value": 1.2000000000000002
 		},

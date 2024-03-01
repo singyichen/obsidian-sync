@@ -31,11 +31,9 @@
             "id": "4b7ddf4460b4bf5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+                "file": "Excalidraw/rank-and-effect-of-law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+                "file": "Excalidraw/rank-and-effect-of-law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md"
+                "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
           },
@@ -233,8 +231,8 @@
   },
   "active": "4b7ddf4460b4bf5a",
   "lastOpenFiles": [
-    "Excalidraw/rank-and-effect-of-law.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+    "Excalidraw/rank-and-effect-of-law.md",
     "Excalidraw/PARA.md",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/node-web-framework.md",
