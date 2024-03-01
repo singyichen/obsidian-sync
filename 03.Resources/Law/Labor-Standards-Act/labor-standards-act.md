@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-03-01T10:47
+updated: 2024-03-01T11:20
 title: labor-standards-act
 description: 
 author: mandy
@@ -38,7 +38,7 @@ published: false
 - [全國法規資料庫勞動基準法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030001)
 - [勞動部勞動法令查詢系統](https://laws.mol.gov.tw/)
 
-
+![[history-of-the-labor-standards-act|1000]]
 # 作業
 ## 作業1(全) :
 
