@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/severance-pay.md"
+                "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/severance-pay.md",
+                "file": "Excalidraw/rank-and-effect-of-law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/severance-pay.md",
+                "file": "Excalidraw/rank-and-effect-of-law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/severance-pay.md"
+                "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
           },
@@ -221,8 +221,8 @@
   },
   "active": "b0b40e80bce5125f",
   "lastOpenFiles": [
-    "Excalidraw/rank-and-effect-of-law.md",
     "Excalidraw/severance-pay.md",
+    "Excalidraw/rank-and-effect-of-law.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/symmetricds-usage-user-case.md",
