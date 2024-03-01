@@ -33,7 +33,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "Excalidraw/rank-and-effect-of-law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/node-web-framework.md",
+                "file": "Excalidraw/rank-and-effect-of-law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/node-web-framework.md"
+                "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
           },
@@ -231,12 +231,14 @@
   },
   "active": "4b7ddf4460b4bf5a",
   "lastOpenFiles": [
+    "Excalidraw/PARA.md",
+    "Excalidraw/paas-comparsion.md",
+    "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/jwt.md",
     "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/backend-logo.md",
     "Excalidraw/rank-and-effect-of-law.md",
-    "Excalidraw/paas-comparsion.md",
     "Excalidraw/severance-pay.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "Excalidraw/symmetricds-usage-user-case.md",
@@ -244,7 +246,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product/core-product.md",
-    "Excalidraw/PARA.md",
     "software.md",
     "01.Projects/trendlink/backend.md",
     "README.md",
@@ -267,7 +268,6 @@
     "01.Projects",
     "images/playwright-logo.svg",
     "Templates/meeting-template.md",
-    "Excalidraw/node-web-framework.md",
     "02.Areas/Test/Test.md",
     "Images/zeabur-logo.png",
     "Images/united-states-flag.jpg",
