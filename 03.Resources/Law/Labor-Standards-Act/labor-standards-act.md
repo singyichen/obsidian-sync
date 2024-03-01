@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-03-01T10:43
+updated: 2024-03-01T10:47
 title: labor-standards-act
 description: 
 author: mandy
@@ -35,7 +35,7 @@ published: false
 
 ## 勞動基準法沿革
 
-- 
+- [[全國法規資料庫勞動基準法]]
 
 
 # 作業
