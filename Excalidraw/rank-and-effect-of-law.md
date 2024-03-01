@@ -17,8 +17,8 @@ tags: [excalidraw]
 • 效力最高
 • 民國 36 年12 月 25 日正式實施 ^v7woioCv
 
-• 效力最高
-• 民國 36 年12 月 25 日正式實施 ^YdoGg2nm
+• 立法院三讀通過總統公布
+• 命名：法、律、條例、通則 ^YdoGg2nm
 
 %%
 # Drawing
@@ -419,8 +419,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 1409415352,
+			"version": 425,
+			"versionNonce": 377597640,
 			"isDeleted": false,
 			"id": "YdoGg2nm",
 			"fillStyle": "solid",
@@ -433,24 +433,24 @@ tags: [excalidraw]
 			"y": -71.37265624999998,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
-			"width": 229.6640625,
+			"width": 202.046875,
 			"height": 36.8,
 			"seed": 2034996920,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709260482131,
+			"updated": 1709260552695,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 2,
-			"text": "• 效力最高\n• 民國 36 年12 月 25 日正式實施",
-			"rawText": "• 效力最高\n• 民國 36 年12 月 25 日正式實施",
+			"text": "• 立法院三讀通過總統公布\n• 命名：法、律、條例、通則",
+			"rawText": "• 立法院三讀通過總統公布\n• 命名：法、律、條例、通則",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 效力最高\n• 民國 36 年12 月 25 日正式實施",
+			"originalText": "• 立法院三讀通過總統公布\n• 命名：法、律、條例、通則",
 			"lineHeight": 1.15,
 			"baseline": 33
 		}
