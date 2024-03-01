@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Rank and Effect of Law.md"
+                "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Rank and Effect of Law.md",
+                "file": "Excalidraw/rank-and-effect-of-law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Rank and Effect of Law.md",
+                "file": "Excalidraw/rank-and-effect-of-law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Rank and Effect of Law.md"
+                "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
           },
@@ -219,10 +219,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b0b40e80bce5125f",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
     "Excalidraw/lottery-system-tech.md",
-    "Excalidraw/Rank and Effect of Law.md",
+    "Excalidraw/rank-and-effect-of-law.md",
     "Excalidraw/severance-pay.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
