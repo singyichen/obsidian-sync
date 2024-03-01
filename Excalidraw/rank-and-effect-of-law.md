@@ -24,7 +24,7 @@ tags: [excalidraw]
 • 命名：規程、規則、細則、辦法
   綱要、標準、準則 ^KXvWDLbz
 
-法律 ^hm9wYq3s
+法的位階與效力 ^hm9wYq3s
 
 %%
 # Drawing
@@ -513,8 +513,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 629,
-			"versionNonce": 935250104,
+			"version": 717,
+			"versionNonce": 1898246344,
 			"isDeleted": false,
 			"id": "b5AEHxOu0SUru0PY8lQ2l",
 			"fillStyle": "solid",
@@ -523,8 +523,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -174.8165608662499,
-			"y": -343.06171882123755,
+			"x": -167.11148274124994,
+			"y": -335.79934902957086,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#a18072",
 			"width": 292.8080559438732,
@@ -544,14 +544,14 @@ tags: [excalidraw]
 					"id": "hm9wYq3s"
 				}
 			],
-			"updated": 1709262650868,
+			"updated": 1709262761514,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 568,
-			"versionNonce": 2126664392,
+			"version": 678,
+			"versionNonce": 1608226760,
 			"isDeleted": false,
 			"id": "hm9wYq3s",
 			"fillStyle": "solid",
@@ -560,12 +560,12 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -64.41253289431327,
-			"y": -338.06171882123755,
+			"x": -146.70745476931333,
+			"y": -328.99934902957085,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 72,
-			"height": 45,
+			"width": 252,
+			"height": 41.4,
 			"seed": 1734961352,
 			"groupIds": [
 				"6kJ2jLCIuw2GHjI75zNqT",
@@ -574,19 +574,19 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709262661929,
+			"updated": 1709262761514,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "法律",
-			"rawText": "法律",
+			"fontFamily": 2,
+			"text": "法的位階與效力",
+			"rawText": "法的位階與效力",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "b5AEHxOu0SUru0PY8lQ2l",
-			"originalText": "法律",
-			"lineHeight": 1.25,
-			"baseline": 32
+			"originalText": "法的位階與效力",
+			"lineHeight": 1.15,
+			"baseline": 33
 		}
 	],
 	"appState": {
@@ -604,8 +604,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 379.15146518598,
-		"scrollY": 424.6697917379044,
+		"scrollX": 375.8181318526466,
+		"scrollY": 435.0271992490296,
 		"zoom": {
 			"value": 1.2000000000000002
 		},
