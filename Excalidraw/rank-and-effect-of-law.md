@@ -14,6 +14,8 @@ tags: [excalidraw]
 
 命令 ^ixjPnQiF
 
+效力最高 ^v7woioCv
+
 %%
 # Drawing
 ```json
@@ -373,6 +375,43 @@ tags: [excalidraw]
 			"originalText": "命令",
 			"lineHeight": 1.25,
 			"baseline": 25
+		},
+		{
+			"id": "v7woioCv",
+			"type": "text",
+			"x": 41.4453125,
+			"y": -215.171875,
+			"width": 64,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffec99",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1089713608,
+			"version": 106,
+			"versionNonce": 1700702136,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709260295200,
+			"link": null,
+			"locked": false,
+			"text": "效力最高",
+			"rawText": "效力最高",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "效力最高",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -386,7 +425,7 @@ tags: [excalidraw]
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 28,
+		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
