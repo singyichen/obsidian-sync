@@ -26,9 +26,19 @@
                 "file": "Excalidraw/rank-and-effect-of-law.md"
               }
             }
+          },
+          {
+            "id": "4b7ddf4460b4bf5a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/history-of-the-labor-standards-act.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/rank-and-effect-of-law.md",
+                "file": "Excalidraw/history-of-the-labor-standards-act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/rank-and-effect-of-law.md",
+                "file": "Excalidraw/history-of-the-labor-standards-act.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/rank-and-effect-of-law.md"
+                "file": "Excalidraw/history-of-the-labor-standards-act.md"
               }
             }
           },
@@ -219,10 +229,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b0b40e80bce5125f",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
-    "Excalidraw/severance-pay.md",
+    "Excalidraw/paas-comparsion.md",
+    "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/rank-and-effect-of-law.md",
+    "Excalidraw/severance-pay.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/symmetricds-usage-user-case.md",
@@ -255,7 +267,6 @@
     "01.Projects",
     "images/playwright-logo.svg",
     "Templates/meeting-template.md",
-    "Excalidraw/paas-comparsion.md",
     "Excalidraw/node-web-framework.md",
     "02.Areas/Test/Test.md",
     "Images/zeabur-logo.png",
@@ -267,7 +278,6 @@
     "Images/hapi-logo.png",
     "Images/fastify-logo.png",
     "Images/koa-logo.png",
-    "02.Areas/Framework/backend/comparison.md",
     "未命名.canvas",
     "Excalidraw/未命名.canvas"
   ]
