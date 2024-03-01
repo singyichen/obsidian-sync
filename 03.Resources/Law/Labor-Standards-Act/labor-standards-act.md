@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-03-01T10:11
+updated: 2024-03-01T10:16
 title: labor-standards-act
 description: 
 author: mandy
@@ -21,6 +21,14 @@ published: false
 
 - [ ] []()
 - [ ] []()
+
+
+# 勞動基準法
+## 勞動基準法(法律位階) 
+
+公司服務基本的法令依循 
+
+勞基法是特別法，遇到其他法律會以特別法優先，若特別法沒有的部分會由其他法則補足
 
 
 # 作業
