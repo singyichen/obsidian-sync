@@ -28,6 +28,8 @@ tags: [excalidraw]
   勞基法
 公佈實施 ^T3HvEaah
 
+勞動基準法沿革 ^lXXf9oVQ
+
 %%
 # Drawing
 ```json
@@ -567,6 +569,83 @@ tags: [excalidraw]
 			"originalText": "  勞基法\n公佈實施",
 			"lineHeight": 1.15,
 			"baseline": 42
+		},
+		{
+			"type": "rectangle",
+			"version": 879,
+			"versionNonce": 500049096,
+			"isDeleted": false,
+			"id": "QqDDDd2wBmMcAKtIyXOQe",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -156.62037239450433,
+			"y": -379.07270812306024,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#a18072",
+			"width": 292.8080559438732,
+			"height": 55,
+			"seed": 64473016,
+			"groupIds": [
+				"P7TK-pdO5OzH7sTDhjSgU",
+				"a7018Lc6PYEBzAV6irl27"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "lXXf9oVQ"
+				}
+			],
+			"updated": 1709262898647,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 842,
+			"versionNonce": 1447248312,
+			"isDeleted": false,
+			"id": "lXXf9oVQ",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -136.21634442256772,
+			"y": -372.2727081230602,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 252,
+			"height": 41.4,
+			"seed": 905318584,
+			"groupIds": [
+				"P7TK-pdO5OzH7sTDhjSgU",
+				"a7018Lc6PYEBzAV6irl27"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709262913817,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 2,
+			"text": "勞動基準法沿革",
+			"rawText": "勞動基準法沿革",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "QqDDDd2wBmMcAKtIyXOQe",
+			"originalText": "勞動基準法沿革",
+			"lineHeight": 1.15,
+			"baseline": 33
 		}
 	],
 	"appState": {
@@ -584,10 +663,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 498.39698779972093,
-		"scrollY": 574.6623476983257,
+		"scrollX": 457.12423915940974,
+		"scrollY": 578.0200765441128,
 		"zoom": {
-			"value": 0.8933130884071517
+			"value": 0.9500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
