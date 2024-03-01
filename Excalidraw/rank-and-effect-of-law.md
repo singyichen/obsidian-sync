@@ -14,7 +14,8 @@ tags: [excalidraw]
 
 命令 ^ixjPnQiF
 
-• 效力最高 ^v7woioCv
+• 效力最高
+• 民國 36 年12 月 25 日正式實施 ^v7woioCv
 
 %%
 # Drawing
@@ -379,10 +380,10 @@ tags: [excalidraw]
 		{
 			"id": "v7woioCv",
 			"type": "text",
-			"x": 28.48828125,
+			"x": 27.74609375,
 			"y": -223.38671875,
-			"width": 77.15199279785156,
-			"height": 20,
+			"width": 229.6640625,
+			"height": 36.8,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
@@ -395,23 +396,23 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1089713608,
-			"version": 134,
-			"versionNonce": 1189387976,
+			"version": 213,
+			"versionNonce": 569259704,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709260367798,
+			"updated": 1709260437521,
 			"link": null,
 			"locked": false,
-			"text": "• 效力最高",
-			"rawText": "• 效力最高",
+			"text": "• 效力最高\n• 民國 36 年12 月 25 日正式實施",
+			"rawText": "• 效力最高\n• 民國 36 年12 月 25 日正式實施",
 			"fontSize": 16,
-			"fontFamily": 1,
+			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 14,
+			"baseline": 33,
 			"containerId": null,
-			"originalText": "• 效力最高",
-			"lineHeight": 1.25
+			"originalText": "• 效力最高\n• 民國 36 年12 月 25 日正式實施",
+			"lineHeight": 1.15
 		}
 	],
 	"appState": {
@@ -424,7 +425,7 @@ tags: [excalidraw]
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
+		"currentItemFontFamily": 2,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
