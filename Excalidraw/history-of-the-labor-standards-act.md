@@ -25,7 +25,7 @@ tags: [excalidraw]
 工廠法
   廢止 ^S2hTJY5k
 
-勞基法
+  勞基法
 公佈實施 ^T3HvEaah
 
 %%
@@ -531,8 +531,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 716,
-			"versionNonce": 804152760,
+			"version": 757,
+			"versionNonce": 1241044424,
 			"isDeleted": false,
 			"id": "T3HvEaah",
 			"fillStyle": "solid",
@@ -541,8 +541,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -66.37138961773019,
-			"y": -109.43017028294491,
+			"x": -73.73512925769148,
+			"y": -106.9158292538607,
 			"strokeColor": "#846358",
 			"backgroundColor": "transparent",
 			"width": 80,
@@ -554,17 +554,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709262066512,
+			"updated": 1709262076394,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "勞基法\n公佈實施",
-			"rawText": "勞基法\n公佈實施",
+			"text": "  勞基法\n公佈實施",
+			"rawText": "  勞基法\n公佈實施",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "勞基法\n公佈實施",
+			"originalText": "  勞基法\n公佈實施",
 			"lineHeight": 1.15,
 			"baseline": 42
 		}
