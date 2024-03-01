@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4cab5442eb35c5c",
+        "id": "21378c52d2f04f19",
         "type": "tabs",
         "children": [
           {
-            "id": "d7531d96953c161f",
+            "id": "046768f9debaa6df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -211,16 +211,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d7531d96953c161f",
+  "active": "046768f9debaa6df",
   "lastOpenFiles": [
+    "Excalidraw/severance-pay.md",
+    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product/core-product.md",
-    "Excalidraw/severance-pay.md",
     "Excalidraw/PARA.md",
     "Excalidraw/jwt.md",
     "Excalidraw/backend-logo.md",
     "software.md",
-    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "01.Projects/trendlink/backend.md",
     "README.md",
     "Xmind/一鍵發薪.xmind",
