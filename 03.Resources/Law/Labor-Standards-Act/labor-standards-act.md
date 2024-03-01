@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-03-01T11:20
+updated: 2024-03-01T11:44
 title: labor-standards-act
 description: 
 author: mandy
