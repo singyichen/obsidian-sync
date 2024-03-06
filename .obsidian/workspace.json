@@ -31,16 +31,24 @@
             "id": "4b7ddf4460b4bf5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/backend-logo.md"
+              }
+            }
+          },
+          {
+            "id": "907a735a88aff655",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+                "file": "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+                "file": "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md"
+                "file": "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md"
               }
             }
           },
@@ -231,18 +239,19 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4b7ddf4460b4bf5a",
+  "active": "907a735a88aff655",
   "lastOpenFiles": [
-    "01.Projects/trendlink/backend.md",
-    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
-    "Excalidraw/history-of-the-labor-standards-act.md",
+    "Excalidraw/backend-logo.md",
+    "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md",
+    "Excalidraw/paas-comparsion.md",
     "Excalidraw/rank-and-effect-of-law.md",
+    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
+    "01.Projects/trendlink/backend.md",
+    "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/PARA.md",
-    "Excalidraw/paas-comparsion.md",
     "Excalidraw/jwt.md",
-    "Excalidraw/backend-logo.md",
     "Excalidraw/severance-pay.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
@@ -270,7 +279,6 @@
     "01.Projects",
     "images/playwright-logo.svg",
     "Templates/meeting-template.md",
-    "02.Areas/Test/Test.md",
     "Images/zeabur-logo.png",
     "Images/united-states-flag.jpg",
     "Images/taiwan-flag.jpg",
