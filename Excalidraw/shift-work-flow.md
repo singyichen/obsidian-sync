@@ -296,8 +296,8 @@ tags: [excalidraw]
 		{
 			"id": "pQwslbwNYs2XGT6024adQ",
 			"type": "rectangle",
-			"x": -317.75,
-			"y": -214.25,
+			"x": -315.75,
+			"y": -210.25,
 			"width": 156,
 			"height": 64,
 			"angle": 0,
@@ -312,8 +312,8 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1735339508,
-			"version": 64,
-			"versionNonce": 491129932,
+			"version": 67,
+			"versionNonce": 57096436,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -321,15 +321,15 @@ tags: [excalidraw]
 					"id": "FsJNphHq"
 				}
 			],
-			"updated": 1710060659322,
+			"updated": 1710060727519,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "FsJNphHq",
 			"type": "text",
-			"x": -279.75,
-			"y": -193.75,
+			"x": -277.75,
+			"y": -189.75,
 			"width": 80,
 			"height": 23,
 			"angle": 0,
@@ -344,11 +344,11 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 652197324,
-			"version": 9,
-			"versionNonce": 1540793036,
+			"version": 12,
+			"versionNonce": 1635514996,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710060659322,
+			"updated": 1710060727519,
 			"link": null,
 			"locked": false,
 			"text": "排班設定",
