@@ -43,7 +43,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md"
+                "file": "Excalidraw/shift-work-flow.md"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md",
+                "file": "Excalidraw/shift-work-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md",
+                "file": "Excalidraw/shift-work-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md"
+                "file": "Excalidraw/shift-work-flow.md"
               }
             }
           },
@@ -239,7 +239,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "907a735a88aff655",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
     "Excalidraw/backend-logo.md",
     "Excalidraw/symmetricds-usage-user-case.md",
@@ -250,7 +250,7 @@
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/history-of-the-labor-standards-act.md",
-    "Excalidraw/Drawing 2024-03-06 10.17.01.excalidraw.md",
+    "Excalidraw/shift-work-flow.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "01.Projects/trendlink/backend.md",
     "Excalidraw/jwt.md",
