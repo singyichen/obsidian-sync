@@ -16,7 +16,7 @@ tags: [excalidraw]
 
 排班設定 ^FsJNphHq
 
-是否開放員工編輯 ^0ZbyPx7D
+是否開放人員在草稿狀態編輯 ^0ZbyPx7D
 
 排班草稿編輯 ^IqEEmYvw
 
@@ -368,8 +368,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 96,
-			"versionNonce": 2092098636,
+			"version": 134,
+			"versionNonce": 938118604,
 			"isDeleted": false,
 			"id": "yia7iATSC4vrhxPRIKwAY",
 			"fillStyle": "solid",
@@ -378,8 +378,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 202.25,
-			"y": -74.0159574468085,
+			"x": 200.25,
+			"y": -22.0159574468085,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 162,
@@ -394,14 +394,14 @@ tags: [excalidraw]
 					"id": "IqEEmYvw"
 				}
 			],
-			"updated": 1710061031160,
+			"updated": 1710061302030,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 92,
-			"versionNonce": 818292,
+			"version": 130,
+			"versionNonce": 24048716,
 			"isDeleted": false,
 			"id": "IqEEmYvw",
 			"fillStyle": "solid",
@@ -410,8 +410,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 232.04002380371094,
-			"y": -51.95320344250537,
+			"x": 230.04002380371094,
+			"y": 0.04679655749463052,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 102.41995239257812,
@@ -421,7 +421,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710061032731,
+			"updated": 1710061302030,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.078651685393265,
@@ -437,8 +437,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "diamond",
-			"version": 713,
-			"versionNonce": 816751988,
+			"version": 835,
+			"versionNonce": 371600716,
 			"isDeleted": false,
 			"id": "givoeqrmqs2P5WfdRImF_",
 			"fillStyle": "solid",
@@ -448,11 +448,11 @@ tags: [excalidraw]
 			"opacity": 100,
 			"angle": 0,
 			"x": -313.9852941176471,
-			"y": 30.33052319640298,
+			"y": -49.669476803597036,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 148.47058823529412,
-			"height": 77.63376251788269,
+			"height": 108,
 			"seed": 2093306700,
 			"groupIds": [],
 			"frameId": null,
@@ -463,14 +463,14 @@ tags: [excalidraw]
 					"id": "0ZbyPx7D"
 				}
 			],
-			"updated": 1710061103768,
+			"updated": 1710061308162,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 926,
-			"versionNonce": 1008850676,
+			"version": 1046,
+			"versionNonce": 1711973324,
 			"isDeleted": false,
 			"id": "0ZbyPx7D",
 			"fillStyle": "solid",
@@ -480,29 +480,29 @@ tags: [excalidraw]
 			"opacity": 100,
 			"angle": 0,
 			"x": -271.21763027415557,
-			"y": 54.80759127685404,
+			"y": -17.316535627126456,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 62.69996643066406,
-			"height": 28.862745098039227,
+			"height": 43.29411764705884,
 			"seed": 2069071692,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710061103768,
+			"updated": 1710061308162,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.549019607843142,
 			"fontFamily": 2,
-			"text": "是否開放員\n工編輯",
-			"rawText": "是否開放員工編輯",
+			"text": "是否開放人\n員在草稿狀\n態編輯",
+			"rawText": "是否開放人員在草稿狀態編輯",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "givoeqrmqs2P5WfdRImF_",
-			"originalText": "是否開放員工編輯",
+			"originalText": "是否開放人員在草稿狀態編輯",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 40
 		}
 	],
 	"appState": {
