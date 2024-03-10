@@ -175,12 +175,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "94.07.01",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 70,
-			"versionNonce": 624436920,
+			"version": 72,
+			"versionNonce": 1170884212,
 			"isDeleted": false,
 			"id": "QESkLk9F",
 			"fillStyle": "solid",
@@ -202,7 +202,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709254338552,
+			"updated": 1710059895082,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -780,8 +780,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 100,
-			"versionNonce": 269051848,
+			"version": 102,
+			"versionNonce": 129665740,
 			"isDeleted": false,
 			"id": "H8K7wnjs",
 			"fillStyle": "solid",
@@ -803,7 +803,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709254338552,
+			"updated": 1710059895082,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -819,8 +819,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 181,
-			"versionNonce": 1568135352,
+			"version": 183,
+			"versionNonce": 1327585268,
 			"isDeleted": false,
 			"id": "x8bGQmMv",
 			"fillStyle": "solid",
@@ -842,7 +842,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709254338552,
+			"updated": 1710059895083,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -858,8 +858,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 957951688,
+			"version": 103,
+			"versionNonce": 808931660,
 			"isDeleted": false,
 			"id": "DbzSXiRR",
 			"fillStyle": "solid",
@@ -881,7 +881,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709254338552,
+			"updated": 1710059895083,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1676,12 +1676,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "?.?.?",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 224,
-			"versionNonce": 514913208,
+			"version": 226,
+			"versionNonce": 244988276,
 			"isDeleted": false,
 			"id": "efyxi4wg",
 			"fillStyle": "solid",
@@ -1703,7 +1703,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709254338552,
+			"updated": 1710059895084,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4558,7 +4558,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "使用舊制",
 			"lineHeight": 1.15,
-			"baseline": 15
+			"baseline": 14
 		},
 		{
 			"type": "rectangle",
@@ -4632,7 +4632,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "• 注意事項：\n1. 行業納入勞基法時間\n2. 納入勞基法之前的年資依\n    條件協商",
 			"lineHeight": 1.15,
-			"baseline": 56
+			"baseline": 55
 		},
 		{
 			"type": "line",
@@ -4717,7 +4717,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "99.06.30",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "freedraw",
@@ -6530,7 +6530,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "可選擇使用新制或沿用舊制",
 			"lineHeight": 1.15,
-			"baseline": 15
+			"baseline": 14
 		},
 		{
 			"type": "rectangle",
@@ -6604,7 +6604,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "• 注意事項：\n1. 有留職停薪的期間年資需\n    扣除\n",
 			"lineHeight": 1.15,
-			"baseline": 56
+			"baseline": 55
 		}
 	],
 	"appState": {
@@ -6622,10 +6622,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 385.38807126894125,
-		"scrollY": 273.93760383611107,
+		"scrollX": 460.3880712689413,
+		"scrollY": 220.71711772499998,
 		"zoom": {
-			"value": 1.35
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
