@@ -27,13 +27,13 @@ tags: [excalidraw]
 是否
 發布 ^RgNKJhJF
 
-草稿 ^t85n6AKB
+已發布 ^t85n6AKB
 
-已發布 ^DSMkiNQt
+草稿 ^DSMkiNQt
 
-是 ^eM8yoEqA
+否 ^eM8yoEqA
 
-否 ^P22fdIqD
+是 ^P22fdIqD
 
 排班草稿編輯 ^1jYYeywg
 
@@ -836,8 +836,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 245,
-			"versionNonce": 1437341772,
+			"version": 253,
+			"versionNonce": 1951180916,
 			"isDeleted": false,
 			"id": "t85n6AKB",
 			"fillStyle": "solid",
@@ -846,28 +846,28 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -126.75,
+			"x": -136.75,
 			"y": 374.25,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 40,
+			"width": 60,
 			"height": 23,
 			"seed": 1065648076,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710061672368,
+			"updated": 1710061818635,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "草稿",
-			"rawText": "草稿",
+			"text": "已發布",
+			"rawText": "已發布",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "I07VuuXrnbXJ8Xcjiurl0",
-			"originalText": "草稿",
+			"originalText": "已發布",
 			"lineHeight": 1.15,
 			"baseline": 18
 		},
@@ -909,8 +909,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 216,
-			"versionNonce": 1785028300,
+			"version": 228,
+			"versionNonce": 234894964,
 			"isDeleted": false,
 			"id": "DSMkiNQt",
 			"fillStyle": "solid",
@@ -919,35 +919,35 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -383.75,
+			"x": -373.75,
 			"y": 372.25,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 60,
+			"width": 40,
 			"height": 23,
 			"seed": 726047052,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710061670604,
+			"updated": 1710061815291,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "已發布",
-			"rawText": "已發布",
+			"text": "草稿",
+			"rawText": "草稿",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "UARh-NXxB2VT8hYXhB75E",
-			"originalText": "已發布",
+			"originalText": "草稿",
 			"lineHeight": 1.15,
 			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 146,
-			"versionNonce": 672361548,
+			"version": 148,
+			"versionNonce": 1331215564,
 			"isDeleted": false,
 			"id": "f_lVv_q4AuYkbPSS6Q1T6",
 			"fillStyle": "solid",
@@ -972,7 +972,7 @@ tags: [excalidraw]
 					"id": "P22fdIqD"
 				}
 			],
-			"updated": 1710061751483,
+			"updated": 1710061823774,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1005,8 +1005,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 4,
-			"versionNonce": 1533924940,
+			"version": 6,
+			"versionNonce": 1437102836,
 			"isDeleted": false,
 			"id": "P22fdIqD",
 			"fillStyle": "solid",
@@ -1026,24 +1026,24 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710061712026,
+			"updated": 1710061822587,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "否",
-			"rawText": "否",
+			"text": "是",
+			"rawText": "是",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "f_lVv_q4AuYkbPSS6Q1T6",
-			"originalText": "否",
+			"originalText": "是",
 			"lineHeight": 1.15,
 			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 143,
-			"versionNonce": 1710752460,
+			"version": 145,
+			"versionNonce": 1672763340,
 			"isDeleted": false,
 			"id": "Ri9pIFLtE2jMQqfPK0D-1",
 			"fillStyle": "solid",
@@ -1068,7 +1068,7 @@ tags: [excalidraw]
 					"id": "eM8yoEqA"
 				}
 			],
-			"updated": 1710061751484,
+			"updated": 1710061816643,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1101,8 +1101,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 155989748,
+			"version": 9,
+			"versionNonce": 1967174348,
 			"isDeleted": false,
 			"id": "eM8yoEqA",
 			"fillStyle": "solid",
@@ -1122,24 +1122,24 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710061708066,
+			"updated": 1710061811394,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "是",
-			"rawText": "是",
+			"text": "否",
+			"rawText": "否",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "Ri9pIFLtE2jMQqfPK0D-1",
-			"originalText": "是",
+			"originalText": "否",
 			"lineHeight": 1.15,
 			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 301,
-			"versionNonce": 576139892,
+			"version": 358,
+			"versionNonce": 85149044,
 			"isDeleted": false,
 			"id": "LdcVDwLny6B1BnwVgYflG",
 			"fillStyle": "solid",
@@ -1148,8 +1148,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 189.25,
-			"y": 444.8670212765958,
+			"x": 181.25,
+			"y": 352.8670212765958,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 162,
@@ -1164,14 +1164,14 @@ tags: [excalidraw]
 					"id": "1jYYeywg"
 				}
 			],
-			"updated": 1710061751683,
+			"updated": 1710061808025,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 298,
-			"versionNonce": 1664140276,
+			"version": 355,
+			"versionNonce": 1525839604,
 			"isDeleted": false,
 			"id": "1jYYeywg",
 			"fillStyle": "solid",
@@ -1180,8 +1180,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 219.04002380371094,
-			"y": 466.9297752808989,
+			"x": 211.04002380371094,
+			"y": 374.9297752808989,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 102.41995239257812,
@@ -1191,7 +1191,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710061751683,
+			"updated": 1710061808025,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.078651685393265,
@@ -1222,7 +1222,7 @@ tags: [excalidraw]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 657.25,
-		"scrollY": 80.75,
+		"scrollY": -19.25,
 		"zoom": {
 			"value": 1
 		},
