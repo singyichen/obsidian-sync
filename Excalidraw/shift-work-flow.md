@@ -1562,16 +1562,20 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 965929613,
-			"version": 443,
-			"versionNonce": 338915235,
+			"version": 446,
+			"versionNonce": 522237037,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "SDkFnYk-Pt0CHMNNDBHgx",
 					"type": "arrow"
+				},
+				{
+					"id": "NNP4Np5njRWZchSsvbImJ",
+					"type": "arrow"
 				}
 			],
-			"updated": 1710125802342,
+			"updated": 1710125884488,
 			"link": null,
 			"locked": false,
 			"text": "排班草稿",
@@ -1682,8 +1686,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "diamond",
-			"version": 1690,
-			"versionNonce": 1330186371,
+			"version": 1707,
+			"versionNonce": 463879469,
 			"isDeleted": false,
 			"id": "IHYIAyac5Egccjc3mYVvw",
 			"fillStyle": "solid",
@@ -1692,8 +1696,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -334.11404350914677,
-			"y": 561.2539288312258,
+			"x": -333.59185996130606,
+			"y": 554.5858932675109,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 186.65146489109287,
@@ -1706,16 +1710,20 @@ updated: 2024-03-11T10:55
 				{
 					"type": "text",
 					"id": "gWk9axYs"
+				},
+				{
+					"id": "NNP4Np5njRWZchSsvbImJ",
+					"type": "arrow"
 				}
 			],
-			"updated": 1710125863145,
+			"updated": 1710125884488,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1699,
-			"versionNonce": 582680611,
+			"version": 1713,
+			"versionNonce": 1339289325,
 			"isDeleted": false,
 			"id": "gWk9axYs",
 			"fillStyle": "solid",
@@ -1724,8 +1732,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -278.8977128736843,
-			"y": 597.8707189129761,
+			"x": -278.3755293258436,
+			"y": 591.2026833492612,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 75.89307117462158,
@@ -1735,7 +1743,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710125863145,
+			"updated": 1710125876331,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.185363505055363,
@@ -1748,6 +1756,110 @@ updated: 2024-03-11T10:55
 			"originalText": "是否\n授權員工自排班表",
 			"lineHeight": 1.15,
 			"baseline": 49
+		},
+		{
+			"id": "NNP4Np5njRWZchSsvbImJ",
+			"type": "arrow",
+			"x": -238.1312664707106,
+			"y": 452.63879262890055,
+			"width": 0.08557906605835797,
+			"height": 94.8857894922221,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1174420995,
+			"version": 100,
+			"versionNonce": 55156429,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710125884488,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.08557906605835797,
+					94.8857894922221
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "0Vr6jL1l",
+				"focus": 0.09993254225844161,
+				"gap": 8.333366244030799
+			},
+			"endBinding": {
+				"elementId": "IHYIAyac5Egccjc3mYVvw",
+				"focus": 0.021284938417992852,
+				"gap": 7.005424525006461
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "q-EA8VH70W0X7Kf_IsiHe",
+			"type": "arrow",
+			"x": -236.61936963701265,
+			"y": 455.91932349447154,
+			"width": 0.5776586958940015,
+			"height": 100.1702968213267,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1628338285,
+			"version": 53,
+			"versionNonce": 1653050435,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1710125875227,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.5776586958940015,
+					100.1702968213267
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "0Vr6jL1l",
+				"focus": 0.06643162399083599,
+				"gap": 11.613897109601794
+			},
+			"endBinding": {
+				"elementId": "IHYIAyac5Egccjc3mYVvw",
+				"focus": 0.059757126789353965,
+				"gap": 1.662371221806282
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
