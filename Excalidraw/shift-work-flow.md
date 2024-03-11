@@ -41,6 +41,8 @@ tags: [excalidraw]
 
 排班草稿 ^yRSAx6yT
 
+排班草稿 ^0Vr6jL1l
+
 %%
 # Drawing
 ```json
@@ -1892,6 +1894,97 @@ tags: [excalidraw]
 			"baseline": 19
 		},
 		{
+			"type": "line",
+			"version": 1172,
+			"versionNonce": 1977666531,
+			"isDeleted": false,
+			"id": "3DlL1zXlOc89cXJssqItK",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 242.9570780951277,
+			"y": 188.6016876727731,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 168.37703604337537,
+			"height": 67.51216096174144,
+			"seed": 758118637,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710125025356,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					115.70684924555468,
+					0.012393310412618375
+				],
+				[
+					65.27118727215083,
+					67.51216096174144
+				],
+				[
+					-52.67018679782069,
+					67.10075411960186
+				],
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"id": "0Vr6jL1l",
+			"type": "text",
+			"x": 236.80647555639587,
+			"y": 210.99596425579244,
+			"width": 80,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 965929613,
+			"version": 13,
+			"versionNonce": 414114883,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710125020426,
+			"link": null,
+			"locked": false,
+			"text": "排班草稿",
+			"rawText": "排班草稿",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "排班草稿",
+			"lineHeight": 1.15
+		},
+		{
 			"type": "rectangle",
 			"version": 661,
 			"versionNonce": 26598349,
@@ -1959,13 +2052,50 @@ tags: [excalidraw]
 			"originalText": "新增班表",
 			"lineHeight": 1.15,
 			"baseline": 19
+		},
+		{
+			"id": "EeiDPYwG",
+			"type": "text",
+			"x": 285.0319849089366,
+			"y": 205.43148240742238,
+			"width": 5.556640625,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1324927117,
+			"version": 2,
+			"versionNonce": 1357267555,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1710125026411,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.15
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#be4bdb",
+		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
