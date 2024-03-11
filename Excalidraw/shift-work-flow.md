@@ -43,7 +43,7 @@ tags: [excalidraw]
 
 否 ^3p6VPKuv
 
-新增班別及群組 ^wCIytvff
+新增排班群組 ^wCIytvff
 
 %%
 # Drawing
@@ -1308,8 +1308,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "arrow",
-			"version": 445,
-			"versionNonce": 1244938915,
+			"version": 447,
+			"versionNonce": 1702772621,
 			"isDeleted": false,
 			"id": "6M3Pm8qAnC46u3s8e4_Ib",
 			"fillStyle": "solid",
@@ -1329,18 +1329,18 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710122622065,
+			"updated": 1710123666827,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "HPBJODiguOiLSIwwKE1iC",
-				"focus": -0.015198957876272784,
-				"gap": 11.958806818181984
+				"gap": 11.958806818181984,
+				"focus": -0.015198957876272784
 			},
 			"endBinding": {
 				"elementId": "ymRmd-439gMwmup7GjeO-",
-				"focus": 0.004603225079384731,
-				"gap": 5.806818181818244
+				"gap": 5.806818181818244,
+				"focus": 0.004603225079384731
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1746,8 +1746,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 227,
-			"versionNonce": 77855917,
+			"version": 232,
+			"versionNonce": 1667450179,
 			"isDeleted": false,
 			"id": "wCIytvff",
 			"fillStyle": "solid",
@@ -1756,37 +1756,37 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -309.6661931818182,
+			"x": -299.6661931818182,
 			"y": 113.51988636363654,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 140,
+			"width": 120,
 			"height": 23,
 			"seed": 506821901,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710122602025,
+			"updated": 1710123665873,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "新增班別及群組",
-			"rawText": "新增班別及群組",
+			"text": "新增排班群組",
+			"rawText": "新增排班群組",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "ymRmd-439gMwmup7GjeO-",
-			"originalText": "新增班別及群組",
+			"originalText": "新增排班群組",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
 		{
 			"id": "IfGdcsjhZ-piaC2v8BZi1",
 			"type": "arrow",
-			"x": -239.79403409090907,
+			"x": -239.79403409090912,
 			"y": 163.54971590909133,
-			"width": 1.3139204545454959,
+			"width": 1.313920454545439,
 			"height": 95.86647727272725,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1802,11 +1802,11 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"seed": 746190403,
-			"version": 80,
-			"versionNonce": 966642445,
+			"version": 82,
+			"versionNonce": 942899277,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710122629106,
+			"updated": 1710123666827,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1815,20 +1815,20 @@ tags: [excalidraw]
 					0
 				],
 				[
-					-1.3139204545454959,
+					-1.313920454545439,
 					95.86647727272725
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "ymRmd-439gMwmup7GjeO-",
-				"focus": -0.005104357994282552,
-				"gap": 8.529829545454788
+				"gap": 8.529829545454788,
+				"focus": -0.005104357994282552
 			},
 			"endBinding": {
 				"elementId": "xPPOA2bcLULZn0LpGbuty",
-				"focus": -0.04314550056071197,
-				"gap": 7.589488636363228
+				"gap": 7.589488636363228,
+				"focus": -0.04314550056071197
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1849,10 +1849,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 708.2954545454545,
-		"scrollY": 722.1321022727268,
+		"scrollX": 635.0000808749747,
+		"scrollY": 351.8258693978962,
 		"zoom": {
-			"value": 0.55
+			"value": 0.5906298613175752
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
