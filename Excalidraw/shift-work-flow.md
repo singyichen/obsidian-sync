@@ -37,7 +37,7 @@ tags: [excalidraw]
 
 新增排班群組 ^wCIytvff
 
-發布班表 ^M76S8CBj
+發布公告 ^M76S8CBj
 
 %%
 # Drawing
@@ -1281,8 +1281,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 222,
-			"versionNonce": 739151053,
+			"version": 223,
+			"versionNonce": 558724867,
 			"isDeleted": false,
 			"id": "Nxc1l1XQT_JMPb57OfuYs",
 			"fillStyle": "solid",
@@ -1309,9 +1309,13 @@ tags: [excalidraw]
 				{
 					"id": "k8IBGviDGx63pzJ-7DE2m",
 					"type": "arrow"
+				},
+				{
+					"id": "sTAh9DZi7BfhU6_b_r80t",
+					"type": "arrow"
 				}
 			],
-			"updated": 1710123786288,
+			"updated": 1710123829181,
 			"link": null,
 			"locked": false
 		},
@@ -1483,8 +1487,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 264,
-			"versionNonce": 422087341,
+			"version": 271,
+			"versionNonce": 2045235779,
 			"isDeleted": false,
 			"id": "LlMGR8aGwIdMXul2pMlR5",
 			"fillStyle": "solid",
@@ -1493,8 +1497,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -325.63428194643024,
-			"y": 710.2643097626016,
+			"x": -327.1951156603631,
+			"y": 711.0314992152125,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 170.66666666666663,
@@ -1507,16 +1511,20 @@ tags: [excalidraw]
 				{
 					"type": "text",
 					"id": "M76S8CBj"
+				},
+				{
+					"id": "sTAh9DZi7BfhU6_b_r80t",
+					"type": "arrow"
 				}
 			],
-			"updated": 1710123787217,
+			"updated": 1710123829181,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 206,
-			"versionNonce": 310160653,
+			"version": 220,
+			"versionNonce": 765028931,
 			"isDeleted": false,
 			"id": "M76S8CBj",
 			"fillStyle": "solid",
@@ -1525,8 +1533,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -280.3009486130969,
-			"y": 733.4309764292682,
+			"x": -281.8617823270298,
+			"y": 734.1981658818793,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 80,
@@ -1536,19 +1544,71 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710123787217,
+			"updated": 1710123818828,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "發布班表",
-			"rawText": "發布班表",
+			"text": "發布公告",
+			"rawText": "發布公告",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "LlMGR8aGwIdMXul2pMlR5",
-			"originalText": "發布班表",
+			"originalText": "發布公告",
 			"lineHeight": 1.15,
 			"baseline": 19
+		},
+		{
+			"id": "sTAh9DZi7BfhU6_b_r80t",
+			"type": "arrow",
+			"x": -240.7861328124999,
+			"y": 642.758848248106,
+			"width": 0.0927734375,
+			"height": 62.7099609375,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 881219629,
+			"version": 61,
+			"versionNonce": 1194172067,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710123829181,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.0927734375,
+					62.7099609375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "Nxc1l1XQT_JMPb57OfuYs",
+				"focus": 0.011964084547603879,
+				"gap": 7.608598470110621
+			},
+			"endBinding": {
+				"elementId": "LlMGR8aGwIdMXul2pMlR5",
+				"focus": 0.010814132186246266,
+				"gap": 5.5626900296065855
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -1566,10 +1626,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 638.3862963899476,
-		"scrollY": 23.362964445503682,
+		"scrollX": 571.2499999999998,
+		"scrollY": -173.11041074810618,
 		"zoom": {
-			"value": 0.5906298613175752
+			"value": 0.8000000000000003
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
