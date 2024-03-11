@@ -20,7 +20,7 @@ updated: 2024-03-11T10:55
 是否
 同意 ^tsf6h1Z2
 
-排表呈顯在個人行事曆 ^xh5T7YyW
+排表生效 ^xh5T7YyW
 
 是 ^N7gMDPSq
 
@@ -67,8 +67,8 @@ updated: 2024-03-11T10:55
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 1054,
-			"versionNonce": 1223778723,
+			"version": 1095,
+			"versionNonce": 1433829869,
 			"isDeleted": false,
 			"id": "N2h6pu_RHUmV9jdm96zrW",
 			"fillStyle": "solid",
@@ -77,8 +77,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 98.80544680943689,
-			"y": -419.1975988463048,
+			"x": 111.4359281280519,
+			"y": -549.9918332942266,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#a18072",
 			"width": 292.8080559438732,
@@ -98,14 +98,14 @@ updated: 2024-03-11T10:55
 					"id": "e8aa0kqP"
 				}
 			],
-			"updated": 1710128471590,
+			"updated": 1710129586660,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1038,
-			"versionNonce": 876295491,
+			"version": 1079,
+			"versionNonce": 1485421645,
 			"isDeleted": false,
 			"id": "e8aa0kqP",
 			"fillStyle": "solid",
@@ -114,8 +114,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 209.2094747813735,
-			"y": -412.3975988463048,
+			"x": 221.8399560999885,
+			"y": -543.1918332942266,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 72,
@@ -128,7 +128,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710128471590,
+			"updated": 1710129586660,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -198,8 +198,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 303,
-			"versionNonce": 124737197,
+			"version": 340,
+			"versionNonce": 972441613,
 			"isDeleted": false,
 			"id": "RT8M5fvcCDOcqH7PN4yng",
 			"fillStyle": "solid",
@@ -208,8 +208,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -348.3709565545187,
-			"y": -329.7355677557411,
+			"x": -346.0579484399346,
+			"y": -390.52943457843315,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#1971c2",
 			"width": 214,
@@ -226,14 +226,14 @@ updated: 2024-03-11T10:55
 					"id": "nhrNnzh8"
 				}
 			],
-			"updated": 1710129166815,
+			"updated": 1710129588578,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 638187789,
+			"version": 276,
+			"versionNonce": 1097580141,
 			"isDeleted": false,
 			"id": "nhrNnzh8",
 			"fillStyle": "solid",
@@ -242,8 +242,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -271.3709565545187,
-			"y": -307.5228514860208,
+			"x": -269.0579484399346,
+			"y": -368.31671830871284,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
 			"width": 60,
@@ -253,7 +253,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710129166815,
+			"updated": 1710129588578,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -269,8 +269,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 371,
-			"versionNonce": 1384939309,
+			"version": 422,
+			"versionNonce": 755085261,
 			"isDeleted": false,
 			"id": "Ghqxa0aO7g43sGQh7oh6X",
 			"fillStyle": "solid",
@@ -279,8 +279,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 646.0755340275248,
-			"y": -325.4360860313178,
+			"x": 647.2775697406157,
+			"y": -392.7227669709331,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#2f9e44",
 			"width": 214,
@@ -297,14 +297,14 @@ updated: 2024-03-11T10:55
 					"id": "KYvSOleL"
 				}
 			],
-			"updated": 1710129180732,
+			"updated": 1710129594730,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 328,
-			"versionNonce": 1416499597,
+			"version": 379,
+			"versionNonce": 1446260269,
 			"isDeleted": false,
 			"id": "KYvSOleL",
 			"fillStyle": "solid",
@@ -313,8 +313,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 733.0755340275248,
-			"y": -305.3736338641596,
+			"x": 734.2775697406157,
+			"y": -372.6603148037749,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
 			"width": 40,
@@ -324,7 +324,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710129180732,
+			"updated": 1710129594730,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -530,8 +530,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 2044,
-			"versionNonce": 129171501,
+			"version": 2067,
+			"versionNonce": 474131459,
 			"isDeleted": false,
 			"id": "xh5T7YyW",
 			"fillStyle": "solid",
@@ -540,35 +540,35 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 680.3703598770303,
-			"y": 1662.466383566438,
+			"x": 710.3703598770303,
+			"y": 1673.966383566438,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 140,
-			"height": 46,
+			"width": 80,
+			"height": 23,
 			"seed": 1009982284,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710128379905,
+			"updated": 1710129576819,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "排表呈顯在個人\n行事曆",
-			"rawText": "排表呈顯在個人行事曆",
+			"text": "排表生效",
+			"rawText": "排表生效",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "7HfoatCUqtyEAgF__XiDK",
-			"originalText": "排表呈顯在個人行事曆",
+			"originalText": "排表生效",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 4962,
-			"versionNonce": 648178723,
+			"version": 4964,
+			"versionNonce": 226536653,
 			"isDeleted": false,
 			"id": "yGBR7mASrG7iZcibm-HsA",
 			"fillStyle": "solid",
@@ -577,12 +577,12 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 750.462100556229,
-			"y": 1529.4156614252151,
+			"x": 750.4571874943987,
+			"y": 1529.1969032530346,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2.6288272087168707,
-			"height": 117.05072214122333,
+			"width": 2.6337402705471504,
+			"height": 117.26948031340407,
 			"seed": 1974792908,
 			"groupIds": [],
 			"frameId": null,
@@ -593,18 +593,18 @@ updated: 2024-03-11T10:55
 					"id": "N7gMDPSq"
 				}
 			],
-			"updated": 1710128380122,
+			"updated": 1710129577712,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "VDZ4kLQub-F7GC5iT3mco",
-				"focus": -0.01663690920225332,
-				"gap": 6.090384276603082
+				"gap": 6.090384276603082,
+				"focus": -0.01663690920225332
 			},
 			"endBinding": {
 				"elementId": "7HfoatCUqtyEAgF__XiDK",
-				"focus": 0.043256961268818776,
-				"gap": 2.9999999999995453
+				"gap": 2.9999999999995453,
+				"focus": 0.043256961268818776
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -615,8 +615,8 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					2.6288272087168707,
-					117.05072214122333
+					2.6337402705471504,
+					117.26948031340407
 				]
 			]
 		},
@@ -2821,8 +2821,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": 746.3220043979157,
-		"scrollY": 833.4934688112271,
+		"scrollX": 918.83234188879,
+		"scrollY": 1117.9024035934792,
 		"zoom": {
 			"value": 0.42895980076506707
 		},
