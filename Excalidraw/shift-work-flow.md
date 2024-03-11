@@ -1933,10 +1933,10 @@ updated: 2024-03-11T10:55
 		{
 			"id": "R84WXaIdvEXoLw1w0-l3B",
 			"type": "arrow",
-			"x": -189.3516679328995,
-			"y": 662.8403909595456,
-			"width": 111.83900162973481,
-			"height": 128.33540994515715,
+			"x": -137.41033162215655,
+			"y": 623.238792322858,
+			"width": 61.58266107590674,
+			"height": 167.9370085818448,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1947,12 +1947,10 @@ updated: 2024-03-11T10:55
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
+			"roundness": null,
 			"seed": 1631403213,
-			"version": 478,
-			"versionNonce": 551903693,
+			"version": 644,
+			"versionNonce": 585194893,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1960,7 +1958,7 @@ updated: 2024-03-11T10:55
 					"id": "BWSwlLGW"
 				}
 			],
-			"updated": 1710128178828,
+			"updated": 1710128521481,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1969,20 +1967,24 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					111.83900162973481,
-					128.33540994515715
+					61.58266107590674,
+					0.6442038039211866
+				],
+				[
+					59.89766531899187,
+					167.9370085818448
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "IHYIAyac5Egccjc3mYVvw",
-				"gap": 10.266110278102445,
-				"focus": -0.15572937066100484
+				"focus": 0.023823029950804934,
+				"gap": 7.923960812913613
 			},
 			"endBinding": {
 				"elementId": "Nxc1l1XQT_JMPb57OfuYs",
-				"gap": 7.675647323497344,
-				"focus": 0.2882841485057987
+				"focus": -0.04687746168444105,
+				"gap": 7.675647323497344
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1990,8 +1992,8 @@ updated: 2024-03-11T10:55
 		{
 			"id": "BWSwlLGW",
 			"type": "text",
-			"x": -143.43041171493778,
-			"y": 715.5071592819434,
+			"x": -89.20058236929856,
+			"y": 633.6669731887405,
 			"width": 20,
 			"height": 23,
 			"angle": 0,
@@ -2006,11 +2008,11 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 430424237,
-			"version": 23,
-			"versionNonce": 1408511363,
+			"version": 24,
+			"versionNonce": 1551723491,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710128178828,
+			"updated": 1710128506040,
 			"link": null,
 			"locked": false,
 			"text": "是",
@@ -2815,12 +2817,12 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": 877.0523337620172,
-		"scrollY": 499.51497675840574,
+		"scrollX": 869.3428210236201,
+		"scrollY": -9.312863975795285,
 		"zoom": {
 			"value": 0.5188395344465968
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
