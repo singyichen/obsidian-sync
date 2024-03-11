@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 271.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -239,7 +239,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "907a735a88aff655",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
     "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/backend-logo.md",
