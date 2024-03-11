@@ -46,19 +46,9 @@
                 "file": "Excalidraw/shift-work-flow.md"
               }
             }
-          },
-          {
-            "id": "b6582bdde7ea78ab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,7 +239,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b6582bdde7ea78ab",
+  "active": "907a735a88aff655",
   "lastOpenFiles": [
     "software-testing.canvas",
     "Excalidraw/shift-work-flow.md",
