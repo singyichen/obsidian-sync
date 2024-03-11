@@ -320,8 +320,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 82,
-			"versionNonce": 78181837,
+			"version": 83,
+			"versionNonce": 609592973,
 			"isDeleted": false,
 			"id": "pQwslbwNYs2XGT6024adQ",
 			"fillStyle": "solid",
@@ -333,7 +333,7 @@ tags: [excalidraw]
 			"x": -315.75,
 			"y": -210.25,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e9ecef",
+			"backgroundColor": "transparent",
 			"width": 156,
 			"height": 64,
 			"seed": 1735339508,
@@ -350,7 +350,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1710125209530,
+			"updated": 1710125213213,
 			"link": null,
 			"locked": false
 		},
@@ -1885,7 +1885,7 @@ tags: [excalidraw]
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#e9ecef",
+		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
