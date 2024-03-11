@@ -496,8 +496,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2146,
-			"versionNonce": 2103953421,
+			"version": 2147,
+			"versionNonce": 344541891,
 			"isDeleted": false,
 			"id": "7HfoatCUqtyEAgF__XiDK",
 			"fillStyle": "solid",
@@ -524,9 +524,13 @@ updated: 2024-03-11T10:55
 				{
 					"id": "yGBR7mASrG7iZcibm-HsA",
 					"type": "arrow"
+				},
+				{
+					"id": "iJ0eyLGu_eNBB9HRbg-SF",
+					"type": "arrow"
 				}
 			],
-			"updated": 1710129849124,
+			"updated": 1710129874387,
 			"link": null,
 			"locked": false
 		},
@@ -569,8 +573,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 5552,
-			"versionNonce": 437055971,
+			"version": 5580,
+			"versionNonce": 646907459,
 			"isDeleted": false,
 			"id": "yGBR7mASrG7iZcibm-HsA",
 			"fillStyle": "solid",
@@ -583,7 +587,7 @@ updated: 2024-03-11T10:55
 			"y": 1537.798635480837,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 890.2391523636454,
+			"width": 891.4879906870511,
 			"height": 153.7736488452149,
 			"seed": 1974792908,
 			"groupIds": [],
@@ -595,18 +599,18 @@ updated: 2024-03-11T10:55
 					"id": "N7gMDPSq"
 				}
 			],
-			"updated": 1710129858858,
+			"updated": 1710129921307,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "VDZ4kLQub-F7GC5iT3mco",
-				"gap": 14.298224394931367,
-				"focus": 0.021251442818102352
+				"focus": 0.03085272883758111,
+				"gap": 12.314939326057889
 			},
 			"endBinding": {
 				"elementId": "7HfoatCUqtyEAgF__XiDK",
-				"gap": 5.462720534403061,
-				"focus": 0.044340744600741035
+				"focus": 0.04433712977614579,
+				"gap": 5.462720534402948
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -617,7 +621,7 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					-0.28358764213555787,
+					1.248838323405721,
 					152.97131147658024
 				],
 				[
@@ -2809,8 +2813,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2211,
-			"versionNonce": 511017795,
+			"version": 2212,
+			"versionNonce": 1099312429,
 			"isDeleted": false,
 			"id": "rx78JVKTkz2LelUkC_3Di",
 			"fillStyle": "solid",
@@ -2833,9 +2837,13 @@ updated: 2024-03-11T10:55
 				{
 					"type": "text",
 					"id": "rAeMU3rz"
+				},
+				{
+					"id": "iJ0eyLGu_eNBB9HRbg-SF",
+					"type": "arrow"
 				}
 			],
-			"updated": 1710129861789,
+			"updated": 1710129884282,
 			"link": null,
 			"locked": false
 		},
@@ -2875,12 +2883,62 @@ updated: 2024-03-11T10:55
 			"originalText": "班表生效",
 			"lineHeight": 1.15,
 			"baseline": 19
+		},
+		{
+			"id": "iJ0eyLGu_eNBB9HRbg-SF",
+			"type": "arrow",
+			"x": -230.62470620823478,
+			"y": 1737.0328320883602,
+			"width": 0.1510871493499053,
+			"height": 82.13097438661134,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#2f9e44",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1978144045,
+			"version": 66,
+			"versionNonce": 992978797,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710129887580,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.1510871493499053,
+					82.13097438661134
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "7HfoatCUqtyEAgF__XiDK",
+				"focus": -0.009386665401788126,
+				"gap": 10.980953539152551
+			},
+			"endBinding": {
+				"elementId": "rx78JVKTkz2LelUkC_3Di",
+				"focus": 0.04175306952197007,
+				"gap": 10.912559873147302
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "#2f9e44",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -2891,13 +2949,13 @@ updated: 2024-03-11T10:55
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": null,
-		"scrollX": 807.4150075664528,
-		"scrollY": -815.9829065789037,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 664.9807875958453,
+		"scrollY": -696.9278525496879,
 		"zoom": {
-			"value": 0.5170856709928806
+			"value": 0.6092260056884582
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
