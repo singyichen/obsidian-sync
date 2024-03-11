@@ -59,6 +59,8 @@ updated: 2024-03-11T10:55
 
 班表生效 ^rAeMU3rz
 
+刪除班表 ^EZ5BJLKK
+
 %%
 # Drawing
 ```json
@@ -2933,6 +2935,75 @@ updated: 2024-03-11T10:55
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 1072,
+			"versionNonce": 651564269,
+			"isDeleted": false,
+			"id": "C6FdSZgaWxtxNYQxk7fkx",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -309.3834690947634,
+			"y": 1558.2590360959716,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 170.66666666666663,
+			"height": 69.33333333333337,
+			"seed": 1794395331,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "EZ5BJLKK"
+				}
+			],
+			"updated": 1710130042367,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1039,
+			"versionNonce": 886930861,
+			"isDeleted": false,
+			"id": "EZ5BJLKK",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -264.0501357614301,
+			"y": 1581.4257027626384,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 23,
+			"seed": 1760803939,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710130042368,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "刪除班表",
+			"rawText": "刪除班表",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "C6FdSZgaWxtxNYQxk7fkx",
+			"originalText": "刪除班表",
+			"lineHeight": 1.15,
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -2950,10 +3021,10 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 664.9807875958453,
-		"scrollY": -696.9278525496879,
+		"scrollX": 1136.626249247867,
+		"scrollY": -152.87984023723868,
 		"zoom": {
-			"value": 0.6092260056884582
+			"value": 0.41366412556842647
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
