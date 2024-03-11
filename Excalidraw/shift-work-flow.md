@@ -4147,10 +4147,10 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 733.4904057359448,
-		"scrollY": -622.4371210812528,
+		"scrollX": 837.5445182900605,
+		"scrollY": -729.5994587435896,
 		"zoom": {
-			"value": 0.7000000000000002
+			"value": 0.7000000000000001
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
