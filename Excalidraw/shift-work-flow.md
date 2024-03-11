@@ -171,8 +171,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 1604,
-			"versionNonce": 948647491,
+			"version": 1645,
+			"versionNonce": 2106075245,
 			"isDeleted": false,
 			"id": "57NEMiLbV61-nHXD5Y4n7",
 			"fillStyle": "solid",
@@ -185,14 +185,14 @@ updated: 2024-03-11T10:55
 			"y": -242.20996847590482,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 848.9766220594233,
+			"width": 886.6012373011789,
 			"height": 2590.218322920918,
 			"seed": 1030347380,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710128362091,
+			"updated": 1710129124650,
 			"link": null,
 			"locked": false
 		},
@@ -2819,10 +2819,10 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": 952.5906167105212,
-		"scrollY": -382.55611210154945,
+		"scrollX": 1116.2790612137946,
+		"scrollY": -326.6305040337227,
 		"zoom": {
-			"value": 0.42108227878808957
+			"value": 0.3480102033168071
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
