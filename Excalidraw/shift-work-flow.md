@@ -38,7 +38,7 @@ updated: 2024-03-11T10:55
 
 草稿班表 ^0Vr6jL1l
 
-排班草稿 ^FMIcV07I
+草稿班表 ^FMIcV07I
 
 是否
 授權員工自排班表 ^gWk9axYs
@@ -1568,8 +1568,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "line",
-			"version": 1789,
-			"versionNonce": 1828365677,
+			"version": 1928,
+			"versionNonce": 570292781,
 			"isDeleted": false,
 			"id": "qomoXtagWB1bNLPVs6SHF",
 			"fillStyle": "solid",
@@ -1578,8 +1578,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 305.9163257572131,
-			"y": 1707.714057458774,
+			"x": 349.54044107380673,
+			"y": 1479.9435108926427,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 171.28969451088156,
@@ -1591,7 +1591,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710126473133,
+			"updated": 1710126699615,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1624,8 +1624,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 671,
-			"versionNonce": 1119711181,
+			"version": 820,
+			"versionNonce": 1484867267,
 			"isDeleted": false,
 			"id": "FMIcV07I",
 			"fillStyle": "solid",
@@ -1634,8 +1634,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 299.6593274475039,
-			"y": 1730.4957198804207,
+			"x": 343.2834427640976,
+			"y": 1502.7251733142893,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 81.3599853515625,
@@ -1646,18 +1646,23 @@ updated: 2024-03-11T10:55
 			],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1710126473133,
+			"boundElements": [
+				{
+					"id": "afVZciIjG0VsAPw0Pq1XG",
+					"type": "arrow"
+				}
+			],
+			"updated": 1710126727163,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.34596861139138,
 			"fontFamily": 2,
-			"text": "排班草稿",
-			"rawText": "排班草稿",
+			"text": "草稿班表",
+			"rawText": "草稿班表",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "排班草稿",
+			"originalText": "草稿班表",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -1796,8 +1801,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 633,
-			"versionNonce": 1329928173,
+			"version": 634,
+			"versionNonce": 1098515939,
 			"isDeleted": false,
 			"id": "Jtpnvbqp0lXUiRQG89HBO",
 			"fillStyle": "solid",
@@ -1824,9 +1829,13 @@ updated: 2024-03-11T10:55
 				{
 					"id": "F3bXrQGQZMy-9U3ZkvVSW",
 					"type": "arrow"
+				},
+				{
+					"id": "afVZciIjG0VsAPw0Pq1XG",
+					"type": "arrow"
 				}
 			],
-			"updated": 1710126597658,
+			"updated": 1710126712060,
 			"link": null,
 			"locked": false
 		},
@@ -2212,6 +2221,60 @@ updated: 2024-03-11T10:55
 			"lineHeight": 1.15
 		},
 		{
+			"id": "afVZciIjG0VsAPw0Pq1XG",
+			"type": "arrow",
+			"x": -366.7395846369723,
+			"y": 874.7018928649886,
+			"width": 699.3298084963553,
+			"height": 643.8835032327781,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 316026189,
+			"version": 670,
+			"versionNonce": 231258435,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710126743438,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.9221802557554497,
+					643.8835032327781
+				],
+				[
+					697.4076282405999,
+					643.7897383422535
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "Jtpnvbqp0lXUiRQG89HBO",
+				"focus": -0.038457965489773024,
+				"gap": 9.151224769085104
+			},
+			"endBinding": {
+				"elementId": "FMIcV07I",
+				"focus": -0.3469109873030265,
+				"gap": 12.61539916047002
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
 			"type": "text",
 			"version": 1237,
 			"versionNonce": 103883757,
@@ -2264,12 +2327,12 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 760.4505462091043,
-		"scrollY": -413.4567688924765,
+		"scrollX": 660.4346629828103,
+		"scrollY": -473.466298828253,
 		"zoom": {
 			"value": 0.49992059648036885
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
