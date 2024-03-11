@@ -22,8 +22,6 @@ updated: 2024-03-11T10:55
 
 排表呈顯在個人行事曆 ^xh5T7YyW
 
-已發布 ^5HmIBmqq
-
 是 ^N7gMDPSq
 
 否 ^frcGPyvG
@@ -559,8 +557,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 1282,
-			"versionNonce": 982659437,
+			"version": 1283,
+			"versionNonce": 2027576717,
 			"isDeleted": false,
 			"id": "S9bmK4Z6PHwunsoh9ma23",
 			"fillStyle": "solid",
@@ -581,59 +579,18 @@ updated: 2024-03-11T10:55
 			"roundness": null,
 			"boundElements": [
 				{
-					"type": "text",
-					"id": "5HmIBmqq"
-				},
-				{
 					"id": "MLBtGRurKwsuLFHgfKkoO",
 					"type": "arrow"
 				}
 			],
-			"updated": 1710126478297,
+			"updated": 1710126648653,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "text",
-			"version": 1235,
-			"versionNonce": 226720717,
-			"isDeleted": false,
-			"id": "5HmIBmqq",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 508.9136994133396,
-			"y": 1291.1086176972249,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 60,
-			"height": 23,
-			"seed": 1486790604,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1710126478297,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 2,
-			"text": "已發布",
-			"rawText": "已發布",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "S9bmK4Z6PHwunsoh9ma23",
-			"originalText": "已發布",
-			"lineHeight": 1.15,
-			"baseline": 19
-		},
-		{
 			"type": "arrow",
-			"version": 3324,
-			"versionNonce": 223158691,
+			"version": 3326,
+			"versionNonce": 936445763,
 			"isDeleted": false,
 			"id": "yGBR7mASrG7iZcibm-HsA",
 			"fillStyle": "solid",
@@ -646,7 +603,7 @@ updated: 2024-03-11T10:55
 			"y": 1196.4289410796819,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 62.259733963420615,
+			"width": 62.25973396342067,
 			"height": 73.77650878210375,
 			"seed": 1974792908,
 			"groupIds": [],
@@ -658,18 +615,18 @@ updated: 2024-03-11T10:55
 					"id": "N7gMDPSq"
 				}
 			],
-			"updated": 1710126478512,
+			"updated": 1710126645579,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "VDZ4kLQub-F7GC5iT3mco",
-				"focus": -0.06621472891379654,
-				"gap": 10.322889074072478
+				"gap": 10.322889074072478,
+				"focus": -0.06621472891379654
 			},
 			"endBinding": {
 				"elementId": "7HfoatCUqtyEAgF__XiDK",
-				"focus": 0.03278688524590205,
-				"gap": 3
+				"gap": 3,
+				"focus": 0.03278688524590205
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -680,7 +637,7 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					-62.259733963420615,
+					-62.25973396342067,
 					73.77650878210375
 				]
 			]
@@ -2253,6 +2210,43 @@ updated: 2024-03-11T10:55
 			"containerId": "F3bXrQGQZMy-9U3ZkvVSW",
 			"originalText": "是",
 			"lineHeight": 1.15
+		},
+		{
+			"type": "text",
+			"version": 1237,
+			"versionNonce": 103883757,
+			"isDeleted": true,
+			"id": "5HmIBmqq",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 536.1353791008396,
+			"y": 1291.1086176972249,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 5.556640625,
+			"height": 23,
+			"seed": 1486790604,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710126648656,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "",
+			"rawText": "",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "S9bmK4Z6PHwunsoh9ma23",
+			"originalText": "",
+			"lineHeight": 1.15,
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -2270,10 +2264,10 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 737.360035175854,
-		"scrollY": -278.9004891642266,
+		"scrollX": 760.4505462091043,
+		"scrollY": -413.4567688924765,
 		"zoom": {
-			"value": 0.538754792511463
+			"value": 0.49992059648036885
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
