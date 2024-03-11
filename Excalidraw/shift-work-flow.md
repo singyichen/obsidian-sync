@@ -9,7 +9,7 @@ updated: 2024-03-11T10:55
 
 
 # Text Elements
-排班 ^e8aa0kqP
+排班流程圖 ^e8aa0kqP
 
 管理者 ^nhrNnzh8
 
@@ -89,8 +89,8 @@ updated: 2024-03-11T10:55
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 1167,
-			"versionNonce": 70211491,
+			"version": 1168,
+			"versionNonce": 1896086499,
 			"isDeleted": false,
 			"id": "N2h6pu_RHUmV9jdm96zrW",
 			"fillStyle": "solid",
@@ -99,7 +99,7 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 114.2620560437112,
+			"x": 115.2620560437112,
 			"y": -706.7398801692267,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#a18072",
@@ -120,14 +120,14 @@ updated: 2024-03-11T10:55
 					"id": "e8aa0kqP"
 				}
 			],
-			"updated": 1710142929487,
+			"updated": 1710143985708,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1151,
-			"versionNonce": 449685517,
+			"version": 1162,
+			"versionNonce": 1562599053,
 			"isDeleted": false,
 			"id": "e8aa0kqP",
 			"fillStyle": "solid",
@@ -136,11 +136,11 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 224.6660840156478,
+			"x": 171.6660840156478,
 			"y": -699.9398801692267,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 72,
+			"width": 180,
 			"height": 41.4,
 			"seed": 829714548,
 			"groupIds": [
@@ -150,17 +150,17 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710142929487,
+			"updated": 1710143997023,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 2,
-			"text": "排班",
-			"rawText": "排班",
+			"text": "排班流程圖",
+			"rawText": "排班流程圖",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "N2h6pu_RHUmV9jdm96zrW",
-			"originalText": "排班",
+			"originalText": "排班流程圖",
 			"lineHeight": 1.15,
 			"baseline": 33
 		},
@@ -254,8 +254,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 354,
-			"versionNonce": 1445120205,
+			"version": 358,
+			"versionNonce": 1212088909,
 			"isDeleted": false,
 			"id": "nhrNnzh8",
 			"fillStyle": "solid",
@@ -264,21 +264,21 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -272.4661515649346,
-			"y": -560.4082235374387,
+			"x": -296.4661515649346,
+			"y": -569.6082235374388,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
-			"width": 60,
-			"height": 23,
+			"width": 108,
+			"height": 41.4,
 			"seed": 1417139404,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710142929488,
+			"updated": 1710144008454,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 36,
 			"fontFamily": 2,
 			"text": "管理者",
 			"rawText": "管理者",
@@ -287,7 +287,7 @@ updated: 2024-03-11T10:55
 			"containerId": "RT8M5fvcCDOcqH7PN4yng",
 			"originalText": "管理者",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 33
 		},
 		{
 			"type": "rectangle",
@@ -325,8 +325,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 460,
-			"versionNonce": 1305093933,
+			"version": 464,
+			"versionNonce": 824328589,
 			"isDeleted": false,
 			"id": "KYvSOleL",
 			"fillStyle": "solid",
@@ -335,21 +335,21 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 731.1135072406157,
-			"y": -553.6345075665963,
+			"x": 715.1135072406157,
+			"y": -562.8345075665964,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
-			"width": 40,
-			"height": 23,
+			"width": 72,
+			"height": 41.4,
 			"seed": 393652340,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710142929488,
+			"updated": 1710144006290,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 36,
 			"fontFamily": 2,
 			"text": "員工",
 			"rawText": "員工",
@@ -358,7 +358,7 @@ updated: 2024-03-11T10:55
 			"containerId": "Ghqxa0aO7g43sGQh7oh6X",
 			"originalText": "員工",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 33
 		},
 		{
 			"type": "rectangle",
@@ -4264,14 +4264,14 @@ updated: 2024-03-11T10:55
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 2,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 973.4170642106063,
-		"scrollY": -340.4128461506118,
+		"scrollX": 977.2137156242511,
+		"scrollY": 1221.4775693389977,
 		"zoom": {
-			"value": 0.45458191081881477
+			"value": 0.3921009613573544
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
