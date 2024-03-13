@@ -46,9 +46,19 @@
                 "file": "Excalidraw/shift-work-flow.md"
               }
             }
+          },
+          {
+            "id": "0dffeac5538deb39",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 271.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -114,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md",
+                "file": "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md",
+                "file": "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md"
+                "file": "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md"
               }
             }
           },
@@ -223,13 +233,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:復習卡片": false,
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
@@ -239,10 +249,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "907a735a88aff655",
+  "active": "0dffeac5538deb39",
   "lastOpenFiles": [
-    "software-testing.canvas",
+    "Images/Pasted Image 20240313144115_232.png",
     "Excalidraw/shift-work-flow.md",
+    "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md",
+    "software-testing.canvas",
     "Untitled.canvas",
     "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/backend-logo.md",
@@ -276,7 +288,6 @@
     "03.Resources/Law",
     "03.Resources/Career/on-board.md",
     "03.Resources/Career",
-    "skill-tree.md",
     "01.Projects",
     "images/playwright-logo.svg",
     "Images/zeabur-logo.png",
