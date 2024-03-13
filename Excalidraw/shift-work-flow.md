@@ -81,6 +81,9 @@ updated: 2024-03-11T10:55
 
 已發布班表 ^Trp5hEw9
 
+是否
+授權員工自排班表 ^eo2wrWnC
+
 %%
 # Drawing
 ```json
@@ -433,7 +436,7 @@ updated: 2024-03-11T10:55
 			"containerId": "pQwslbwNYs2XGT6024adQ",
 			"originalText": "排班設定",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "diamond",
@@ -518,8 +521,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 5906,
-			"versionNonce": 1805053617,
+			"version": 5910,
+			"versionNonce": 1164081805,
 			"isDeleted": false,
 			"id": "yGBR7mASrG7iZcibm-HsA",
 			"fillStyle": "solid",
@@ -544,7 +547,7 @@ updated: 2024-03-11T10:55
 					"id": "N7gMDPSq"
 				}
 			],
-			"updated": 1710162741887,
+			"updated": 1710296990798,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -610,7 +613,7 @@ updated: 2024-03-11T10:55
 			"containerId": "yGBR7mASrG7iZcibm-HsA",
 			"originalText": "是",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -687,7 +690,7 @@ updated: 2024-03-11T10:55
 			"containerId": "HPBJODiguOiLSIwwKE1iC",
 			"originalText": "新增班別",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -764,12 +767,12 @@ updated: 2024-03-11T10:55
 			"containerId": "xPPOA2bcLULZn0LpGbuty",
 			"originalText": "新增班表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 598,
-			"versionNonce": 1596180241,
+			"version": 606,
+			"versionNonce": 312225133,
 			"isDeleted": false,
 			"id": "Un8cXdKUZFkvaUc2enKsV",
 			"fillStyle": "solid",
@@ -789,7 +792,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741872,
+			"updated": 1710296990777,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -818,8 +821,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 896,
-			"versionNonce": 1258189745,
+			"version": 904,
+			"versionNonce": 1272384397,
 			"isDeleted": false,
 			"id": "6M3Pm8qAnC46u3s8e4_Ib",
 			"fillStyle": "solid",
@@ -839,7 +842,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741874,
+			"updated": 1710296990785,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -868,8 +871,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 1361,
-			"versionNonce": 1725118097,
+			"version": 1365,
+			"versionNonce": 1860669165,
 			"isDeleted": false,
 			"id": "SDkFnYk-Pt0CHMNNDBHgx",
 			"fillStyle": "solid",
@@ -889,7 +892,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741872,
+			"updated": 1710296990779,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -991,7 +994,7 @@ updated: 2024-03-11T10:55
 			"containerId": "Nxc1l1XQT_JMPb57OfuYs",
 			"originalText": "發布公告(手動）",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1068,12 +1071,12 @@ updated: 2024-03-11T10:55
 			"containerId": "ymRmd-439gMwmup7GjeO-",
 			"originalText": "新增排班群組",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 630,
-			"versionNonce": 365427569,
+			"version": 638,
+			"versionNonce": 533285965,
 			"isDeleted": false,
 			"id": "IfGdcsjhZ-piaC2v8BZi1",
 			"fillStyle": "solid",
@@ -1095,7 +1098,7 @@ updated: 2024-03-11T10:55
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710162741875,
+			"updated": 1710296990785,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1197,12 +1200,12 @@ updated: 2024-03-11T10:55
 			"containerId": "LlMGR8aGwIdMXul2pMlR5",
 			"originalText": "發布公告(手動）",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 3610,
-			"versionNonce": 1937348561,
+			"version": 3614,
+			"versionNonce": 1039086381,
 			"isDeleted": false,
 			"id": "HkYlZLrlIDRYj69_9y-cb",
 			"fillStyle": "solid",
@@ -1211,12 +1214,12 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 747.0344998329394,
+			"x": 747.0344998327424,
 			"y": 1329.0559895873034,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.44202541955439756,
-			"height": 75.40444540524436,
+			"width": 0.4420254194566269,
+			"height": 75.40444540527301,
 			"seed": 60991171,
 			"groupIds": [],
 			"frameId": null,
@@ -1224,7 +1227,7 @@ updated: 2024-03-11T10:55
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710162741869,
+			"updated": 1710296990775,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1246,8 +1249,8 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					-0.44202541955439756,
-					75.40444540524436
+					-0.4420254194566269,
+					75.40444540527301
 				]
 			]
 		},
@@ -1353,7 +1356,7 @@ updated: 2024-03-11T10:55
 			"containerId": null,
 			"originalText": "草稿班表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "line",
@@ -1457,7 +1460,7 @@ updated: 2024-03-11T10:55
 			"containerId": null,
 			"originalText": "草稿班表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "diamond",
@@ -1542,8 +1545,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 884,
-			"versionNonce": 1892743025,
+			"version": 888,
+			"versionNonce": 636213325,
 			"isDeleted": false,
 			"id": "NNP4Np5njRWZchSsvbImJ",
 			"fillStyle": "solid",
@@ -1565,7 +1568,7 @@ updated: 2024-03-11T10:55
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710162741884,
+			"updated": 1710296990797,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1671,7 +1674,7 @@ updated: 2024-03-11T10:55
 			"containerId": "Jtpnvbqp0lXUiRQG89HBO",
 			"originalText": "發布班表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "line",
@@ -1775,12 +1778,12 @@ updated: 2024-03-11T10:55
 			"containerId": null,
 			"originalText": "已發布班表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 2018,
-			"versionNonce": 2130273617,
+			"version": 2020,
+			"versionNonce": 919878317,
 			"isDeleted": false,
 			"id": "l0RUxAtkw6ZUbjpkYsy4a",
 			"fillStyle": "solid",
@@ -1800,7 +1803,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741875,
+			"updated": 1710296990786,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1833,8 +1836,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 688,
-			"versionNonce": 1728723697,
+			"version": 692,
+			"versionNonce": 379469261,
 			"isDeleted": false,
 			"id": "R84WXaIdvEXoLw1w0-l3B",
 			"fillStyle": "solid",
@@ -1859,7 +1862,7 @@ updated: 2024-03-11T10:55
 					"id": "BWSwlLGW"
 				}
 			],
-			"updated": 1710162741877,
+			"updated": 1710296990787,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1925,12 +1928,12 @@ updated: 2024-03-11T10:55
 			"containerId": "R84WXaIdvEXoLw1w0-l3B",
 			"originalText": "是",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 500,
-			"versionNonce": 1534114417,
+			"version": 504,
+			"versionNonce": 1622044493,
 			"isDeleted": false,
 			"id": "F3bXrQGQZMy-9U3ZkvVSW",
 			"fillStyle": "solid",
@@ -1955,7 +1958,7 @@ updated: 2024-03-11T10:55
 					"id": "WiKZuJaZ"
 				}
 			],
-			"updated": 1710162741880,
+			"updated": 1710296990789,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2021,7 +2024,7 @@ updated: 2024-03-11T10:55
 			"containerId": "F3bXrQGQZMy-9U3ZkvVSW",
 			"originalText": "否",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2179,12 +2182,12 @@ updated: 2024-03-11T10:55
 			"containerId": "VkW4RR8F-EjAk1vwTyvay",
 			"originalText": "同意公告",
 			"lineHeight": 1.15,
-			"baseline": 20
+			"baseline": 21
 		},
 		{
 			"type": "arrow",
-			"version": 1534,
-			"versionNonce": 1176048593,
+			"version": 1538,
+			"versionNonce": 2002665261,
 			"isDeleted": false,
 			"id": "Ys5QtUC2Kqa_Y819HqcLF",
 			"fillStyle": "solid",
@@ -2204,7 +2207,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741881,
+			"updated": 1710296990789,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2233,8 +2236,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 1624,
-			"versionNonce": 22815569,
+			"version": 1632,
+			"versionNonce": 1009959085,
 			"isDeleted": false,
 			"id": "bKIJU-Zu4i84vW2-Uf7LA",
 			"fillStyle": "solid",
@@ -2254,7 +2257,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741882,
+			"updated": 1710296990789,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2283,8 +2286,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 539,
-			"versionNonce": 1271528433,
+			"version": 543,
+			"versionNonce": 1674549965,
 			"isDeleted": false,
 			"id": "xxk64VjLUHTL1_-AhB67Z",
 			"fillStyle": "solid",
@@ -2304,7 +2307,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741874,
+			"updated": 1710296990781,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2333,8 +2336,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 327,
-			"versionNonce": 1501401393,
+			"version": 329,
+			"versionNonce": 47194893,
 			"isDeleted": false,
 			"id": "QVFd9uKfx0OGUe_MHr0KY",
 			"fillStyle": "solid",
@@ -2356,7 +2359,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741882,
+			"updated": 1710296990790,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2381,8 +2384,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 333,
-			"versionNonce": 791823441,
+			"version": 335,
+			"versionNonce": 85786029,
 			"isDeleted": false,
 			"id": "Zy4b-qfB6pwnh-hLVK17v",
 			"fillStyle": "solid",
@@ -2404,7 +2407,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741880,
+			"updated": 1710296990789,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2510,12 +2513,12 @@ updated: 2024-03-11T10:55
 			"containerId": "oXPoiRd6K9lC4aCjLHBx_",
 			"originalText": "刪除班表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 271,
-			"versionNonce": 1794523921,
+			"version": 273,
+			"versionNonce": 676477293,
 			"isDeleted": false,
 			"id": "roSlb-2Lee8SIfYY9otv4",
 			"fillStyle": "solid",
@@ -2537,7 +2540,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741882,
+			"updated": 1710296990791,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2687,12 +2690,12 @@ updated: 2024-03-11T10:55
 			"containerId": "rx78JVKTkz2LelUkC_3Di",
 			"originalText": "班表生效",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 1282,
-			"versionNonce": 1717691213,
+			"version": 1544,
+			"versionNonce": 1349959757,
 			"isDeleted": false,
 			"id": "C6FdSZgaWxtxNYQxk7fkx",
 			"fillStyle": "solid",
@@ -2701,8 +2704,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -316.77737531227046,
-			"y": 1540.2605875000986,
+			"x": -565.0978074360253,
+			"y": 1713.6926353550534,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 170.66666666666663,
@@ -2721,14 +2724,14 @@ updated: 2024-03-11T10:55
 					"type": "arrow"
 				}
 			],
-			"updated": 1710142929490,
+			"updated": 1710296983932,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1255,
-			"versionNonce": 328893443,
+			"version": 1517,
+			"versionNonce": 1504915117,
 			"isDeleted": false,
 			"id": "EZ5BJLKK",
 			"fillStyle": "solid",
@@ -2737,8 +2740,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -271.44404197893715,
-			"y": 1563.4272541667654,
+			"x": -519.764474102692,
+			"y": 1736.8593020217202,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 80,
@@ -2748,7 +2751,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710142929490,
+			"updated": 1710296983932,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2760,12 +2763,12 @@ updated: 2024-03-11T10:55
 			"containerId": "C6FdSZgaWxtxNYQxk7fkx",
 			"originalText": "編輯班表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 816,
-			"versionNonce": 1139052593,
+			"version": 1080,
+			"versionNonce": 40011277,
 			"isDeleted": false,
 			"id": "opZiVPPdvwDCgYTwuK0vO",
 			"fillStyle": "solid",
@@ -2774,12 +2777,12 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -331.5656430287163,
-			"y": 1576.1321604917334,
+			"x": -525.0372962191778,
+			"y": 1698.9043676386077,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 298.75979067913494,
-			"height": 1.4651801882931481,
+			"width": 105.28813748867339,
+			"height": 121.30702695858113,
 			"seed": 133920739,
 			"groupIds": [
 				"F5vd_hbifrux474OhxGHK"
@@ -2787,7 +2790,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741883,
+			"updated": 1710296990794,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2805,15 +2808,15 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					-298.75979067913494,
-					1.4651801882931481
+					-105.28813748867339,
+					-121.30702695858113
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1415,
-			"versionNonce": 1225097489,
+			"version": 1417,
+			"versionNonce": 1383808877,
 			"isDeleted": false,
 			"id": "LfBHXkfNPphIJJ05JpxII",
 			"fillStyle": "solid",
@@ -2835,7 +2838,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741885,
+			"updated": 1710296990797,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2937,7 +2940,7 @@ updated: 2024-03-11T10:55
 			"containerId": "lH6fvh-vNQtVspj2TIh07",
 			"originalText": "新增通知(自動）",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2985,8 +2988,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 704,
-			"versionNonce": 1061600995,
+			"version": 705,
+			"versionNonce": 2050880611,
 			"isDeleted": false,
 			"id": "T6es9H5W",
 			"fillStyle": "solid",
@@ -3006,7 +3009,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710142929490,
+			"updated": 1710296935330,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3022,8 +3025,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 106,
-			"versionNonce": 672960305,
+			"version": 114,
+			"versionNonce": 1327622413,
 			"isDeleted": false,
 			"id": "dKwGJQF3F_Iz7lWbjhQLd",
 			"fillStyle": "solid",
@@ -3043,7 +3046,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741885,
+			"updated": 1710296990797,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3253,12 +3256,12 @@ updated: 2024-03-11T10:55
 			"containerId": null,
 			"originalText": "已發布班表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 295,
-			"versionNonce": 1723019473,
+			"version": 303,
+			"versionNonce": 1545209901,
 			"isDeleted": false,
 			"id": "Qg5WibCebra3K_u4FM0_F",
 			"fillStyle": "cross-hatch",
@@ -3283,7 +3286,7 @@ updated: 2024-03-11T10:55
 					"id": "wajPJNyX"
 				}
 			],
-			"updated": 1710162741887,
+			"updated": 1710296990798,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3345,12 +3348,12 @@ updated: 2024-03-11T10:55
 			"containerId": "Qg5WibCebra3K_u4FM0_F",
 			"originalText": "是",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 273,
-			"versionNonce": 819688145,
+			"version": 281,
+			"versionNonce": 1341817389,
 			"isDeleted": false,
 			"id": "xfMCPpxosqudbyozQCe3T",
 			"fillStyle": "cross-hatch",
@@ -3375,7 +3378,7 @@ updated: 2024-03-11T10:55
 					"id": "Ijqtc9J2"
 				}
 			],
-			"updated": 1710162741882,
+			"updated": 1710296990791,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3437,12 +3440,12 @@ updated: 2024-03-11T10:55
 			"containerId": "xfMCPpxosqudbyozQCe3T",
 			"originalText": "否",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 138,
-			"versionNonce": 549303921,
+			"version": 146,
+			"versionNonce": 1921317709,
 			"isDeleted": false,
 			"id": "la2TGSPbqaigZb3P0-Fmn",
 			"fillStyle": "cross-hatch",
@@ -3467,7 +3470,7 @@ updated: 2024-03-11T10:55
 					"id": "6ZzMdsI4"
 				}
 			],
-			"updated": 1710162741888,
+			"updated": 1710296990798,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3529,7 +3532,7 @@ updated: 2024-03-11T10:55
 			"containerId": "la2TGSPbqaigZb3P0-Fmn",
 			"originalText": "否",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "line",
@@ -3629,7 +3632,7 @@ updated: 2024-03-11T10:55
 			"containerId": null,
 			"originalText": "員工行事曆",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "line",
@@ -3733,7 +3736,7 @@ updated: 2024-03-11T10:55
 			"containerId": null,
 			"originalText": "排班總表",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "line",
@@ -3833,12 +3836,12 @@ updated: 2024-03-11T10:55
 			"containerId": null,
 			"originalText": "班表生效\n通知",
 			"lineHeight": 1.15,
-			"baseline": 41
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 42,
-			"versionNonce": 880214609,
+			"version": 44,
+			"versionNonce": 2132116397,
 			"isDeleted": false,
 			"id": "Zh4Y-5SKzVSS17GAR-O_z",
 			"fillStyle": "cross-hatch",
@@ -3858,7 +3861,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741883,
+			"updated": 1710296990793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3883,8 +3886,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 34,
-			"versionNonce": 1613821937,
+			"version": 38,
+			"versionNonce": 1754801869,
 			"isDeleted": false,
 			"id": "wgLdlkM8Ge0NC7dI6Lzpu",
 			"fillStyle": "cross-hatch",
@@ -3904,7 +3907,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741884,
+			"updated": 1710296990796,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3933,8 +3936,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 168,
-			"versionNonce": 1993764785,
+			"version": 172,
+			"versionNonce": 1223464845,
 			"isDeleted": false,
 			"id": "-qnzCPMr_sKCEhJXH2RRp",
 			"fillStyle": "cross-hatch",
@@ -3954,7 +3957,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741884,
+			"updated": 1710296990796,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4033,8 +4036,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 52,
-			"versionNonce": 1618486289,
+			"version": 56,
+			"versionNonce": 529610349,
 			"isDeleted": false,
 			"id": "LWRZ3ek3hyM31UIXiGV4T",
 			"fillStyle": "cross-hatch",
@@ -4054,7 +4057,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741881,
+			"updated": 1710296990789,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4083,8 +4086,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 53,
-			"versionNonce": 1873478929,
+			"version": 57,
+			"versionNonce": 1885156205,
 			"isDeleted": false,
 			"id": "epw_TdLrlfVf627Hq9a17",
 			"fillStyle": "cross-hatch",
@@ -4104,7 +4107,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710162741876,
+			"updated": 1710296990787,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4130,6 +4133,75 @@ updated: 2024-03-11T10:55
 					116.57639886779953
 				]
 			]
+		},
+		{
+			"type": "diamond",
+			"version": 2009,
+			"versionNonce": 1680840451,
+			"isDeleted": false,
+			"id": "UoyhvrHmDmdiLaarii0uu",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -322.40307217430353,
+			"y": 1608.4045418525138,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#fcc2d7",
+			"width": 186.65146489109287,
+			"height": 132,
+			"seed": 818165027,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "eo2wrWnC"
+				}
+			],
+			"updated": 1710296995533,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1858,
+			"versionNonce": 684441251,
+			"isDeleted": false,
+			"id": "eo2wrWnC",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -269.2402059515303,
+			"y": 1646.804541852514,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 55.199999999999996,
+			"seed": 1365743811,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710296995533,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 2,
+			"text": "是否\n授權員工自\n排班表",
+			"rawText": "是否\n授權員工自排班表",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "UoyhvrHmDmdiLaarii0uu",
+			"originalText": "是否\n授權員工自排班表",
+			"lineHeight": 1.15,
+			"baseline": 51
 		}
 	],
 	"appState": {
@@ -4147,10 +4219,10 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 837.5445182900605,
-		"scrollY": -729.5994587435896,
+		"scrollX": 945.3657975362134,
+		"scrollY": -1069.7099017251248,
 		"zoom": {
-			"value": 0.7000000000000001
+			"value": 0.5208271834254266
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
