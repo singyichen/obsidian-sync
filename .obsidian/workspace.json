@@ -53,7 +53,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md"
+                "file": "Excalidraw/temporary.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md",
+                "file": "Excalidraw/temporary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md",
+                "file": "Excalidraw/temporary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md"
+                "file": "Excalidraw/temporary.md"
               }
             }
           },
@@ -251,10 +251,10 @@
   },
   "active": "0dffeac5538deb39",
   "lastOpenFiles": [
-    "Excalidraw/shift-work-flow.md",
-    "Excalidraw/jwt.md",
-    "Excalidraw/Drawing 2024-03-13 14.41.00.excalidraw.md",
     "Excalidraw/history-of-the-labor-standards-act.md",
+    "Excalidraw/temporary.md",
+    "Excalidraw/jwt.md",
+    "Excalidraw/shift-work-flow.md",
     "Images/Pasted Image 20240314090706_466.png",
     "Images/Pasted Image 20240314090603_903.png",
     "Images/Pasted Image 20240314090456_683.png",
