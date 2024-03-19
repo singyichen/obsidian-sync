@@ -1214,8 +1214,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 901,
-			"versionNonce": 231559181,
+			"version": 973,
+			"versionNonce": 962212621,
 			"isDeleted": false,
 			"id": "NNP4Np5njRWZchSsvbImJ",
 			"fillStyle": "solid",
@@ -1224,11 +1224,11 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -241.71528703921416,
+			"x": -241.72954152782472,
 			"y": 280.15832387890043,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.5062080518455332,
+			"width": 0.649367703500161,
 			"height": 100.51932952916377,
 			"seed": 1174420995,
 			"groupIds": [],
@@ -1237,7 +1237,7 @@ updated: 2024-03-11T10:55
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710480777187,
+			"updated": 1710828967646,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1259,7 +1259,7 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					-0.5062080518455332,
+					-0.649367703500161,
 					100.51932952916377
 				]
 			]
@@ -2209,8 +2209,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2057,
-			"versionNonce": 2025064867,
+			"version": 2093,
+			"versionNonce": 114205261,
 			"isDeleted": false,
 			"id": "8g4UNy3-fG8ubdR4xg-b9",
 			"fillStyle": "solid",
@@ -2219,11 +2219,11 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -315.80035018305796,
+			"x": -321.6769559860171,
 			"y": 395.5419449553169,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#99e9f2",
-			"width": 149.49609374999997,
+			"width": 161.02229628440207,
 			"height": 60.66666666666662,
 			"seed": 1771303885,
 			"groupIds": [],
@@ -2243,14 +2243,14 @@ updated: 2024-03-11T10:55
 					"type": "arrow"
 				}
 			],
-			"updated": 1710480777188,
+			"updated": 1710828967645,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 717,
-			"versionNonce": 598021645,
+			"version": 786,
+			"versionNonce": 603886125,
 			"isDeleted": false,
 			"id": "T6es9H5W",
 			"fillStyle": "solid",
@@ -2259,18 +2259,18 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -281.0454245791221,
+			"x": -281.1658078438161,
 			"y": 414.37527828865024,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 79.98624254212827,
+			"width": 80,
 			"height": 23,
 			"seed": 1339945517,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710480777188,
+			"updated": 1710828967646,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2282,12 +2282,12 @@ updated: 2024-03-11T10:55
 			"containerId": "8g4UNy3-fG8ubdR4xg-b9",
 			"originalText": "編輯草稿",
 			"lineHeight": 1.15,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 129,
-			"versionNonce": 627629379,
+			"version": 201,
+			"versionNonce": 1565037517,
 			"isDeleted": false,
 			"id": "dKwGJQF3F_Iz7lWbjhQLd",
 			"fillStyle": "solid",
@@ -2296,18 +2296,18 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -241.16949080805796,
+			"x": -241.23043971824467,
 			"y": 463.2287939136502,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#2f9e44",
-			"width": 0.9290398976830829,
-			"height": 87.90673305550717,
+			"width": 0.8951031690552327,
+			"height": 87.91774027819883,
 			"seed": 2033082115,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710480777188,
+			"updated": 1710828967646,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2329,8 +2329,8 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					-0.9290398976830829,
-					87.90673305550717
+					-0.8951031690552327,
+					87.91774027819883
 				]
 			]
 		},
@@ -4384,10 +4384,10 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1090.1691254478856,
-		"scrollY": -228.22357082241336,
+		"scrollX": 490.3080882096457,
+		"scrollY": 154.65844618285098,
 		"zoom": {
-			"value": 0.4101646012812852
+			"value": 1.06686265171011
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
