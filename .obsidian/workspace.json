@@ -51,11 +51,9 @@
             "id": "0dffeac5538deb39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "software.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/shift-work-flow.md"
               }
             }
           }
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software.md",
+                "file": "Excalidraw/shift-work-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software.md",
+                "file": "Excalidraw/shift-work-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software.md"
+                "file": "Excalidraw/shift-work-flow.md"
               }
             }
           },
@@ -253,6 +251,7 @@
   },
   "active": "0dffeac5538deb39",
   "lastOpenFiles": [
+    "software.md",
     "skill-tree.md",
     "Excalidraw/shift-work-flow.md",
     "Excalidraw/temporary.md",
@@ -282,7 +281,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product/core-product.md",
-    "software.md",
     "README.md",
     "Xmind/一鍵發薪.xmind",
     "Xmind",
