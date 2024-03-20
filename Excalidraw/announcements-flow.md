@@ -35,7 +35,7 @@ updated: 2024-03-11T10:55
 
 是 ^rpSuvct4
 
-公告列表 ^O2g1trER
+核准的公告 ^O2g1trER
 
 %%
 # Drawing
@@ -1403,8 +1403,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "line",
-			"version": 2125,
-			"versionNonce": 1440695683,
+			"version": 2128,
+			"versionNonce": 1566777347,
 			"isDeleted": false,
 			"id": "o9v78qpUUjlvaA_L8Ow7U",
 			"fillStyle": "solid",
@@ -1413,7 +1413,7 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -284.43216922553063,
+			"x": -285.94884929050784,
 			"y": 537.7913986649078,
 			"strokeColor": "#000000",
 			"backgroundColor": "#ffec99",
@@ -1426,7 +1426,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710926554071,
+			"updated": 1710926852673,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1459,8 +1459,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 1053,
-			"versionNonce": 1434557731,
+			"version": 1085,
+			"versionNonce": 123228525,
 			"isDeleted": false,
 			"id": "O2g1trER",
 			"fillStyle": "solid",
@@ -1469,11 +1469,11 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -294.6891675352398,
+			"x": -304.205847600217,
 			"y": 560.5730610865543,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
-			"width": 81.3599853515625,
+			"width": 101.69998168945312,
 			"height": 23.397863903100088,
 			"seed": 658800493,
 			"groupIds": [
@@ -1482,17 +1482,17 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710926554071,
+			"updated": 1710926855581,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.34596861139138,
 			"fontFamily": 2,
-			"text": "公告列表",
-			"rawText": "公告列表",
+			"text": "核准的公告",
+			"rawText": "核准的公告",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "公告列表",
+			"originalText": "核准的公告",
 			"lineHeight": 1.15,
 			"baseline": 19
 		}
@@ -1512,8 +1512,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1172.108530450246,
-		"scrollY": 600.6656846562307,
+		"scrollX": 1172.1085304502462,
+		"scrollY": 386.59244218767225,
 		"zoom": {
 			"value": 0.4764724391698834
 		},
