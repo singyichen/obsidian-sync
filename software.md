@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-02-26T10:03
+updated: 2024-03-20T08:48
 title: software
 description: 
 author: mandy
@@ -72,6 +72,8 @@ eslint --init
 ### CodiumAI (Test writing)
 
 ### TypeLens
+
+### Phind
 
 # Tools
 ## Lightshot
