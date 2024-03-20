@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-03-20T08:48
+updated: 2024-03-20T08:49
 title: software
 description: 
 author: mandy
@@ -96,6 +96,8 @@ eslint --init
 ## DBSchema
 
 ## tableplus
+
+## mysql workbench
 # AI 
 
 ## [Gemini](https://gemini.google.com/app)
