@@ -9,9 +9,9 @@ updated: 2024-03-11T10:55
 
 
 # Text Elements
-排班流程圖 ^e8aa0kqP
+公告流程圖 ^e8aa0kqP
 
-管理者 ^nhrNnzh8
+核准人 ^nhrNnzh8
 
 員工 ^KYvSOleL
 
@@ -106,8 +106,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 1173,
-			"versionNonce": 787285933,
+			"version": 1182,
+			"versionNonce": 2126162797,
 			"isDeleted": false,
 			"id": "e8aa0kqP",
 			"fillStyle": "solid",
@@ -130,17 +130,17 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710480777186,
+			"updated": 1710925142052,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 2,
-			"text": "排班流程圖",
-			"rawText": "排班流程圖",
+			"text": "公告流程圖",
+			"rawText": "公告流程圖",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "N2h6pu_RHUmV9jdm96zrW",
-			"originalText": "排班流程圖",
+			"originalText": "公告流程圖",
 			"lineHeight": 1.15,
 			"baseline": 33
 		},
@@ -234,8 +234,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 451,
-			"versionNonce": 590695587,
+			"version": 478,
+			"versionNonce": 145157677,
 			"isDeleted": false,
 			"id": "nhrNnzh8",
 			"fillStyle": "solid",
@@ -255,17 +255,17 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710925096775,
+			"updated": 1710925134007,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 2,
-			"text": "管理者",
-			"rawText": "管理者",
+			"text": "核准人",
+			"rawText": "核准人",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "RT8M5fvcCDOcqH7PN4yng",
-			"originalText": "管理者",
+			"originalText": "核准人",
 			"lineHeight": 1.15,
 			"baseline": 33
 		},
