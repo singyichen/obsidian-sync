@@ -35,6 +35,8 @@ updated: 2024-03-11T10:55
 
 否 ^fpGh8Jc8
 
+是 ^rpSuvct4
+
 %%
 # Drawing
 ```json
@@ -122,8 +124,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2125,
-			"versionNonce": 1417713699,
+			"version": 2126,
+			"versionNonce": 2049340269,
 			"isDeleted": false,
 			"id": "vYKnxwmD8cr0X83TrytbK",
 			"fillStyle": "cross-hatch",
@@ -132,7 +134,7 @@ updated: 2024-03-11T10:55
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -699.4537274106075,
+			"x": -699.0321190622507,
 			"y": -457.31546565134636,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
@@ -143,7 +145,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710925918765,
+			"updated": 1710926042686,
 			"link": null,
 			"locked": false
 		},
@@ -1345,11 +1347,16 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 1454631747,
-			"version": 55,
-			"versionNonce": 1378652045,
+			"version": 57,
+			"versionNonce": 1528369549,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1710926025941,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "rpSuvct4"
+				}
+			],
+			"updated": 1710926061112,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1371,6 +1378,45 @@ updated: 2024-03-11T10:55
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "rpSuvct4",
+			"type": "text",
+			"x": -421.83530403311795,
+			"y": 322.11527234548953,
+			"width": 20,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"FDiP5MnTOlCrn5NDnU8hI"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1995849133,
+			"version": 3,
+			"versionNonce": 94232195,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710926059009,
+			"link": null,
+			"locked": false,
+			"text": "是",
+			"rawText": "是",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 19,
+			"containerId": "C6P_-FU832AZM7KEl4sRO",
+			"originalText": "是",
+			"lineHeight": 1.15
 		},
 		{
 			"id": "z3N13MEY2fraVHRUIi1ZX",
