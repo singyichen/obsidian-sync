@@ -15,9 +15,9 @@ updated: 2024-03-11T10:55
 
 員工 ^KYvSOleL
 
-排班設定 ^FsJNphHq
+公告 ^FsJNphHq
 
-新增班別 ^8cePY8X0
+新增公告 ^8cePY8X0
 
 新增班表 ^T7Ob9kiH
 
@@ -378,8 +378,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 2077837613,
+			"version": 177,
+			"versionNonce": 392702019,
 			"isDeleted": false,
 			"id": "FsJNphHq",
 			"fillStyle": "solid",
@@ -388,28 +388,28 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -279.83984375,
+			"x": -259.83984375,
 			"y": -364.7500000000001,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 80,
+			"width": 40,
 			"height": 23,
 			"seed": 652197324,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710480777186,
+			"updated": 1710925214913,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "排班設定",
-			"rawText": "排班設定",
+			"text": "公告",
+			"rawText": "公告",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "pQwslbwNYs2XGT6024adQ",
-			"originalText": "排班設定",
+			"originalText": "公告",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -455,8 +455,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 308,
-			"versionNonce": 2088013,
+			"version": 317,
+			"versionNonce": 2140631885,
 			"isDeleted": false,
 			"id": "8cePY8X0",
 			"fillStyle": "solid",
@@ -476,17 +476,17 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710480777186,
+			"updated": 1710925232238,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "新增班別",
-			"rawText": "新增班別",
+			"text": "新增公告",
+			"rawText": "新增公告",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "HPBJODiguOiLSIwwKE1iC",
-			"originalText": "新增班別",
+			"originalText": "新增公告",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -569,8 +569,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 625,
-			"versionNonce": 2091497027,
+			"version": 631,
+			"versionNonce": 107491043,
 			"isDeleted": false,
 			"id": "Un8cXdKUZFkvaUc2enKsV",
 			"fillStyle": "solid",
@@ -590,7 +590,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710924469537,
+			"updated": 1710925233367,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -619,8 +619,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 923,
-			"versionNonce": 16418339,
+			"version": 927,
+			"versionNonce": 64885283,
 			"isDeleted": false,
 			"id": "6M3Pm8qAnC46u3s8e4_Ib",
 			"fillStyle": "solid",
@@ -640,7 +640,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710924469542,
+			"updated": 1710925233367,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3104,10 +3104,10 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 847.724686192114,
-		"scrollY": 1130.8496730594102,
+		"scrollX": 801.8215168923484,
+		"scrollY": 503.62552519615474,
 		"zoom": {
-			"value": 0.3748908257484437
+			"value": 0.9044394044239459
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
