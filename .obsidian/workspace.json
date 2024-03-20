@@ -51,9 +51,11 @@
             "id": "0dffeac5538deb39",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md"
+                "file": "software.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md"
+                "file": "software.md"
               }
             }
           },
@@ -251,9 +253,9 @@
   },
   "active": "0dffeac5538deb39",
   "lastOpenFiles": [
+    "Excalidraw/shift-work-flow.md",
     "software.md",
     "skill-tree.md",
-    "Excalidraw/shift-work-flow.md",
     "Excalidraw/temporary.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/history-of-the-labor-standards-act.md",
