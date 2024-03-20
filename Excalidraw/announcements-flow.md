@@ -40,6 +40,8 @@ updated: 2024-03-11T10:55
 
 刪除公告 ^oevjcNAi
 
+選擇核准人 ^21aqVDth
+
 %%
 # Drawing
 ```json
@@ -127,8 +129,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2407,
-			"versionNonce": 30364259,
+			"version": 2412,
+			"versionNonce": 772048173,
 			"isDeleted": false,
 			"id": "vYKnxwmD8cr0X83TrytbK",
 			"fillStyle": "cross-hatch",
@@ -138,7 +140,7 @@ updated: 2024-03-11T10:55
 			"opacity": 100,
 			"angle": 0,
 			"x": -699.0396542704747,
-			"y": -457.38870554007553,
+			"y": -456.41766796177365,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
 			"width": 907.9968281732375,
@@ -148,7 +150,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710927378658,
+			"updated": 1710927410268,
 			"link": null,
 			"locked": false
 		},
@@ -1483,8 +1485,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 467,
-			"versionNonce": 94054691,
+			"version": 543,
+			"versionNonce": 1184977997,
 			"isDeleted": false,
 			"id": "x-eUTI6341vCAtWmS0wEK",
 			"fillStyle": "solid",
@@ -1493,8 +1495,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -323.2366204437914,
-			"y": 924.5257160579778,
+			"x": -300.6315165958369,
+			"y": 1130.7979667694326,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -1509,14 +1511,14 @@ updated: 2024-03-11T10:55
 					"id": "oevjcNAi"
 				}
 			],
-			"updated": 1710927398768,
+			"updated": 1710927465049,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 480,
-			"versionNonce": 349913645,
+			"version": 556,
+			"versionNonce": 1433092781,
 			"isDeleted": false,
 			"id": "oevjcNAi",
 			"fillStyle": "solid",
@@ -1525,8 +1527,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -285.2366204437914,
-			"y": 943.0257160579778,
+			"x": -262.6315165958369,
+			"y": 1149.2979667694326,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 80,
@@ -1536,7 +1538,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710927405122,
+			"updated": 1710927465049,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1547,6 +1549,75 @@ updated: 2024-03-11T10:55
 			"verticalAlign": "middle",
 			"containerId": "x-eUTI6341vCAtWmS0wEK",
 			"originalText": "刪除公告",
+			"lineHeight": 1.15,
+			"baseline": 19
+		},
+		{
+			"type": "rectangle",
+			"version": 412,
+			"versionNonce": 710379907,
+			"isDeleted": false,
+			"id": "Vevtzccreih7C0ykW4klI",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -427.9296607993653,
+			"y": 934.2740653775786,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#99e9f2",
+			"width": 156,
+			"height": 60,
+			"seed": 758269389,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "21aqVDth"
+				}
+			],
+			"updated": 1710927465803,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 414,
+			"versionNonce": 2052153635,
+			"isDeleted": false,
+			"id": "21aqVDth",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -399.9296607993653,
+			"y": 952.7740653775786,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 100,
+			"height": 23,
+			"seed": 1877083181,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710927465803,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "選擇核准人",
+			"rawText": "選擇核准人",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Vevtzccreih7C0ykW4klI",
+			"originalText": "選擇核准人",
 			"lineHeight": 1.15,
 			"baseline": 19
 		}
@@ -1566,8 +1637,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 820.0203445162769,
-		"scrollY": -112.0068599211875,
+		"scrollX": 867.2377248600723,
+		"scrollY": -389.75615606116475,
 		"zoom": {
 			"value": 0.7200738319754599
 		},
