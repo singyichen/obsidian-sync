@@ -35,7 +35,7 @@ updated: 2024-03-11T10:55
 
 是 ^rpSuvct4
 
-未讀公告 ^O2g1trER
+公告列表 ^O2g1trER
 
 %%
 # Drawing
@@ -124,8 +124,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2156,
-			"versionNonce": 27220739,
+			"version": 2157,
+			"versionNonce": 2034492835,
 			"isDeleted": false,
 			"id": "vYKnxwmD8cr0X83TrytbK",
 			"fillStyle": "cross-hatch",
@@ -135,7 +135,7 @@ updated: 2024-03-11T10:55
 			"opacity": 100,
 			"angle": 0,
 			"x": -699.0321190622507,
-			"y": -457.31546565134636,
+			"y": -457.84835324174355,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
 			"width": 911.2823216421996,
@@ -145,7 +145,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710926405616,
+			"updated": 1710926547372,
 			"link": null,
 			"locked": false
 		},
@@ -1403,8 +1403,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "line",
-			"version": 2105,
-			"versionNonce": 1376346765,
+			"version": 2125,
+			"versionNonce": 1440695683,
 			"isDeleted": false,
 			"id": "o9v78qpUUjlvaA_L8Ow7U",
 			"fillStyle": "solid",
@@ -1413,8 +1413,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -280.93150767015095,
-			"y": 537.3077006982394,
+			"x": -284.43216922553063,
+			"y": 537.7913986649078,
 			"strokeColor": "#000000",
 			"backgroundColor": "#ffec99",
 			"width": 171.28969451088156,
@@ -1426,7 +1426,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710926408736,
+			"updated": 1710926554071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1459,8 +1459,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 1023,
-			"versionNonce": 1295485165,
+			"version": 1053,
+			"versionNonce": 1434557731,
 			"isDeleted": false,
 			"id": "O2g1trER",
 			"fillStyle": "solid",
@@ -1469,8 +1469,8 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -291.1885059798601,
-			"y": 560.0893631198859,
+			"x": -294.6891675352398,
+			"y": 560.5730610865543,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 81.3599853515625,
@@ -1482,17 +1482,17 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710926408736,
+			"updated": 1710926554071,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.34596861139138,
 			"fontFamily": 2,
-			"text": "未讀公告",
-			"rawText": "未讀公告",
+			"text": "公告列表",
+			"rawText": "公告列表",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "未讀公告",
+			"originalText": "公告列表",
 			"lineHeight": 1.15,
 			"baseline": 19
 		}
@@ -1512,8 +1512,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1394.5768020352189,
-		"scrollY": 319.4322092563598,
+		"scrollX": 1172.108530450246,
+		"scrollY": 600.6656846562307,
 		"zoom": {
 			"value": 0.4764724391698834
 		},
