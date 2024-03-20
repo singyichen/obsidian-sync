@@ -4,61 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "21378c52d2f04f19",
+        "id": "e01d302816525e92",
         "type": "tabs",
         "children": [
           {
-            "id": "046768f9debaa6df",
+            "id": "4620b3fcb09287f9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/severance-pay.md"
-              }
-            }
-          },
-          {
-            "id": "b0b40e80bce5125f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/rank-and-effect-of-law.md"
-              }
-            }
-          },
-          {
-            "id": "4b7ddf4460b4bf5a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/backend-logo.md"
-              }
-            }
-          },
-          {
-            "id": "907a735a88aff655",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/shift-work-flow.md"
-              }
-            }
-          },
-          {
-            "id": "0dffeac5538deb39",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/shift-work-flow.md"
+                "file": "Excalidraw/announcements-flow.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md",
+                "file": "Excalidraw/announcements-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md",
+                "file": "Excalidraw/announcements-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/shift-work-flow.md"
+                "file": "Excalidraw/announcements-flow.md"
               }
             }
           },
@@ -250,11 +209,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0dffeac5538deb39",
+  "active": "4620b3fcb09287f9",
   "lastOpenFiles": [
-    "Excalidraw/announcements-flow.md",
+    "Excalidraw/severance-pay.md",
+    "Excalidraw/rank-and-effect-of-law.md",
     "Excalidraw/backend-logo.md",
     "Excalidraw/shift-work-flow.md",
+    "Excalidraw/announcements-flow.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "software.md",
     "skill-tree.md",
@@ -271,9 +232,7 @@
     "Images/Pasted Image 20240313144115_232.png",
     "software-testing.canvas",
     "Untitled.canvas",
-    "Excalidraw/severance-pay.md",
     "Excalidraw/PARA.md",
-    "Excalidraw/rank-and-effect-of-law.md",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/lottery-system-tech.md",
