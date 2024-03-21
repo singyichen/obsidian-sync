@@ -11,7 +11,7 @@ updated: 2024-03-11T10:55
 # Text Elements
 公告流程圖 ^e8aa0kqP
 
-公告 ^FsJNphHq
+新增公告開始 ^FsJNphHq
 
 新增公告 ^8cePY8X0
 
@@ -212,8 +212,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 821728675,
+			"version": 212,
+			"versionNonce": 223463149,
 			"isDeleted": false,
 			"id": "FsJNphHq",
 			"fillStyle": "solid",
@@ -222,28 +222,28 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -259.83984375,
+			"x": -299.83984375,
 			"y": -364.7500000000001,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 40,
+			"width": 120,
 			"height": 23,
 			"seed": 652197324,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710927785843,
+			"updated": 1710984592649,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "公告",
-			"rawText": "公告",
+			"text": "新增公告開始",
+			"rawText": "新增公告開始",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "pQwslbwNYs2XGT6024adQ",
-			"originalText": "公告",
+			"originalText": "新增公告開始",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -326,8 +326,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 726,
-			"versionNonce": 421691501,
+			"version": 730,
+			"versionNonce": 1350664515,
 			"isDeleted": false,
 			"id": "Un8cXdKUZFkvaUc2enKsV",
 			"fillStyle": "solid",
@@ -347,7 +347,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710927785844,
+			"updated": 1710984593692,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2703,8 +2703,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": 1317.0120761465296,
-		"scrollY": 277.9178129235005,
+		"scrollX": 1187.9602659647107,
+		"scrollY": 810.7769001258577,
 		"zoom": {
 			"value": 0.480427201390266
 		},
