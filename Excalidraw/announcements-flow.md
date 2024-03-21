@@ -170,8 +170,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 252,
-			"versionNonce": 1201194925,
+			"version": 253,
+			"versionNonce": 570297443,
 			"isDeleted": false,
 			"id": "pQwslbwNYs2XGT6024adQ",
 			"fillStyle": "solid",
@@ -189,7 +189,9 @@ updated: 2024-03-11T10:55
 			"seed": 1735339508,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
+			"roundness": {
+				"type": 3
+			},
 			"boundElements": [
 				{
 					"type": "text",
@@ -204,7 +206,7 @@ updated: 2024-03-11T10:55
 					"type": "arrow"
 				}
 			],
-			"updated": 1710927785843,
+			"updated": 1710983924887,
 			"link": null,
 			"locked": false
 		},
@@ -2702,12 +2704,12 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": 1212.9380356773156,
-		"scrollY": 128.05119464783954,
+		"scrollX": 1366.967615571749,
+		"scrollY": 785.7991304132489,
 		"zoom": {
 			"value": 0.480427201390266
 		},
-		"currentItemRoundness": "sharp",
+		"currentItemRoundness": "round",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
