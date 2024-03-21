@@ -268,8 +268,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 476,
-			"versionNonce": 94716909,
+			"version": 477,
+			"versionNonce": 431267651,
 			"isDeleted": false,
 			"id": "HPBJODiguOiLSIwwKE1iC",
 			"fillStyle": "solid",
@@ -281,7 +281,7 @@ updated: 2024-03-11T10:55
 			"x": -318.51888282183563,
 			"y": -645.8401015055292,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#99e9f2",
+			"backgroundColor": "#b2f2bb",
 			"width": 156,
 			"height": 60,
 			"seed": 193998412,
@@ -302,7 +302,7 @@ updated: 2024-03-11T10:55
 					"type": "arrow"
 				}
 			],
-			"updated": 1710986162724,
+			"updated": 1710986493638,
 			"link": null,
 			"locked": false
 		},
@@ -2469,8 +2469,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 704,
-			"versionNonce": 1615704515,
+			"version": 705,
+			"versionNonce": 1817307779,
 			"isDeleted": false,
 			"id": "mnejoR-WO0hGSDOPUBJug",
 			"fillStyle": "solid",
@@ -2482,7 +2482,7 @@ updated: 2024-03-11T10:55
 			"x": -316.57508389768617,
 			"y": -157.65439639950642,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#99e9f2",
+			"backgroundColor": "#b2f2bb",
 			"width": 156,
 			"height": 60,
 			"seed": 636399693,
@@ -2503,7 +2503,7 @@ updated: 2024-03-11T10:55
 					"type": "arrow"
 				}
 			],
-			"updated": 1710986174621,
+			"updated": 1710986499807,
 			"link": null,
 			"locked": false
 		},
@@ -2704,8 +2704,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 768,
-			"versionNonce": 1212051053,
+			"version": 769,
+			"versionNonce": 1543849357,
 			"isDeleted": false,
 			"id": "vR-bslwqAjqXTYa4b0av7",
 			"fillStyle": "solid",
@@ -2717,7 +2717,7 @@ updated: 2024-03-11T10:55
 			"x": -12.676367647944858,
 			"y": -336.5142573375048,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#99e9f2",
+			"backgroundColor": "#b2f2bb",
 			"width": 156,
 			"height": 60,
 			"seed": 1336213325,
@@ -2734,7 +2734,7 @@ updated: 2024-03-11T10:55
 					"type": "arrow"
 				}
 			],
-			"updated": 1710986162725,
+			"updated": 1710986501726,
 			"link": null,
 			"locked": false
 		},
@@ -3193,7 +3193,7 @@ updated: 2024-03-11T10:55
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#f08c00",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemBackgroundColor": "#b2f2bb",
 		"currentItemFillStyle": "cross-hatch",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -3204,8 +3204,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 742.629797778633,
-		"scrollY": 477.5140057076187,
+		"scrollX": 738.6920505821996,
+		"scrollY": 969.7324052617894,
 		"zoom": {
 			"value": 0.5079046216607089
 		},
