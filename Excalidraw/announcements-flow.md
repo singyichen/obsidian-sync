@@ -51,6 +51,10 @@ updated: 2024-03-11T10:55
 
 刪除公告流程圖 ^eqKdZXxv
 
+公告列表 ^W5DOJCJE
+
+待核准公告 ^XdXAhqCw
+
 %%
 # Drawing
 ```json
@@ -321,8 +325,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 747,
-			"versionNonce": 409859117,
+			"version": 755,
+			"versionNonce": 807952835,
 			"isDeleted": false,
 			"id": "Un8cXdKUZFkvaUc2enKsV",
 			"fillStyle": "solid",
@@ -342,7 +346,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710985172556,
+			"updated": 1710985237559,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -371,8 +375,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 1041,
-			"versionNonce": 557839789,
+			"version": 1049,
+			"versionNonce": 1430513731,
 			"isDeleted": false,
 			"id": "6M3Pm8qAnC46u3s8e4_Ib",
 			"fillStyle": "solid",
@@ -392,7 +396,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710985172558,
+			"updated": 1710985237560,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -683,8 +687,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 318,
-			"versionNonce": 1498820205,
+			"version": 322,
+			"versionNonce": 1633874819,
 			"isDeleted": false,
 			"id": "QN-Hp2pwlusAv1V8_dVXC",
 			"fillStyle": "cross-hatch",
@@ -704,7 +708,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710985172558,
+			"updated": 1710985237560,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -814,8 +818,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 194,
-			"versionNonce": 1381767949,
+			"version": 198,
+			"versionNonce": 306418915,
 			"isDeleted": false,
 			"id": "-4H9OKsBaieeQKFk2Tzy9",
 			"fillStyle": "cross-hatch",
@@ -835,7 +839,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710985172560,
+			"updated": 1710985237562,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -864,8 +868,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 88,
-			"versionNonce": 329199981,
+			"version": 90,
+			"versionNonce": 1399128195,
 			"isDeleted": false,
 			"id": "C6P_-FU832AZM7KEl4sRO",
 			"fillStyle": "cross-hatch",
@@ -892,7 +896,7 @@ updated: 2024-03-11T10:55
 					"id": "rpSuvct4"
 				}
 			],
-			"updated": 1710985172560,
+			"updated": 1710985237562,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1004,8 +1008,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 155,
-			"versionNonce": 376011309,
+			"version": 163,
+			"versionNonce": 1204485059,
 			"isDeleted": false,
 			"id": "28D56pr22mayOegc7zs6J",
 			"fillStyle": "cross-hatch",
@@ -1030,7 +1034,7 @@ updated: 2024-03-11T10:55
 					"id": "FIbUhw1X"
 				}
 			],
-			"updated": 1710985172561,
+			"updated": 1710985237562,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1200,8 +1204,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "arrow",
-			"version": 1104,
-			"versionNonce": 209092109,
+			"version": 1108,
+			"versionNonce": 1787183587,
 			"isDeleted": false,
 			"id": "qioIFH3WciEG91Cmjlvox",
 			"fillStyle": "cross-hatch",
@@ -1226,7 +1230,7 @@ updated: 2024-03-11T10:55
 					"id": "PpP3VXD7"
 				}
 			],
-			"updated": 1710985172563,
+			"updated": 1710985237564,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1494,11 +1498,11 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 942183181,
-			"version": 1213,
-			"versionNonce": 608735981,
+			"version": 1217,
+			"versionNonce": 215688963,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710985172562,
+			"updated": 1710985237563,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1605,10 +1609,10 @@ updated: 2024-03-11T10:55
 		{
 			"id": "f5fBRPvw7MiDIU3b4KzT7",
 			"type": "arrow",
-			"x": 89.90785316352819,
-			"y": 813.2676661633368,
-			"width": 1.0180772280351391,
-			"height": 112.20255162473677,
+			"x": 89.90785224139543,
+			"y": 813.2676661633367,
+			"width": 1.0180780331502035,
+			"height": 112.20255162473688,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1621,11 +1625,11 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 2087053709,
-			"version": 258,
-			"versionNonce": 135143117,
+			"version": 262,
+			"versionNonce": 802383139,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710985172564,
+			"updated": 1710985237564,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1634,8 +1638,8 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					1.0180772280351391,
-					112.20255162473677
+					1.0180780331502035,
+					112.20255162473688
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1655,10 +1659,10 @@ updated: 2024-03-11T10:55
 		{
 			"id": "2_64Yq1VVlYd_KeMyNvUs",
 			"type": "arrow",
-			"x": -236.4095541236038,
-			"y": 967.444893269152,
-			"width": 1.3026636328062864,
-			"height": 130.6854921601888,
+			"x": -236.4094919262174,
+			"y": 967.4448932691521,
+			"width": 1.3026151686152048,
+			"height": 130.6854921601887,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1671,11 +1675,11 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 1779238563,
-			"version": 642,
-			"versionNonce": 222597005,
+			"version": 646,
+			"versionNonce": 1142995043,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710985172565,
+			"updated": 1710985237565,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1684,8 +1688,8 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					1.3026636328062864,
-					130.6854921601888
+					1.3026151686152048,
+					130.6854921601887
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1802,8 +1806,8 @@ updated: 2024-03-11T10:55
 				"type": 2
 			},
 			"seed": 1635217741,
-			"version": 135,
-			"versionNonce": 2051570605,
+			"version": 143,
+			"versionNonce": 1103725123,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1811,7 +1815,7 @@ updated: 2024-03-11T10:55
 					"id": "kIFlwSAz"
 				}
 			],
-			"updated": 1710985172562,
+			"updated": 1710985237563,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1894,11 +1898,11 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 1705695939,
-			"version": 294,
-			"versionNonce": 847582701,
+			"version": 296,
+			"versionNonce": 617722883,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710985172565,
+			"updated": 1710985237565,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1931,8 +1935,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2715,
-			"versionNonce": 90098723,
+			"version": 2716,
+			"versionNonce": 732863885,
 			"isDeleted": false,
 			"id": "1SsS5g8O057sKCwu7JV9Y",
 			"fillStyle": "cross-hatch",
@@ -1941,7 +1945,7 @@ updated: 2024-03-11T10:55
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 336.0479891995476,
+			"x": 335.5711526249795,
 			"y": -455.41660081073474,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
@@ -1952,7 +1956,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710985154302,
+			"updated": 1710985216256,
 			"link": null,
 			"locked": false
 		},
@@ -2103,6 +2107,170 @@ updated: 2024-03-11T10:55
 			"originalText": "刪除公告流程圖",
 			"lineHeight": 1.15,
 			"baseline": 33
+		},
+		{
+			"type": "rectangle",
+			"version": 532,
+			"versionNonce": 368765805,
+			"isDeleted": false,
+			"id": "9nEA4-uPVeXO0nJ2ccfEW",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 718.229501127533,
+			"y": -235.29415801668188,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#99e9f2",
+			"width": 156,
+			"height": 60,
+			"seed": 357644547,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "W5DOJCJE"
+				}
+			],
+			"updated": 1710985233003,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 549,
+			"versionNonce": 801437133,
+			"isDeleted": false,
+			"id": "W5DOJCJE",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 756.229501127533,
+			"y": -216.79415801668188,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 23,
+			"seed": 1231626403,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710985233003,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "公告列表",
+			"rawText": "公告列表",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "9nEA4-uPVeXO0nJ2ccfEW",
+			"originalText": "公告列表",
+			"lineHeight": 1.15,
+			"baseline": 19
+		},
+		{
+			"type": "line",
+			"version": 2126,
+			"versionNonce": 323487309,
+			"isDeleted": false,
+			"id": "e0ImefsLHdYdOXoRbSWXm",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 748.0381087414285,
+			"y": -77.79187952161423,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffec99",
+			"width": 171.28969451088156,
+			"height": 68.6800153907397,
+			"seed": 884549453,
+			"groupIds": [
+				"mNW0qaVy8Km_NgY46qxxf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710985239718,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					117.70839614365254,
+					0.012607695232318172
+				],
+				[
+					66.40027637337148,
+					68.6800153907397
+				],
+				[
+					-53.58129836722903,
+					68.26149185590553
+				],
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 1027,
+			"versionNonce": 2120987821,
+			"isDeleted": false,
+			"id": "XdXAhqCw",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 729.7811104317193,
+			"y": -55.01021709996776,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffec99",
+			"width": 101.69998168945312,
+			"height": 23.397863903100088,
+			"seed": 1997583789,
+			"groupIds": [
+				"mNW0qaVy8Km_NgY46qxxf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710985239718,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.34596861139138,
+			"fontFamily": 2,
+			"text": "待核准公告",
+			"rawText": "待核准公告",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "待核准公告",
+			"lineHeight": 1.15,
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -2120,8 +2288,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 817.4469945108677,
-		"scrollY": 1324.1296529407898,
+		"scrollX": 758.3807865643668,
+		"scrollY": 1060.3005907797537,
 		"zoom": {
 			"value": 0.5079046216607089
 		},
