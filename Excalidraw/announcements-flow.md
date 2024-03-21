@@ -44,6 +44,8 @@ updated: 2024-03-11T10:55
 新增公告
 流程結束 ^85vxAPkP
 
+是 ^kIFlwSAz
+
 %%
 # Drawing
 ```json
@@ -1089,8 +1091,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "line",
-			"version": 2480,
-			"versionNonce": 123650947,
+			"version": 2492,
+			"versionNonce": 957744461,
 			"isDeleted": false,
 			"id": "xhgdfBVU8mfgfd7V4DzR-",
 			"fillStyle": "solid",
@@ -1100,7 +1102,7 @@ updated: 2024-03-11T10:55
 			"opacity": 100,
 			"angle": 0,
 			"x": 49.66315166395424,
-			"y": 903.7963701222784,
+			"y": 909.3261362047697,
 			"strokeColor": "#000000",
 			"backgroundColor": "#ffec99",
 			"width": 171.28969451088156,
@@ -1112,7 +1114,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710984845334,
+			"updated": 1710985007450,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1145,8 +1147,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 1394,
-			"versionNonce": 1838850765,
+			"version": 1406,
+			"versionNonce": 1478611885,
 			"isDeleted": false,
 			"id": "2GzSfDuI",
 			"fillStyle": "solid",
@@ -1156,7 +1158,7 @@ updated: 2024-03-11T10:55
 			"opacity": 100,
 			"angle": 0,
 			"x": 31.406153354245077,
-			"y": 926.5780325439248,
+			"y": 932.1077986264161,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 101.69998168945312,
@@ -1177,7 +1179,7 @@ updated: 2024-03-11T10:55
 					"type": "arrow"
 				}
 			],
-			"updated": 1710984932945,
+			"updated": 1710985007450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.34596861139138,
@@ -1598,10 +1600,10 @@ updated: 2024-03-11T10:55
 		{
 			"id": "f5fBRPvw7MiDIU3b4KzT7",
 			"type": "arrow",
-			"x": 89.91936757805598,
+			"x": 89.9087984582062,
 			"y": 813.2676661633367,
-			"width": 1.0014362705325794,
-			"height": 106.6727855422456,
+			"width": 1.0172518902622585,
+			"height": 112.20255162473688,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1614,11 +1616,11 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 2087053709,
-			"version": 230,
-			"versionNonce": 1633363053,
+			"version": 254,
+			"versionNonce": 198741101,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710984845335,
+			"updated": 1710985007450,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1627,8 +1629,8 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					1.0014362705325794,
-					106.6727855422456
+					1.0172518902622585,
+					112.20255162473688
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1777,7 +1779,7 @@ updated: 2024-03-11T10:55
 		{
 			"id": "qGXpTNl4ngvEskqYTJ_3H",
 			"type": "arrow",
-			"x": -236.22166467481964,
+			"x": -236.68311942440164,
 			"y": 664.4019176080806,
 			"width": 0.169200074846799,
 			"height": 79.2240895907421,
@@ -1795,11 +1797,16 @@ updated: 2024-03-11T10:55
 				"type": 2
 			},
 			"seed": 1635217741,
-			"version": 122,
-			"versionNonce": 677921091,
+			"version": 127,
+			"versionNonce": 163861997,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1710984882714,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "kIFlwSAz"
+				}
+			],
+			"updated": 1710984985240,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1815,24 +1822,61 @@ updated: 2024-03-11T10:55
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "dxIYRXcOUZtw5sDh41r9G",
-				"focus": -0.028273109566275514,
-				"gap": 9.67622347003821
+				"focus": -0.023328548859492395,
+				"gap": 9.409778919536969
 			},
 			"endBinding": {
 				"elementId": "Vevtzccreih7C0ykW4klI",
-				"focus": -0.0075017296617548215,
+				"focus": -0.01341296053934575,
 				"gap": 5.718736626781151
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
+			"id": "kIFlwSAz",
+			"type": "text",
+			"x": -246.59851938697824,
+			"y": 692.5139624034516,
+			"width": 20,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1748876813,
+			"version": 3,
+			"versionNonce": 1939961891,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710984984240,
+			"link": null,
+			"locked": false,
+			"text": "是",
+			"rawText": "是",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 19,
+			"containerId": "qGXpTNl4ngvEskqYTJ_3H",
+			"originalText": "是",
+			"lineHeight": 1.15
+		},
+		{
 			"id": "5UgYy4haqw-O9Ayn4fWHd",
 			"type": "arrow",
-			"x": 91.39582570343782,
-			"y": 960.5866486273094,
+			"x": 91.39687332176196,
+			"y": 966.1164147098007,
 			"width": 247.6320004507054,
-			"height": 182.2515533474243,
+			"height": 176.72178726493303,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1845,11 +1889,11 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 1705695939,
-			"version": 280,
-			"versionNonce": 1051551715,
+			"version": 292,
+			"versionNonce": 994473677,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710984952742,
+			"updated": 1710985007450,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1858,12 +1902,12 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					0.2845637622422146,
-					182.2515533474243
+					0.283516143918078,
+					176.72178726493303
 				],
 				[
-					-247.34743668846318,
-					182.09004418507038
+					-247.3484843067873,
+					176.5602781025791
 				]
 			],
 			"lastCommittedPoint": null,
@@ -2030,8 +2074,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1034.023090314705,
-		"scrollY": 150.68098840365116,
+		"scrollX": 1022.2098487254051,
+		"scrollY": 205.8094491537179,
 		"zoom": {
 			"value": 0.5079046216607089
 		},
