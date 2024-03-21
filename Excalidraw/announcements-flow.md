@@ -1916,8 +1916,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2808,
-			"versionNonce": 1916478403,
+			"version": 2894,
+			"versionNonce": 1817304867,
 			"isDeleted": false,
 			"id": "1SsS5g8O057sKCwu7JV9Y",
 			"fillStyle": "cross-hatch",
@@ -1931,13 +1931,13 @@ updated: 2024-03-11T10:55
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
 			"width": 914.3794939363886,
-			"height": 1742.6348897127968,
+			"height": 2157.01640705389,
 			"seed": 332282435,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710986837247,
+			"updated": 1710986902955,
 			"link": null,
 			"locked": false
 		},
@@ -3870,8 +3870,8 @@ updated: 2024-03-11T10:55
 			"type": "arrow",
 			"x": 1058.3094521159226,
 			"y": -77.57727456882003,
-			"width": 273.8559459691983,
-			"height": 619.1463230531732,
+			"width": 269.39219252562043,
+			"height": 620.4689166660852,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3882,15 +3882,13 @@ updated: 2024-03-11T10:55
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
+			"roundness": null,
 			"seed": 1103894627,
-			"version": 346,
-			"versionNonce": 582239501,
+			"version": 436,
+			"versionNonce": 408786829,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710986880638,
+			"updated": 1710986893873,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3899,8 +3897,8 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					4.463753443577843,
-					-571.9067294441659
+					-1.5454218846525691,
+					-620.4689166660852
 				],
 				[
 					-269.39219252562043,
@@ -3910,7 +3908,7 @@ updated: 2024-03-11T10:55
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "8DOLV9ES8cko_tF4U2KMG",
-				"focus": -0.003095925320807562,
+				"focus": 0.0017953250028793838,
 				"gap": 7.1391944657715385
 			},
 			"endBinding": null,
@@ -3933,12 +3931,12 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 455.8877224578821,
-		"scrollY": 1188.1390049064414,
+		"scrollX": 639.900746863023,
+		"scrollY": -155.15607325108815,
 		"zoom": {
 			"value": 0.5434397935867312
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
