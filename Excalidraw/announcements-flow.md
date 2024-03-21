@@ -55,6 +55,8 @@ updated: 2024-03-11T10:55
 
 待核准公告 ^XdXAhqCw
 
+已核准公告 ^CESe68on
+
 %%
 # Drawing
 ```json
@@ -1935,8 +1937,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "rectangle",
-			"version": 2716,
-			"versionNonce": 732863885,
+			"version": 2717,
+			"versionNonce": 1045637453,
 			"isDeleted": false,
 			"id": "1SsS5g8O057sKCwu7JV9Y",
 			"fillStyle": "cross-hatch",
@@ -1945,7 +1947,7 @@ updated: 2024-03-11T10:55
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 335.5711526249795,
+			"x": 336.0402982870546,
 			"y": -455.41660081073474,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
@@ -1956,7 +1958,7 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710985216256,
+			"updated": 1710985474185,
 			"link": null,
 			"locked": false
 		},
@@ -2271,6 +2273,101 @@ updated: 2024-03-11T10:55
 			"originalText": "待核准公告",
 			"lineHeight": 1.15,
 			"baseline": 19
+		},
+		{
+			"type": "line",
+			"version": 2668,
+			"versionNonce": 49819757,
+			"isDeleted": false,
+			"id": "zMx75kG41ssBKH37-tFCM",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 722.6350247769376,
+			"y": 153.50467945031846,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffec99",
+			"width": 171.28969451088156,
+			"height": 68.6800153907397,
+			"seed": 906312003,
+			"groupIds": [
+				"zxB2ro4BhzuiD5H67EWv_"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710985474571,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					117.70839614365254,
+					0.012607695232318172
+				],
+				[
+					66.40027637337148,
+					68.6800153907397
+				],
+				[
+					-53.58129836722903,
+					68.26149185590553
+				],
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 1593,
+			"versionNonce": 1993448141,
+			"isDeleted": false,
+			"id": "CESe68on",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 704.3780264672284,
+			"y": 176.28634187196508,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffec99",
+			"width": 101.69998168945312,
+			"height": 23.397863903100088,
+			"seed": 1815288035,
+			"groupIds": [
+				"zxB2ro4BhzuiD5H67EWv_"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710985474571,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.34596861139138,
+			"fontFamily": 2,
+			"text": "已核准公告",
+			"rawText": "已核准公告",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "已核准公告",
+			"lineHeight": 1.15,
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -2288,8 +2385,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 758.3807865643668,
-		"scrollY": 1060.3005907797537,
+		"scrollX": 774.1317753501004,
+		"scrollY": 394.82131458251644,
 		"zoom": {
 			"value": 0.5079046216607089
 		},
