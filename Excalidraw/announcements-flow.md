@@ -9,7 +9,7 @@ updated: 2024-03-11T10:55
 
 
 # Text Elements
-公告流程圖 ^e8aa0kqP
+新增公告流程圖 ^e8aa0kqP
 
 新增公告
 流程開始 ^FsJNphHq
@@ -56,8 +56,8 @@ updated: 2024-03-11T10:55
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 1310,
-			"versionNonce": 1467830275,
+			"version": 1368,
+			"versionNonce": 415515949,
 			"isDeleted": false,
 			"id": "N2h6pu_RHUmV9jdm96zrW",
 			"fillStyle": "solid",
@@ -66,12 +66,12 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -390.9401634806895,
-			"y": -605.0567296507857,
+			"x": -401.56131363356934,
+			"y": -582.1685740715168,
 			"strokeColor": "#343a40",
 			"backgroundColor": "#a18072",
 			"width": 292.8080559438732,
-			"height": 55,
+			"height": 52,
 			"seed": 1454796532,
 			"groupIds": [
 				"PKBHy-aMDaobG5Ca0ilBD",
@@ -87,14 +87,14 @@ updated: 2024-03-11T10:55
 					"id": "e8aa0kqP"
 				}
 			],
-			"updated": 1710984845333,
+			"updated": 1710985070701,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1313,
-			"versionNonce": 1707206061,
+			"version": 1377,
+			"versionNonce": 1270683533,
 			"isDeleted": false,
 			"id": "e8aa0kqP",
 			"fillStyle": "solid",
@@ -103,11 +103,11 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -334.53613550875286,
-			"y": -598.2567296507857,
+			"x": -381.1572856616327,
+			"y": -576.8685740715168,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 180,
+			"width": 252,
 			"height": 41.4,
 			"seed": 829714548,
 			"groupIds": [
@@ -117,17 +117,17 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710984845333,
+			"updated": 1710985070701,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 2,
-			"text": "公告流程圖",
-			"rawText": "公告流程圖",
+			"text": "新增公告流程圖",
+			"rawText": "新增公告流程圖",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "N2h6pu_RHUmV9jdm96zrW",
-			"originalText": "公告流程圖",
+			"originalText": "新增公告流程圖",
 			"lineHeight": 1.15,
 			"baseline": 33
 		},
@@ -2074,8 +2074,8 @@ updated: 2024-03-11T10:55
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1022.2098487254051,
-		"scrollY": 205.8094491537179,
+		"scrollX": 1006.4588599396716,
+		"scrollY": 1225.6859730299564,
 		"zoom": {
 			"value": 0.5079046216607089
 		},
