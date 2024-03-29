@@ -73,7 +73,7 @@ updated: 2024-03-11T10:55
 是否
 刪除 ^wC5LdWOq
 
-確定刪除 ^94ht6o0d
+刪除 ^94ht6o0d
 
 取消 ^dSRi3sZk
 
@@ -3185,8 +3185,8 @@ updated: 2024-03-11T10:55
 		},
 		{
 			"type": "text",
-			"version": 914,
-			"versionNonce": 1170207075,
+			"version": 916,
+			"versionNonce": 806063555,
 			"isDeleted": false,
 			"id": "94ht6o0d",
 			"fillStyle": "solid",
@@ -3195,28 +3195,28 @@ updated: 2024-03-11T10:55
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 740.6021735327404,
+			"x": 760.6021735327404,
 			"y": 155.80795522982362,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 80,
+			"width": 40,
 			"height": 23,
 			"seed": 365498147,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711008296610,
+			"updated": 1711693150677,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "確定刪除",
-			"rawText": "確定刪除",
+			"text": "刪除",
+			"rawText": "刪除",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "QnEJcJ9PwId4xdjJtRSwu",
-			"originalText": "確定刪除",
+			"originalText": "刪除",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -3531,10 +3531,10 @@ updated: 2024-03-11T10:55
 		{
 			"id": "4VZDqMIXrZBdfJ9pGzQpl",
 			"type": "arrow",
-			"x": 781.1731421036338,
-			"y": 28.69371445284837,
-			"width": 1.2424816239971506,
-			"height": 103.3113094429436,
+			"x": 781.1657159815802,
+			"y": 28.076238605611692,
+			"width": 1.2499077460508943,
+			"height": 103.92878529018027,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3549,8 +3549,8 @@ updated: 2024-03-11T10:55
 				"type": 2
 			},
 			"seed": 422183469,
-			"version": 201,
-			"versionNonce": 323397603,
+			"version": 204,
+			"versionNonce": 1106714787,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3558,7 +3558,7 @@ updated: 2024-03-11T10:55
 					"id": "H8S6QM4y"
 				}
 			],
-			"updated": 1711008296610,
+			"updated": 1711693151467,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3567,20 +3567,20 @@ updated: 2024-03-11T10:55
 					0
 				],
 				[
-					1.2424816239971506,
-					103.3113094429436
+					1.2499077460508943,
+					103.92878529018027
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "IFmbw_6DklhM6i0G0f8Xp",
-				"focus": -0.008990591314225978,
-				"gap": 7.25626111724489
+				"gap": 7.25626111724489,
+				"focus": -0.008990591314225978
 			},
 			"endBinding": {
 				"elementId": "QnEJcJ9PwId4xdjJtRSwu",
-				"focus": 0.028560501710307034,
-				"gap": 5.302931334031655
+				"gap": 5.302931334031655,
+				"focus": 0.028560501710307034
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -3588,7 +3588,7 @@ updated: 2024-03-11T10:55
 		{
 			"id": "H8S6QM4y",
 			"type": "text",
-			"x": 771.552737234342,
+			"x": 771.7943829156325,
 			"y": 68.84936917432017,
 			"width": 20,
 			"height": 23,
@@ -3604,11 +3604,11 @@ updated: 2024-03-11T10:55
 			"frameId": null,
 			"roundness": null,
 			"seed": 1024654413,
-			"version": 13,
-			"versionNonce": 667057101,
+			"version": 14,
+			"versionNonce": 516245933,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1711008296610,
+			"updated": 1711693148161,
 			"link": null,
 			"locked": false,
 			"text": "是",
@@ -3643,11 +3643,11 @@ updated: 2024-03-11T10:55
 				"type": 2
 			},
 			"seed": 1029128771,
-			"version": 137,
-			"versionNonce": 143504259,
+			"version": 139,
+			"versionNonce": 2116785123,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1711008296610,
+			"updated": 1711693151468,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3663,13 +3663,13 @@ updated: 2024-03-11T10:55
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "QnEJcJ9PwId4xdjJtRSwu",
-				"focus": -0.053202176316773014,
-				"gap": 8.366970506917255
+				"gap": 8.366970506917255,
+				"focus": -0.053202176316773014
 			},
 			"endBinding": {
 				"elementId": "ym-7THyA8ka_XARp_YQRQ",
-				"focus": 0.04553939634041073,
-				"gap": 8.324729176282517
+				"gap": 8.324729176282517,
+				"focus": 0.04553939634041073
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
