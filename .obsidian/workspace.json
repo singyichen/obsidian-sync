@@ -16,8 +16,19 @@
                 "file": "Excalidraw/announcements-flow.md"
               }
             }
+          },
+          {
+            "id": "49aaf2b30a99d3cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +220,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4620b3fcb09287f9",
+  "active": "49aaf2b30a99d3cc",
   "lastOpenFiles": [
     "Excalidraw/shift-work-flow.md",
     "Excalidraw/announcements-flow.md",
