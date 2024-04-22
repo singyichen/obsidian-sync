@@ -14,9 +14,9 @@ tags: [excalidraw]
 
 在職狀態 ^QrJ5E63X
 
-發薪週期 ^m4jflg53
+健康保險 ^m4jflg53
 
-發薪週期 ^4tZXImLF
+職災保險 ^4tZXImLF
 
 勞工保險 ^Bm4xgahb
 
@@ -245,8 +245,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 394,
-			"versionNonce": 781093984,
+			"version": 396,
+			"versionNonce": 1744055392,
 			"isDeleted": false,
 			"id": "qja4SHlh6cA5xBdhhi8M3",
 			"fillStyle": "solid",
@@ -257,8 +257,8 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": -286.052734375,
 			"y": -0.4453125,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#b2f2bb",
+			"strokeColor": "#846358",
+			"backgroundColor": "#eaddd7",
 			"width": 199.76953124999997,
 			"height": 35,
 			"seed": 356064672,
@@ -271,14 +271,14 @@ tags: [excalidraw]
 					"id": "m4jflg53"
 				}
 			],
-			"updated": 1713776455139,
+			"updated": 1713776476343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 214,
-			"versionNonce": 34263136,
+			"version": 228,
+			"versionNonce": 761530784,
 			"isDeleted": false,
 			"id": "m4jflg53",
 			"fillStyle": "solid",
@@ -298,24 +298,24 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713776463043,
+			"updated": 1713776487759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "發薪週期",
-			"rawText": "發薪週期",
+			"text": "健康保險",
+			"rawText": "健康保險",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "qja4SHlh6cA5xBdhhi8M3",
-			"originalText": "發薪週期",
+			"originalText": "健康保險",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 307,
-			"versionNonce": 1855514016,
+			"version": 369,
+			"versionNonce": 323462560,
 			"isDeleted": false,
 			"id": "80gaqRZ477E0TXghH0OMi",
 			"fillStyle": "solid",
@@ -324,10 +324,10 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -327.470703125,
-			"y": 98.13671875,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#b2f2bb",
+			"x": -287.029296875,
+			"y": 62.94921875,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "#ffd8a8",
 			"width": 199.76953124999997,
 			"height": 35,
 			"seed": 45043808,
@@ -340,14 +340,14 @@ tags: [excalidraw]
 					"id": "4tZXImLF"
 				}
 			],
-			"updated": 1713776205789,
+			"updated": 1713776505208,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 126,
-			"versionNonce": 564867488,
+			"version": 199,
+			"versionNonce": 992336992,
 			"isDeleted": false,
 			"id": "4tZXImLF",
 			"fillStyle": "solid",
@@ -356,9 +356,9 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -267.5859375,
-			"y": 103.13671875,
-			"strokeColor": "#2f9e44",
+			"x": -227.14453125,
+			"y": 67.94921875,
+			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 80,
 			"height": 25,
@@ -367,17 +367,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713776205789,
+			"updated": 1713776529793,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "發薪週期",
-			"rawText": "發薪週期",
+			"text": "職災保險",
+			"rawText": "職災保險",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "80gaqRZ477E0TXghH0OMi",
-			"originalText": "發薪週期",
+			"originalText": "職災保險",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
@@ -730,8 +730,8 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#846358",
-		"currentItemBackgroundColor": "#ff8787",
+		"currentItemStrokeColor": "#f08c00",
+		"currentItemBackgroundColor": "#ffd8a8",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
