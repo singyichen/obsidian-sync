@@ -13,22 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/announcements-flow.md"
-              }
-            }
-          },
-          {
-            "id": "49aaf2b30a99d3cc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+                "file": "Excalidraw/jwt.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/announcements-flow.md",
+                "file": "Excalidraw/jwt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/announcements-flow.md",
+                "file": "Excalidraw/jwt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/announcements-flow.md"
+                "file": "Excalidraw/jwt.md"
               }
             }
           },
@@ -220,19 +209,23 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "49aaf2b30a99d3cc",
+  "active": "4620b3fcb09287f9",
   "lastOpenFiles": [
-    "Excalidraw/shift-work-flow.md",
+    "Excalidraw/history-of-the-labor-standards-act.md",
+    "Excalidraw/backend-logo.md",
     "Excalidraw/announcements-flow.md",
+    "Excalidraw/temporary.md",
+    "Excalidraw/shift-work-flow.md",
+    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/severance-pay.md",
     "Excalidraw/rank-and-effect-of-law.md",
-    "Excalidraw/backend-logo.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
+    "Excalidraw/PARA.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/paas-comparsion.md",
+    "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/jwt.md",
     "software.md",
     "skill-tree.md",
-    "Excalidraw/temporary.md",
-    "Excalidraw/history-of-the-labor-standards-act.md",
-    "Excalidraw/jwt.md",
     "Images/Pasted Image 20240314090706_466.png",
     "Images/Pasted Image 20240314090603_903.png",
     "Images/Pasted Image 20240314090456_683.png",
@@ -243,10 +236,6 @@
     "Images/Pasted Image 20240313144115_232.png",
     "software-testing.canvas",
     "Untitled.canvas",
-    "Excalidraw/PARA.md",
-    "Excalidraw/paas-comparsion.md",
-    "Excalidraw/node-web-framework.md",
-    "Excalidraw/lottery-system-tech.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "01.Projects/trendlink/backend.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
