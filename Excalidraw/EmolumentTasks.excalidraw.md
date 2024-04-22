@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+發薪週期 ^kwj7PI5o
+
 %%
 # Drawing
 ```json
@@ -19,10 +21,10 @@ tags: [excalidraw]
 		{
 			"id": "N1qAaEig24YnZR7sKheo4",
 			"type": "rectangle",
-			"x": -337.19921875,
-			"y": -133.15625,
-			"width": 182.33203125,
-			"height": 24.81640625,
+			"x": -106.609375,
+			"y": -198.2578125,
+			"width": 199.76953124999997,
+			"height": 35,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -35,13 +37,55 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 542173280,
-			"version": 108,
-			"versionNonce": 2010664352,
+			"version": 233,
+			"versionNonce": 1429020064,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1713776091533,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "kwj7PI5o"
+				}
+			],
+			"updated": 1713776114408,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "kwj7PI5o",
+			"type": "text",
+			"x": -46.724609375000014,
+			"y": -193.2578125,
+			"width": 80,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 651635808,
+			"version": 53,
+			"versionNonce": 418933152,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713776114408,
+			"link": null,
+			"locked": false,
+			"text": "發薪週期",
+			"rawText": "發薪週期",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 18,
+			"containerId": "N1qAaEig24YnZR7sKheo4",
+			"originalText": "發薪週期",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
