@@ -28,6 +28,8 @@ tags: [excalidraw]
 
 離職狀態 ^zM6CBYdN
 
+在職狀態 ^Vk4y4ToH
+
 %%
 # Drawing
 ```json
@@ -383,8 +385,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 521,
-			"versionNonce": 1090473056,
+			"version": 522,
+			"versionNonce": 835645536,
 			"isDeleted": false,
 			"id": "3fKecE1PrUcEZ0BPG3rGL",
 			"fillStyle": "solid",
@@ -393,7 +395,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 52.861328125000014,
+			"x": 52.861328125,
 			"y": -61.6171875,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#a5d8ff",
@@ -409,14 +411,14 @@ tags: [excalidraw]
 					"id": "Bm4xgahb"
 				}
 			],
-			"updated": 1713776603470,
+			"updated": 1713777919758,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 339,
-			"versionNonce": 269926496,
+			"version": 340,
+			"versionNonce": 257025120,
 			"isDeleted": false,
 			"id": "Bm4xgahb",
 			"fillStyle": "solid",
@@ -425,7 +427,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 112.74609375,
+			"x": 112.74609374999999,
 			"y": -56.6171875,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
@@ -436,7 +438,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713776603470,
+			"updated": 1713777919758,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -521,8 +523,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 599,
-			"versionNonce": 1948234848,
+			"version": 600,
+			"versionNonce": 676747360,
 			"isDeleted": false,
 			"id": "JdDr_oCIlfk8VdlUK0DvB",
 			"fillStyle": "solid",
@@ -531,7 +533,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 53.291015625,
+			"x": 53.291015625000014,
 			"y": -112.49609375,
 			"strokeColor": "#e8590c",
 			"backgroundColor": "#ffc9c9",
@@ -547,14 +549,14 @@ tags: [excalidraw]
 					"id": "YeXzA2Lf"
 				}
 			],
-			"updated": 1713776603470,
+			"updated": 1713777919758,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 430,
-			"versionNonce": 1391077472,
+			"version": 431,
+			"versionNonce": 279727200,
 			"isDeleted": false,
 			"id": "YeXzA2Lf",
 			"fillStyle": "solid",
@@ -563,7 +565,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 113.17578124999999,
+			"x": 113.17578125,
 			"y": -107.49609375,
 			"strokeColor": "#e8590c",
 			"backgroundColor": "transparent",
@@ -574,7 +576,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713776603470,
+			"updated": 1713777919758,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -728,6 +730,75 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
+			"version": 656,
+			"versionNonce": 1726108064,
+			"isDeleted": false,
+			"id": "E1NLGaXhKnXs7bJzUGsRL",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 633.583984375,
+			"y": -113.5703125,
+			"strokeColor": "#e8590c",
+			"backgroundColor": "#ffc9c9",
+			"width": 199.76953124999997,
+			"height": 35,
+			"seed": 1378817120,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Vk4y4ToH"
+				}
+			],
+			"updated": 1713777922423,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 487,
+			"versionNonce": 635903392,
+			"isDeleted": false,
+			"id": "Vk4y4ToH",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 693.46875,
+			"y": -108.5703125,
+			"strokeColor": "#e8590c",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 25,
+			"seed": 2014152800,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713777922423,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "在職狀態",
+			"rawText": "在職狀態",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "E1NLGaXhKnXs7bJzUGsRL",
+			"originalText": "在職狀態",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "rectangle",
 			"version": 569,
 			"versionNonce": 1846865312,
 			"isDeleted": true,
@@ -811,8 +882,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 347.75,
-		"scrollY": 286.84765625,
+		"scrollX": 7.75,
+		"scrollY": 294.84765625,
 		"zoom": {
 			"value": 1
 		},
