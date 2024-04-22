@@ -32,8 +32,6 @@ tags: [excalidraw]
 
 在職狀態 ^x48LzFCW
 
-在職狀態 ^acLR1N3I
-
 %%
 # Drawing
 ```json
@@ -320,8 +318,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 506,
-			"versionNonce": 1840538720,
+			"version": 508,
+			"versionNonce": 1940187552,
 			"isDeleted": false,
 			"id": "80gaqRZ477E0TXghH0OMi",
 			"fillStyle": "solid",
@@ -330,7 +328,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -283.357421875,
+			"x": -284.287109375,
 			"y": 93.109375,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
@@ -346,14 +344,14 @@ tags: [excalidraw]
 					"id": "4tZXImLF"
 				}
 			],
-			"updated": 1713778021690,
+			"updated": 1713778109961,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 336,
-			"versionNonce": 375969888,
+			"version": 338,
+			"versionNonce": 781628832,
 			"isDeleted": false,
 			"id": "4tZXImLF",
 			"fillStyle": "solid",
@@ -362,7 +360,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -223.47265625,
+			"x": -224.40234375,
 			"y": 98.109375,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
@@ -373,7 +371,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713778021690,
+			"updated": 1713778109961,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -872,8 +870,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 758,
-			"versionNonce": 129902688,
+			"version": 1084,
+			"versionNonce": 1096982944,
 			"isDeleted": false,
 			"id": "YvJ0yI5VHI_JzKFduQh7e",
 			"fillStyle": "solid",
@@ -882,31 +880,26 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -85.298828125,
+			"x": -86.232421875,
 			"y": -75.3515625,
 			"strokeColor": "#e8590c",
 			"backgroundColor": "#ffc9c9",
-			"width": 135.37499999999997,
-			"height": 35.2578125,
+			"width": 26.46093749999997,
+			"height": 34.30078125,
 			"seed": 1059143776,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "acLR1N3I"
-				}
-			],
-			"updated": 1713778038359,
+			"boundElements": [],
+			"updated": 1713778097108,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 589,
-			"versionNonce": 1385831520,
-			"isDeleted": false,
+			"version": 895,
+			"versionNonce": 334380128,
+			"isDeleted": true,
 			"id": "acLR1N3I",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -914,28 +907,28 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -57.611328125000014,
-			"y": -70.22265625,
+			"x": -20.835937500000014,
+			"y": -70.3515625,
 			"strokeColor": "#e8590c",
 			"backgroundColor": "transparent",
-			"width": 80,
+			"width": 10,
 			"height": 25,
 			"seed": 1574581344,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713778038359,
+			"updated": 1713778071055,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "在職狀態",
-			"rawText": "在職狀態",
+			"text": "",
+			"rawText": "",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "YvJ0yI5VHI_JzKFduQh7e",
-			"originalText": "在職狀態",
+			"originalText": "",
 			"lineHeight": 1.25,
 			"baseline": 18
 		}
@@ -955,8 +948,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 777.75,
-		"scrollY": 238.84765625,
+		"scrollX": 425.75,
+		"scrollY": 310.84765625,
 		"zoom": {
 			"value": 1
 		},
