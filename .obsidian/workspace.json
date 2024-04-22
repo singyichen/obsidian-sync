@@ -13,11 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "Excalidraw/announcements-flow.md"
+              }
+            }
+          },
+          {
+            "id": "1b8f0af55bb8bb4c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-22 16.53.52.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "Excalidraw/Drawing 2024-04-22 16.53.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/jwt.md",
+                "file": "Excalidraw/Drawing 2024-04-22 16.53.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/jwt.md"
+                "file": "Excalidraw/Drawing 2024-04-22 16.53.52.excalidraw.md"
               }
             }
           },
@@ -209,21 +220,22 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4620b3fcb09287f9",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
     "Excalidraw/history-of-the-labor-standards-act.md",
-    "Excalidraw/backend-logo.md",
+    "Excalidraw/Drawing 2024-04-22 16.53.52.excalidraw.md",
     "Excalidraw/announcements-flow.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/jwt.md",
+    "Excalidraw/backend-logo.md",
     "Excalidraw/temporary.md",
     "Excalidraw/shift-work-flow.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/severance-pay.md",
     "Excalidraw/rank-and-effect-of-law.md",
     "Excalidraw/PARA.md",
-    "Excalidraw/node-web-framework.md",
     "Excalidraw/paas-comparsion.md",
     "Excalidraw/lottery-system-tech.md",
-    "Excalidraw/jwt.md",
     "software.md",
     "skill-tree.md",
     "Images/Pasted Image 20240314090706_466.png",
@@ -250,7 +262,6 @@
     "01.Projects/trendlink",
     "03.Resources/KM/PARA.md",
     "01.Projects/core-product",
-    "Untitled.md",
     "01.Projects/勞務法務",
     "01.Projects",
     "03.Resources/Law/Labor-Standards-Act",
