@@ -1624,7 +1624,7 @@ tags: [excalidraw]
 		{
 			"id": "3T9xBRDxtseWHr16YKW6h",
 			"type": "rectangle",
-			"x": 317.828125,
+			"x": 319.3203125,
 			"y": -166.82421875,
 			"width": 298.04296875,
 			"height": 227.31640625,
@@ -1640,11 +1640,11 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1083403680,
-			"version": 76,
-			"versionNonce": 1559281056,
+			"version": 82,
+			"versionNonce": 1425112480,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713779449670,
+			"updated": 1713779557540,
 			"link": null,
 			"locked": false
 		}
