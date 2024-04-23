@@ -78,7 +78,7 @@ tags: [excalidraw]
 
 發薪週期 ^4cUj9TO1
 
-發薪週期內為在職，且 ^WS6X6e7u
+發薪週期內為在職，且社會保險 ^WS6X6e7u
 
 %%
 # Drawing
@@ -2694,7 +2694,7 @@ tags: [excalidraw]
 			"type": "text",
 			"x": 324.4644472404025,
 			"y": -428.3021908381917,
-			"width": 200,
+			"width": 280,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -2708,22 +2708,22 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1544263776,
-			"version": 47,
-			"versionNonce": 187050080,
+			"version": 69,
+			"versionNonce": 840978848,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713834060671,
+			"updated": 1713834346881,
 			"link": null,
 			"locked": false,
-			"text": "發薪週期內為在職，且",
-			"rawText": "發薪週期內為在職，且",
+			"text": "發薪週期內為在職，且社會保險",
+			"rawText": "發薪週期內為在職，且社會保險",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "發薪週期內為在職，且",
+			"originalText": "發薪週期內為在職，且社會保險",
 			"lineHeight": 1.25
 		},
 		{
