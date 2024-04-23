@@ -83,7 +83,7 @@ tags: [excalidraw]
 • 發薪週期包含到在職，且有部分社會保險設定為無效
 -> 是否可被手動加入發薪週期？ ^ipmmJitQ
 
-• 發薪週期未包含到任何在職區間，且無社會保險設定為無效
+• 發薪週期未包含到任何在職區間，且社會保險設定皆為有效
 -> 不可被手動加入發薪週期 ^J2JxmJzz
 
 發薪週期 ^nlWjuday
@@ -2827,8 +2827,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 624,
-			"versionNonce": 1633013856,
+			"version": 625,
+			"versionNonce": 1704393824,
 			"isDeleted": false,
 			"id": "J2JxmJzz",
 			"fillStyle": "hachure",
@@ -2850,17 +2850,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713836178732,
+			"updated": 1713836564868,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "• 發薪週期未包含到任何在職區間，且無社會保險設定為無效\n-> 不可被手動加入發薪週期",
-			"rawText": "• 發薪週期未包含到任何在職區間，且無社會保險設定為無效\n-> 不可被手動加入發薪週期",
+			"text": "• 發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期",
+			"rawText": "• 發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 發薪週期未包含到任何在職區間，且無社會保險設定為無效\n-> 不可被手動加入發薪週期",
+			"originalText": "• 發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期",
 			"lineHeight": 1.2,
 			"baseline": 44
 		},
@@ -3063,8 +3063,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1492,
-			"versionNonce": 259801504,
+			"version": 1493,
+			"versionNonce": 1023453280,
 			"isDeleted": false,
 			"id": "SOySkZWM",
 			"fillStyle": "solid",
@@ -3073,7 +3073,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -52.62565923742795,
+			"x": -52.625659237427925,
 			"y": 162.3156648693438,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3088,7 +3088,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713836499311,
+			"updated": 1713836592090,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4361,10 +4361,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 596.6682997276458,
-		"scrollY": 874.8325698520009,
+		"scrollX": 183.82038776851857,
+		"scrollY": 330.63931154585845,
 		"zoom": {
-			"value": 0.5090130522754032
+			"value": 0.9886624660994848
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
