@@ -24,7 +24,7 @@ tags: [excalidraw]
 
 離職/留停狀態 ^7Aq1jm02
 
-離職狀態 ^zM6CBYdN
+離職/留停狀態 ^zM6CBYdN
 
 在職狀態 ^Vk4y4ToH
 
@@ -88,7 +88,7 @@ tags: [excalidraw]
 
 發薪週期 ^nlWjuday
 
-離職狀態 ^SOySkZWM
+離職/留停狀態 ^SOySkZWM
 
 在職狀態 ^v48wra0c
 
@@ -1929,8 +1929,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 1003,
-			"versionNonce": 1519100000,
+			"version": 1038,
+			"versionNonce": 685329504,
 			"isDeleted": false,
 			"id": "C_8VITyhIRld4KFGe0p72",
 			"fillStyle": "solid",
@@ -1944,7 +1944,7 @@ tags: [excalidraw]
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ff8787",
 			"width": 139.28124999999997,
-			"height": 35.37918102683637,
+			"height": 36.23480847187727,
 			"seed": 902808672,
 			"groupIds": [
 				"z9fXhHn0xnaiPsOLxHTZL",
@@ -1959,14 +1959,14 @@ tags: [excalidraw]
 					"id": "7Aq1jm02"
 				}
 			],
-			"updated": 1713857048594,
+			"updated": 1713858011826,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 851,
-			"versionNonce": 1559794784,
+			"version": 889,
+			"versionNonce": 1823522912,
 			"isDeleted": false,
 			"id": "7Aq1jm02",
 			"fillStyle": "solid",
@@ -1976,7 +1976,7 @@ tags: [excalidraw]
 			"opacity": 100,
 			"angle": 0,
 			"x": -68.31967441567066,
-			"y": -154.86687881667575,
+			"y": -154.4390650941553,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 104,
@@ -1990,7 +1990,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713857048595,
+			"updated": 1713858011826,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2276,8 +2276,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 1360,
-			"versionNonce": 2128531872,
+			"version": 1364,
+			"versionNonce": 1612869728,
 			"isDeleted": false,
 			"id": "J2lghQI0C0OstpjiXpuQT",
 			"fillStyle": "solid",
@@ -2306,14 +2306,14 @@ tags: [excalidraw]
 					"id": "zM6CBYdN"
 				}
 			],
-			"updated": 1713856818339,
+			"updated": 1713858036808,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1198,
-			"versionNonce": 173252000,
+			"version": 1211,
+			"versionNonce": 548838496,
 			"isDeleted": false,
 			"id": "zM6CBYdN",
 			"fillStyle": "solid",
@@ -2322,12 +2322,12 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -53.92883252716018,
-			"y": 472.8832017270371,
+			"x": -65.92883252716018,
+			"y": 475.3832017270371,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 80,
-			"height": 25,
+			"width": 104,
+			"height": 20,
 			"seed": 1885062560,
 			"groupIds": [
 				"4TEEz38HSzwd67cc3C8S0",
@@ -2337,19 +2337,19 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713856818339,
+			"updated": 1713858043841,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "離職狀態",
-			"rawText": "離職狀態",
+			"text": "離職/留停狀態",
+			"rawText": "離職/留停狀態",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "J2lghQI0C0OstpjiXpuQT",
-			"originalText": "離職狀態",
+			"originalText": "離職/留停狀態",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 14
 		},
 		{
 			"type": "rectangle",
@@ -3181,8 +3181,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 1670,
-			"versionNonce": 1309117536,
+			"version": 1674,
+			"versionNonce": 1167872416,
 			"isDeleted": false,
 			"id": "8SKbf1XoVzKUCHFcGmeB1",
 			"fillStyle": "solid",
@@ -3211,14 +3211,14 @@ tags: [excalidraw]
 					"id": "SOySkZWM"
 				}
 			],
-			"updated": 1713836633561,
+			"updated": 1713857989008,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1510,
-			"versionNonce": 1377239136,
+			"version": 1521,
+			"versionNonce": 1367116192,
 			"isDeleted": false,
 			"id": "SOySkZWM",
 			"fillStyle": "solid",
@@ -3227,12 +3227,12 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -52.63751237275147,
-			"y": 162.5487765307071,
+			"x": -64.63751237275147,
+			"y": 165.0487765307071,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 80,
-			"height": 25,
+			"width": 104,
+			"height": 20,
 			"seed": 1289823328,
 			"groupIds": [
 				"ealhKtflc36BTdRxY8XLM",
@@ -3242,19 +3242,19 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713836633561,
+			"updated": 1713858024697,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "離職狀態",
-			"rawText": "離職狀態",
+			"text": "離職/留停狀態",
+			"rawText": "離職/留停狀態",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "8SKbf1XoVzKUCHFcGmeB1",
-			"originalText": "離職狀態",
+			"originalText": "離職/留停狀態",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 14
 		},
 		{
 			"type": "rectangle",
@@ -4361,8 +4361,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 440.5416799935539,
-		"scrollY": 780.6083567171634,
+		"scrollX": 450.86648106474513,
+		"scrollY": 181.76989458807395,
 		"zoom": {
 			"value": 0.7748333304282266
 		},
