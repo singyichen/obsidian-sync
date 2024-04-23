@@ -62,7 +62,7 @@ tags: [excalidraw]
 
 職災保險 ^HRTWiSBK
 
-• 發薪週期包含到在職，且社會保險設定皆為有效
+• 發薪週期包含到在職區間，且社會保險設定皆為有效
 -> 可以被手動加入發薪週期 ^gFert6hr
 
 勞工保險 ^6Xyj1GPT
@@ -965,8 +965,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 620,
-			"versionNonce": 337793440,
+			"version": 627,
+			"versionNonce": 1392125344,
 			"isDeleted": false,
 			"id": "gFert6hr",
 			"fillStyle": "hachure",
@@ -979,7 +979,7 @@ tags: [excalidraw]
 			"y": -529.9842682595732,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 443.4375,
+			"width": 483.4375,
 			"height": 48,
 			"seed": 1798092192,
 			"groupIds": [
@@ -988,17 +988,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713835255423,
+			"updated": 1713835289969,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
-			"rawText": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"text": "• 發薪週期包含到在職區間，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"rawText": "• 發薪週期包含到在職區間，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"originalText": "• 發薪週期包含到在職區間，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
 			"lineHeight": 1.2,
 			"baseline": 44
 		},
@@ -3534,8 +3534,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 542.206989428897,
-		"scrollY": 48.60829675878239,
+		"scrollX": 547.0900215239603,
+		"scrollY": 815.2443356837098,
 		"zoom": {
 			"value": 0.8191631597187368
 		},
