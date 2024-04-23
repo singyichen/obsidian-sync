@@ -62,7 +62,7 @@ tags: [excalidraw]
 
 職災保險 ^HRTWiSBK
 
-• 發薪週期內為在職，且社會保險設定皆為有效
+• 發薪週期包含到在職，且社會保險設定皆為有效
 -> 可以被手動加入發薪週期 ^gFert6hr
 
 不可被手動加入發薪週期 ^j7erQGrQ
@@ -82,7 +82,10 @@ tags: [excalidraw]
 • 發薪週期內為在職，且社會保險設定皆為有效
 -> 可以被手動加入發薪週期 ^WS6X6e7u
 
-• 社會保險設定：在職期間才會有有效設定 ^g0FB1l40
+• 社會保險設定：在職期間才會有有效設定，離職期間為無效 ^g0FB1l40
+
+• 發薪週期包含到在職，且社會保險設定皆為有效
+-> 可以被手動加入發薪週期 ^ipmmJitQ
 
 %%
 # Drawing
@@ -2211,8 +2214,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 447,
-			"versionNonce": 1189965920,
+			"version": 464,
+			"versionNonce": 2001043552,
 			"isDeleted": false,
 			"id": "gFert6hr",
 			"fillStyle": "hachure",
@@ -2225,24 +2228,24 @@ tags: [excalidraw]
 			"y": -167.15686296945975,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 423.4375,
+			"width": 443.4375,
 			"height": 48,
 			"seed": 1798092192,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713834728458,
+			"updated": 1713834746351,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "• 發薪週期內為在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
-			"rawText": "• 發薪週期內為在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"text": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"rawText": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 發薪週期內為在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"originalText": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
 			"lineHeight": 1.2,
 			"baseline": 44
 		},
@@ -2732,8 +2735,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 68,
-			"versionNonce": 1067805088,
+			"version": 95,
+			"versionNonce": 38332832,
 			"isDeleted": false,
 			"id": "g0FB1l40",
 			"fillStyle": "hachure",
@@ -2746,26 +2749,63 @@ tags: [excalidraw]
 			"y": -496.4405166256509,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 383.4375,
+			"width": 543.4375,
 			"height": 24,
 			"seed": 2016991328,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713834620453,
+			"updated": 1713834784370,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "• 社會保險設定：在職期間才會有有效設定",
-			"rawText": "• 社會保險設定：在職期間才會有有效設定",
+			"text": "• 社會保險設定：在職期間才會有有效設定，離職期間為無效",
+			"rawText": "• 社會保險設定：在職期間才會有有效設定，離職期間為無效",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 社會保險設定：在職期間才會有有效設定",
+			"originalText": "• 社會保險設定：在職期間才會有有效設定，離職期間為無效",
 			"lineHeight": 1.2,
 			"baseline": 20
+		},
+		{
+			"type": "text",
+			"version": 466,
+			"versionNonce": 727901600,
+			"isDeleted": false,
+			"id": "ipmmJitQ",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 251.13455733237294,
+			"y": 111.35421511948869,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 443.4375,
+			"height": 48,
+			"seed": 328781920,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713834791584,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"rawText": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "• 發薪週期包含到在職，且社會保險設定皆為有效\n-> 可以被手動加入發薪週期",
+			"lineHeight": 1.2,
+			"baseline": 44
 		}
 	],
 	"appState": {
@@ -2784,7 +2824,7 @@ tags: [excalidraw]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 508.0257647634537,
-		"scrollY": 600.3909235009277,
+		"scrollY": 580.8587951206745,
 		"zoom": {
 			"value": 0.8191631597187368
 		},
