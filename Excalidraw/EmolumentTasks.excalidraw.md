@@ -62,7 +62,7 @@ tags: [excalidraw]
 
 職災保險 ^HRTWiSBK
 
-可以被手動加入發薪週期 ^gFert6hr
+-> 可以被手動加入發薪週期 ^gFert6hr
 
 不可被手動加入發薪週期 ^j7erQGrQ
 
@@ -2206,9 +2206,9 @@ tags: [excalidraw]
 		{
 			"id": "gFert6hr",
 			"type": "text",
-			"x": 319.4204076272537,
-			"y": -116.20928982135857,
-			"width": 220,
+			"x": 313.2307829598787,
+			"y": -79.2765910164126,
+			"width": 247.91998291015625,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -2222,22 +2222,22 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1798092192,
-			"version": 211,
-			"versionNonce": 540496288,
+			"version": 294,
+			"versionNonce": 1248650336,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713779950439,
+			"updated": 1713833990340,
 			"link": null,
 			"locked": false,
-			"text": "可以被手動加入發薪週期",
-			"rawText": "可以被手動加入發薪週期",
+			"text": "-> 可以被手動加入發薪週期",
+			"rawText": "-> 可以被手動加入發薪週期",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "可以被手動加入發薪週期",
+			"originalText": "-> 可以被手動加入發薪週期",
 			"lineHeight": 1.25
 		},
 		{
@@ -3078,8 +3078,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 473.84454009801124,
-		"scrollY": 156.03500285017344,
+		"scrollX": 525.1163770961751,
+		"scrollY": 700.4930814497242,
 		"zoom": {
 			"value": 0.8191631597187368
 		},
