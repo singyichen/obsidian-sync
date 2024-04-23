@@ -40,7 +40,7 @@ tags: [excalidraw]
 
 在職狀態 ^JLLjMRbd
 
-離職狀態 ^3fQwnK2f
+離職/留停狀態 ^3fQwnK2f
 
 發薪週期 ^cNY1pXXK
 
@@ -588,8 +588,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 1095,
-			"versionNonce": 1184356768,
+			"version": 1162,
+			"versionNonce": 1895008352,
 			"isDeleted": false,
 			"id": "0VQJSMjVXIYjEAYS6noKL",
 			"fillStyle": "solid",
@@ -603,7 +603,7 @@ tags: [excalidraw]
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ff8787",
 			"width": 139.28124999999997,
-			"height": 35,
+			"height": 35.48868026946695,
 			"seed": 90213472,
 			"groupIds": [
 				"DMQ2WB6Yp44c49qwXwcgi",
@@ -618,14 +618,14 @@ tags: [excalidraw]
 					"type": "text"
 				}
 			],
-			"updated": 1713835255423,
+			"updated": 1713857015825,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 933,
-			"versionNonce": 95135136,
+			"version": 1016,
+			"versionNonce": 774077536,
 			"isDeleted": false,
 			"id": "3fQwnK2f",
 			"fillStyle": "solid",
@@ -634,12 +634,12 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -65.85471077666399,
-			"y": -478.05201466511346,
+			"x": -77.85471077666399,
+			"y": -475.30767453038,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 80,
-			"height": 25,
+			"width": 104,
+			"height": 20,
 			"seed": 911212640,
 			"groupIds": [
 				"DMQ2WB6Yp44c49qwXwcgi",
@@ -649,19 +649,19 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713835255423,
+			"updated": 1713857015825,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "離職狀態",
-			"rawText": "離職狀態",
+			"text": "離職/留停狀態",
+			"rawText": "離職/留停狀態",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "0VQJSMjVXIYjEAYS6noKL",
-			"originalText": "離職狀態",
+			"originalText": "離職/留停狀態",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 14
 		},
 		{
 			"type": "rectangle",
@@ -4357,12 +4357,12 @@ tags: [excalidraw]
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 3,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 458.6100818681384,
-		"scrollY": -37.63212817473882,
+		"scrollX": 432.79807919016054,
+		"scrollY": 1015.4975810867634,
 		"zoom": {
 			"value": 0.7748333304282266
 		},
