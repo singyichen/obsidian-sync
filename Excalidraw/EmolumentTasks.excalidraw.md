@@ -2206,7 +2206,7 @@ tags: [excalidraw]
 		{
 			"id": "gFert6hr",
 			"type": "text",
-			"x": 313.2307829598787,
+			"x": 317.0981062304805,
 			"y": -79.2765910164126,
 			"width": 247.91998291015625,
 			"height": 25,
@@ -2222,11 +2222,11 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1798092192,
-			"version": 294,
-			"versionNonce": 1248650336,
+			"version": 305,
+			"versionNonce": 31806560,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713833990340,
+			"updated": 1713833995532,
 			"link": null,
 			"locked": false,
 			"text": "-> 可以被手動加入發薪週期",
@@ -2686,6 +2686,49 @@ tags: [excalidraw]
 			"originalText": "發薪週期",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"id": "Bpe5B9--kqqtTR5m4WSCz",
+			"type": "freedraw",
+			"x": 333.2338769501889,
+			"y": -433.0326281802842,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 300426336,
+			"version": 3,
+			"versionNonce": 1448582560,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713834003374,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
 		},
 		{
 			"type": "rectangle",
