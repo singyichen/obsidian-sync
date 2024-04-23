@@ -80,6 +80,8 @@ tags: [excalidraw]
 
 發薪週期內為在職，且社會保險 ^WS6X6e7u
 
+社會保險設定：在職期間才會有有效設定 ^g0FB1l40
+
 %%
 # Drawing
 ```json
@@ -2727,6 +2729,43 @@ tags: [excalidraw]
 			"lineHeight": 1.25
 		},
 		{
+			"id": "g0FB1l40",
+			"type": "text",
+			"x": 239.5502357982241,
+			"y": -496.4405166256509,
+			"width": 360,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2016991328,
+			"version": 63,
+			"versionNonce": 2013390240,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713834550043,
+			"link": null,
+			"locked": false,
+			"text": "社會保險設定：在職期間才會有有效設定",
+			"rawText": "社會保險設定：在職期間才會有有效設定",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "社會保險設定：在職期間才會有有效設定",
+			"lineHeight": 1.25
+		},
+		{
 			"type": "rectangle",
 			"version": 873,
 			"versionNonce": 1706290272,
@@ -3336,6 +3375,33 @@ tags: [excalidraw]
 				48.85893246681428,
 				-40.275477612211034
 			]
+		},
+		{
+			"id": "rLGji66zbYFyz80YUcci5",
+			"type": "rectangle",
+			"x": 207.8868245567984,
+			"y": -500.9420618382874,
+			"width": 319.6097100971856,
+			"height": 37.4667804403436,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1593829472,
+			"version": 94,
+			"versionNonce": 149923232,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713834547369,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -3353,8 +3419,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 525.1163770961751,
-		"scrollY": 700.4930814497242,
+		"scrollX": 508.0257647634537,
+		"scrollY": 600.3909235009277,
 		"zoom": {
 			"value": 0.8191631597187368
 		},
