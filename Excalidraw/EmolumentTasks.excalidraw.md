@@ -100,7 +100,7 @@ tags: [excalidraw]
 
 離職狀態 ^1jQsEdNN
 
-• 發薪週期未包含到在職，但有部分社會保險設定為無效
+• 發薪週期未包含到在職，且社會保險設定為無效
 -> 是否可被手動加入發薪週期？ ^QJipoSFJ
 
 %%
@@ -3481,8 +3481,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 747,
-			"versionNonce": 299288992,
+			"version": 751,
+			"versionNonce": 1801778592,
 			"isDeleted": false,
 			"id": "QJipoSFJ",
 			"fillStyle": "hachure",
@@ -3495,7 +3495,7 @@ tags: [excalidraw]
 			"y": -216.61880924060378,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 503.4375,
+			"width": 443.4375,
 			"height": 48,
 			"seed": 652988512,
 			"groupIds": [
@@ -3504,17 +3504,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713835407281,
+			"updated": 1713835419419,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "• 發薪週期未包含到在職，但有部分社會保險設定為無效\n-> 是否可被手動加入發薪週期？",
-			"rawText": "• 發薪週期未包含到在職，但有部分社會保險設定為無效\n-> 是否可被手動加入發薪週期？",
+			"text": "• 發薪週期未包含到在職，且社會保險設定為無效\n-> 是否可被手動加入發薪週期？",
+			"rawText": "• 發薪週期未包含到在職，且社會保險設定為無效\n-> 是否可被手動加入發薪週期？",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 發薪週期未包含到在職，但有部分社會保險設定為無效\n-> 是否可被手動加入發薪週期？",
+			"originalText": "• 發薪週期未包含到在職，且社會保險設定為無效\n-> 是否可被手動加入發薪週期？",
 			"lineHeight": 1.2,
 			"baseline": 44
 		}
@@ -3534,10 +3534,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 559.2976017616186,
-		"scrollY": 646.7797284040289,
+		"scrollX": 981.9093605447339,
+		"scrollY": 1083.348738889246,
 		"zoom": {
-			"value": 0.8191631597187368
+			"value": 0.42543490066193
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
