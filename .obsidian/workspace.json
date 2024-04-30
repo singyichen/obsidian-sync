@@ -21,10 +21,8 @@
             "id": "1b8f0af55bb8bb4c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
