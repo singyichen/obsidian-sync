@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/EmolumentTasks.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/EmolumentTasks.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/EmolumentTasks.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/EmolumentTasks.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md"
               }
             }
           },
@@ -195,12 +195,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,14 +219,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1b8f0af55bb8bb4c",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Excalidraw/EmolumentTasks.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md",
     "Excalidraw/rank-and-effect-of-law.md",
     "Excalidraw/severance-pay.md",
     "Excalidraw/shift-work-flow.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/temporary.md",
-    "Excalidraw/EmolumentTasks.excalidraw.md",
     "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/announcements-flow.md",
     "Excalidraw/node-web-framework.md",
@@ -260,7 +260,6 @@
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "Templates/blog-post-template.md",
     "01.Projects/trendlink",
-    "03.Resources/KM/PARA.md",
     "01.Projects/core-product",
     "01.Projects/勞務法務",
     "01.Projects",
