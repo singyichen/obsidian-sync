@@ -85,7 +85,7 @@ tags: [excalidraw]
 
 • 5.發薪週期未包含到任何在職區間，且社會保險設定皆為有效
 -> 不可被手動加入發薪週期
-例如：過往離職人員、未到職人員 ^J2JxmJzz
+例如：過往離職人員、到職日晚於發薪週期人員 ^J2JxmJzz
 
 發薪週期 ^nlWjuday
 
@@ -2828,8 +2828,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 685,
-			"versionNonce": 1649832032,
+			"version": 710,
+			"versionNonce": 206024096,
 			"isDeleted": false,
 			"id": "J2JxmJzz",
 			"fillStyle": "hachure",
@@ -2851,17 +2851,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714727348386,
+			"updated": 1714967221788,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "• 5.發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期\n例如：過往離職人員、未到職人員",
-			"rawText": "• 5.發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期\n例如：過往離職人員、未到職人員",
+			"text": "• 5.發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期\n例如：過往離職人員、到職日晚於發薪週期人員",
+			"rawText": "• 5.發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期\n例如：過往離職人員、到職日晚於發薪週期人員",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "• 5.發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期\n例如：過往離職人員、未到職人員",
+			"originalText": "• 5.發薪週期未包含到任何在職區間，且社會保險設定皆為有效\n-> 不可被手動加入發薪週期\n例如：過往離職人員、到職日晚於發薪週期人員",
 			"lineHeight": 1.2,
 			"baseline": 68
 		},
