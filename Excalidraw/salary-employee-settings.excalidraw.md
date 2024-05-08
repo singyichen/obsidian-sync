@@ -112,6 +112,10 @@ tags: [excalidraw]
 
 42000 ^FhyrOfWn
 
+法定自付勞保費 ^Ovl6rxC3
+
+1008 ^dJNvUTmz
+
 %%
 # Drawing
 ```json
@@ -4628,12 +4632,118 @@ tags: [excalidraw]
 					0
 				]
 			]
+		},
+		{
+			"id": "Ovl6rxC3",
+			"type": "text",
+			"x": 732.5046118526323,
+			"y": 831.9725920756784,
+			"width": 140,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 120807520,
+			"version": 68,
+			"versionNonce": 810850400,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715150807301,
+			"link": null,
+			"locked": false,
+			"text": "法定自付勞保費",
+			"rawText": "法定自付勞保費",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "法定自付勞保費",
+			"lineHeight": 1.15
+		},
+		{
+			"type": "rectangle",
+			"version": 502,
+			"versionNonce": 1840102496,
+			"isDeleted": false,
+			"id": "tifSply9ifTI84mO6zFGP",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 743.6325874448578,
+			"y": 866.9478451806104,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 115.00299537433796,
+			"height": 36.9325621597627,
+			"seed": 1787386976,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "dJNvUTmz"
+				}
+			],
+			"updated": 1715150820225,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 344,
+			"versionNonce": 641713248,
+			"isDeleted": false,
+			"id": "dJNvUTmz",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 778.8879913820267,
+			"y": 873.9141262604918,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 44.4921875,
+			"height": 23,
+			"seed": 501141600,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715150841628,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "1008",
+			"rawText": "1008",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "tifSply9ifTI84mO6zFGP",
+			"originalText": "1008",
+			"lineHeight": 1.15,
+			"baseline": 19
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#343a40",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "#e9ecef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -4645,10 +4755,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -280.27109032418133,
-		"scrollY": -392.99825113484474,
+		"scrollX": -438.66158170964513,
+		"scrollY": -404.3164358432917,
 		"zoom": {
-			"value": 1.09132966174694
+			"value": 1.2718960456230102
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
