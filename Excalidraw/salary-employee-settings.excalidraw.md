@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+員工編號 ^JV5T2x4U
+
 %%
 # Drawing
 ```json
@@ -16,6 +18,70 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
 	"elements": [
+		{
+			"id": "l5zvMKhqcbEvGTBZjhW5o",
+			"type": "rectangle",
+			"x": -364.0859375,
+			"y": -285.76953125,
+			"width": 736.015625,
+			"height": 432.56640625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 996158560,
+			"version": 200,
+			"versionNonce": 905363872,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715147754526,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "JV5T2x4U",
+			"type": "text",
+			"x": -345.7734375,
+			"y": -270.31640625,
+			"width": 80,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 11770976,
+			"version": 84,
+			"versionNonce": 2084882528,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715147769725,
+			"link": null,
+			"locked": false,
+			"text": "員工編號",
+			"rawText": "員工編號",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "員工編號",
+			"lineHeight": 1.15
+		},
 		{
 			"type": "rectangle",
 			"version": 717,
@@ -467,7 +533,7 @@ tags: [excalidraw]
 		"zoom": {
 			"value": 1
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
