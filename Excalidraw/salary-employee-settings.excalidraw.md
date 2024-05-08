@@ -32,6 +32,8 @@ tags: [excalidraw]
 
 / ^sJwCOPl1
 
+批次編輯基本薪資資料 ^BjotDe7H
+
 %%
 # Drawing
 ```json
@@ -1618,12 +1620,49 @@ tags: [excalidraw]
 					1
 				]
 			]
+		},
+		{
+			"id": "BjotDe7H",
+			"type": "text",
+			"x": -363.64453125,
+			"y": -329.36328125,
+			"width": 200,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 841872800,
+			"version": 134,
+			"versionNonce": 1012326496,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715148200032,
+			"link": null,
+			"locked": false,
+			"text": "批次編輯基本薪資資料",
+			"rawText": "批次編輯基本薪資資料",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "批次編輯基本薪資資料",
+			"lineHeight": 1.15
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#1971c2",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
