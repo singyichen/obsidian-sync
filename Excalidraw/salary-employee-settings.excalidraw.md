@@ -146,11 +146,11 @@ tags: [excalidraw]
 
 法定自付健保費 ^5B8lfoIk
 
-1008 ^spsPIC1n
+651 ^spsPIC1n
 
 42 ^JNQBFhX6
 
-約定自付勞保費 ^zCxSc5ya
+約定自付健保費 ^zCxSc5ya
 
 自行投保於工會 ^nkWXEwvc
 
@@ -6204,8 +6204,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 1089,
-			"versionNonce": 1107364960,
+			"version": 1090,
+			"versionNonce": 2134952032,
 			"isDeleted": false,
 			"id": "Oyj-fuQAah90ayb7Xff-A",
 			"fillStyle": "solid",
@@ -6214,7 +6214,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 676.9627994757399,
+			"x": 676.96279947574,
 			"y": 1456.3127075263594,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e9ecef",
@@ -6230,14 +6230,14 @@ tags: [excalidraw]
 					"id": "spsPIC1n"
 				}
 			],
-			"updated": 1715153176961,
+			"updated": 1715153210924,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 931,
-			"versionNonce": 182485088,
+			"version": 937,
+			"versionNonce": 1402298464,
 			"isDeleted": false,
 			"id": "spsPIC1n",
 			"fillStyle": "solid",
@@ -6246,28 +6246,28 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 712.2182034129088,
+			"x": 717.7797268504089,
 			"y": 1463.2789886062408,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 44.4921875,
+			"width": 33.369140625,
 			"height": 23,
 			"seed": 1366253984,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715153176961,
+			"updated": 1715153210870,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "1008",
-			"rawText": "1008",
+			"text": "651",
+			"rawText": "651",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "Oyj-fuQAah90ayb7Xff-A",
-			"originalText": "1008",
+			"originalText": "651",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -6477,8 +6477,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 643,
-			"versionNonce": 677165152,
+			"version": 656,
+			"versionNonce": 789058976,
 			"isDeleted": false,
 			"id": "zCxSc5ya",
 			"fillStyle": "solid",
@@ -6498,17 +6498,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715153176961,
+			"updated": 1715153214235,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "約定自付勞保費",
-			"rawText": "約定自付勞保費",
+			"text": "約定自付健保費",
+			"rawText": "約定自付健保費",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "約定自付勞保費",
+			"originalText": "約定自付健保費",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -7130,10 +7130,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 13.547842080033377,
-		"scrollY": -574.2935863928909,
+		"scrollX": 441.06614978265293,
+		"scrollY": -129.49948500616745,
 		"zoom": {
-			"value": 0.6505425403069381
+			"value": 0.4498722222994686
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
