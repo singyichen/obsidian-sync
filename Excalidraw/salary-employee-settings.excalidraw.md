@@ -100,6 +100,8 @@ tags: [excalidraw]
 
 一般勞工 ^rcuxsBht
 
+就業保險 ^53hUnMS0
+
 %%
 # Drawing
 ```json
@@ -3611,8 +3613,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1077,
-			"versionNonce": 2046874720,
+			"version": 1101,
+			"versionNonce": 2122967456,
 			"isDeleted": false,
 			"id": "0UvarFJg",
 			"fillStyle": "solid",
@@ -3621,7 +3623,7 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 197.84406373363174,
+			"x": 203.8285645034208,
 			"y": 833.3833761154999,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3632,7 +3634,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715150450000,
+			"updated": 1715150491759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3866,8 +3868,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 688,
-			"versionNonce": 1067927648,
+			"version": 753,
+			"versionNonce": 367664544,
 			"isDeleted": false,
 			"id": "Wx6gIw8NVNL5Vq1CfwAiC",
 			"fillStyle": "solid",
@@ -3876,8 +3878,8 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 238.86457874986002,
-			"y": 874.6541745642082,
+			"x": 204.9771882625455,
+			"y": 873.2045128870543,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fff",
 			"width": 27,
@@ -3889,14 +3891,14 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715150450000,
+			"updated": 1715150473260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 805,
-			"versionNonce": 1885289568,
+			"version": 870,
+			"versionNonce": 974481824,
 			"isDeleted": false,
 			"id": "ZO-6JTyZUdtnwTWeNiVqZ",
 			"fillStyle": "solid",
@@ -3905,8 +3907,8 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 240.86457874986047,
-			"y": 882.1541745642082,
+			"x": 206.97718826254595,
+			"y": 880.7045128870543,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fff",
 			"width": 29.5,
@@ -3918,7 +3920,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715150450000,
+			"updated": 1715150473260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3940,12 +3942,49 @@ tags: [excalidraw]
 					-9
 				]
 			]
+		},
+		{
+			"type": "text",
+			"version": 1051,
+			"versionNonce": 358508640,
+			"isDeleted": false,
+			"id": "53hUnMS0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 240.47257082360431,
+			"y": 873.7565276350911,
+			"strokeColor": "#343a40",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 23,
+			"seed": 1935631776,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715150495933,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "就業保險",
+			"rawText": "就業保險",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "就業保險",
+			"lineHeight": 1.15,
+			"baseline": 19
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#343a40",
 		"currentItemBackgroundColor": "#e9ecef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -3957,8 +3996,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 404.2096604495844,
-		"scrollY": -702.7519696528921,
+		"scrollX": 241.38498250054315,
+		"scrollY": -685.8351199958487,
 		"zoom": {
 			"value": 0.9458025769791253
 		},
