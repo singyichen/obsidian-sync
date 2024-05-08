@@ -4875,8 +4875,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 2071439456,
+			"version": 212,
+			"versionNonce": 85280160,
 			"isDeleted": false,
 			"id": "7ePONmt3",
 			"fillStyle": "solid",
@@ -4887,7 +4887,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": 370.9684053046219,
 			"y": 873.59281464509,
-			"strokeColor": "#000000",
+			"strokeColor": "#343a40",
 			"backgroundColor": "#fff",
 			"width": 140,
 			"height": 25,
@@ -4898,7 +4898,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715151383165,
+			"updated": 1715151736330,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5141,7 +5141,7 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#343a40",
 		"currentItemBackgroundColor": "#e9ecef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -5153,10 +5153,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -720.3097263763625,
-		"scrollY": -755.9331623461883,
+		"scrollX": -77.44346173277484,
+		"scrollY": -620.7794184328081,
 		"zoom": {
-			"value": 1.3926780445908953
+			"value": 1.1268056766528383
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
