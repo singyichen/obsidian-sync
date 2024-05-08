@@ -124,21 +124,17 @@ tags: [excalidraw]
 
 員工編號 ^7h5FhfWM
 
-勞保身份 ^M1837qi1
-
-類型 ^Pe8729Cn
+健保身份 ^M1837qi1
 
 參加勞保 ^OJrBGXNz
 
-批次編輯勞工保險 ^U8vaB3ir
+批次編輯全民健康保險 ^U8vaB3ir
 
 儲存 ^j7FQxOjl
 
 取消 ^Fg1AMuw9
 
 勞保保險項目 ^udWJRId1
-
-一般勞工 ^Hm6xyZ8C
 
 就業保險 ^ViWC9tCK
 
@@ -5180,8 +5176,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 753,
-			"versionNonce": 1058362464,
+			"version": 758,
+			"versionNonce": 1244503456,
 			"isDeleted": false,
 			"id": "M1837qi1",
 			"fillStyle": "solid",
@@ -5201,54 +5197,17 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715152915059,
+			"updated": 1715153071036,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "勞保身份",
-			"rawText": "勞保身份",
+			"text": "健保身份",
+			"rawText": "健保身份",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "勞保身份",
-			"lineHeight": 1.15,
-			"baseline": 19
-		},
-		{
-			"type": "text",
-			"version": 1032,
-			"versionNonce": 1848363104,
-			"isDeleted": false,
-			"id": "Pe8729Cn",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -4.60465444362984,
-			"y": 1422.9633583125649,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 40,
-			"height": 23,
-			"seed": 705461664,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715152915059,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 2,
-			"text": "類型",
-			"rawText": "類型",
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "類型",
+			"originalText": "健保身份",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -5291,8 +5250,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 818,
-			"versionNonce": 1700606048,
+			"version": 881,
+			"versionNonce": 1132281248,
 			"isDeleted": false,
 			"id": "U8vaB3ir",
 			"fillStyle": "solid",
@@ -5301,28 +5260,28 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -333.8245123191574,
+			"x": -331.19642159575346,
 			"y": 1377.2817244134146,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 160,
+			"width": 200,
 			"height": 23,
 			"seed": 1241617824,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715152915059,
+			"updated": 1715153048960,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "批次編輯勞工保險",
-			"rawText": "批次編輯勞工保險",
+			"text": "批次編輯全民健康保險",
+			"rawText": "批次編輯全民健康保險",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "批次編輯勞工保險",
+			"originalText": "批次編輯全民健康保險",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -5510,127 +5469,6 @@ tags: [excalidraw]
 			"originalText": "勞保保險項目",
 			"lineHeight": 1.15,
 			"baseline": 19
-		},
-		{
-			"type": "rectangle",
-			"version": 1433,
-			"versionNonce": 160786528,
-			"isDeleted": false,
-			"id": "TPjGbcuhBuCGs7DHfoP3N",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -41.00218744788219,
-			"y": 1461.045590684186,
-			"strokeColor": "#000000",
-			"backgroundColor": "#fff",
-			"width": 112,
-			"height": 36,
-			"seed": 1031593376,
-			"groupIds": [
-				"2DcKh2Nbd_XWoy9YEWM8b"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715152915059,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 1396,
-			"versionNonce": 394878048,
-			"isDeleted": false,
-			"id": "Hm6xyZ8C",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -41.551023202276724,
-			"y": 1466.545590684186,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 80,
-			"height": 23,
-			"seed": 1632643488,
-			"groupIds": [
-				"2DcKh2Nbd_XWoy9YEWM8b"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715152915059,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 2,
-			"text": "一般勞工",
-			"rawText": "一般勞工",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": null,
-			"originalText": "一般勞工",
-			"lineHeight": 1.15,
-			"baseline": 19
-		},
-		{
-			"type": "line",
-			"version": 1195,
-			"versionNonce": 719245408,
-			"isDeleted": false,
-			"id": "M2hX-W1TER0B2QuGrPphr",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 47.497812552118035,
-			"y": 1474.5389942434647,
-			"strokeColor": "#000000",
-			"backgroundColor": "#000",
-			"width": 11,
-			"height": 11,
-			"seed": 1155134880,
-			"groupIds": [
-				"zMcjf0BZNLiqp3a2OIJ_i",
-				"2DcKh2Nbd_XWoy9YEWM8b"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715152915059,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					11,
-					0
-				],
-				[
-					6,
-					11
-				],
-				[
-					0,
-					0
-				]
-			]
 		},
 		{
 			"type": "line",
@@ -6898,6 +6736,164 @@ tags: [excalidraw]
 			"baseline": 18
 		},
 		{
+			"type": "text",
+			"version": 1033,
+			"versionNonce": 762223712,
+			"isDeleted": true,
+			"id": "Pe8729Cn",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -4.60465444362984,
+			"y": 1422.9633583125649,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 23,
+			"seed": 705461664,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715153082596,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "類型",
+			"rawText": "類型",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "類型",
+			"lineHeight": 1.15,
+			"baseline": 19
+		},
+		{
+			"type": "rectangle",
+			"version": 1434,
+			"versionNonce": 463460768,
+			"isDeleted": true,
+			"id": "TPjGbcuhBuCGs7DHfoP3N",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -41.00218744788219,
+			"y": 1461.045590684186,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fff",
+			"width": 112,
+			"height": 36,
+			"seed": 1031593376,
+			"groupIds": [
+				"2DcKh2Nbd_XWoy9YEWM8b"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715153082596,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1397,
+			"versionNonce": 1377570912,
+			"isDeleted": true,
+			"id": "Hm6xyZ8C",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -41.551023202276724,
+			"y": 1466.545590684186,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 23,
+			"seed": 1632643488,
+			"groupIds": [
+				"2DcKh2Nbd_XWoy9YEWM8b"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715153082596,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "一般勞工",
+			"rawText": "一般勞工",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": null,
+			"originalText": "一般勞工",
+			"lineHeight": 1.15,
+			"baseline": 19
+		},
+		{
+			"type": "line",
+			"version": 1196,
+			"versionNonce": 2041816480,
+			"isDeleted": true,
+			"id": "M2hX-W1TER0B2QuGrPphr",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 47.497812552118035,
+			"y": 1474.5389942434647,
+			"strokeColor": "#000000",
+			"backgroundColor": "#000",
+			"width": 11,
+			"height": 11,
+			"seed": 1155134880,
+			"groupIds": [
+				"zMcjf0BZNLiqp3a2OIJ_i",
+				"2DcKh2Nbd_XWoy9YEWM8b"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715153082596,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					11,
+					0
+				],
+				[
+					6,
+					11
+				],
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
 			"type": "rectangle",
 			"version": 1019,
 			"versionNonce": 1878244768,
@@ -7138,10 +7134,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 382.42542035032716,
-		"scrollY": -619.6563196626897,
+		"scrollX": 229.7739413651154,
+		"scrollY": -1111.73754514712,
 		"zoom": {
-			"value": 0.5299690392171112
+			"value": 1.5544073771140485
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
