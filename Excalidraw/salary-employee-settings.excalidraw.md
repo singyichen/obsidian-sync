@@ -160,9 +160,9 @@ tags: [excalidraw]
 
 員工編號 ^FShU4fSt
 
-健保身份 ^ZmnJLiCU
+勞退身份 ^ZmnJLiCU
 
-參加健保 ^dTE4KLE7
+參加勞退 ^dTE4KLE7
 
 批次編輯勞工退休金 ^5a3mAxIw
 
@@ -6840,8 +6840,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 874,
-			"versionNonce": 1834981472,
+			"version": 875,
+			"versionNonce": 105720928,
 			"isDeleted": false,
 			"id": "ZmnJLiCU",
 			"fillStyle": "solid",
@@ -6861,24 +6861,24 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715157139086,
+			"updated": 1715157189993,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "健保身份",
-			"rawText": "健保身份",
+			"text": "勞退身份",
+			"rawText": "勞退身份",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "健保身份",
+			"originalText": "勞退身份",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
 		{
 			"type": "text",
-			"version": 1303,
-			"versionNonce": 1653443680,
+			"version": 1312,
+			"versionNonce": 1352244320,
 			"isDeleted": false,
 			"id": "dTE4KLE7",
 			"fillStyle": "solid",
@@ -6898,24 +6898,24 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715157139086,
+			"updated": 1715157206903,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "參加健保",
-			"rawText": "參加健保",
+			"text": "參加勞退",
+			"rawText": "參加勞退",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "參加健保",
+			"originalText": "參加勞退",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
 		{
 			"type": "text",
-			"version": 1022,
-			"versionNonce": 1709834336,
+			"version": 1087,
+			"versionNonce": 923688032,
 			"isDeleted": false,
 			"id": "5a3mAxIw",
 			"fillStyle": "solid",
@@ -6924,8 +6924,8 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -319.29744439004986,
-			"y": 1977.522994624218,
+			"x": -329.9721580603345,
+			"y": 1977.5260851608914,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 180,
@@ -6935,7 +6935,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715157167156,
+			"updated": 1715157176521,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8798,8 +8798,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 491.8068815097133,
-		"scrollY": -1590.9537936934535,
+		"scrollX": 85.14170386329367,
+		"scrollY": -1882.1070726309688,
 		"zoom": {
 			"value": 1.263939054174205
 		},
