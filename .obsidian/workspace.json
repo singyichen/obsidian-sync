@@ -23,12 +23,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/EmolumentTasks.excalidraw.md"
+                "file": "Excalidraw/history-of-the-labor-standards-act.md"
+              }
+            }
+          },
+          {
+            "id": "188627fed13eaf06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/salary-employee-settings.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/EmolumentTasks.excalidraw.md",
+                "file": "Excalidraw/salary-employee-settings.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/EmolumentTasks.excalidraw.md",
+                "file": "Excalidraw/salary-employee-settings.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/EmolumentTasks.excalidraw.md"
+                "file": "Excalidraw/salary-employee-settings.excalidraw.md"
               }
             }
           },
@@ -219,9 +229,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1b8f0af55bb8bb4c",
+  "active": "188627fed13eaf06",
   "lastOpenFiles": [
     "Excalidraw/history-of-the-labor-standards-act.md",
+    "Excalidraw/salary-employee-settings.excalidraw.md",
+    "Excalidraw/EmolumentTasks.excalidraw.md",
     "Excalidraw/jwt.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
@@ -234,7 +246,6 @@
     "Excalidraw/temporary.md",
     "04.Archives/lottery-system/dev-tech.md",
     "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md",
-    "Excalidraw/EmolumentTasks.excalidraw.md",
     "Excalidraw/announcements-flow.md",
     "Excalidraw/backend-logo.md",
     "software.md",
@@ -258,7 +269,6 @@
     "README.md",
     "Xmind/一鍵發薪.xmind",
     "Xmind",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
     "01.Projects/trendlink",
     "01.Projects/core-product",
     "01.Projects/勞務法務",
