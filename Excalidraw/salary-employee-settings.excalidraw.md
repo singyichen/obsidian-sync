@@ -184,8 +184,6 @@ tags: [excalidraw]
 
 752 ^Q42Xe1hS
 
-約定自付健保費 ^FAbh6QaP
-
 勞退制度選擇 ^1hh3eJbY
 
 新制 ^SWq2wtpP
@@ -195,6 +193,18 @@ tags: [excalidraw]
 ％ ^tI1GrycM
 
 公司提繳金額 ^iTXRudHH
+
+是否勞退自提 ^Ko4RsbSd
+
+勞退雇主提繳率 ^VHNDqnUD
+
+752 ^c7ZfGn7Z
+
+6 ^vwND4mS1
+
+％ ^9QXnApsG
+
+公司提繳金額 ^mMmuXvrs
 
 %%
 # Drawing
@@ -7947,43 +7957,6 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 873,
-			"versionNonce": 962032736,
-			"isDeleted": false,
-			"id": "FAbh6QaP",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 978.3085609859628,
-			"y": 2143.884249602228,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e9ecef",
-			"width": 140,
-			"height": 23,
-			"seed": 1817670048,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715157520090,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 2,
-			"text": "約定自付健保費",
-			"rawText": "約定自付健保費",
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "約定自付健保費",
-			"lineHeight": 1.15,
-			"baseline": 19
-		},
-		{
-			"type": "text",
 			"version": 1812,
 			"versionNonce": 476404128,
 			"isDeleted": false,
@@ -8284,208 +8257,387 @@ tags: [excalidraw]
 			"lineHeight": 1.15
 		},
 		{
-			"type": "rectangle",
-			"version": 1821,
-			"versionNonce": 2033245600,
-			"isDeleted": true,
-			"id": "eFR7NUqVEzlvFgCR8Mgvu",
+			"type": "text",
+			"version": 1417,
+			"versionNonce": 672210336,
+			"isDeleted": false,
+			"id": "Ko4RsbSd",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 896.1616544996293,
+			"y": 2018.3068026970202,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 120,
+			"height": 23,
+			"seed": 1741847968,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715157628527,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "是否勞退自提",
+			"rawText": "是否勞退自提",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "是否勞退自提",
+			"lineHeight": 1.15,
+			"baseline": 19
+		},
+		{
+			"type": "line",
+			"version": 1027,
+			"versionNonce": 1868327328,
+			"isDeleted": false,
+			"id": "9VssWl2TH56ge15MFcIGw",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 766.0786680668664,
-			"y": 2054.278716129251,
+			"x": 938.8402618779115,
+			"y": 2058.2152950300224,
 			"strokeColor": "#000000",
-			"backgroundColor": "#fff",
-			"width": 127.97188473116287,
-			"height": 36.91836734693874,
-			"seed": 2118448544,
+			"backgroundColor": "#12b886",
+			"width": 54.72893878796441,
+			"height": 30,
+			"seed": 1878116768,
 			"groupIds": [
-				"tWOOYXkniEN5UwsGhimDx",
-				"lfhX_3MKFU6hrhrWBadAo"
+				"s5GaVmYM20qSztF21Xpbn"
 			],
 			"frameId": null,
-			"roundness": null,
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
-			"updated": 1715157547251,
+			"updated": 1715157628527,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					36.94203368187598,
+					1
+				],
+				[
+					44.604085112190994,
+					16.5
+				],
+				[
+					37.76296776369543,
+					29
+				],
+				[
+					-2.7364469393982276,
+					30
+				],
+				[
+					-10.124853675773416,
+					6
+				],
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "ellipse",
+			"version": 628,
+			"versionNonce": 1197356448,
+			"isDeleted": false,
+			"id": "M53W9T7_AnF1N1nKUn-FP",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 952.874696084274,
+			"y": 2056.7152950300224,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fff",
+			"width": 32.5,
+			"height": 32.5,
+			"seed": 1313314208,
+			"groupIds": [
+				"s5GaVmYM20qSztF21Xpbn"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715157628527,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1019,
-			"versionNonce": 353193056,
-			"isDeleted": true,
-			"id": "MrS1COR0",
+			"version": 919,
+			"versionNonce": 91980192,
+			"isDeleted": false,
+			"id": "VHNDqnUD",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 832.4025936143557,
-			"y": 2060.2378998027198,
-			"strokeColor": "#000000",
-			"backgroundColor": "#fff",
-			"width": 27.03997802734375,
-			"height": 25,
-			"seed": 22364576,
-			"groupIds": [
-				"lfhX_3MKFU6hrhrWBadAo"
-			],
+			"x": 1030.6332312892478,
+			"y": 2018.489065956238,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 140,
+			"height": 23,
+			"seed": 686249376,
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715157547251,
+			"updated": 1715157636841,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "42",
-			"rawText": "42",
-			"textAlign": "left",
+			"fontFamily": 2,
+			"text": "勞退雇主提繳率",
+			"rawText": "勞退雇主提繳率",
+			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "42",
-			"lineHeight": 1.25,
-			"baseline": 18
+			"originalText": "勞退雇主提繳率",
+			"lineHeight": 1.15,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 1119,
-			"versionNonce": 109324704,
-			"isDeleted": true,
-			"id": "UqTmiazPXr-XvSfUuUgbZ",
+			"version": 1558,
+			"versionNonce": 2044349856,
+			"isDeleted": false,
+			"id": "qZdk23F0vv1eySiGCG_eO",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 868.4025936143557,
-			"y": 2054.7378998027198,
-			"strokeColor": "#000000",
-			"backgroundColor": "#fff",
-			"width": 26,
-			"height": 34.5,
-			"seed": 1417416096,
-			"groupIds": [
-				"lfhX_3MKFU6hrhrWBadAo"
-			],
+			"x": 1207.1816124539578,
+			"y": 2052.3413170000185,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 115.00299537433796,
+			"height": 36.9325621597627,
+			"seed": 1756078496,
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1715157547251,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "c7ZfGn7Z"
+				}
+			],
+			"updated": 1715157636841,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "line",
-			"version": 1145,
-			"versionNonce": 845463648,
-			"isDeleted": true,
-			"id": "wtaL1wDVGGAWmZHyBQvpI",
+			"type": "text",
+			"version": 1409,
+			"versionNonce": 276797856,
+			"isDeleted": false,
+			"id": "c7ZfGn7Z",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 877.4251005592687,
-			"y": 2076.3269915873416,
-			"strokeColor": "#000000",
-			"backgroundColor": "#000",
-			"width": 7.960164404277052,
-			"height": 7.960164404277052,
-			"seed": 820599200,
-			"groupIds": [
-				"5oxj2aweHZCN-NHtcBXFr",
-				"lfhX_3MKFU6hrhrWBadAo"
-			],
+			"x": 1247.9985398286267,
+			"y": 2059.3075980799,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 33.369140625,
+			"height": 23,
+			"seed": 1107717536,
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715157547251,
+			"updated": 1715157636841,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.960164404277052,
-					0
-				],
-				[
-					4.341907856878393,
-					7.960164404277052
-				],
-				[
-					0,
-					0
-				]
-			]
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "752",
+			"rawText": "752",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "qZdk23F0vv1eySiGCG_eO",
+			"originalText": "752",
+			"lineHeight": 1.15,
+			"baseline": 19
 		},
 		{
-			"type": "line",
-			"version": 1251,
-			"versionNonce": 596506016,
-			"isDeleted": true,
-			"id": "j_S-eVRfLHl-DAafI7Idb",
+			"type": "rectangle",
+			"version": 578,
+			"versionNonce": 1016817056,
+			"isDeleted": false,
+			"id": "Ne9CI-n63a4ds1iL_FTj4",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"angle": 3.1479581129627903,
-			"x": 876.5700407588811,
-			"y": 2061.8269915873416,
-			"strokeColor": "#000000",
-			"backgroundColor": "#000",
-			"width": 7.960164404277052,
-			"height": 7.960164404277052,
-			"seed": 701310368,
-			"groupIds": [
-				"_gJZDo49k1w_OymKUXIUO",
-				"lfhX_3MKFU6hrhrWBadAo"
+			"angle": 0,
+			"x": 1043.3712963548273,
+			"y": 2052.9175611873143,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 115.00299537433796,
+			"height": 36.9325621597627,
+			"seed": 1042790816,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "vwND4mS1"
+				}
 			],
+			"updated": 1715157636842,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 413,
+			"versionNonce": 190689696,
+			"isDeleted": false,
+			"id": "vwND4mS1",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1095.3112706044963,
+			"y": 2059.8838422671956,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 11.123046875,
+			"height": 23,
+			"seed": 1077904800,
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715157547251,
+			"updated": 1715157636842,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.960164404277052,
-					0
-				],
-				[
-					4.341907856878393,
-					7.960164404277052
-				],
-				[
-					0,
-					0
-				]
-			]
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "6",
+			"rawText": "6",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Ne9CI-n63a4ds1iL_FTj4",
+			"originalText": "6",
+			"lineHeight": 1.15,
+			"baseline": 19
+		},
+		{
+			"type": "text",
+			"version": 139,
+			"versionNonce": 1677098400,
+			"isDeleted": false,
+			"id": "9QXnApsG",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1166.7348862200383,
+			"y": 2057.7756996438275,
+			"strokeColor": "#343a40",
+			"backgroundColor": "#e9ecef",
+			"width": 20,
+			"height": 23,
+			"seed": 1165873568,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715157636842,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "％",
+			"rawText": "％",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "％",
+			"lineHeight": 1.15,
+			"baseline": 19
+		},
+		{
+			"type": "text",
+			"version": 205,
+			"versionNonce": 1200998816,
+			"isDeleted": false,
+			"id": "mMmuXvrs",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1204.8487106887633,
+			"y": 2017.3212018644535,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 120,
+			"height": 23,
+			"seed": 621976992,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715157636842,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "公司提繳金額",
+			"rawText": "公司提繳金額",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "公司提繳金額",
+			"lineHeight": 1.15,
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -8503,8 +8655,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -263.9607997242754,
-		"scrollY": -1725.563366437806,
+		"scrollX": 398.95392286810073,
+		"scrollY": -1763.8951701251206,
 		"zoom": {
 			"value": 0.8869919160953061
 		},
