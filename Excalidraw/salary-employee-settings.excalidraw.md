@@ -36,6 +36,8 @@ tags: [excalidraw]
 
 儲存 ^5jiLdhBC
 
+取消 ^0DU8Cmtx
+
 %%
 # Drawing
 ```json
@@ -1662,8 +1664,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 491,
-			"versionNonce": 1351278688,
+			"version": 620,
+			"versionNonce": 595634272,
 			"isDeleted": false,
 			"id": "UBszjEw1CnxtJP7MJQng1",
 			"fillStyle": "solid",
@@ -1672,27 +1674,29 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 273.07269021739137,
-			"y": 101.86489470108705,
-			"strokeColor": "#000000",
-			"backgroundColor": "#fff",
-			"width": 90,
+			"x": 314.43138586956525,
+			"y": 104.70796535326093,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#fd7e14",
+			"width": 47.574728260869506,
 			"height": 36,
 			"seed": 1951795296,
 			"groupIds": [
 				"AHwxMYLTur3ZZ2xJdgOtA"
 			],
 			"frameId": null,
-			"roundness": null,
+			"roundness": {
+				"type": 3
+			},
 			"boundElements": [],
-			"updated": 1715148320689,
+			"updated": 1715148365913,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 443,
-			"versionNonce": 2052707744,
+			"version": 557,
+			"versionNonce": 1350864288,
 			"isDeleted": false,
 			"id": "5jiLdhBC",
 			"fillStyle": "hachure",
@@ -1701,10 +1705,10 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 299.0326587842859,
-			"y": 107.36489470108705,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"x": 317.7588816103729,
+			"y": 110.22155230978268,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#fd7e14",
 			"width": 40,
 			"height": 25,
 			"seed": 557186144,
@@ -1712,9 +1716,11 @@ tags: [excalidraw]
 				"AHwxMYLTur3ZZ2xJdgOtA"
 			],
 			"frameId": null,
-			"roundness": null,
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
-			"updated": 1715148320689,
+			"updated": 1715148365914,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1727,13 +1733,85 @@ tags: [excalidraw]
 			"originalText": "儲存",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"type": "rectangle",
+			"version": 677,
+			"versionNonce": 431311264,
+			"isDeleted": false,
+			"id": "uyTRO_Oe0Z_HmCrMhoKri",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 260.18206521739125,
+			"y": 104.87100883152175,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#fd7e14",
+			"width": 47.574728260869506,
+			"height": 36,
+			"seed": 1809320352,
+			"groupIds": [
+				"gPUPIYjEqiVmQbbXbgSvl"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1715148375732,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 621,
+			"versionNonce": 610704480,
+			"isDeleted": false,
+			"id": "0DU8Cmtx",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 263.5095609581989,
+			"y": 110.3845957880435,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#fd7e14",
+			"width": 40,
+			"height": 25,
+			"seed": 1936053664,
+			"groupIds": [
+				"gPUPIYjEqiVmQbbXbgSvl"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715148385997,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "取消",
+			"rawText": "取消",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": null,
+			"originalText": "取消",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemStrokeColor": "#ffffff",
+		"currentItemBackgroundColor": "#fd7e14",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
@@ -1749,7 +1827,7 @@ tags: [excalidraw]
 		"zoom": {
 			"value": 1.1500000000000001
 		},
-		"currentItemRoundness": "sharp",
+		"currentItemRoundness": "round",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
