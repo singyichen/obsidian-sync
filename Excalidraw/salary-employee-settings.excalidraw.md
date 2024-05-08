@@ -84,7 +84,7 @@ tags: [excalidraw]
 
 類型 ^b4WuRjsi
 
-銀行 ^FaVXtJYW
+參加勞保 ^FaVXtJYW
 
 批次編輯勞工保險 ^FnvxP30F
 
@@ -3251,8 +3251,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 904,
-			"versionNonce": 2006566304,
+			"version": 905,
+			"versionNonce": 1980192864,
 			"isDeleted": false,
 			"id": "FaVXtJYW",
 			"fillStyle": "solid",
@@ -3261,28 +3261,28 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 132.7425547370778,
+			"x": 112.7425547370778,
 			"y": 833.8749920166949,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 40,
+			"width": 80,
 			"height": 23,
 			"seed": 670749792,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715150123997,
+			"updated": 1715150375082,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "銀行",
-			"rawText": "銀行",
+			"text": "參加勞保",
+			"rawText": "參加勞保",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "銀行",
+			"originalText": "參加勞保",
 			"lineHeight": 1.15,
 			"baseline": 19
 		},
@@ -3473,8 +3473,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 490,
-			"versionNonce": 1262562720,
+			"version": 527,
+			"versionNonce": 822629472,
 			"isDeleted": false,
 			"id": "ngDloMoDolom4QecNu6ST",
 			"fillStyle": "solid",
@@ -3483,8 +3483,8 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 93.94128374803881,
-			"y": 870.1123220451807,
+			"x": 329.7446563845699,
+			"y": 978.6345734095532,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 115.00299537433796,
@@ -3499,14 +3499,14 @@ tags: [excalidraw]
 					"id": "LBDIZ196"
 				}
 			],
-			"updated": 1715150261710,
+			"updated": 1715150377925,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 319,
-			"versionNonce": 1376418208,
+			"version": 356,
+			"versionNonce": 700368992,
 			"isDeleted": false,
 			"id": "LBDIZ196",
 			"fillStyle": "solid",
@@ -3515,8 +3515,8 @@ tags: [excalidraw]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 134.7582111227078,
-			"y": 877.078603125062,
+			"x": 370.5615837592389,
+			"y": 985.6008544894346,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 33.369140625,
@@ -3526,7 +3526,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715150261710,
+			"updated": 1715150377925,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3766,6 +3766,101 @@ tags: [excalidraw]
 					0
 				]
 			]
+		},
+		{
+			"type": "line",
+			"version": 551,
+			"versionNonce": 516793760,
+			"isDeleted": false,
+			"id": "j5oFUME5gGMMU4oGLs1H_",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 135.15683633946867,
+			"y": 874.7870962800346,
+			"strokeColor": "#000000",
+			"backgroundColor": "#12b886",
+			"width": 54.72893878796441,
+			"height": 30,
+			"seed": 195029408,
+			"groupIds": [
+				"MBYgM2K4VXh4FZ0EpwHwh"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715150389010,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					36.94203368187598,
+					1
+				],
+				[
+					44.604085112190994,
+					16.5
+				],
+				[
+					37.76296776369543,
+					29
+				],
+				[
+					-2.7364469393982276,
+					30
+				],
+				[
+					-10.124853675773416,
+					6
+				],
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "ellipse",
+			"version": 153,
+			"versionNonce": 1833431456,
+			"isDeleted": false,
+			"id": "HsaRxNljEkFtYUwyGO3Q1",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 149.19127054583112,
+			"y": 873.2870962800346,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fff",
+			"width": 32.5,
+			"height": 32.5,
+			"seed": 254916000,
+			"groupIds": [
+				"MBYgM2K4VXh4FZ0EpwHwh"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715150389010,
+			"link": null,
+			"locked": false
 		},
 		{
 			"type": "text",
@@ -4338,8 +4433,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 406.32426665671414,
-		"scrollY": -396.1340696189824,
+		"scrollX": 245.6141949148029,
+		"scrollY": -438.4261937615905,
 		"zoom": {
 			"value": 0.9458025769791253
 		},
