@@ -8,8 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-Button ^f9P43C0Y
-
 %%
 # Drawing
 ```json
@@ -20,9 +18,9 @@ Button ^f9P43C0Y
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 672,
-			"versionNonce": 1209121888,
-			"isDeleted": false,
+			"version": 717,
+			"versionNonce": 729662560,
+			"isDeleted": true,
 			"id": "d-Clq7GCnakuTGPxDyPLh",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -30,8 +28,8 @@ Button ^f9P43C0Y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -258.6796875,
-			"y": -148.20703125,
+			"x": -186.015625,
+			"y": -141.80078125,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fff",
 			"width": 112,
@@ -43,15 +41,15 @@ Button ^f9P43C0Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715147354107,
+			"updated": 1715147471944,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 604,
-			"versionNonce": 1801138272,
-			"isDeleted": false,
+			"version": 649,
+			"versionNonce": 662122912,
+			"isDeleted": true,
 			"id": "f9P43C0Y",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -59,8 +57,8 @@ Button ^f9P43C0Y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -247.1796875,
-			"y": -142.70703125,
+			"x": -174.515625,
+			"y": -136.30078125,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 57.822265625,
@@ -72,7 +70,7 @@ Button ^f9P43C0Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715147354107,
+			"updated": 1715147471945,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -88,9 +86,9 @@ Button ^f9P43C0Y
 		},
 		{
 			"type": "line",
-			"version": 434,
-			"versionNonce": 1297491040,
-			"isDeleted": false,
+			"version": 479,
+			"versionNonce": 335951968,
+			"isDeleted": true,
 			"id": "sHXgKY54L0uQ0Ee8EErYL",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -98,8 +96,8 @@ Button ^f9P43C0Y
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -170.17968749999977,
-			"y": -134.71362769072067,
+			"x": -97.51562499999977,
+			"y": -128.30737769072067,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000",
 			"width": 11,
@@ -112,7 +110,7 @@ Button ^f9P43C0Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715147354107,
+			"updated": 1715147471945,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
