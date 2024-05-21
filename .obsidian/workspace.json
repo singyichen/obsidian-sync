@@ -33,7 +33,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/salary-employee-settings.excalidraw.md"
+                "file": "Excalidraw/temporary.md"
               }
             }
           }
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 328.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/salary-employee-settings.excalidraw.md",
+                "file": "Excalidraw/temporary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/salary-employee-settings.excalidraw.md",
+                "file": "Excalidraw/temporary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/salary-employee-settings.excalidraw.md"
+                "file": "Excalidraw/temporary.md"
               }
             }
           },
@@ -231,23 +231,23 @@
   },
   "active": "188627fed13eaf06",
   "lastOpenFiles": [
-    "Excalidraw/rank-and-effect-of-law.md",
-    "Excalidraw/salary-employee-settings.excalidraw.md",
-    "Excalidraw/history-of-the-labor-standards-act.md",
+    "Excalidraw/symmetricds-usage-user-case.md",
+    "Excalidraw/announcements-flow.md",
+    "Excalidraw/backend-logo.md",
     "Excalidraw/EmolumentTasks.excalidraw.md",
+    "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/jwt.md",
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/node-web-framework.md",
     "Excalidraw/paas-comparsion.md",
-    "Excalidraw/PARA.md",
+    "Excalidraw/rank-and-effect-of-law.md",
+    "Excalidraw/salary-employee-settings.excalidraw.md",
     "Excalidraw/severance-pay.md",
+    "Excalidraw/PARA.md",
     "Excalidraw/shift-work-flow.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/temporary.md",
     "04.Archives/lottery-system/dev-tech.md",
     "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md",
-    "Excalidraw/announcements-flow.md",
-    "Excalidraw/backend-logo.md",
     "software.md",
     "skill-tree.md",
     "Images/Pasted Image 20240314090706_466.png",
