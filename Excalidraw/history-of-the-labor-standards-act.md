@@ -128,8 +128,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 291,
-			"versionNonce": 1153841864,
+			"version": 292,
+			"versionNonce": 517099208,
 			"isDeleted": false,
 			"id": "ck81pK9J",
 			"fillStyle": "solid",
@@ -151,7 +151,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709261818050,
+			"updated": 1716977809889,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -163,7 +163,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "18.12.30",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -211,8 +211,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 402,
-			"versionNonce": 1648124104,
+			"version": 403,
+			"versionNonce": 693428664,
 			"isDeleted": false,
 			"id": "wG5QN9uZ",
 			"fillStyle": "solid",
@@ -234,7 +234,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709261842429,
+			"updated": 1716977809889,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -246,7 +246,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "20.08.01",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -294,8 +294,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 584,
-			"versionNonce": 2087666376,
+			"version": 585,
+			"versionNonce": 1814902216,
 			"isDeleted": false,
 			"id": "fU4DfUsE",
 			"fillStyle": "solid",
@@ -317,7 +317,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709261981449,
+			"updated": 1716977809889,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -329,7 +329,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "73.07.30",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -377,8 +377,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 651,
-			"versionNonce": 178010568,
+			"version": 652,
+			"versionNonce": 549448376,
 			"isDeleted": false,
 			"id": "SXkoLlVV",
 			"fillStyle": "solid",
@@ -400,7 +400,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709261920978,
+			"updated": 1716977809889,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -412,12 +412,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "107.11.21",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 445,
-			"versionNonce": 2078876600,
+			"version": 446,
+			"versionNonce": 999505096,
 			"isDeleted": false,
 			"id": "Ir3KFo2Z",
 			"fillStyle": "solid",
@@ -439,7 +439,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709262019379,
+			"updated": 1716977809890,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -451,12 +451,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "工廠法\n  制定",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 516,
-			"versionNonce": 786862008,
+			"version": 517,
+			"versionNonce": 1742853048,
 			"isDeleted": false,
 			"id": "15VFYbdt",
 			"fillStyle": "solid",
@@ -478,7 +478,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709262029725,
+			"updated": 1716977809891,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -490,12 +490,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "工廠法\n  實施",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 613,
-			"versionNonce": 654186696,
+			"version": 614,
+			"versionNonce": 1587569608,
 			"isDeleted": false,
 			"id": "S2hTJY5k",
 			"fillStyle": "solid",
@@ -517,7 +517,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709262042972,
+			"updated": 1716977809891,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -529,12 +529,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "工廠法\n  廢止",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 757,
-			"versionNonce": 1241044424,
+			"version": 758,
+			"versionNonce": 618568888,
 			"isDeleted": false,
 			"id": "T3HvEaah",
 			"fillStyle": "solid",
@@ -556,7 +556,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709262076394,
+			"updated": 1716977809892,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -568,7 +568,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "  勞基法\n公佈實施",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 41
 		},
 		{
 			"type": "rectangle",
@@ -663,10 +663,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 457.12423915940974,
-		"scrollY": 578.0200765441128,
+		"scrollX": 456.52615303500784,
+		"scrollY": 582.0629953527778,
 		"zoom": {
-			"value": 0.9500000000000001
+			"value": 1.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
