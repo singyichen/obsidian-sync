@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/announcements-flow.md",
+                "file": "01.Projects/trendlink/backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/announcements-flow.md",
+                "file": "01.Projects/trendlink/backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/announcements-flow.md"
+                "file": "01.Projects/trendlink/backend.md"
               }
             }
           },
@@ -231,14 +231,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "188627fed13eaf06",
   "lastOpenFiles": [
+    "Excalidraw/announcements-flow.md",
+    "Excalidraw/EmolumentTasks.excalidraw.md",
+    "Excalidraw/backend-logo.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "Excalidraw/temporary.md",
     "Excalidraw/symmetricds-usage-user-case.md",
-    "Excalidraw/announcements-flow.md",
-    "Excalidraw/backend-logo.md",
-    "Excalidraw/EmolumentTasks.excalidraw.md",
     "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/jwt.md",
     "Excalidraw/lottery-system-tech.md",
