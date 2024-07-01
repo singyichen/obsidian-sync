@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4efddc5b665c35f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,7 +241,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "188627fed13eaf06",
+  "active": "4efddc5b665c35f3",
   "lastOpenFiles": [
     "Excalidraw/announcements-flow.md",
     "Excalidraw/EmolumentTasks.excalidraw.md",
