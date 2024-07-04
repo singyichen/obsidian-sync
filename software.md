@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-03-20T12:02
+updated: 2024-07-04T10:00
 title: software
 description: 
 author: mandy
@@ -75,6 +75,7 @@ eslint --init
 
 ### Phind
 
+### CodeGPT: Chat & AI Agents
 # Tools
 ## Lightshot
 
