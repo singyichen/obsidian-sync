@@ -50,29 +50,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b63ec4074161750c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "98fc49619358d12b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,7 +243,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "98fc49619358d12b",
+  "active": "4efddc5b665c35f3",
   "lastOpenFiles": [
     "Xmind/特休結算.xmind",
     "Xmind/中心主題.xmind",
