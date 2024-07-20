@@ -60,9 +60,19 @@
                 "currentVersion": "1.6.7"
               }
             }
+          },
+          {
+            "id": "98fc49619358d12b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,7 +263,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b63ec4074161750c",
+  "active": "98fc49619358d12b",
   "lastOpenFiles": [
     "Xmind/特休結算.xmind",
     "Xmind/中心主題.xmind",
