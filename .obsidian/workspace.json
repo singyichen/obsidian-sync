@@ -16,8 +16,53 @@
                 "file": "Excalidraw/announcements-flow.md"
               }
             }
+          },
+          {
+            "id": "1b8f0af55bb8bb4c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/history-of-the-labor-standards-act.md"
+              }
+            }
+          },
+          {
+            "id": "188627fed13eaf06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Projects/trendlink/backend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4efddc5b665c35f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Projects/trendlink/backend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b63ec4074161750c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -67,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 317.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -83,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/announcements-flow.md",
+                "file": "01.Projects/trendlink/backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/announcements-flow.md",
+                "file": "01.Projects/trendlink/backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/announcements-flow.md"
+                "file": "01.Projects/trendlink/backend.md"
               }
             }
           },
@@ -184,12 +229,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,19 +253,30 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4620b3fcb09287f9",
+  "active": "b63ec4074161750c",
   "lastOpenFiles": [
-    "Excalidraw/shift-work-flow.md",
-    "Excalidraw/announcements-flow.md",
-    "Excalidraw/severance-pay.md",
-    "Excalidraw/rank-and-effect-of-law.md",
-    "Excalidraw/backend-logo.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
+    "Xmind/特休結算.xmind",
+    "Xmind/中心主題.xmind",
     "software.md",
-    "skill-tree.md",
+    "Excalidraw/announcements-flow.md",
+    "Excalidraw/EmolumentTasks.excalidraw.md",
+    "Excalidraw/backend-logo.md",
+    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "Excalidraw/temporary.md",
+    "Excalidraw/symmetricds-usage-user-case.md",
     "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/jwt.md",
+    "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/paas-comparsion.md",
+    "Excalidraw/rank-and-effect-of-law.md",
+    "Excalidraw/salary-employee-settings.excalidraw.md",
+    "Excalidraw/severance-pay.md",
+    "Excalidraw/PARA.md",
+    "Excalidraw/shift-work-flow.md",
+    "04.Archives/lottery-system/dev-tech.md",
+    "Excalidraw/Drawing 2024-04-30 10.23.46.excalidraw.md",
+    "skill-tree.md",
     "Images/Pasted Image 20240314090706_466.png",
     "Images/Pasted Image 20240314090603_903.png",
     "Images/Pasted Image 20240314090456_683.png",
@@ -232,31 +287,20 @@
     "Images/Pasted Image 20240313144115_232.png",
     "software-testing.canvas",
     "Untitled.canvas",
-    "Excalidraw/PARA.md",
-    "Excalidraw/paas-comparsion.md",
-    "Excalidraw/node-web-framework.md",
-    "Excalidraw/lottery-system-tech.md",
-    "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "01.Projects/trendlink/backend.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
     "01.Projects/core-product/core-product.md",
-    "README.md",
     "Xmind/一鍵發薪.xmind",
     "Xmind",
-    "02.Areas/DataIntegration/SymmetricDS/SymmetricDS.md",
-    "Templates/blog-post-template.md",
     "01.Projects/trendlink",
-    "03.Resources/KM/PARA.md",
     "01.Projects/core-product",
-    "Untitled.md",
     "01.Projects/勞務法務",
     "01.Projects",
     "03.Resources/Law/Labor-Standards-Act",
     "03.Resources/Law",
     "03.Resources/Career",
-    "01.Projects",
     "images/playwright-logo.svg",
     "Images/zeabur-logo.png",
     "未命名.canvas",
