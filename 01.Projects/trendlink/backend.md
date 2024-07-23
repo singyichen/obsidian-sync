@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-23T10:03
+updated: 2024-07-23T10:06
 title: backend
 description: 
 author: mandy
@@ -17,11 +17,6 @@ template-should-replace: sometimes
 template-should-create: open-pane
 published: false
 ---
-# 🚀 backend
-
-- [ ] []()
-- [ ] []()
-
 # 🚀 backend
 
 - [ ] []()
