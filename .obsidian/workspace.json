@@ -55,9 +55,11 @@
             "id": "b63ec4074161750c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "01.Projects/trendlink/backend.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
