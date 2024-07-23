@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "簡單",
-    "flashcardGoodText": "記得",
-    "flashcardHardText": "較難",
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
     "flashcardTags": [
       "#flashcards"
     ],
@@ -40,11 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-<<<<<<< HEAD
   "buryDate": "2024-07-23",
-=======
-  "buryDate": "2024-07-21",
->>>>>>> origin/main
   "buryList": [],
   "historyDeck": null
 }
