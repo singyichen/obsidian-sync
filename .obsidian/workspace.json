@@ -69,7 +69,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/severance-pay.md"
+                "file": "Excalidraw/announcements-flow.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/severance-pay.md",
+                "file": "Excalidraw/announcements-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/severance-pay.md",
+                "file": "Excalidraw/announcements-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/severance-pay.md"
+                "file": "Excalidraw/announcements-flow.md"
               }
             }
           },
@@ -267,6 +267,10 @@
   },
   "active": "ab3f6c57aaf80b6a",
   "lastOpenFiles": [
+    "Excalidraw/temporary.md",
+    "Excalidraw/symmetricds-usage-user-case.md",
+    "Excalidraw/shift-work-flow.md",
+    "Excalidraw/severance-pay.md",
     "Excalidraw/salary-employee-settings.excalidraw.md",
     "Excalidraw/rank-and-effect-of-law.md",
     "Excalidraw/paas-comparsion.md",
@@ -299,11 +303,7 @@
     "Xmind/特休結算.xmind",
     "Xmind/中心主題.xmind",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
-    "Excalidraw/temporary.md",
-    "Excalidraw/symmetricds-usage-user-case.md",
-    "Excalidraw/severance-pay.md",
     "Excalidraw/PARA.md",
-    "Excalidraw/shift-work-flow.md",
     "04.Archives/lottery-system/dev-tech.md",
     "Untitled.canvas",
     "Xmind/一鍵發薪.xmind",
