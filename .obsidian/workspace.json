@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab3f6c57aaf80b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/backend.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -255,8 +267,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b63ec4074161750c",
+  "active": "ab3f6c57aaf80b6a",
   "lastOpenFiles": [
+    "01.Projects/trendlink/backend.md",
+    "conflict-files-obsidian-git.md",
     "Xmind/特休結算.xmind",
     "Xmind/中心主題.xmind",
     "software.md",
@@ -289,7 +303,6 @@
     "Images/Pasted Image 20240313144115_232.png",
     "software-testing.canvas",
     "Untitled.canvas",
-    "01.Projects/trendlink/backend.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Usage.md",
     "02.Areas/DataIntegration/SymmetricDS/SymmetricDS-Install.md",
     "01.Projects/勞務法務/勞動法務輔導專案.md",
@@ -302,7 +315,6 @@
     "01.Projects",
     "03.Resources/Law/Labor-Standards-Act",
     "03.Resources/Law",
-    "03.Resources/Career",
     "images/playwright-logo.svg",
     "Images/zeabur-logo.png",
     "未命名.canvas",
