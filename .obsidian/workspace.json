@@ -67,11 +67,9 @@
             "id": "ab3f6c57aaf80b6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01.Projects/trendlink/峰值體驗.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/severance-pay.md"
               }
             }
           }
@@ -142,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/峰值體驗.md",
+                "file": "Excalidraw/severance-pay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/峰值體驗.md",
+                "file": "Excalidraw/severance-pay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/峰值體驗.md"
+                "file": "Excalidraw/severance-pay.md"
               }
             }
           },
@@ -269,6 +267,17 @@
   },
   "active": "ab3f6c57aaf80b6a",
   "lastOpenFiles": [
+    "Excalidraw/salary-employee-settings.excalidraw.md",
+    "Excalidraw/rank-and-effect-of-law.md",
+    "Excalidraw/paas-comparsion.md",
+    "Excalidraw/node-web-framework.md",
+    "Excalidraw/lottery-system-tech.md",
+    "Excalidraw/history-of-the-labor-standards-act.md",
+    "Excalidraw/jwt.md",
+    "Excalidraw/EmolumentTasks.excalidraw.md",
+    "Excalidraw/backend-logo.md",
+    "Excalidraw/announcements-flow.md",
+    "01.Projects/trendlink/峰值體驗.md",
     "Images/Pasted Image 20240313144115_232.png",
     "Images/google-cloud-run-logo.png",
     "Images/Pasted Image 20240314090706_466.png",
@@ -279,8 +288,6 @@
     "Images/Pasted Image 20240313145342_274.png",
     "Images/Pasted Image 20240313144302_261.png",
     "Images/sonarqube-logo.png",
-    "Images/symmetricds-usage-user-case.png",
-    "01.Projects/trendlink/峰值體驗.md",
     "01.Projects/trendlink/backend.md",
     "Untitled.md",
     "01.Projects/trendlink/Untitled Kanban.md",
@@ -291,19 +298,9 @@
     "conflict-files-obsidian-git.md",
     "Xmind/特休結算.xmind",
     "Xmind/中心主題.xmind",
-    "Excalidraw/announcements-flow.md",
-    "Excalidraw/EmolumentTasks.excalidraw.md",
-    "Excalidraw/backend-logo.md",
     "03.Resources/Law/Labor-Standards-Act/labor-standards-act.md",
     "Excalidraw/temporary.md",
     "Excalidraw/symmetricds-usage-user-case.md",
-    "Excalidraw/history-of-the-labor-standards-act.md",
-    "Excalidraw/jwt.md",
-    "Excalidraw/lottery-system-tech.md",
-    "Excalidraw/node-web-framework.md",
-    "Excalidraw/paas-comparsion.md",
-    "Excalidraw/rank-and-effect-of-law.md",
-    "Excalidraw/salary-employee-settings.excalidraw.md",
     "Excalidraw/severance-pay.md",
     "Excalidraw/PARA.md",
     "Excalidraw/shift-work-flow.md",
