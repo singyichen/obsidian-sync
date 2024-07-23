@@ -77,9 +77,11 @@
             "id": "8df2d5a862778cd6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/峰值體驗.md"
+                "file": "01.Projects/trendlink/峰值體驗.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -150,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/峰值體驗.md",
+                "file": "01.Projects/trendlink/峰值體驗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/峰值體驗.md",
+                "file": "01.Projects/trendlink/峰值體驗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/峰值體驗.md"
+                "file": "01.Projects/trendlink/峰值體驗.md"
               }
             }
           },
@@ -275,10 +277,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "8df2d5a862778cd6",
   "lastOpenFiles": [
-    "Excalidraw/announcements-flow.md",
     "Excalidraw/峰值體驗.md",
+    "Excalidraw/announcements-flow.md",
     "Excalidraw/backend-logo.md",
     "Excalidraw/temporary.md",
     "Excalidraw/symmetricds-usage-user-case.md",
