@@ -36,10 +36,9 @@ cd .ssh
 ```
 - 取得公鑰 `.pub` ，並於 GCP 的每個專案 `Compute Engine` 的 `安全殼層金鑰` 進行設定
 
-
 | 環境  |    dev    |     pg     |   prod    |        officialsite        |
 | :-: | :-------: | :--------: | :-------: | :------------------------: |
 | 專案  | trendlink | trendlink  | trendlink |   trendlinkOfficialSite    |
 | VM  |    dev    | playground |    pro    | officialsite-prod-instance |
 |     |           |            |           |                            |
-
+- 
