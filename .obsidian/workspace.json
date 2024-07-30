@@ -87,9 +87,11 @@
             "id": "78a2d36f9eaa25ca",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/one-key-pay.excalidraw.md"
+                "file": "software.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -160,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/one-key-pay.excalidraw.md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/one-key-pay.excalidraw.md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/one-key-pay.excalidraw.md"
+                "file": "software.md"
               }
             }
           },
@@ -285,10 +287,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "87a52acfc32ff3a3",
+  "active": "78a2d36f9eaa25ca",
   "lastOpenFiles": [
-    "Excalidraw/announcements-flow.md",
     "Excalidraw/one-key-pay.excalidraw.md",
+    "Excalidraw/announcements-flow.md",
     "Excalidraw/backend-logo.md",
     "Excalidraw/severance-pay.md",
     "Excalidraw/shift-work-flow.md",

@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-04T10:00
+updated: 2024-07-30T09:54
 title: software
 description: 
 author: mandy
@@ -90,6 +90,7 @@ eslint --init
 ## Discord
 
 ## SumatraPDF
+## Ｗarp
 
 # DB
 ## dbeaver
