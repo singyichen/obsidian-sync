@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:12
+updated: 2024-07-30T16:13
 title: devops
 description: 
 author: mandy
@@ -29,4 +29,7 @@ published: false
 ```bash
 ssh-keygen
 ```
--
+- 存放 key 的路徑
+```bash
+cd .ssh
+```
