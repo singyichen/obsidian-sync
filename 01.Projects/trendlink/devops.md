@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:27
+updated: 2024-07-30T16:28
 title: devops
 description: 
 author: mandy
@@ -37,6 +37,6 @@ cd .ssh
 - 取得公鑰 `.pub` ，並於 GCP 的每個專案 `Compute Engine` 的 `安全殼層金鑰` 進行設定
 | 環境 | dev | pg | prod  | officialsite |
 |:---:|:---:|:---:|:---:|:---:|
-|  專案 |  |  |  |  |
+|  專案 | trendlink | trendlink | trendlink |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
