@@ -87,9 +87,11 @@
             "id": "78a2d36f9eaa25ca",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/trendlink-project-structure.excalidraw.md"
+                "file": "01.Projects/trendlink/峰值體驗.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -160,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/trendlink-project-structure.excalidraw.md",
+                "file": "01.Projects/trendlink/峰值體驗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/trendlink-project-structure.excalidraw.md",
+                "file": "01.Projects/trendlink/峰值體驗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/trendlink-project-structure.excalidraw.md"
+                "file": "01.Projects/trendlink/峰值體驗.md"
               }
             }
           },
@@ -287,12 +289,14 @@
   },
   "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
+    "Untitled.md",
     "01.Projects/trendlink/backend.md",
+    "01.Projects/trendlink/峰值體驗.md",
+    "Excalidraw/announcements-flow.md",
     "Excalidraw/trendlink-project-structure.excalidraw.md",
     "Excalidraw/PARA.md",
     "Excalidraw/EmolumentTasks.excalidraw.md",
     "software.md",
-    "Excalidraw/announcements-flow.md",
     "Excalidraw/backend-logo.md",
     "Excalidraw/severance-pay.md",
     "Excalidraw/shift-work-flow.md",
@@ -303,7 +307,6 @@
     "Excalidraw/lottery-system-tech.md",
     "Excalidraw/jwt.md",
     "Excalidraw/history-of-the-labor-standards-act.md",
-    "01.Projects/trendlink/峰值體驗.md",
     "Excalidraw/峰值體驗.md",
     "Excalidraw/temporary.md",
     "Excalidraw/symmetricds-usage-user-case.md",
@@ -317,7 +320,6 @@
     "Images/Pasted Image 20240313145342_274.png",
     "Images/Pasted Image 20240313144302_261.png",
     "Images/sonarqube-logo.png",
-    "Untitled.md",
     "01.Projects/trendlink/Untitled Kanban.md",
     "03.Resources/Career/on-board.md",
     "skill-tree.md",
