@@ -6,7 +6,8 @@ description:
 author: mandy
 aliases: 
 category: software development
-tags: 
+tags:
+  - devops
 AutoNoteMover: disable
 disabled rules:
   - all
@@ -22,3 +23,4 @@ published: false
 - [ ] []()
 - [ ] []()
 
+## 
