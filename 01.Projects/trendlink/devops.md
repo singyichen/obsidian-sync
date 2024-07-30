@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:09
+updated: 2024-07-30T16:12
 title: devops
 description: 
 author: mandy
@@ -25,4 +25,8 @@ published: false
 
 ## 設定 ssh 連線各專案
 
-- 
+- 產生 ssh Key 並且透過 Key 進行免密碼登入
+```bash
+ssh-keygen
+```
+-
