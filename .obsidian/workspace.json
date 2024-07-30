@@ -87,11 +87,9 @@
             "id": "78a2d36f9eaa25ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/trendlink-project-structure.excalidraw.md"
               }
             }
           }
@@ -146,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 323.5
   },
   "right": {
     "id": "363fbb2c4ff063c9",
@@ -162,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "Excalidraw/trendlink-project-structure.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "Excalidraw/trendlink-project-structure.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/backend.md"
+                "file": "Excalidraw/trendlink-project-structure.excalidraw.md"
               }
             }
           },
@@ -287,11 +285,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "78a2d36f9eaa25ca",
+  "active": "87a52acfc32ff3a3",
   "lastOpenFiles": [
-    "Excalidraw/project-structure.excalidraw.md",
-    "Excalidraw/PARA.md",
     "01.Projects/trendlink/backend.md",
+    "Excalidraw/trendlink-project-structure.excalidraw.md",
+    "Excalidraw/PARA.md",
     "Excalidraw/EmolumentTasks.excalidraw.md",
     "software.md",
     "Excalidraw/announcements-flow.md",
