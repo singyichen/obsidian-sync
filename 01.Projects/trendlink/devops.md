@@ -25,7 +25,7 @@ published: false
 
 ## 設定 ssh 連線各專案
 
-- 使用產生 ssh Key 並且透過 Key 進行免密碼登入
+- 使用 `ssh-keygen`  產生 ssh Key 並且透過 Key 進行免密碼登入
 ```bash
 ssh-keygen
 ```
