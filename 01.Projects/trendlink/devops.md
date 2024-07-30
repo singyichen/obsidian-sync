@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:14
+updated: 2024-07-30T16:16
 title: devops
 description: 
 author: mandy
@@ -33,4 +33,4 @@ ssh-keygen
 ```bash
 cd .ssh
 ```
-- 將公鑰 ``
+- 取得公鑰 `.pub` ，並於 GCP 的
