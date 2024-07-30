@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:25
+updated: 2024-07-30T16:26
 title: devops
 description: 
 author: mandy
@@ -34,9 +34,9 @@ ssh-keygen
 ```bash
 cd .ssh
 ```
-- 取得公鑰 `.pub` ，並於 GCP 的每個專案 `安全殼層金鑰` 進行設定
-| dev | pg | prod  | officialsite |
-|:---|:---|:---|:---|
+- 取得公鑰 `.pub` ，並於 GCP 的每個專案 `Compute Engine` 的 `安全殼層金鑰` 進行設定
+| dev | dev | pg | prod  | officialsite |
+|:---|:---|:---|:---|:---|
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
