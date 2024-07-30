@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:07
+updated: 2024-07-30T16:09
 title: devops
 description: 
 author: mandy
@@ -23,4 +23,4 @@ published: false
 - [ ] []()
 - [ ] []()
 
-## 
+## 設定 ssh 連線各專案
