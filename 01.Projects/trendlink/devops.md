@@ -1,11 +1,11 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:06
-title: Untitled
+updated: 2024-07-30T16:07
+title: devops
 description: 
 author: mandy
 aliases: 
-category: 
+category: software development
 tags: 
 AutoNoteMover: disable
 disabled rules:
@@ -17,7 +17,7 @@ template-should-replace: sometimes
 template-should-create: open-pane
 published: false
 ---
-# 🚀 de
+# 🚀 devops
 
 - [ ] []()
 - [ ] []()
