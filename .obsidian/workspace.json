@@ -77,11 +77,9 @@
             "id": "8df2d5a862778cd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01.Projects/trendlink/峰值體驗.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/announcements-flow.md"
               }
             }
           }
@@ -152,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/峰值體驗.md",
+                "file": "Excalidraw/announcements-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/峰值體驗.md",
+                "file": "Excalidraw/announcements-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/峰值體驗.md"
+                "file": "Excalidraw/announcements-flow.md"
               }
             }
           },
@@ -279,6 +277,7 @@
   },
   "active": "8df2d5a862778cd6",
   "lastOpenFiles": [
+    "01.Projects/trendlink/峰值體驗.md",
     "Excalidraw/峰值體驗.md",
     "Excalidraw/announcements-flow.md",
     "Excalidraw/backend-logo.md",
@@ -294,7 +293,6 @@
     "Excalidraw/history-of-the-labor-standards-act.md",
     "Excalidraw/jwt.md",
     "Excalidraw/EmolumentTasks.excalidraw.md",
-    "01.Projects/trendlink/峰值體驗.md",
     "Images/Pasted Image 20240313144115_232.png",
     "Images/google-cloud-run-logo.png",
     "Images/Pasted Image 20240314090706_466.png",
