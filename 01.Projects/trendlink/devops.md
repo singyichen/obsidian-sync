@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:18
+updated: 2024-07-30T16:22
 title: devops
 description: 
 author: mandy
@@ -26,6 +26,7 @@ published: false
 ## 設定 ssh 連線各專案
 
 - 使用 `ssh-keygen`  產生 ssh Key 並且透過 Key 進行免密碼登入
+- 需設定個人的密碼
 ```bash
 ssh-keygen
 ```
@@ -33,4 +34,4 @@ ssh-keygen
 ```bash
 cd .ssh
 ```
-- 取得公鑰 `.pub` ，並於 GCP 的 `安全殼層金鑰` 進行設定
+- 取得公鑰 `.pub` ，並於 GCP 的每個專案 `安全殼層金鑰` 進行設定
