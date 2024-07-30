@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T16:41
+updated: 2024-07-30T16:46
 title: devops
 description: 
 author: mandy
@@ -42,3 +42,4 @@ cd .ssh
 | 專案  | trendlink | trendlink  | trendlink |   trendlinkOfficialSite    |
 | VM  |    dev    | playground |    pro    | officialsite-prod-instance |
 |     |           |            |           |                            |
+
