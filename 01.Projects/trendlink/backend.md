@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-23T10:06
+updated: 2024-07-30T13:37
 title: backend
 description: 
 author: mandy
@@ -80,8 +80,8 @@ published: false
 ├── tests                   # 測試資料夾
 ├── uploads                 # 用戶上傳文件的存儲資料夾
 │   .dockerignore
-│   .env
-│   .env.example
+│   .env                    # 環境變數檔
+│   .env.example            # 環境變數範例檔
 │   .gitignore
 │   .sequelizerc
 │   app.js                  # 使用 express 初始化的應用入口 
