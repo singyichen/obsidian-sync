@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-07-30T09:54
+updated: 2024-07-30T09:55
 title: software
 description: 
 author: mandy
@@ -91,6 +91,8 @@ eslint --init
 
 ## SumatraPDF
 ## Ｗarp
+
+## tableplus
 
 # DB
 ## dbeaver
