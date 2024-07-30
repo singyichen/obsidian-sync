@@ -33,6 +33,8 @@ Client ^wJ7CUIfu
 
 Https ^1QvYPCMc
 
+新架構 ^H85XlyJW
+
 %%
 # Drawing
 ```json
@@ -1074,6 +1076,43 @@ Https ^1QvYPCMc
 			]
 		},
 		{
+			"id": "H85XlyJW",
+			"type": "text",
+			"x": -320.59305438849447,
+			"y": -480.7030082663672,
+			"width": 60,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1585621940,
+			"version": 44,
+			"versionNonce": 537432244,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1722302824239,
+			"link": null,
+			"locked": false,
+			"text": "新架構",
+			"rawText": "新架構",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "新架構",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "pFlUWKbN",
 			"type": "text",
 			"x": -246.49734013272416,
@@ -1126,10 +1165,10 @@ Https ^1QvYPCMc
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 670.2619616182324,
-		"scrollY": 633.0000012337023,
+		"scrollX": 686.3017152155281,
+		"scrollY": 721.7496763918398,
 		"zoom": {
-			"value": 0.6052888490333111
+			"value": 0.6144427390421522
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
