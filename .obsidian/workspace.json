@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Projects/trendlink/devops.md",
+                "file": "01.Projects/trendlink/backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/devops.md",
+                "file": "01.Projects/trendlink/backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/devops.md",
+                "file": "01.Projects/trendlink/backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/devops.md"
+                "file": "01.Projects/trendlink/backend.md"
               }
             }
           },
@@ -289,6 +289,7 @@
   },
   "active": "78a2d36f9eaa25ca",
   "lastOpenFiles": [
+    "01.Projects/trendlink/devops.md",
     "02.Areas/Framework/backend/comparison.md",
     "Images/Pasted Image 20240313144115_232.png",
     "Images/google-cloud-run-logo.png",
@@ -299,7 +300,6 @@
     "Images/node-logo.png",
     "Images/sonarqube-logo.png",
     "Images/render-logo.png",
-    "01.Projects/trendlink/devops.md",
     "().md",
     "Excalidraw/jwt.md",
     "Images/edraw-max-logo.svg",
