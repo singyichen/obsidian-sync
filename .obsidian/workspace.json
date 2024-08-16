@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "01.Projects/trendlink/frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "01.Projects/trendlink/frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Projects/trendlink/backend.md",
+                "file": "01.Projects/trendlink/frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Projects/trendlink/backend.md"
+                "file": "01.Projects/trendlink/frontend.md"
               }
             }
           },
@@ -289,9 +289,10 @@
   },
   "active": "78a2d36f9eaa25ca",
   "lastOpenFiles": [
+    "01.Projects/trendlink/backend.md",
+    "01.Projects/trendlink/frontend.md",
     "01.Projects/trendlink/devops.md",
     "Untitled.md",
-    "01.Projects/trendlink/backend.md",
     "02.Areas/Framework/backend/comparison.md",
     "Images/Pasted Image 20240313144115_232.png",
     "Images/google-cloud-run-logo.png",
@@ -324,7 +325,6 @@
     "Excalidraw/temporary.md",
     "Excalidraw/symmetricds-usage-user-case.md",
     "01.Projects/trendlink/Untitled Kanban.md",
-    "03.Resources/Career/on-board.md",
     "software-testing.canvas",
     "Xmind/特休結算.xmind",
     "Xmind/中心主題.xmind",
