@@ -1,6 +1,6 @@
 ---
 created: 2024-02-05T14:13
-updated: 2024-08-16T12:11
+updated: 2024-08-16T13:32
 title: Untitled
 description: 
 author: mandy
@@ -29,9 +29,9 @@ published: false
 ├── node_modules              # 相依套件
 ├── packages
 │   ├── backstage             # 大後台
-│		│   └── .env.development  ## 大後台開發環境環境變數檔案，通常放置開發環境後端URL，結尾為 /api/back-stage
+│	│   └── .env.development  ## 大後台開發環境環境變數檔案，通常放置開發環境後端URL，結尾為 /api/back-stage
 │   ├── dayday-assess         # 日日考核
-│		│   └── .env.development  ## 日日考核開發環境環境變數檔案，通常放置開發環境後端 URL，結尾為 /api
+│	│   └── .env.development  ## 日日考核開發環境環境變數檔案，通常放置開發環境後端 URL，結尾為 /api
 │   ├── onekey-pay            # 一鍵發薪
 │		│   ├──dist               # 建置後的正式環境檔案
 │		│   ├──node_modules       # 相依套件
